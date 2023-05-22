@@ -1,0 +1,19 @@
+---
+title: Flussi di lavoro IT e approvazioni (6 giugno 2020)
+description: Ascolta Diane Kubarek e Heather Verschneider condividono la loro esperienza su come hanno implementato un processo di governance dei progetti IT alla Cornell University.
+role: User
+level: Beginner, Intermediate
+kt: 10000
+thumbnail: 341219.jpeg
+source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 0%
+
+---
+
+# Flussi di lavoro IT e approvazioni (6 giugno 2020)
+
+Ascolta Diane Kubarek e Heather Verschneider condividono la loro esperienza su come hanno implementato un processo di governance dei progetti IT alla Cornell University.
+
+>[!VIDEO](https://video.tv.adobe.com/v/341219/?quality=12&learn=on)
