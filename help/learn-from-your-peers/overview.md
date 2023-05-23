@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="Experience Makers: scopri di più dai tuoi colleghi" src="./assets/skill-exchange.png" /> --->
-
 Scopri dagli Adobi esperti e colleghi come ottenere il massimo dalle soluzioni Adobe. Con argomenti selezionati per i professionisti, _da_ professionisti, queste sessioni interattive condividono casi d’uso, best practice e suggerimenti utili.
 
 >[!TIP]
