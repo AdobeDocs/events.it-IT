@@ -1,9 +1,9 @@
 ---
 title: Panoramica di Skill Builder
 description: Serie di webinar registrati per creare una knowledge base e massimizzare l'investimento in Adobe Experience Cloud.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '162'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
     <p>
     <em>Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre, scopri come creare esperienze di e-commerce multicanale su un’unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull’intelligenza artificiale.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>
     </a>
   </td>
@@ -36,7 +36,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
     <p>
     <em>Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per creare percorsi personalizzati cross-channel.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>
     </a>
   </td>
@@ -48,7 +48,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
     <p>
     <em>Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando informazioni approfondite sui dati online e offline in tutta l’organizzazione.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>
     </a>
   </td>  

@@ -12,9 +12,9 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7341
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '195'
 ht-degree: 6%
 
 ---
@@ -32,7 +32,7 @@ Con Dynamic Media, l’output delle risorse viene automatizzato per tutti i cana
 *[Video su Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Guida introduttiva alla strategia per i contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guida ai predefiniti per le immagini della strategia Rich Media](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Immagine della serie Blog Everything](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Immagine della serie Blog Everything](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Registrazioni in serie
 

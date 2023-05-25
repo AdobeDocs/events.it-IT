@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 1%
 
 ---
@@ -23,5 +23,5 @@ Con tutto il rumore sul mercato dei CDP, è difficile sapere dove concentrarsi e
 ## Informazioni aggiuntive
 
 *[Best practice per persone e processi per la gestione dei dati dei clienti](people-and-process.md)
-*[Crea esperienze straordinarie con i dati di prime parti](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/build-superb-experiences-with-your-first-party-data.html)
+*[Crea esperienze straordinarie con i dati di prime parti](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
 *[Caso di studio: TSB punta sulla personalizzazione dei dati in tempo reale per ogni cliente.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
