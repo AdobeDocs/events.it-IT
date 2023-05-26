@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 51%
+source-wordcount: '165'
+ht-degree: 52%
 
 ---
 
@@ -23,16 +23,8 @@ Experience League LIVE è un evento in diretta prodotto dal team Experience Leag
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience League LIVE 24 maggio" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>Massimizzare il potenziale dell’app mobile con Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>con Sandra Hausmann, Chetan Prasad e Peter Fransen</em>
-      <br/><em>24 maggio 2023</em>
-    </div>
+  <td>
+    Per informazioni, tornare a breve. A giugno 2023 si terranno DUE spettacoli, e le informazioni saranno disponibili qui a breve.
   </td>
 </tr>
 </table>
