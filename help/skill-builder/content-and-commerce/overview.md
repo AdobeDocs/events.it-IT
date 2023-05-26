@@ -1,7 +1,8 @@
 ---
 title: Skill Builder - Contenuti ed e-commerce
 description: Serie di webinar registrati per creare una knowledge base e massimizzare l’investimento in soluzioni di contenuti e commercio Adobi
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -18,7 +19,7 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Fornire esperienze headless con Adobe Experience Manager" src="assets/343816.jpeg" />
+      <img alt="Fornire esperienze headless con Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
@@ -31,7 +32,7 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Sfruttare i metadati per la tua attività in Adobe Experience Manager Assets" src="assets/343815.jpeg" />
+      <img alt="Sfruttare i metadati per la tua attività in Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
@@ -44,7 +45,7 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="Ottenere il massimo dalla gestione dei flussi di lavoro aziendali" src="assets/343817.jpeg" />
+      <img alt="Ottenere il massimo dalla gestione dei flussi di lavoro aziendali" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">

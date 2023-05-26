@@ -1,7 +1,8 @@
 ---
 title: Eventi Workfront On-Demand
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 5b294be1-9ba6-4cd1-b74b-ea4e321dcaaf
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

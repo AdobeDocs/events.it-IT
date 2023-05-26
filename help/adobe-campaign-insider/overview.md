@@ -1,7 +1,8 @@
 ---
 title: Serie Adobe Campaign Insider
 description: Suggerimenti e trucchi per i clienti di Adobe Campaign al fine di contribuire a sviluppare strategie di marketing cross-channel, migliorare le competenze dei professionisti di marketing di team e aiutare le organizzazioni a lanciare strategie di marketing cross-channel più avanzate.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 26%

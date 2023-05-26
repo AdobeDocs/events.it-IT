@@ -1,7 +1,8 @@
 ---
 title: Serie di webinar su Commerce APAC
 description: La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze del settore.
-source-git-commit: fe18679ea0bdbb10d88e651b001737833ed1abff
+exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%

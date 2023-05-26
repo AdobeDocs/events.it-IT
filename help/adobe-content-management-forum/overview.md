@@ -1,7 +1,8 @@
 ---
 title: Forum sulla gestione dei contenuti Adobe
 description: Una raccolta di registrazioni di sessioni dal Forum per la gestione dei contenuti Adobe
-source-git-commit: cbe5f3ee2730859babdfe7f55196689be7ba7904
+exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%

@@ -5,7 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9912
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '3919'
 ht-degree: 1%
@@ -127,7 +128,7 @@ Quindi, dato tutto ciò che ho deciso di assegnare gli stati sia per Velocità a
 * 1.1 o inferiore ho chiamato Eccellente.
 * Da 1.2 a 1.5 ho chiamato Not Bad.
 * Da 1,6 a 1,9 ho chiamato Povero.
-* 2 o più ho chiamato Terribile.
+* 2 o più, ho chiamato Terribile.
 
 **domande**
 

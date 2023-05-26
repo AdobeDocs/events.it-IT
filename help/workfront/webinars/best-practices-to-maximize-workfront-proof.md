@@ -5,7 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -204,7 +205,7 @@ Una volta creata una bozza da un altro utente, qual è il modo migliore per aggi
 
 **Risposta**
 
-Se sei un utente di Workfront con l’autorizzazione Verifica dell’amministratore o del supervisore, puoi aggiungere te stesso o te stessa come revisore e approvatore a qualsiasi bozza a cui hai accesso. In caso contrario, è necessario che venga aggiunto il proprietario della bozza (o un altro utente con i diritti di modifica per la bozza).
+Se sei un utente di Workfront con l’autorizzazione Verifica dell’amministratore o del supervisore, puoi aggiungere te stesso o te stessa come revisore e approvatore a qualsiasi bozza a cui hai accesso. In caso contrario, sarà necessario chiedere l’aggiunta del proprietario della bozza (o di un altro utente con diritti di modifica sulla bozza).
 
 **domande**
 
