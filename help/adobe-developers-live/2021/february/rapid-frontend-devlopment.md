@@ -13,7 +13,7 @@ kt: 7177
 type: Event
 thumbnail: 331737.jpg
 exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Utilizza i modelli di sito per creare nuovi siti in pochi clic e ridare il tocco dello sviluppo front-end con la rapida distribuzione di risorse front-end come CSS e JS.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 

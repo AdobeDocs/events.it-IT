@@ -11,7 +11,7 @@ level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
 exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Con AEP Launch, distribuisci e gestisci rapidamente i tag marketing e pubblicitari lato client, scopri come personalizzare e scrivere estensioni.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 

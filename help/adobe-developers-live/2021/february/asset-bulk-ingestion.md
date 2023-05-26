@@ -13,7 +13,7 @@ kt: 7168
 type: Event
 thumbnail: 331769.jpg
 exl-id: ab5e14f0-e71d-407a-b0c3-cd51bd50a9ed
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Questa sessione introdurrà la nuova funzione di inserimento in blocco delle risorse in Cloud Service e la relativa scalabilità e prestazioni.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 

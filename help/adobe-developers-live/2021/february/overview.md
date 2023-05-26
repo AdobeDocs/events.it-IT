@@ -3,7 +3,7 @@ title: Adobe Developers Live febbraio 2021
 description: Una raccolta di video e tutorial per Adobe Experience Manager Sites distribuiti come parte dell’evento Contenuto Adobe Developers Live.
 sub-product: sites, content-services
 exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 10%
@@ -18,7 +18,7 @@ Dall’8 al 9 febbraio 2021, Adobe Developers Live: Content ha riunito sviluppat
 
 Questa conferenza di due giorni ha visto importanti aggiornamenti per gli sviluppatori di Adobe Experience Manager, come Headless e GraphQL, Adobe Experience Manager as a Cloud Service, sessioni tecniche e opportunità di networking per la community.
 
-Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 ## In evidenza
 

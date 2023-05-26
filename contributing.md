@@ -1,5 +1,5 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
@@ -30,7 +30,7 @@ un consenso sulla direzione del progetto e sulla risoluzione dei problemi all’
 ## Contratto di licenza da collaboratore
 
 Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un Contratto di licenza da collaboratore firmato. Ciò consente ad Adobe di ridistribuire i contributi
-come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). È sufficiente inviare un Contratto di licenza da collaboratore di Adobe una volta, quindi se ne hai inviato uno in precedenza non devi fare altre operazioni.
+come parte del progetto. [Firma il Contratto di licenza da collaboratore](https://opensource.adobe.com/cla.html). È sufficiente inviare un Contratto di licenza da collaboratore di Adobe una volta, quindi se ne hai inviato uno in precedenza non devi fare altre operazioni.
 
 ## Revisioni del codice
 

@@ -6,10 +6,10 @@ topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
 exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -31,7 +31,7 @@ Sandro Looser, architetto della soluzione, Adobe
 
 ## Collegamenti correlati {#related-links}
 
-[Integrazione con Adobe Dynamic Tag Management](http://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Integrazione con Adobe Dynamic Tag Management](https://helpx.adobe.com/it/experience-manager/6-0/sites/administering/using/dtm.html)
 
 [Guida di DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

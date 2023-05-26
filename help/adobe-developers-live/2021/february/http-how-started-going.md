@@ -9,7 +9,7 @@ kt: 7172
 type: Event
 thumbnail: 331738.jpg
 exl-id: 424175a9-0efb-4486-8028-1ab4e48bd0e9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 2%
@@ -20,6 +20,6 @@ ht-degree: 2%
 
 Intervista a Roy Fielding, co-autore del protocollo HTTP e inventore di REST, sull’evoluzione di HTTP dai primi giorni al lavoro corrente su QUIC e HTTP/3.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

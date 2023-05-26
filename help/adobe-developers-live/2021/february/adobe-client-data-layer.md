@@ -13,7 +13,7 @@ kt: 7162
 type: Event
 thumbnail: 331733.jpg
 exl-id: 8419f5e7-bbae-44e7-ab19-61e05c7a3b03
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Comprendere l’API basata su eventi di ACDL. Un esempio di Commerce mostrerà come i Componenti core lo idratano e l’estensione Launch si interfaccia con AA e AT.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 

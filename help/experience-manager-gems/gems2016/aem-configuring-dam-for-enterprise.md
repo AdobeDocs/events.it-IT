@@ -6,10 +6,10 @@ dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
@@ -35,6 +35,11 @@ I partecipanti saranno in grado di comprendere meglio come utilizzare DAM nei pr
 
 ## Collegamenti correlati {#related-links}
 
+>[!WARNING]
+>
+>Le versioni 6.4 e precedenti di AEM sono entrate nella fase &quot;fine del ciclo di vita&quot; e non sono più vendute da Adobe.  L’Adobe consiglia di eseguire l’aggiornamento alla versione più recente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it).  Le versioni archiviate della documentazione sono accessibili da questo [pagina](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
+>
+>Per informazioni sulla sessione, vedere *Note sulla versione dell’app desktop* nella documentazione AEM 6.2.
+
 * [Aggiornamenti alla documentazione di AEM Assets](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [Note sulla versione di AEM 6.1 SP2](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [Note sulla versione dell’app desktop AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+

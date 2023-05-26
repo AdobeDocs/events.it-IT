@@ -12,7 +12,7 @@ kt: 7405
 type: Event
 thumbnail: 332308.jpg
 exl-id: 388a1e82-e341-42a9-9cde-9dc7ea5ebddf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Per massimizzare i vantaggi del Cloud Service Adobe Experience Manager, è fondamentale adattare la base di codice in modo da renderlo compatibile con il cloud e resistente ai bollettini, in modo da evitare aggiornamenti futuri gestiti dal team.
 
-Continua la conversazione in **[Community Experienci League](http://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
