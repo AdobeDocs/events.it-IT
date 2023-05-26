@@ -1,7 +1,7 @@
 ---
 title: Panoramica di Skill Builder
 description: Serie di webinar registrati per creare una knowledge base e massimizzare l'investimento in Adobe Experience Cloud.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 3%
@@ -48,7 +48,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
     <p>
     <em>Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando informazioni approfondite sui dati online e offline in tutta l’organizzazione.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>
     </a>
   </td>  
