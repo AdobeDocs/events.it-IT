@@ -1,7 +1,7 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: Questa è una descrizione della guida utente che verrà visualizzata nella pagina di destinazione.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 45%
@@ -44,8 +44,6 @@ ht-degree: 45%
       + [Tendenze e innovazione del Percorso dei clienti in B2B e B2C](customer-journeys/2022/keynote.md)
       + [L’unione fa la forza: Adobe Marketo Engage e Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Esperienze B2B con Marketo Engage e Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + Dati e informazioni {#data-and-insights}
    + [Panoramica](data-and-insights/overview.md)
    + 2022 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 45%
       + [Personalizzare e automatizzare con Adobe Target](data-and-insights/2022/personalize.md)
       + [Applicazioni Analytics e Target per dispositivi mobili e app](data-and-insights/2022/mobile-and-apps.md)
       + [Analisi e Customer Journey Analytics tra dispositivi](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
