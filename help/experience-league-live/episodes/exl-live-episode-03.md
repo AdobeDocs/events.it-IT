@@ -3,12 +3,12 @@ title: Suggerimenti degli esperti per dare risalto alle campagne per le vacanze
 description: Proprio come non è mai troppo presto per iniziare a fare acquisti per le vacanze, non è mai troppo presto per iniziare a pianificare una campagna di marketing di successo le per vacanze. Con Adobe Campaign puoi progettare, pianificare ed eseguire campagne che concretizzeranno tutti i desideri per le feste della tua organizzazione. Ma conosci già tutti i suggerimenti per l’esecuzione di campagne per concludere l’anno col botto? Unisciti a noi per un incontro live con tre esperti Adobe con una vastissima esperienza collettiva proprio in questo ambito. Parleremo delle best practice per il recapito dei messaggi e l’esecuzione e ti mostreremo come eseguire tutto in Adobe Campaign.
 solution: Campaign
 kt: 8581
-thumbnail: 337219.jpg
+thumbnail: https://video.tv.adobe.com/v/337219?format=jpeg
 event-cta-url: null
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 44%
