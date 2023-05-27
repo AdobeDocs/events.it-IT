@@ -3,10 +3,10 @@ title: Adobe Developers Live
 description: Raccolta di registrazioni di sessioni da Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 29%
 
 ---
 
@@ -24,104 +24,108 @@ Registrati per gli eventi futuri **[qui](https://developerevents.adobe.com/)**.
 >
 >**Tutte le sessioni registrate sono elencate nella barra di navigazione a sinistra**.
 
-## Ottobre 2021
+<!--
 
-I team di Adobi di prodotto di Adobe Experience Cloud, Document Cloud e Creative Cloud hanno mostrato i progressi tecnologici e gli strumenti per sviluppatori più recenti che supportano la progettazione, i flussi di lavoro per la creazione di contenuti, i servizi di documentazione e la gestione dell’esperienza dei clienti nei diversi settori.
+## October 2021
 
-Scopri tutte le altre [sessioni](2021/october/overview.md) !
+Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
+
+Check out the all of the other [sessions](2021/october/overview.md) !
 
 <table>
   <tr>
    <td>
       <a href="2021/october/headless.md">
-      <img alt="Siti headless" src="assets/mathias.png"/>
+      <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
-         <a href="2021/october/headless.md"><strong>Siti headless</strong></a>         
-         <br/><em>con Mathias Siegl, Principal Product Manager, AEM Sites</em>
+         <a href="2021/october/headless.md"><strong>Headless Sites</strong></a>         
+         <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
         <br/>
-         Con GraphQL per frammenti di contenuto disponibile per AEM 6.5 e Adobe Experience Manager as a Cloud Service, esploriamo come Adobe Experience Manager può essere utilizzato come CMS headless.
+         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let's explore how Adobe Experience Manager can be used as a headless CMS.
       </p>
      </td>   
      <td>
       <a href="2021/october/aep-integration.md">
-      <img alt="Panoramica dell’integrazione di Adobe Experience Platform" src="assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
-         <a href="2021/october/aep-integration.md"><strong>Panoramica dell’integrazione di Adobe Experience Platform</strong></a>
-         <br/><em>con Eric Knee, Principal Enterprise Solution Architect</em>
+         <a href="2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
         <br/>
-         Questa sessione ti fornirà una panoramica generale dei diversi modi in cui Adobe Experience Platform può integrarsi all’interno del tuo ecosistema e di cose da considerare durante la pianificazione del lavoro di integrazione.
+         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/october/pdf-services-api.md">
-      <img alt="Generazione di documenti e acquisizione di firme elettroniche nelle app tramite l’API di Adobe Sign" src="assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
-         <a href="2021/october/pdf-services-api.md"><strong>Generazione di documenti e acquisizione di firme elettroniche nelle app tramite l’API di Adobe Sign</strong></a>
-         <br/><em>con Ben Vanderberg, Principal Developer evangelist</em>
+         <a href="2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
         <br/>
-         Adobe Document Generation API è un potente servizio di creazione di documenti guidato dai modelli di Microsoft Word uniti ai tuoi dati. In combinazione con l’API di Adobe Sign, gli sviluppatori possono generare facilmente documenti dinamici pronti per essere elaborati tramite il flusso di lavoro di firma.
+         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
       </p>
    </td> 
   </tr>
 </table>
 
-## Febbraio 2021
+## February 2021
 
-Questa conferenza di due giorni ha visto importanti aggiornamenti per gli sviluppatori di Adobe Experience Manager, come Headless e GraphQL, Adobe Experience Manager as a Cloud Service, sessioni tecniche e opportunità di networking per la community.
+This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
-Scopri tutte le altre [sessioni](2021/february/overview.md).
+Check out the all of the other [sessions](2021/february/overview.md).
 
 <table>
   <tr>
    <td>
       <a href="2021/february/headless-graphql-content-fragments.md">
-      <img alt="Headless - GraphQL con frammenti di contenuto" src="assets/jabran.png"/>
+      <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
       </a>
       <div>
-         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL con frammenti di contenuto</strong></a>         
-         <br/><em>con Jabran Asghar, Sr. Software Engineer</em>
+         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
+         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         Scopri le nuove funzionalità headless con i miglioramenti più recenti relativi ai frammenti di contenuto. Questa sessione si concentrerà sull’API GraphQL per AEM Cloud Service.
+         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
       </p>
      </td>   
      <td>
       <a href="2021/february/rapid-frontend-devlopment.md">
-      <img alt="Sviluppo front-end: il tuo flusso di lavoro futuro per creare e distribuire rapidamente il front-end del sito." src="assets/gabriel.png"/>
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
-         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Sviluppo front-end: il tuo flusso di lavoro futuro per creare e distribuire rapidamente il front-end del sito.</strong></a>
-         <br/><em>con Gabriel Walt, Sr. Product Manager</em>
+         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
+         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
       </div>
       <p>
         <br/>
-         Utilizza i modelli di sito per creare nuovi siti in pochi clic e ridare il tocco dello sviluppo front-end con la rapida distribuzione di risorse front-end come CSS&amp;JS.
+         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/february/get-ready-aem-cloud.md">
-      <img alt="Preparati al Cloud Service: best practice per la migrazione" src="assets/andreea.png"/>
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
-         <a href="2021/february/get-ready-aem-cloud.md"><strong>Preparati al Cloud Service: best practice per la migrazione</strong></a>
-         <br/><em>con Andreea Moise, Sr. Software Engineer</em>
+         <a href="2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
+         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         Per massimizzare i vantaggi di AEM Cloud Service, è fondamentale adattare la base di codice per renderlo compatibile con il cloud e resistente ai bollettini, in modo da evitare futuri aggiornamenti gestiti dal team.
+         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
       </p>
    </td>
   </tr>
 </table>
+
+-->
