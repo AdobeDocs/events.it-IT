@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Recapito messaggi (parte 1)
-description: Questa sessione di Marketo & Mochas vede la partecipazione di Marketo Deliverability Manager, Sean Wirt e Sr. Marketing Automation Business Advisor, Cynthia Chang. In questa sessione, Sean esplora le best practice per il recapito dei messaggi, evidenziando i componenti della reputazione, i fattori di qualità dei dati, i tipi di coinvolgimento e i pro e i contro degli IP condivisi e di quelli dedicati. Cynthia illustra quindi come importare il programma di recapito messaggi in Marketi Engage. L'evento si conclude con una sessione di domande e risposte live in cui Sean risponde alle domande degli iscritti e dei partecipanti.
+description: Questa sessione di Marketo & Mochas vede la partecipazione di Marketo Deliverability Manager, Sean Wirt e Sr. Marketing Automation Business Advisor, Cynthia Chang. In questa sessione, Sean esplora le best practice per il recapito dei messaggi, evidenziando i componenti della reputazione, i fattori di qualità dei dati, i tipi di coinvolgimento e i pro e i contro degli IP condivisi e di quelli dedicati. Cynthia illustra quindi come importare il programma di consegna in [!DNL Marketo Engage]. L'evento si conclude con una sessione di domande e risposte live in cui Sean risponde alle domande degli iscritti e dei partecipanti.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,15 +9,15 @@ jira: KT-12926
 thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: b9b0bae8-384d-402c-a9d9-9bdcc74ad433
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Marketo e Mochas - Recapito messaggi (parte 1)
 
-Questa sessione di Marketo &amp; Mochas vede la partecipazione di Marketo Deliverability Manager, Sean Wirt e Sr. Marketing Automation Business Advisor, Cynthia Chang. In questa sessione, Sean esplora le best practice per il recapito dei messaggi, evidenziando i componenti della reputazione, i fattori di qualità dei dati, i tipi di coinvolgimento e i pro e i contro degli IP condivisi e di quelli dedicati. Cynthia illustra quindi come importare il programma di recapito messaggi in Marketi Engage. L&#39;evento si conclude con una sessione di domande e risposte live in cui Sean risponde alle domande degli iscritti e dei partecipanti.
+Questa sessione di Marketo &amp; Mochas vede la partecipazione di Marketo Deliverability Manager, Sean Wirt e Sr. Marketing Automation Business Advisor, Cynthia Chang. In questa sessione, Sean esplora le best practice per il recapito dei messaggi, evidenziando i componenti della reputazione, i fattori di qualità dei dati, i tipi di coinvolgimento e i pro e i contro degli IP condivisi e di quelli dedicati. Cynthia illustra quindi come importare il programma di consegna in [!DNL Marketo Engage]. L&#39;evento si conclude con una sessione di domande e risposte live in cui Sean risponde alle domande degli iscritti e dei partecipanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416666/?quality=12&learn=on)

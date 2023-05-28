@@ -1,22 +1,22 @@
 ---
-title: Generazione di rapporti nel Marketo Engage
-description: Comprendi le funzionalità di reporting di alto livello all’interno del Marketo Engage e approfondisci i rapporti e gli elenchi avanzati.
+title: Generazione di rapporti in [!DNL Marketo Engage]
+description: Comprendere le funzionalità di reporting di alto livello in [!DNL Marketo Engage]e approfondisci i rapporti ed elenchi avanzati.
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---
 
-# Generazione di rapporti nel Marketo Engage
+# Generazione di rapporti in [!DNL Marketo Engage]
 
-Questa sessione esaminerà tutti gli strumenti di reporting disponibili in Marketo Engage, tra cui:
+Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL Marketo Engage] tra cui:
 
 * Rapporti
 * Elenchi smart
@@ -29,6 +29,6 @@ Questa sessione esaminerà tutti gli strumenti di reporting disponibili in Marke
 * Quando utilizzare rapporti standard ed elenchi avanzati
 * Abbonamenti
 
-Lasciate questa sessione con una conoscenza approfondita delle funzionalità di reporting di alto livello all’interno del Marketo Engage e un approfondimento su Rapporti ed elenchi avanzati.
+Questa sessione approfondirà le funzionalità di reporting di alto livello disponibili in [!DNL Marketo Engage]e approfondisci i rapporti ed elenchi avanzati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

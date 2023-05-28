@@ -7,9 +7,9 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ In questa sessione scopri come sfruttare il Contenuto dinamico per inviare conte
 
 **Conclusioni principali**
 
-* Semplifica le build dei programmi di Marketo Engage e risparmia tempo utilizzando i contenuti dinamici
+* Semplificare [!DNL Marketo Engage] Il programma crea e risparmia tempo utilizzando Contenuto dinamico
 * Scopri come segmentare il database per potenziare i contenuti dinamici
 * Report sull’impatto dei contenuti dinamici per guidare le future decisioni di marketing
 
