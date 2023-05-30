@@ -1,10 +1,10 @@
 ---
 user-guide-title: Skill Builder
 user-guide-description: Questa è una descrizione della guida utente che verrà visualizzata nella pagina di destinazione.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 38%
+source-wordcount: '164'
+ht-degree: 31%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 38%
       + [Sviluppare e personalizzare modelli di dati in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Tendenze e innovazione del Percorso dei clienti in B2B e B2C](customer-journeys/2022/keynote.md)
       + [L&#39;unione fa la forza - Adobe [!DNL Marketo Engage] e REAL-TIME CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [ [!DNL Marketo Engage] Esperienze B2B con e Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+      + [esperienze B2B con [!DNL Marketo Engage] e ADOBE EXPERIENCE CLOUD](customer-journeys/2022/b2b-experiences.md)
 + Dati e informazioni {#data-and-insights}
    + [Panoramica](data-and-insights/overview.md)
    + 2022 {#2022}
