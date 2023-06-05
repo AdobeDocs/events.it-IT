@@ -2,9 +2,9 @@
 title: Panoramica di Skill Builder
 description: Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando informazioni approfondite sui dati online e offline in tutta l’organizzazione.
 exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---
@@ -18,11 +18,11 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
       <img alt="Personalizzare e automatizzare con Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
         <strong>Personalizzare e automatizzare con Adobe Target</strong>
       </a>
     </div>
@@ -31,11 +31,11 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
       <img alt="Innovazioni e tendenze per il 2022" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
         <strong>Innovazioni e tendenze per il 2022</strong>
       </a>
     </div>
@@ -44,11 +44,11 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
       <img alt="Applicazioni Analytics e Target per dispositivi mobili e app" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
         <strong>Applicazioni Analytics e Target per dispositivi mobili e app</strong>
       </a>
     </div>
