@@ -2,9 +2,9 @@
 title: Serie di webinar su Commerce APAC
 description: La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze del settore.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -44,16 +44,16 @@ La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i cl
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+      <img alt="Strategie di e-commerce componibili per un e-commerce scalabile e agile" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-        <strong>New Relic Masterclass</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+        <strong>Strategie di e-commerce componibili per un e-commerce scalabile e agile</strong>
       </a>
     </div>
     <p>
-    <em>Partecipa a questo webinar per scoprire come assumere il controllo dell’infrastruttura con New Relic. Accedi alla tua prossima campagna con assoluta sicurezza accedendo e comprendendo i dati dell’infrastruttura.</em>
+    <em>Unisciti a noi per un webinar approfondito che approfondirà il mondo dell’architettura componibile e come sta rivoluzionando il panorama dell’e-commerce.</em>
     <p>
   </td>  
 </tr>
