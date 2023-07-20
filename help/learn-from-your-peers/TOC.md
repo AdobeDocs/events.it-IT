@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]"
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
@@ -31,6 +31,8 @@ ht-degree: 22%
 + Experience Manager {#experience-manager}
    + Maggio {#may2023}
       + [Masterizzazione di contenuti e frammenti di esperienza](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + Luglio {#july2023}
+      + [Strategie di sicurezza efficaci nel Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    + Giugno {#june2023}
       + [Tracciare, analizzare e ottimizzare le campagne di marketing](marketo/june2023/marketing-campaigns.md)
