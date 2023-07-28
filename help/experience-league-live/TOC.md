@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f03cd70edc922b35903a4aa7882dbae9278d00e9
+source-git-commit: 86b13e13d74f4ce99988f9b2db4b330f6583dd14
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '272'
 ht-degree: 8%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 27: Messaggi attivati da API in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
    + [Ep. 26: tipi di pubblico utilizzabili, in un’unica posizione&#x200B; da qualsiasi origine, con controlli standard](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25: Esplorare il futuro di Adobe Journey Optimizer con il canale web e la sperimentazione dei contenuti](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24: Massimizzare il potenziale dell’app mobile con Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
