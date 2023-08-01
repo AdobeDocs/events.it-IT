@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1662'
 ht-degree: 2%
 
 ---
 
 # Domande all’esperto: creazione di rapporti in modalità testo di base con ricarica avanzata tramite API Explorer
 
-Scopri l’Explorer API, come utilizzarlo e come migliorare i rapporti sfruttando la modalità testo di base. Questo webinar è stato registrato il 22 gennaio 2020.
+Scopri di più su [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), come utilizzarlo e come migliorare i rapporti sfruttando la modalità di testo di base. Questo webinar è stato registrato il 22 gennaio 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -211,7 +211,7 @@ Per i raggruppamenti condizionali, un modulo personalizzato (si pensi a &quot;St
 
 I raggruppamenti calcolati (o espressione di valore in un raggruppamento) sono un modo pratico per ottenere un risultato da visualizzare nella barra dei raggruppamenti. Questa operazione può essere eseguita anche utilizzando un campo personalizzato calcolato. Per ogni approccio ci sono pro e contro, che sono:
 
-* Le espressioni di valore vengono calcolate ogni volta che la pagina del browser viene aggiornata. Questo valore può essere migliore dei campi personalizzati calcolati che vengono ricalcolati ogni volta che l’oggetto a cui sono allegati viene modificato, o quando i campi calcolati vengono ricalcolati in una modifica in blocco, o quando il modulo personalizzato viene modificato e l’opzione &quot;Aggiorna calcoli precedenti&quot; viene selezionata.
+* Le espressioni di valore vengono calcolate ogni volta che la pagina del browser viene aggiornata. Questo valore può essere migliore dei campi personalizzati calcolati che vengono ricalcolati ogni volta che l’oggetto a cui sono associati viene modificato, o quando i campi calcolati vengono ricalcolati in una modifica in blocco, o quando il modulo personalizzato viene modificato e l’opzione &quot;Aggiorna calcoli precedenti&quot; è selezionata.
 * Tuttavia, le espressioni di valore non possono essere utilizzate nei grafici, nella formattazione condizionale o nel filtro. Per questi campi è necessario utilizzare campi personalizzati calcolati.
 
 **domande**
