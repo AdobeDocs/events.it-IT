@@ -4,11 +4,12 @@ description: Scopri come misurare e tracciare la velocità utilizzando [!DNL Wor
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Formato: Data
 Calcolo:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Prima durata**
@@ -40,7 +41,7 @@ Formato: testo
 Calcolo:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Proporzione lavoro-impegno**
@@ -50,7 +51,7 @@ Formato:Numero
 Calcolo:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Stato rapporto lavoro su commit**
@@ -60,7 +61,7 @@ Formato:Testo
 Calcolo:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Velocità regolata**
@@ -70,7 +71,7 @@ Formato:Numero
 Calcolo:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Stato velocità regolato**
@@ -80,7 +81,7 @@ Formato:Testo
 Calcolo:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Domande e risposte
@@ -95,7 +96,7 @@ In una situazione come questa puoi utilizzare il filtro e la modifica in blocco 
 
 Ecco come si fa:
 
-1. Determinare quali valori di stato si desidera mappare ai valori di condizione. Ad esempio, supponiamo che tu abbia un valore di Stato &quot;Late&quot; (In ritardo) e &quot;Very Late&quot; (Molto in ritardo) entrambi mappati su un valore di Condizione &quot;In difficoltà&quot;
+1. Determinare quali valori di stato si desidera mappare ai valori di condizione. Ad esempio, supponiamo che tu abbia un valore di Stato &quot;Late&quot; (In ritardo) e &quot;Very Late&quot; (Molto in ritardo) entrambi mappati su un valore di Condizione &quot;In difficoltà&quot; (In Trouble)
 1. Crea un report di progetti che mostra tutti i progetti con un valore di Stato &quot;In ritardo&quot; e &quot;Molto in ritardo&quot;
 1. Esegui il rapporto. Assicurati di mostrare tutti i progetti (vedi le opzioni in basso a destra del rapporto)
 1. Fai clic sulla casella di controllo in alto a sinistra del rapporto nella barra con le intestazioni di colonna. Verranno selezionati tutti i progetti nel rapporto
@@ -111,7 +112,7 @@ Come viene definito Excellent, Not Bad, etc (Eccellente, Non cattivo, ecc.)?
 
 **Risposta**
 
-Questo era solo un esempio, ma ecco come l’ho configurato. Per prima cosa ho calcolato due indici:
+Questo era solo un esempio, ma ecco come l&#39;ho impostato. Per prima cosa ho calcolato due indici:
 
 Velocità regolata
 
@@ -119,7 +120,7 @@ La formula è Durata effettiva/Durata pianificata (memorizzata nel campo Durata 
 
 Proporzione lavoro-impegno
 
-Questa formula è simile alla Velocità adeguata, con la differenza che invece di utilizzare il valore Durata pianificata della ripianificazione finale si desidera utilizzare la Durata pianificata promessa per la prima volta al cliente. Si presume che la baseline originale contenga queste informazioni (e d&#39;ora in avanti si prevede di chiedere ai project manager di pianificare i progetti in modo da poter acquisire dati accurati). Abbiamo acquisito questo valore di durata dalla linea di base originale e lo abbiamo denominato Prima durata.
+Questa formula è simile alla Velocità adeguata, con la differenza che invece di utilizzare il valore Durata pianificata della ripianificazione finale si desidera utilizzare la Durata pianificata promessa per la prima volta al cliente. Si presuppone che la baseline originale contenga queste informazioni (e da ora in poi si intende chiedere ai project manager di pianificare i progetti in modo da poter acquisire dati accurati). Abbiamo acquisito questo valore di durata dalla linea di base originale e lo abbiamo denominato Prima durata.
 
 Dividendo la durata effettiva per la durata pianificata o per la prima durata si ottiene un numero che può dirci quanto siamo vicini a raggiungere l&#39;obiettivo. Se la durata pianificata o la prima durata è uguale alla durata effettiva, l’indice sarà uguale a 1. Se la durata effettiva è maggiore, la risposta sarà maggiore di 1. Maggiore è il numero peggiore che abbiamo fatto nel rispettare il nostro appuntamento.
 
@@ -181,7 +182,7 @@ Vorrei creare un rapporto sulla bozza. Un elenco di progetti che mostra quante b
 
 Crea un report documento.
 
-Nella visualizzazione predefinita viene visualizzato il numero di versione. Puoi lasciarla lì, ma puoi modificare qualsiasi altra colonna.
+Nella visualizzazione predefinita viene visualizzato il numero di versione. È possibile lasciare questo elemento in tale posizione, ma è possibile modificare qualsiasi altra colonna.
 
 Raggruppa il report per nome progetto.
 
@@ -195,7 +196,7 @@ Questo ti fornirà un elenco di tutte le bozze in ciascun progetto. Avrà una ri
 
 **Risposta**
 
-Sì, ma dovrai copiare il modulo personalizzato del progetto e creare un modulo personalizzato per le attività da esso. Sarà quindi necessario modificare il calcolo nel campo Data primo commit e cambiare il riferimento a &quot;Previsione predefinita&quot; in &quot;Attività prevista predefinita&quot;. Fate lo stesso per la prima durata. In seguito è possibile allegare il modulo personalizzato dell&#39;attività a tutte le attività che si desidera misurare. Sarà necessario creare relazioni sulle attività invece di relazioni sui progetti per queste. Tuttavia, sarà comunque necessario assicurarsi che la baseline originale del progetto sia impostata come baseline predefinita. Tutti i dati dell&#39;attività vengono mantenuti nella stessa previsione con i dati del progetto.
+Sì, ma dovrai copiare il modulo personalizzato del progetto e creare un modulo personalizzato per le attività da esso. Sarà quindi necessario modificare il calcolo nel campo Data primo commit e cambiare il riferimento a &quot;Previsione predefinita&quot; in &quot;Attività prevista predefinita&quot;. Fate lo stesso per la prima durata. In seguito è possibile allegare il modulo personalizzato dell&#39;attività a tutte le attività che si desidera misurare. Sarà necessario creare relazioni sulle attività invece di relazioni sui progetti per queste. Tuttavia, sarà comunque necessario assicurarsi che la baseline del progetto originale sia impostata come baseline predefinita. Tutti i dati dell&#39;attività vengono mantenuti nella stessa previsione con i dati del progetto.
 
 **domande**
 
@@ -253,7 +254,7 @@ Si sta tentando di determinare se è possibile creare un dashboard con un&#39;ar
 
 Vediamo se capisco la tua domanda. Si supponga di disporre di un modulo personalizzato per le attività denominato Modulo Tammy con un campo denominato Campo Tammy.
 
-Si desidera creare un report delle attività che mostri tutte le attività a cui è associato il modulo Tammy e in cui il campo Tammy contiene un valore.
+Si desidera creare un report delle attività che mostri tutte le attività a cui è allegato il modulo Tammy e in cui il campo Tammy contiene un valore.
 
 Sì, puoi farlo. Dovresti semplicemente disporre di un filtro nel rapporto attività con due regole di filtro:
 
@@ -341,7 +342,7 @@ Il modo migliore per pensare ai raggruppamenti nei rapporti sugli elenchi è que
 
 Innanzitutto, puoi controllare gli elementi da visualizzare nell’elenco utilizzando la scheda Filtro. Non ci saranno voci duplicate. Il filtro viene applicato a ogni oggetto. Se passa attraverso il filtro, verrà visualizzato una volta nell’elenco, altrimenti non verrà visualizzato affatto.
 
-Il raggruppamento successivo viene applicato all’elenco filtrato. Un raggruppamento identifica una cosa sugli oggetti nell’elenco, come il nome del portfolio in cui si trova (non è possibile eseguire il raggruppamento in un elenco di elementi, ma solo su un singolo elemento). Quindi tutti gli oggetti con lo stesso valore appariranno in quel raggruppamento, come tutti i progetti nello stesso portfolio. Tutti i progetti per i quali non è selezionato un portfolio verranno visualizzati nel raggruppamento denominato &quot;No Value&quot; (Nessun valore).
+Il raggruppamento successivo viene applicato all’elenco filtrato. Un raggruppamento identifica una cosa sugli oggetti dell’elenco, come il nome del portfolio in cui si trova (non è possibile eseguire il raggruppamento in base a un elenco di elementi, ma solo in base a un singolo elemento). Quindi tutti gli oggetti con lo stesso valore appariranno in quel raggruppamento, come tutti i progetti nello stesso portfolio. Tutti i progetti per i quali non è selezionato un portfolio vengono visualizzati nel raggruppamento denominato &quot;No Value&quot; (Nessun valore).
 
 Di conseguenza, nessun oggetto può essere visualizzato in più raggruppamenti. La visualizzazione di un oggetto nell&#39;elenco è completamente controllata dal filtro e dalla persona che esegue il report dispone dei diritti per visualizzarlo.
 
@@ -357,7 +358,7 @@ Una ragione per cui ho deciso di confrontare la Durata Reale con due tipi di Dur
 
 È tuttavia possibile decidere di tenere traccia di altre informazioni relative ad attività o progetti da includere nei rapporti.
 
-Workfront non dispone di rapporti integrati sulla velocità. Ti consiglierei di scegliere, insieme al tuo team, ciò che desideri sapere per determinare la velocità e vedere cosa devi tracciare.
+Workfront non ha alcun rapporto integrato sulla velocità; pertanto, ti consiglierei di fare un brainstorming con il tuo team per capire cosa vuoi sapere per determinare la velocità e capire cosa devi tracciare.
 
 **domande**
 
@@ -377,7 +378,7 @@ I nostri progetti cambiano spesso a causa di ritardi o modifiche dei clienti dur
 
 La best practice consiste nell’utilizzare un elenco a discesa per tenere traccia di questo elemento. Inserisci il maggior numero di &quot;ragioni&quot; possibile in per iniziare, quindi aggiungi un’opzione &quot;altro&quot; per acquisire un motivo non presente nell’elenco. Se il nuovo motivo si presenta o diventa comune, aggiungilo al menu a discesa. È possibile creare report sugli elementi di un elenco a discesa e raggruppare in base a questo campo, ma non in base alle caselle di controllo o a un elenco a discesa a selezione multipla.
 
-Solo un altro commento. Potrebbe non essere necessario includere tutti i progetti nei rapporti Velocity. Se stai correggendo dei bug o stai &quot;andando dove nessuno è mai andato prima&quot;, probabilmente non stai assumendo lo stesso tipo di impegno verso una data di completamento come se stessi costruendo una casa che hai costruito molte volte in precedenza.
+Solo un altro commento. Potrebbe non essere necessario includere tutti i progetti nei rapporti Velocity. Se stai correggendo bug o &quot;andando dove nessuno è andato prima&quot; probabilmente non stai assumendo lo stesso tipo di impegno per una data di completamento come se si stesse costruendo una casa che hai costruito molte volte in precedenza.
 
 Assicurati quindi di concentrare il reporting sulla velocità sui punti in cui può aiutarti a raggiungere i tuoi obiettivi.
 
