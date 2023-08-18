@@ -3,7 +3,7 @@ title: Eventi Adobe Experience League
 description: Una raccolta di registrazioni di eventi incentrate sull'utilizzo dei prodotti Adobe Enterprise
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -221,8 +221,6 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
          Marketo e Mochas ti aiuteranno a comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
          Office Hours offre ai clienti webinar specifici per ciascuna soluzione e offre un approccio proattivo alla deformazione dei casi. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Webinar MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <br/>
          Skill Builder è una serie di webinar progettati per creare la knowledge base e massimizzare l’investimento in Adobe Experience Cloud.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo e Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <br/>
          Experience Makers The Skill Exchange è una serie globale di eventi di apprendimento virtuale per i clienti, incentrati sull'approfondimento delle soluzioni Adobe Experience Cloud. Questo programma offre l’opportunità di imparare dagli esperti dei prodotti Adobe e da colleghi esperti attraverso la condivisione di best practice e suggerimenti.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
