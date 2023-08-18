@@ -3,9 +3,9 @@ title: Eventi Adobe Experience League
 description: Una raccolta di registrazioni di eventi incentrate sull'utilizzo dei prodotti Adobe Enterprise
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
@@ -80,11 +80,11 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>Ore ufficio campioni AEM</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Se ti interessa migliorare le tue conoscenze e l’utilizzo di Adobe Experience Manager, interagire con i leader del pensiero Experience Manager e guadagnare uno swag esclusivo, unisciti oggi stesso al gruppo di utenti Office Hours del campione AEM!
+         Se sei interessato a far progredire la tua conoscenza e l'uso di Adobe Experience Manager, interagire con i leader del pensiero Experience Manager e guadagnare uno swag esclusivo - allora unisciti al AEM Champion Office Hours User Group oggi stesso!
       </p>
     </td> 
    <td>
@@ -177,7 +177,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
       </div>
       <p>
         <br/>
-         Approfondimenti tecnici su Adobe Experience Manager forniti da esperti Adobi. Questa serie è un complemento della documentazione di prodotto e di tutti gli altri canali tecnici relativi ad Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
+         Approfondimenti tecnici su Adobe Experience Manager forniti da esperti Adobi. Questa serie è un complemento della documentazione del prodotto e di tutti gli altri canali tecnici relativi a Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
       </p>
     </td>
     </tr>
@@ -221,6 +221,21 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
          Marketo e Mochas ti aiuteranno a comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>Office Hours</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Office Hours offre ai clienti webinar specifici per ciascuna soluzione e offre un approccio proattivo alla deformazione dei casi. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Webinar MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -234,8 +249,6 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
          La serie di webinar MBI è un evento periodico per i clienti MBI. I webinar trattano una vasta gamma di argomenti e best practice per utilizzare al massimo le potenzialità di MBI.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -249,6 +262,8 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
          Skill Builder è una serie di webinar progettati per creare la knowledge base e massimizzare l’investimento in Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo e Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
