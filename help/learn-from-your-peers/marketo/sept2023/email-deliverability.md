@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: af2e6fa6688927c1259f8d673231d1901c352461
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 0%
 Partecipa a questo webinar &quot;Scopri dai tuoi colleghi&quot; come l’Adobe Marketo Champion Beth Massura, condivide come valuta i fattori che influiscono sul recapito dei messaggi e-mail, agisce sui segnali di allarme e assicura un buon recapito dei messaggi utilizzando le funzioni integrate di Marketi Engage.
 
 In questo webinar scoprirai:
+
 * Quali fattori contribuiscono al recapito messaggi e-mail.
 * Valutazione dello stato corrente tramite i report sulle prestazioni delle e-mail, i report sulle prestazioni delle persone e gli elenchi avanzati.
 * Passaggi da intraprendere per ridurre i rischi per il recapito dei messaggi e-mail, inclusi i protocolli di verifica, mantenendo la qualità del database e utilizzando un targeting preciso.

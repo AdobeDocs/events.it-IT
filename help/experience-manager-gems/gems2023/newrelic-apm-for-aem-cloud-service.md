@@ -1,6 +1,7 @@
 ---
 title: apm newrelic per aem cloud service
 description: Unisciti a noi e partecipa alla nostra sessione dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, garantendo un’esperienza eccezionale attraverso - Migliorando l’efficienza del tuo progetto as a Cloud Service AEM | Misurazione dell'influenza di servizi esterni per l'impianto as a Cloud Service AEM | Sfruttare le viste personalizzate. Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
+solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,9 +11,9 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,6 +30,7 @@ Questo webinar si terrà dal 20 settembre alle 17 CEST | 08:00 PDT | 20.30 IST
 ## Descrizione sessione
 
 Unisciti a noi nella nostra sessione, dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, assicurandoti un’esperienza straordinaria attraverso:
+
 * Migliorare l’efficienza del progetto AEM as a Cloud Service
 * Misurazione dell’influenza di servizi esterni sull’impianto as a Cloud Service AEM
 * Sfruttare al meglio le viste personalizzate Scopri la procedura di accesso a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
