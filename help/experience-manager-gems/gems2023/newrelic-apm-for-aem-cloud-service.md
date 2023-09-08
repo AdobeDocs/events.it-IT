@@ -1,6 +1,6 @@
 ---
 title: apm newrelic per aem cloud service
-description: 'Unisciti a noi e partecipa alla nostra sessione dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, garantendo un’esperienza eccezionale attraverso: Migliorare l’efficienza del tuo progetto as a Cloud Service AEM | Misurazione dell''influenza di servizi esterni per l''impianto as a Cloud Service AEM | Sfruttare le viste personalizzate. Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.'
+description: Unisciti a noi e partecipa alla nostra sessione dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, garantendo un’esperienza eccezionale attraverso - Migliorando l’efficienza del tuo progetto as a Cloud Service AEM | Misurazione dell'influenza di servizi esterni per l'impianto as a Cloud Service AEM | Sfruttare le viste personalizzate. Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
+source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
