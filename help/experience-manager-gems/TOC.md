@@ -3,9 +3,9 @@ user-guide-title: Eventi Adobe Experience Manager GEMS
 user-guide-description: Scopri AEM Gems, una serie di approfondimenti tecnici proposti da esperti Adobe Experience Manager.
 breadcrumb-title: Eventi AEM GEM
 feature-set: Experience Manager
-source-git-commit: 84bafc46f0d59774f89be5ccc5f030ef51e81e41
+source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '648'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 
 + [Panoramica](overview.md)
 + 2023 {#gems2023}
+   + [New Relic APM per AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certificazione AEM - tecnica](gems2023/aem-certification-technical.md)
    + [Accelerazione dello sviluppo as a Cloud Service Experience Manager con ambienti di sviluppo rapido](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [Best Practices Analyzer dell’AEM per gli ambienti locali e AMS](gems2023/aem-best-practices-analyzer.md)
@@ -38,7 +39,7 @@ ht-degree: 5%
    + [Adobe Experience Platform - Il cuore dell’Experience Cloud](gems2018/aem-acp.md)
    + [Real-time and lightweight: crea integrazioni basate su eventi con l’AEM utilizzando gli eventi Adobe I/O](gems2018/aem-adobe-io.md)
    + [Eventi Adobe Developer (IO) - Trigger di Analytics](gems2018/aem-analytics-triggers.md)
-   + [Esperimenti sulla scalabilità di AEM Author](gems2018/aem-author-scalability1.md)
+   + [Esperimenti sulla scalabilità dell’istanza di authoring dell’AEM](gems2018/aem-author-scalability1.md)
    + [Componenti core AEM](gems2018/aem-core-components.md)
    + [L’esplosione delle risorse digitali e [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [Introduzione a ContextHub in AEM 6.4](gems2018/aem-intro-to-contexthub.md)
@@ -54,7 +55,7 @@ ht-degree: 5%
    + [Versione principale di Brand Portal e nuova implementazione di riferimento per Asset Share](gems2017/aem-brand-portal.md)
    + [Creare controlli di integrità per l’AEM](gems2017/aem-building-health-checks-for-aem.md)
    + [Sviluppare bundle e servizi OSGi per AEM](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
-   + [Architettura AEM Dynamic Media 6.3](gems2017/aem-dynamic-media-architecture.md)
+   + [Architettura AEM Dynamic Medie 6.3](gems2017/aem-dynamic-media-architecture.md)
    + [Esperienze con fluidi AEM per casi d’uso headless](gems2017/aem-headless-usecases.md)
    + [Indicizzazione AEM e query JCR](gems2017/aem-indexing-jcr-query.md)
    + [Integrazioni AEM](gems2017/aem-integrations.md)
@@ -64,7 +65,7 @@ ht-degree: 5%
    + [Into the tar pit: a TarMK deep dive (Indagine approfondita su TarMK)](gems2017/aem-tarmk-deepdive.md)
    + [Toughday2 - Un nuovo e migliorato strumento di test e benchmarking dello stress](gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
    + [AEM 6.3 pronto per il mondo - Integrazione delle traduzioni e best practice](gems2017/aem-translation-best-practices.md)
-   + [Risoluzione dei problemi di replica dell’AEM](gems2017/aem-troubleshooting-aem-replication.md)
+   + [Risoluzione dei problemi di replica AEM](gems2017/aem-troubleshooting-aem-replication.md)
    + [Risolvere i problemi relativi alla distribuzione dei contenuti Sling](gems2017/aem-troubleshooting-sling.md)
 + 2016 {#gems2016}
    + [Configurare DAM per l’organizzazione](gems2016/aem-configuring-dam-for-enterprise.md)
@@ -72,7 +73,7 @@ ht-degree: 5%
    + [Gestire i contenuti con l’editor modelli di Adobe Experience Manager](gems2016/aem-managing-content-with-template-editor.md)
    + [Indici Oak Lucene](gems2016/aem-oak-lucene-indexes.md)
    + [Eseguire AEM su MongoDB](gems2016/aem-running-aem-on-mongodb.md)
-   + [Configurare AEM Dynamic Media](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
+   + [Configurare AEM Dynamic Medie](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
    + [Sneak peek tecnico](gems2016/aem-technical-sneak-peek.md)
    + [Strumenti da utilizzare per testare le applicazioni Adobe Experience Manager](gems2016/aem-testing-tools-for-aem-apps.md)
    + [Utilizzare SAML nelle distribuzioni Adobe Experience Manager](gems2016/aem-utilizing-saml-in-aem-deployments.md)
