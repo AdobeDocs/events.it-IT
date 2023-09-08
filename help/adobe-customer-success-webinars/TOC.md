@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 1%
    + [Assegnazione di priorità a intelligence e misurazione](2023/intelligence-and-measurement.md)
    + [Preparazione alla migrazione di Real-time CDP](2023/rtcdp-migration-readiness.md)
    + [Impostazione di una strategia Audience Activation efficace](2023/audience-activation.md)
-   + [Transizione a RTCDP](2023/aam-to-rtcdp.md)
+   + [Transizione a Real-time CDP](2023/aam-to-rtcdp.md)
