@@ -1,19 +1,23 @@
 ---
-title: Eventi MBI
-description: Esplora i webinar registrati su MBI, che trattano un’ampia gamma di argomenti e best practice per utilizzare al massimo le potenzialità di MBI.
+title: Webinar di Commerce Intelligence
+description: Esplora i webinar registrati di Commerce Intelligence, che coprono un’ampia gamma di argomenti e best practice per utilizzare al massimo le potenzialità di Commerce Intelligence.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# Webinar MBI
+# Webinar di Adobe Commerce Intelligence
 
-La serie di webinar MBI è un evento periodico per i clienti MBI. I webinar trattano una vasta gamma di argomenti e best practice per utilizzare al massimo le potenzialità di MBI.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence era precedentemente nota come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
 
-Partecipanti da tutte le aree geografiche possono partecipare agli eventi in diretta per comprendere meglio il prodotto e ottenere risposte dirette alle loro domande sulla funzionalità MBI.
+La serie di webinar Commerce Intelligence è un evento periodico per i clienti MBI. I webinar trattano un’ampia gamma di argomenti e best practice per utilizzare al massimo le potenzialità di Commerce Intelligence.
+
+Partecipanti da tutte le aree geografiche possono partecipare agli eventi in diretta per comprendere meglio il prodotto e ottenere risposte dirette alle loro domande sulla funzionalità Commerce Intelligence.
 
 Gli argomenti vengono ripetuti occasionalmente per soddisfare eventuali nuove domande poste dai clienti.
 
@@ -31,7 +35,7 @@ Gli argomenti vengono ripetuti occasionalmente per soddisfare eventuali nuove do
       </a>
     </div>
     <p>
-    <em>Scopri le funzionalità di base di MBI direttamente dal team di prodotto di Commerce con un approfondimento delle dashboard preconfigurate e delle opzioni di personalizzazione disponibili.</em>
+    <em>Scopri le funzionalità di base di Commerce Intelligence direttamente dal team di prodotto, con un approfondimento delle dashboard preconfigurate e delle opzioni di personalizzazione disponibili.</em>
     <p>
   </td>
   <td>
@@ -69,5 +73,5 @@ Gli argomenti vengono ripetuti occasionalmente per soddisfare eventuali nuove do
 
 ## Risorse utili
 
-- [Video e tutorial su MBI](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Guida utente di MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it)
+- [Video ed esercitazioni di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it)

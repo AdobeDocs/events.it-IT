@@ -1,5 +1,5 @@
 ---
-title: Ottimizzazione della Data Warehouse di MBI
+title: Ottimizzazione della Data Warehouse di Commerce Intelligence
 description: Guarda questo webinar per ulteriori informazioni su Data Warehouse Manager.
 landing-page-description: Guarda questo webinar registrato su
 short-description: Guarda questo webinar registrato su
@@ -9,14 +9,18 @@ role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
-# Ottimizzazione della Data Warehouse di MBI
+# Ottimizzazione della Data Warehouse di Commerce Intelligence
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence era precedentemente nota come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
 
 Tramite Gestione Date Warehouse è possibile gestire le impostazioni di sincronizzazione di tabelle e colonne, analizzare in profondità lo schema di una tabella e creare colonne calcolate da utilizzare nei report.
 
@@ -37,10 +41,6 @@ In questo webinar:
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## Risorse utili
-
->[!TIP]
->
->Se non si dispone di MBI, [Serie di video introduttivi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
 
 [Ottimizzazione del database per l&#39;analisi](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Dimension di dati consigliati per segmentazione e filtro](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
