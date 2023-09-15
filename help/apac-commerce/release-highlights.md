@@ -1,7 +1,7 @@
 ---
 title: Elementi principali della roadmap di Adobe Commerce
 description: Unisciti a Ed Kennedy, Senior Product Marketing Manager di Adobe Commerce, per conoscere gli ultimi aggiornamenti sui principali investimenti in prodotti Adobe Commerce
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 last-substantial-update: 2022-11-04T00:00:00Z
@@ -9,7 +9,7 @@ kt: 11424
 thumbnail: 3410838.jpeg
 hidefromtoc: true
 exl-id: 184a8793-7aab-46cd-807a-a633fe5d8e40
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
