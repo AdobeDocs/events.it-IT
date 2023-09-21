@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -44,8 +44,8 @@ ht-degree: 2%
 </table>
 
 -->
-Il nostro ultimo webinar AEM GEMs su **Accelerazione dello sviluppo di Cloud Service Adobe Experience Manager con ambienti di sviluppo rapido** è stato eseguito il *22 febbraio 2023*.
-Il **registrazione** si trova qui: [Webinar sugli ambienti di sviluppo rapido dell’AEM](gems2023/rapid-development-environments.md)
+Il nostro ultimo webinar AEM GEMs su **Liberare il potenziale di New Relic APM per AEM as a Cloud Service. Ottimizzazione delle prestazioni e risoluzione rapida dei problemi.** è stato eseguito il *20 settembre 2023*.
+Il **registrazione** si trova qui: [New Relic nell’AEM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Il **registrazione** si trova qui: [Webinar sugli ambienti di sviluppo rapido de
 
 ## Rilancio 2022 dei GEM dell’AEM
 
-Benvenuti in **AEM GEM** : la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, condotti da esperti Adobi. Questa serie è un complemento della documentazione di prodotto e di tutti gli altri canali tecnici relativi ad Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
+Benvenuti in **AEM GEM** : la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, condotti da esperti Adobi. Questa serie è un complemento della documentazione di prodotto e di tutti gli altri canali tecnici relativi a Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
 
 I webinar saranno condotti regolarmente, tra cui:
 
