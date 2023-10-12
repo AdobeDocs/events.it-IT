@@ -1,11 +1,11 @@
 ---
 title: Panoramica delle tecniche dell’AEM
-description: Dai un’occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un talk tecnico.
+description: Dai un'occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un talk tecnico.
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
-exl-id: 1f21ad13-cd08-450b-acbe-85748611087a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9b023ec2-70c3-40ba-92bf-37271c197602
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Panoramica delle tecniche dell’AEM{#aem-tech-sneak-peek}
 
-Dai un’occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un talk tecnico.
+Dai un&#39;occhiata a ciò a cui abbiamo lavorato per la prossima generazione di Adobe Experience Manager in un talk tecnico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 

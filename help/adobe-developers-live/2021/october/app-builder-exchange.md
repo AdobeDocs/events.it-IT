@@ -9,11 +9,11 @@ level: Experienced
 version: Cloud Service
 kt: 9214
 type: Event
-exl-id: fbe96c16-a9eb-48ad-9954-1e608866f5fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: bbdfd53c-8bb6-4353-8a72-b5c5ce513ffd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 31%
+ht-degree: 35%
 
 ---
 
@@ -27,6 +27,6 @@ Continua la conversazione in **[Community Experienci League](https://adobe.ly/3u
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

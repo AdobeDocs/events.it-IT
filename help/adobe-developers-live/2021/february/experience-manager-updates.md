@@ -1,6 +1,6 @@
 ---
 title: Aggiornamenti Adobe Experience Manager
-description: Unisciti a Gabriel Walt, Product Manager per Experience Manager, per ottenere una panoramica dei grandi temi che guidano la roadmap di Adobe Experience Manager e come si relazionano le sessioni. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
+description: Gabriel Walt, Product Manager per Experience Manager, offre una panoramica dei grandi temi che guidano la roadmap di Adobe Experience Manager e delle relazioni tra le sessioni. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7165
 type: Event
 thumbnail: 331279.jpg
-exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Aggiornamenti Adobe Experience Manager
 
-Unisciti a Gabriel Walt, Product Manager per Experience Manager, per ottenere una panoramica dei grandi temi che guidano la roadmap di Adobe Experience Manager e come si relazionano le sessioni.
+Gabriel Walt, Product Manager per Experience Manager, offre una panoramica dei grandi temi che guidano la roadmap di Adobe Experience Manager e delle relazioni tra le sessioni.
 
 Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
 

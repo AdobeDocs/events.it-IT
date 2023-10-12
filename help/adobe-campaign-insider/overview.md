@@ -1,7 +1,8 @@
 ---
 title: Adobe [!DNL Campaign] Serie Insider
 description: Suggerimenti e trucchi e ispirazione per Adobe [!DNL Campaign] i clienti possono contribuire a sviluppare strategie di marketing cross-channel, migliorare le competenze dei professionisti di marketing team e aiutare le organizzazioni a lanciare strategie di marketing cross-channel più avanzate.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 5%

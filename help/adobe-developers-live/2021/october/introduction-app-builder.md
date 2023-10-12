@@ -1,23 +1,23 @@
 ---
 title: 'Introduzione ad App Builder: tutto il necessario per creare un’app cloud personalizzata che soddisfi le tue esigenze aziendali'
-description: Esplora le possibilità offerte da App Builder e chiedici tutto ciò che desideri sapere. Unisciti a noi per ulteriori informazioni su come App Builder consente di creare applicazioni cloud native per estendere le funzionalità predefinite di Adobe Experience Manager e di altri prodotti Adobe. Scopri i casi d’uso comuni e come iniziare a creare con App Builder.
+description: Esplora le possibilità offerte da App Builder e chiedici tutto ciò che desideri sapere. Unisciti a noi per ulteriori informazioni su come App Builder consente di creare applicazioni cloud native per estendere le funzionalità predefinite di Adobe Experience Manager e altri prodotti Adobe. Scopri i casi d’uso comuni e come iniziare a creare con App Builder.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9214
 type: Event
-exl-id: a2d4018b-1571-48c7-ae9b-f816c0564ede
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3b8d4aa4-5b2b-43b2-8cb4-3b01e2fb6e74
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
 # Introduzione ad App Builder: tutto il necessario per creare un’app cloud personalizzata che soddisfi le tue esigenze aziendali
 
-Esplora le possibilità offerte da App Builder e chiedici tutto ciò che desideri sapere. Unisciti a noi per ulteriori informazioni su come App Builder consente di creare applicazioni cloud native per estendere le funzionalità predefinite di Adobe Experience Manager e di altri prodotti Adobe. Scopri i casi d’uso comuni e come iniziare a creare con App Builder.
+Esplora le possibilità offerte da App Builder e chiedici tutto ciò che desideri sapere. Unisciti a noi per ulteriori informazioni su come App Builder consente di creare applicazioni cloud native per estendere le funzionalità predefinite di Adobe Experience Manager e altri prodotti Adobe. Scopri i casi d’uso comuni e come iniziare a creare con App Builder.
 
 Continua la conversazione in **[Community Experienci League](https://adobe.ly/3AYeJlv)**.
 
@@ -25,6 +25,6 @@ Continua la conversazione in **[Community Experienci League](https://adobe.ly/3A
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

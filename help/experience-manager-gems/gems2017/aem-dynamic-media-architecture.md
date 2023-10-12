@@ -1,23 +1,23 @@
 ---
-title: Architettura AEM Dynamic Media 6.3
-description: Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, spiega come utilizzare la versione 6.3 di Dynamic Media.
+title: Architettura AEM Dynamic Medie 6.3
+description: Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, spiega come utilizzare la versione 6.3 di Dynamic Medie.
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
-exl-id: e2039012-97a0-4a56-ae6d-b946e8c94075
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 69d32951-430a-4d30-b59c-73b9aa151ac5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 2%
 
 ---
 
-# Architettura AEM Dynamic Media 6.3{#aem-dynamic-media-architecture}
+# Architettura AEM Dynamic Medie 6.3{#aem-dynamic-media-architecture}
 
-Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, spiega come utilizzare la versione 6.3 di Dynamic Media, tra cui:
+Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, spiega come utilizzare la versione 6.3 di Dynamic Medie, tra cui:
 
-* Panoramica di Dynamic Media con nuove funzionalità
-* Architettura di Dynamic Media
+* Panoramica di Dynamic Medie con nuove funzionalità
+* Architettura di Dynamic Medie
 * Suggerimenti per la risoluzione dei problemi
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)

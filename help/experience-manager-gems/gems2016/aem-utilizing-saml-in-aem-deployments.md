@@ -1,18 +1,18 @@
 ---
-title: Utilizzo di SAML nelle implementazioni di Adobe Experience Manager
+title: Utilizzo di SAML nelle distribuzioni Adobe Experience Manager
 description: Unisciti a Sham Hassan Chikkegowda, CS Engineer, e Timothee Maret, Senior Developer, di Adobe per una recensione dell’utilizzo di SAML (Security Assertion Markup Language) con le tue distribuzioni di Experienci Manager. SAML è un formato di dati standard aperto basato su XML per lo scambio di dati di autenticazione e autorizzazione tra le parti, in particolare tra un provider di identità e un provider di servizi.  SAML è un prodotto del Comitato tecnico dei servizi di sicurezza OASIS.
 uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
-exl-id: 03f14808-7906-4e02-97bc-2da2273df817
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3631e05d-633f-42ef-a950-92f039081ced
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 2%
 
 ---
 
-# Utilizzo di SAML nelle implementazioni di Adobe Experience Manager{#utilizing-saml-in-adobe-experience-manager-deployments}
+# Utilizzo di SAML nelle distribuzioni Adobe Experience Manager{#utilizing-saml-in-adobe-experience-manager-deployments}
 
 Unisciti a Sham Hassan Chikkegowda, CS Engineer, e Timothee Maret, Senior Developer, di Adobe per una recensione dell’utilizzo di SAML (Security Assertion Markup Language) con le tue distribuzioni di Experienci Manager. SAML è un formato di dati standard aperto basato su XML per lo scambio di dati di autenticazione e autorizzazione tra le parti, in particolare tra un provider di identità e un provider di servizi.  SAML è un prodotto del Comitato tecnico dei servizi di sicurezza OASIS.
 

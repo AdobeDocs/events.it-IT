@@ -1,6 +1,6 @@
 ---
-title: Impostazione di una strategia Audience Activation efficace
-description: Questa sessione descrive l’importanza di una strategia di gestione dei dati, panoramica e funzionalità di Adobe Audience Manager, casi di utilizzo di Adobe Audience Manager, piano d’azione per l’impostazione di una strategia di gestione dei dati
+title: Definire una strategia Audience Activation efficace
+description: Questa sessione include l’importanza di una strategia di gestione dei dati, la panoramica e le funzionalità di Adobe Audience Manager, i casi di utilizzo di Adobe Audience Manager, il piano d’azione per la definizione di una strategia di gestione dei dati
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 feature-set: Audience Manager
@@ -8,15 +8,15 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13847
 thumbnail: 3423008.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+exl-id: e79a52b8-224e-45b6-884c-3d0fd9bc09a4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 59%
 
 ---
 
-
-# Impostazione di una strategia Audience Activation efficace
+# Definire una strategia Audience Activation efficace
 
 Questa sessione tratta i seguenti argomenti:
 

@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Sites headless
-description: Con GraphQL per frammenti di contenuto disponibile per Adobe Experience Manager 6.5 e Adobe Experience Manager as a Cloud Service, esploriamo come Adobe Experience Manager può essere utilizzato come CMS headless. Senza utilizzare la codifica Adobe Experience Manager, definisci i contenuti strutturati utilizzando i modelli per frammenti di contenuto, le relazioni tra di essi, come ottimizzare al meglio l’esperienza di modifica dei professionisti, e infine utilizza GraphQL e le query persistenti per la distribuzione dei contenuti ad applicazioni e servizi memorizzabili nella cache, a bassa latenza e a throughput elevato.
+description: Con GraphQL per frammenti di contenuto disponibile per Adobe Experience Manager 6.5 e Adobe Experience Manager as a Cloud Service, esploriamo come Adobe Experience Manager può essere utilizzato come CMS headless. Senza utilizzare la codifica Adobe Experience Manager, definisci i contenuti strutturati utilizzando i modelli per frammenti di contenuto, le relazioni tra di essi, come ottimizzare al meglio l’esperienza di modifica dei professionisti, e quindi utilizza GraphQL e le query persistenti per la distribuzione dei contenuti ad applicazioni e servizi memorizzabili nella cache, a bassa latenza e a throughput elevato.
 solution: Experience Manager
 feature: GraphQL API, Deploying
 topic: Headless
@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9144
 type: Event
-exl-id: 5be5c205-d856-4f42-b700-a6daa70b6ac2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 8d2c72dc-086f-443d-98c3-2a2497482f21
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Adobe Experience Manager Sites headless
 
-Con GraphQL per frammenti di contenuto disponibile per Adobe Experience Manager 6.5 e Adobe Experience Manager as a Cloud Service, esploriamo come Adobe Experience Manager può essere utilizzato come CMS headless. Senza utilizzare la codifica Adobe Experience Manager, definisci i contenuti strutturati utilizzando i modelli per frammenti di contenuto, le relazioni tra di essi, come ottimizzare al meglio l’esperienza di modifica dei professionisti, e infine utilizza GraphQL e le query persistenti per la distribuzione dei contenuti ad applicazioni e servizi memorizzabili nella cache, a bassa latenza e a throughput elevato.
+Con GraphQL per frammenti di contenuto disponibile per Adobe Experience Manager 6.5 e Adobe Experience Manager as a Cloud Service, esploriamo come Adobe Experience Manager può essere utilizzato come CMS headless. Senza utilizzare la codifica Adobe Experience Manager, definisci i contenuti strutturati utilizzando i modelli per frammenti di contenuto, le relazioni tra di essi, come ottimizzare al meglio l’esperienza di modifica dei professionisti, e quindi utilizza GraphQL e le query persistenti per la distribuzione dei contenuti ad applicazioni e servizi memorizzabili nella cache, a bassa latenza e a throughput elevato.
 
 Continua la conversazione in **[Community Experienci League](https://adobe.ly/39H5BWo).**
 

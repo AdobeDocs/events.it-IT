@@ -5,7 +5,7 @@ user-guide-description: I webinar Adobe di successo del cliente sono stati proge
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Strategia fondamentale per l’orchestrazione delle campagne](2023/foundational-strategy-campaign.md)
    + [Assegnazione di priorità a intelligence e misurazione](2023/intelligence-and-measurement.md)
    + [Preparazione alla migrazione di Real-time CDP](2023/rtcdp-migration-readiness.md)
-   + [Impostazione di una strategia Audience Activation efficace](2023/audience-activation.md)
+   + [Definire una strategia Audience Activation efficace](2023/audience-activation.md)
    + [Transizione a Real-time CDP](2023/aam-to-rtcdp.md)

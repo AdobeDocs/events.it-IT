@@ -2,11 +2,11 @@
 title: Adobe Developers Live ottobre 2021
 description: Una raccolta di video e tutorial per Adobe Experience Manager Sites distribuiti come parte dell’evento Adobe Developers Live.
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 17%
+ht-degree: 19%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 17%
 
 Dal 4 al 5 ottobre 2021, Adobe Developers Live ha riunito sviluppatori di Adobi e creatori di esperienze con background diversi e uno stesso obiettivo: creare esperienze end-to-end incredibili. Questa conferenza di due giorni ha presentato importanti aggiornamenti per gli sviluppatori, sessioni tecniche e opportunità di networking per la community.
 
-I team di Adobi di prodotto di Adobe Experience Cloud, Document Cloud e Creative Cloud hanno mostrato i progressi tecnologici e gli strumenti per sviluppatori più recenti che supportano la progettazione, i flussi di lavoro per la creazione di contenuti, i servizi di documentazione e la gestione dell’esperienza dei clienti nei diversi settori.
+I team di Adobi di prodotti di Adobe Experience Cloud, Document Cloud e Creative Cloud hanno mostrato i progressi tecnologici e gli strumenti per sviluppatori più recenti che supportano la progettazione, i flussi di lavoro per la creazione di contenuti, i servizi di documentazione e la gestione dell’esperienza dei clienti nei diversi settori.
 
 Entra in contatto con altri sviluppatori e partecipa alle conversazioni della sessione in Community Experienci League.
 * [Elenco delle sessioni complete di Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
@@ -81,7 +81,7 @@ Entra in contatto con altri sviluppatori e partecipa alle conversazioni della se
 * [Documentazione sull’authoring di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [Documentazione sullo sviluppo per AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [Documentazione sull’amministrazione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [Documentazione sulla distribuzione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Documentazione sulla distribuzione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it)
 * [Tutorial su AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it)
 * [Tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it)
 * [Tutorial su AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
@@ -89,7 +89,7 @@ Entra in contatto con altri sviluppatori e partecipa alle conversazioni della se
 
 ### Adobe Experience Platform
 
-* [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 * [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 * [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)
 

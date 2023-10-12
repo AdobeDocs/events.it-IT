@@ -1,7 +1,8 @@
 ---
 title: Ore ufficio campioni AEM
 description: Questo gruppo di utenti Adobe Experience Manager (AEMUG) è facilitato dalla classe di campioni AEM 2022-2023. I campioni utilizzeranno questa AEMUG come piattaforma per le ore di lavoro mensili
-source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
+exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 Questo gruppo di utenti Adobe Experience Manager (AEMUG) è facilitato dalla classe di campioni AEM 2022-2023. I campioni utilizzeranno questa AEMUG come piattaforma per le ore di lavoro mensili, alle quali i professionisti dell’AEM e gli sviluppatori di tutti i livelli di esperienza potranno partecipare e alle quali gli Experienci Manager di clienti, partner e consulenti risponderanno alle domande più difficili.
 
-Se ti interessa migliorare le tue conoscenze e l’utilizzo di Adobe Experience Manager, interagire con i leader del pensiero Experience Manager e guadagnare uno swag esclusivo, unisciti oggi stesso al gruppo di utenti Office Hours del campione AEM!
+Se sei interessato a far progredire la tua conoscenza e l&#39;uso di Adobe Experience Manager, interagire con i leader del pensiero Experience Manager e guadagnare uno swag esclusivo - allora unisciti al AEM Champion Office Hours User Group oggi stesso!
 
 <!--
 ## What's New

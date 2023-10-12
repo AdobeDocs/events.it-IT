@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7339
-exl-id: c2c500bf-b060-4507-af61-4c5dd1c5a8ec
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 15%
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 # Metadati - Serie di risorse Adobe Experience Manager
 
-Utilizza questa serie di webinar in cinque parti per creare una knowledge base e massimizzare l’investimento in Adobe Experience Manager Assets. Se sei un professionista che non ha mai utilizzato Adobe Experience Manager Assets o che utilizza Adobe Experience Manager Assets da un po’ e desideri acquisire nuove competenze, questo è il modo ideale per immergerti in cinque delle aree più importanti della soluzione. Gli Adobi esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
+Utilizza questa serie di webinar in cinque parti per creare una knowledge base e massimizzare l’investimento in Adobe Experience Manager Assets. Se sei un professionista senza esperienza di Adobe Experience Manager Assets o che utilizza Adobe Experience Manager Assets da un po’ e desideri acquisire nuove competenze, questo è il modo ideale per entrare in cinque delle aree più importanti della soluzione. Gli Adobi esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 

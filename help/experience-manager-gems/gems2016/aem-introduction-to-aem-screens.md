@@ -4,8 +4,8 @@ description: AEM Screens è la nuova soluzione di digital signage integrata in A
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 8%
@@ -41,4 +41,3 @@ Progetto di esempio
 >Le versioni 6.4 e precedenti di AEM sono entrate nella fase &quot;fine del ciclo di vita&quot; e non sono più vendute da Adobe.  L’Adobe consiglia di eseguire l’aggiornamento alla versione più recente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it).  Le versioni archiviate della documentazione sono accessibili da questo [pagina](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=it).
 >
 >Per informazioni sulla sessione, vedere *Distribuzione di Screens* e *Concetto di Screens* nella documentazione AEM 6.2.
-

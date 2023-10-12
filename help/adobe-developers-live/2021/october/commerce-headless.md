@@ -7,11 +7,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9200
 type: Event
-exl-id: 3cbbaaf4-bc98-499b-a20c-0e9b2d9ac83d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 82229f38-cd4d-4595-b348-168f9c6109c7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
@@ -23,6 +23,6 @@ Adobe Commerce Cloud viene utilizzata come piattaforma eCommerce per 7-Eleven Au
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

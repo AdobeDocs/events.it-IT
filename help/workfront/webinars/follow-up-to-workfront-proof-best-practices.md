@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
-exl-id: 19d73416-80b3-41b3-98ac-6065975ed6bb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1638'
 ht-degree: 2%
@@ -91,7 +91,7 @@ Sì, passa a Workfront Proof, quindi seleziona Flussi di lavoro dal menu a sinis
 
 **Risposta**
 
-Nel caso della verifica, si sta gestendo il processo di approvazione utilizzando il motore del flusso di lavoro della bozza. Questo consente di utilizzare lo strumento di revisione della bozza collaborativa per raccogliere feedback, commenti, markup, decisioni e fasi. È possibile utilizzare più trigger del flusso di lavoro per instradare la bozza e impostazioni specifiche per le fasi della bozza, ad esempio Blocco, Fasi private e Responsabili delle decisioni primarie. Puoi anche assegnare ruoli di bozza univoci e notifiche e-mail di bozza univoche. Inoltre, puoi rivedere i contenuti in base alle diverse esigenze, ad esempio con bozze statiche, video e interattive (circa 150 tipi di file diversi).
+Nel caso della verifica, si sta gestendo il processo di approvazione utilizzando il motore del flusso di lavoro della bozza. Questo consente di utilizzare lo strumento di revisione della bozza collaborativa per raccogliere feedback, commenti, markup, decisioni e fasi. È possibile utilizzare più attivatori del flusso di lavoro per instradare la bozza e impostazioni specifiche per le fasi della bozza, ad esempio Blocco, Fasi private e Responsabili delle decisioni primarie. Puoi anche assegnare ruoli di bozza univoci e notifiche e-mail di bozza univoche. Inoltre, puoi rivedere i contenuti in base alle diverse esigenze, ad esempio con bozze statiche, video e interattive (circa 150 tipi di file diversi).
 
 **domande**
 

@@ -1,5 +1,5 @@
 ---
-title: Introduzione
+title: Guida introduttuva
 description: Interfaccia utente di base di Analytics, avvia il tuo primo progetto in Analysis Workspace e inizia a utilizzare tabelle, visualizzazioni e pannelli.
 solution: Analytics
 feature-set: Analytics
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 kt: 10475
 thumbnail: 343349.jpeg
-exl-id: 0f56ab4d-f782-4af9-befa-d6ce0a9bc856
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e7c8a227-bd03-46d8-b463-e7331233f7fb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 8%
 
 ---
 
-# Introduzione
+# Guida introduttuva
 
 Acquisisci familiarità con l’interfaccia utente di base di Analytics e avvia il tuo primo progetto in Analysis Workspace. Durante questa sessione inizieremo a utilizzare tabelle, visualizzazioni e pannelli.
 

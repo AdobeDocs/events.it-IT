@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - 22 NOVEMBRE - Crea la tua prima app React
-description: Crea la tua prima app React con CMSI headless di Experience Manager Introduzione alle funzionalità GraphQL dei frammenti di contenuto CMS headless di Adobe Experience Manager.In questa sessione scoprirai come configurare rapidamente un’app React alimentata con dati provenienti da CMS headless di Adobe Experience Manager.
+description: Crea la tua prima app React con CMSI headless di Experience Manager Introduzione a GraphQL con frammenti di contenuto CMS headless Adobe Experience Manager.In questa sessione scoprirai come configurare rapidamente un’app React alimentata con dati provenienti da CMS headless Adobe Experience Manager.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11474
 thumbnail: 3411298.jpeg
-exl-id: 32cef22c-f1b9-41b8-95a2-b2d3eea5b150
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b04737ec-86b9-44fe-ac47-90d4452da89a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

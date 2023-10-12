@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -201,7 +201,7 @@ Siamo un reparto Marketing e approviamo una bozza interna, quindi dobbiamo invia
 
 **domande**
 
-Una volta creata una bozza da un altro utente, qual è il modo migliore per aggiungere se stessi come revisore e approvatore?
+Una volta creata una bozza da un altro utente, qual è il modo migliore per aggiungerti in qualità di revisore e approvatore?
 
 **Risposta**
 

@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9149
 type: Event
-exl-id: a5e6fcf7-b743-4cb9-ade7-66b088f52fd9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1df3b772-2599-4ab9-842e-2d3c0346fc95
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 17%
+ht-degree: 20%
 
 ---
 
@@ -25,6 +25,6 @@ Scopri come utilizzare l’API gratuita di incorporamento di Adobe PDF per sempl
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

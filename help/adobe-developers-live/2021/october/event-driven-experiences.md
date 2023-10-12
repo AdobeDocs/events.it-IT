@@ -7,11 +7,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9137
 type: Event
-exl-id: dadd18a7-99de-4570-9f04-4deafb736244
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 38a71125-d161-4271-8c7f-b57734e45c32
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
@@ -25,6 +25,6 @@ Continua la conversazione in **[Community Experienci League](https://adobe.ly/3k
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)
