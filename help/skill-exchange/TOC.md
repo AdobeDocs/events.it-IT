@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 11%
 
 ---
@@ -23,14 +23,14 @@ ht-degree: 11%
       + [Metriche](analytics/may2023/metrics.md)
       + [Nozioni di base sull’interfaccia utente](analytics/may2023/user-interface.md)
    + Ottobre 2022 {#oct2022}
-      + [Introduzione](analytics/oct2022/getting-started.md)
+      + [Guida introduttuva](analytics/oct2022/getting-started.md)
       + [Analisi dei dati](analytics/oct2022/analyzing-the-data.md)
       + [Tutti gli elementi insieme](analytics/oct2022/putting-it-all-together.md)
       + [ROI analisi](analytics/oct2022/analytics-roi.md)
       + [Analytics: riflettori sull’apprendimento di Experience Makers](analytics/oct2022/spotlight.md)
       + [Padroneggiare la cintura dello strumento Adobe Analytics](analytics/oct2022/toolbelt.md)
    + Settembre 2022 {#sept2022}
-      + [Introduzione](analytics/sept2022/getting-started.md)
+      + [Guida introduttuva](analytics/sept2022/getting-started.md)
       + [Analisi dei dati](analytics/sept2022/analyzing-the-data.md)
       + [Tutti gli elementi insieme](analytics/sept2022/putting-it-all-together.md)
       + [Personalizzazione di Adobe Analytics](analytics/sept2022/making-analytics-your-own.md)
@@ -42,7 +42,7 @@ ht-degree: 11%
       + [Suggerimenti e trucchi per Adobe Analytics](analytics/may2022/tips-and-tricks.md)
       + [Analisi dei dati](analytics/may2022/analyze-data.md)
       + [Riflettori puntati su Experience Maker](analytics/may2022/experience-makers-spotlight.md)
-      + [Introduzione](analytics/may2022/getting-started.md)
+      + [Guida introduttuva](analytics/may2022/getting-started.md)
       + [Tutti gli elementi insieme](analytics/may2022/putting-all-together.md)
       + [Le 10 migliori tecnologie di analisi digitale disponibili per](analytics/may2022/top-ten.md)
    + Ottobre 2021 {#oct2021}
@@ -50,23 +50,32 @@ ht-degree: 11%
       + [Suggerimenti e trucchi per Adobe Analytics](analytics/oct2021/tips-and-tricks.md)
       + [Suggerimenti e trucchi per Analysis Workspace](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
       + [Analisi dei dati](analytics/oct2021/analyze-data.md)
-      + [Introduzione](analytics/oct2021/getting-started.md)
+      + [Guida introduttuva](analytics/oct2021/getting-started.md)
       + [Tutti gli elementi insieme](analytics/oct2021/putting-all-together.md)
    + Settembre 2021 {#sept2021}
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Suggerimenti e trucchi per Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [Analisi dei dati](analytics/sept2021/analyze-data.md)
-      + [Introduzione](analytics/sept2021/getting-started.md)
+      + [Guida introduttuva](analytics/sept2021/getting-started.md)
       + [Sfide dell’SPA nelle build di test e nelle analisi](analytics/sept2021/navigate-spa.md)
       + [Tutti gli elementi insieme](analytics/sept2021/putting-all-together.md)
    + Giugno 2021 {#jun2021}
       + [Suggerimenti e trucchi per Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
       + [Adobe Analytics Rockstars](analytics/jun2021/analytics-rockstars.md)
       + [Analisi dei dati](analytics/jun2021/analyze-data.md)
-      + [Introduzione](analytics/jun2021/getting-started.md)
+      + [Guida introduttuva](analytics/jun2021/getting-started.md)
       + [Canali Di Marketing, Utilizzati Responsabilmente](analytics/jun2021/marketing-channels.md)
       + [Tutti gli elementi insieme](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Agosto 2023 {#aug2023}
+      + Developer Track {#developer-track}
+         + [Kit per sviluppatori AEM](aem/aug2023/deploy-new-project.md)
+         + [Creazione di un sistema di stili efficace e scalabile](aem/aug2023/scalable-style-system.md)
+         + [Migrare ad AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Traccia web {#webtrack}
+         + [Guida introduttiva ad AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Utilizzo di un DAM collaborativo](aem/aug2023/collaborative-dam.md)
+         + [Scalabilità per la preparazione all’intelligenza artificiale](aem/aug2023/metadata.md)
    + Agosto 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Riflettori puntati su Experience Maker](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 11%
       + [Generazione di rapporti in [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Suggerimenti e trucchi per il tuo Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto 2023 {#aug2023}
+      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
    + Aprile 2022 {#apr2022}
       + [10 suggerimenti per il Workfront](workfront/apr2022/ten-tips.md)
       + [Campi Calcolati Che Tutti Dovrebbero Conoscere](workfront/apr2022/calculated-fields.md)
