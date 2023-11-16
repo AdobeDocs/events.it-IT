@@ -3,7 +3,7 @@ user-guide-title: Eventi Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Raccolta di registrazioni dall’evento Adobe Developer Live Content
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 8%
@@ -17,20 +17,20 @@ ht-degree: 8%
 + 2023 {#2023}
    + Novembre {#nov2023}
       + [Apertura di una nota chiave](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Creare un sito web](2023/november/edge-breakout-1.md)
          + [Prestazioni del sito web](2023/november/edge-breakout-2.md)
          + [Una distribuzione del cliente](2023/november/edge-breakout-3.md)
          + [Authoring basato su documenti](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [API headless](2023/november/headless-breakout-1.md)
          + [Editor universale](2023/november/headless-breakout-2.md)
          + [Origini dati esterne](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Servizi catalogo](2023/novemnber/commerce-breakout-1.md)
-         + [Integrare con il Sales Channel Amazon](2023/novemnber/commerce-breakout-2.md)
-         + [Estensibilità basata su eventi](2023/novemnber/commerce-breakout-3.md)
-         + [Mesh API](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Servizi catalogo](2023/november/commerce-breakout-1.md)
+         + [Integrare con il Sales Channel Amazon](2023/november/commerce-breakout-2.md)
+         + [Estensibilità basata su eventi](2023/november/commerce-breakout-3.md)
+         + [Mesh API](2023/november/commerce-breakout-4.md)
    + Maggio {#may2023}
       + [Apertura di una nota chiave](2023/may/keynote.md)
       + [Presentazione API](2023/may/new-apis.md)
