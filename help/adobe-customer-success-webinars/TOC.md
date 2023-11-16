@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 900cc9e1d3b0f0ab268d4ad864f7c663018cf833
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 7%
 
 ---
@@ -15,12 +15,14 @@ ht-degree: 7%
 + [Adobe di webinar per il successo del cliente](overview.md)
 + 2023 {#2023}
    + [Creazione delle basi per la personalizzazione su larga scala](2023/personalization-at-scale.md)
+   + [Gestione delle modifiche](2023/change-management.md)
    + [Contenuti ed esperienze - Personalizzazione](2023/content-experiences-personalization.md)
    + [Preparazione alla migrazione del Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Nozioni di base sull’integrazione dei Customer Journey Analytics](2023/cja-integration-essentials.md)
    + [Strategia di misurazione efficace](2023/measurement-strategy.md)
    + [Strategia fondamentale per l’orchestrazione delle campagne](2023/foundational-strategy-campaign.md)
    + [Assegnazione di priorità a intelligence e misurazione](2023/intelligence-and-measurement.md)
+   + [Preparazione dei dati di Real-time CDP](2023/rtcdp-migration-data-readiness.md)
    + [Preparazione alla migrazione di Real-time CDP](2023/rtcdp-migration-readiness.md)
    + [Definire una strategia Audience Activation efficace](2023/audience-activation.md)
    + [Transizione a Real-time CDP](2023/aam-to-rtcdp.md)

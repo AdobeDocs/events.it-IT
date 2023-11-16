@@ -3,10 +3,10 @@ user-guide-title: Eventi Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Raccolta di registrazioni dall’evento Adobe Developer Live Content
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 6%
+source-wordcount: '700'
+ht-degree: 8%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 6%
 
 + [Panoramica](overview.md)
 + 2023 {#2023}
+   + Novembre {#nov2023}
+      + [Apertura di una nota chiave](2023/november/keynote.md)
+      + Edge Delivery Services
+         + [Creare un sito web](2023/november/edge-breakout-1.md)
+         + [Prestazioni del sito web](2023/november/edge-breakout-2.md)
+         + [Una distribuzione del cliente](2023/november/edge-breakout-3.md)
+         + [Authoring basato su documenti](2023/november/deep-dive.md)
+      + Headless
+         + [API headless](2023/november/headless-breakout-1.md)
+         + [Editor universale](2023/november/headless-breakout-2.md)
+         + [Origini dati esterne](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Servizi catalogo](2023/novemnber/commerce-breakout-1.md)
+         + [Integrare con il Sales Channel Amazon](2023/novemnber/commerce-breakout-2.md)
+         + [Estensibilità basata su eventi](2023/novemnber/commerce-breakout-3.md)
+         + [Mesh API](2023/novemnber/commerce-breakout-4.md)
    + Maggio {#may2023}
       + [Apertura di una nota chiave](2023/may/keynote.md)
       + [Presentazione API](2023/may/new-apis.md)
@@ -59,7 +75,7 @@ ht-degree: 6%
       + [Autenticazione API con Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Acquisizione in blocco delle risorse](2021/february/asset-bulk-ingestion.md)
       + [Estensibilità del servizio Asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [Estensibilità CIF tramite GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [Estensibilità dell’CIF tramite GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Contenuti ed e-commerce con Experience Manager](2021/february/content-commerce.md)
       + [Consegna dei contenuti con Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Test funzionali personalizzati](2021/february/custom-functional-tests-cicd.md)
@@ -119,7 +135,7 @@ ht-degree: 6%
       + [Experience Manager Forms CS: tenere traccia dello sviluppo utilizzando le API](2021/october/aem-forms-cs-apis.md)
       + [Experience Manager Forms CS - Registrazione digitale sicura multicanale](2021/october/multichannel-digital-enrollment.md)
       + [Destination SDK Experience Platform](2021/october/destination-sdk.md)
-      + [Integrazione Experience Platform](2021/october/aep-integration.md)
+      + [Integrazione Experienci Platform](2021/october/aep-integration.md)
       + [Estendere l’AEM con App Builder](2021/october/extend-aem-app-builder.md)
       + [Estensione di Adobe Commerce tramite Adobe I/O](2021/october/commerce-io.md)
       + [Esperienze basate su eventi](2021/october/event-driven-experiences.md)
