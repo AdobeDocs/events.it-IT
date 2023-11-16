@@ -8,7 +8,7 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14386
 thumbnail: 3425603.jpeg
-source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
+source-git-commit: 613a25eb1dda2076ff87dc03f0680f1193490f4f
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Preparazione dei dati di Real-time CDP
 
-Scopri la strategia alla base della preparazione organizzativa dal punto di vista della preparazione ai dati per un lancio semplificato di Real-time CDP.
+Scopri la strategia alla base della preparazione organizzativa dal punto di vista della preparazione ai dati per un lancio di Real-time CDP semplificato.
 
 * Preparazione dei dati di Real-Time CDP
 * Scopri come allinearsi ai casi d’uso aziendali come organizzazione
