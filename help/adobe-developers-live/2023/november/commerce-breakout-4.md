@@ -2,14 +2,15 @@
 title: Adobe Developers Live Commerce Breakout 4 - novembre 2023
 description: Cristian Partica affronta le sfide dell’integrazione delle API in Adobe Commerce in questa sessione informativa registrata in diretta il 6 novembre 2023. Scopri in che modo API Mesh consente di gestire in modo efficiente i vari flussi di lavoro, garantendo la coerenza dei dati e offrendo esperienze utente semplificate nell’attuale panorama del commercio digitale. Questa sessione è ideale per gli sviluppatori che desiderano trovare strategie efficaci per l’integrazione API all’interno della sfera in rapida evoluzione di Adobe Commerce.
 solution: Commerce
-feature-set: API Mesh, Integration
+feature-set: Commerce
+feature: API Mesh, Integration
 role: Developer
 level: Beginner
 doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14430
 thumbnail: 3425628.jpeg
-source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
+source-git-commit: 97266ccd0a43b20448a5546b92f590f547058907
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
