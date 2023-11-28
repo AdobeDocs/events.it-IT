@@ -2,8 +2,7 @@
 user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
-feature-set: Workfront
-source-git-commit: 07e92e59ba5c6b0b9ac7d66fb929d0be4d8b1f06
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

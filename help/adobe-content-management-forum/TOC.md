@@ -2,9 +2,8 @@
 user-guide-title: Forum sulla gestione dei contenuti Adobe
 user-guide-breadcrumb: Adobe Content Management Forum
 user-guide-description: Scopri dagli Adobi esperti lo stato attuale e futuro della strategia di gestione dei contenuti, i materiali da consegnare, le sfide e i requisiti tecnici.
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
 solution: Experience Manager
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 1%

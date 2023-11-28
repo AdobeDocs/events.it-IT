@@ -2,11 +2,10 @@
 user-guide-title: Eventi Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Raccolta di registrazioni dall’evento Adobe Developer Live Content
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 8%
+source-wordcount: '718'
+ht-degree: 7%
 
 ---
 
@@ -27,10 +26,13 @@ ht-degree: 8%
          + [Editor universale](2023/november/headless-breakout-2.md)
          + [Origini dati esterne](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [Servizi catalogo](2023/november/commerce-breakout-1.md)
-         + [Integrare con il Sales Channel Amazon](2023/november/commerce-breakout-2.md)
-         + [Estensibilità basata su eventi](2023/november/commerce-breakout-3.md)
+         + [Adobe App Builder, Adobe IO, webhook e Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [Mesh API](2023/november/commerce-breakout-4.md)
+         + [Servizi catalogo](2023/november/commerce-breakout-1.md)
+         + [Estensibilità basata su eventi](2023/november/commerce-breakout-3.md)
+         + [Integrare con il Sales Channel Amazon](2023/november/commerce-breakout-2.md)
+         + [Introduzione ad Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
+         + [Servizio di ricerca e catalogo](2023/november/commerce-search-and-catalog-service.md)
    + Maggio {#may2023}
       + [Apertura di una nota chiave](2023/may/keynote.md)
       + [Presentazione API](2023/may/new-apis.md)

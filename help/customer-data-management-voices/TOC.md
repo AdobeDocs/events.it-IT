@@ -2,8 +2,7 @@
 user-guide-title: Customer Data Management Voices
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: La destinazione di gestione dei dati cliente per il responsabile e lo specialista delle procedure tecniche e di marketing
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
