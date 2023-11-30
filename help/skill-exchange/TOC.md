@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '443'
 ht-degree: 10%
 
 ---
@@ -118,8 +118,7 @@ ht-degree: 10%
       + [Integrazioni native con Creative Cloud](workfront/aug2023/native-integtrations.md)
       + [Automazioni mirate](workfront/aug2023/automations.md)
       + [Burnout gestione risorse](workfront/aug2023/resource-management-burnout.md)
-      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
-      + [Kit di avvio per gestione risorse](workfront/aug2023/resource-management-starter-kit.md)
+         + [Kit di avvio per gestione risorse](workfront/aug2023/resource-management-starter-kit.md)
    + Aprile 2022 {#apr2022}
       + [10 suggerimenti per il Workfront](workfront/apr2022/ten-tips.md)
       + [Campi Calcolati Che Tutti Dovrebbero Conoscere](workfront/apr2022/calculated-fields.md)
