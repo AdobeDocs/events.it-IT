@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '446'
 ht-degree: 10%
 
 ---
@@ -76,6 +76,7 @@ ht-degree: 10%
          + [Guida introduttiva ad AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utilizzo di un DAM collaborativo](aem/aug2023/collaborative-dam.md)
          + [Scalabilità per la preparazione all’intelligenza artificiale](aem/aug2023/metadata.md)
+         + [In evidenza](aem/aug2023/spotlight.md)
    + Agosto 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Riflettori puntati su Experience Maker](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 10%
       + [Crescita ed efficienza continua](workfront/aug2023/growth-continued-efficiencies.md)
       + [Workfront maturo in tutta l&#39;azienda](workfront/aug2023/workfront-across-enterprise.md)
       + [Integrazioni native con Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Apertura di una nota chiave](workfront/aug2023/opening-keynote.md)
       + [Automazioni mirate](workfront/aug2023/automations.md)
       + [Burnout gestione risorse](workfront/aug2023/resource-management-burnout.md)
       + [Kit di avvio per gestione risorse](workfront/aug2023/resource-management-starter-kit.md)
