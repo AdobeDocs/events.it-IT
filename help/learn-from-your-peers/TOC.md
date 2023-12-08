@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
+source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 19%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 19%
 + [Experience Makers](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + Novembre {#nov2023}
+         + [Visualizzazioni dati di impatto](analytics/nov2023/impactful-data-visualizations.md)
       + Agosto {#aug2023}
          + [Sblocco della potenza delle regole di elaborazione in Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Febbraio {#feb2023}
