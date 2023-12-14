@@ -8,9 +8,9 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
+source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Scopri in che modo le nuove funzioni rilasciate nel 2023 possono aiutarti ad attivare i tipi di pubblico in modo più efficace ed efficiente per una personalizzazione di impatto.
 
-[![ExL LIVE 14 dicembre 2023](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Fai clic sull’immagine qui sopra per registrarti allo spettacolo!**.
+**Osserva la ripetizione qui sopra. Puoi anche continuare la discussione relativa a questa sessione sul [Experience League discussione della community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **Dettagli:**
 Sei un professionista Real-Time CDP attuale e stai cercando informazioni sulle novità del prodotto, sul perché è importante e su come Adobe può aiutarti a migliorare le strategie di gestione dei dati dei clienti? Non guardate oltre - siete venuti nel posto giusto! In questa serie, approfondiremo ciò che è stato recentemente lanciato in Real-Time CDP in modo da poter sfruttare subito le novità e avere un impatto sulla tua organizzazione.
@@ -41,6 +41,5 @@ Al termine di questa sessione, dovresti aspettarti di:
 * Essere in grado di iniziare a sfruttare queste nuove funzioni oggi stesso
 * Inizia a migliorare le tue attività di personalizzazione dei clienti oggi stesso!
 
-Come sempre, questa sessione dal vivo consente di porre domande nella chat e ottenere risposte dagli esperti.
 
 
