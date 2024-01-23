@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 76114d714811f932ee6a30a4f0da77fedc9e136c
+source-git-commit: c2801af2ad596fca76eb920a4fce06811124f359
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ In questo webinar imparerai:
 ## Risorse condivise nel webinar
 
 * Thread del webinar della community di Marketing Nation [Discussione](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Punteggio di persona/lead con esercizi di influenza locale: [Scheda Lavoro](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* L’elenco completo delle regole per il punteggio lead - [Scheda Lavoro](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Punteggio di persona/lead con esercizi di influenza locale - [Scarica foglio di lavoro](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* L’elenco completo delle regole per il punteggio lead - [Visualizza foglio di lavoro](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Libreria importazione programmi di Marketo Engage - [Documentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
 * Punteggio di lead tutto da sapere sul processo prima, durante e dopo - [Webinar on-demand](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Punteggio del campione in testa - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
