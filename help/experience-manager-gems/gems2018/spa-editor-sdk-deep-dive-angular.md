@@ -1,14 +1,14 @@
 ---
 title: Approfondimento dell’SDK dell’editor di SPA - Parte 2 - Angular
 description: Approfondisci lo sviluppo di applicazioni a pagina singola che possono essere create utilizzando l’Editor pagina AEM.
-uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: da77b44b-5bf2-43de-bf72-9f302398decf
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2754
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 10%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -38,7 +38,7 @@ Diapositive presentatore - 11/21/18
 
 [Tutorial del fine settimana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=it)
 
-[Documentazione](https://helpx.adobe.com/it/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentazione](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Esempio - Giornale di registrazione We retail](https://github.com/adobe/aem-sample-we-retail-journal)
 

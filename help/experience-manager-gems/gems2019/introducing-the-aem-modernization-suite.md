@@ -1,13 +1,13 @@
 ---
 title: Introduzione alla suite di modernizzazione dell’AEM
 description: Scopri come convertire le pagine di modelli statici in modelli modificabili. Scopri come convertire componenti personalizzati o legacy in proxy di componenti core e altro ancora.
-uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 1a3fb1de-4c75-4527-9743-a14822566369
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3324
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---

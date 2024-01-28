@@ -1,11 +1,11 @@
 ---
 title: Versione principale di Brand Portal e nuova implementazione di riferimento per Asset Share
 description: I portali multimediali sono fondamentali per le organizzazioni per condividere le risorse sia internamente che, in molti casi, esternamente. In questa sessione presentiamo le nuove Asset Share Commons di Adobe Assets.
-uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
 exl-id: 2ca69b0f-8e43-437b-9fbb-76376fb1c17d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3408
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%

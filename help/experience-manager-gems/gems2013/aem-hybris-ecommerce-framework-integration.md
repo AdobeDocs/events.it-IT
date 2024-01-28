@@ -1,14 +1,14 @@
 ---
 title: hybris/AEM 5.6 eCommerce Framework Integration
 description: Scopri la nostra soluzione di integrazione per hybris in AEM. Iniziamo con una panoramica dell’integrazione del connettore con il framework eCommerce e dei flussi di lavoro generali quando si utilizza questa soluzione. Quindi, approfondiamo la discussione su come estendere e/o personalizzare il connettore per adattarlo alle esigenze specifiche del progetto.
-uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: d729b2b1-d279-4204-9101-68df5aee79c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1878
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 2%
 
 ---
 

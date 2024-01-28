@@ -5,12 +5,12 @@ solution: Data Collection,Experience Platform
 kt: 10528
 thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
-event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3833
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Stai pensando di migrare l’implementazione al nuovo Adobe Web SDK?  Eseguiremo
 
 **Risposta:** L’ECID di Adobe non viene acquisito all’interno di tale estensione. Questa estensione è destinata alla creazione di identificatori aggiuntivi e anonimi (tra le altre cose).
 
-**Risposta:** Tuttavia, l’ECID Adobe può essere acquisito in altri modi. Lo condivideremo tramite le note ExL e Twitter poiché non è possibile condividere i collegamenti nella chat qui.
+**Risposta:** Tuttavia, l’ECID Adobe può essere acquisito in altri modi. Lo condivideremo tramite le note e il Twitter ExL poiché non è possibile condividere i collegamenti nella chat qui.
 
 <br> 
 

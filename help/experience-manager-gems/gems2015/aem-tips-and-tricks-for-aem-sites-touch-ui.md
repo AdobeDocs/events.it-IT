@@ -1,11 +1,11 @@
 ---
 title: Suggerimenti per l’interfaccia utente touch di AEM Sites
 description: Scopri i suggerimenti più interessanti su [!DNL AEM Sites] Interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

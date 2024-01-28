@@ -4,20 +4,20 @@ description: Unisciti al moderatore Doug Moore e agli ospiti Nick Cammuso e Jack
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 0d4c3913e2db031097c1a3a3a7555ab4c4227181
+duration: 3812
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
 # Come posso gestire tutti questi tipi di pubblico?
 
-Unisciti al moderatore Doug Moore e agli ospiti Nick Cammuso e Jackie Chevallier per scoprire come utilizzare sia Audience Manager (AAM) che Real-time Customer Data Platform (RTCDP) per aiutarti a raggiungere le tue strategie chiave di pubblico e i tuoi casi d’uso. Mostreranno anche come prendere segmenti di pubblico chiave dall&#39;AAM e inviarli a RTCDP per una maggiore flessibilità e targeting.
+Unisciti al moderatore Doug Moore e agli ospiti Nick Cammuso e Jackie Chevallier per scoprire come utilizzare sia Audienci Manager (AAM) che Real-time Customer Data Platform (RTCDP) per aiutarti a raggiungere le tue strategie chiave di pubblico e i tuoi casi d’uso. Mostreranno anche come prendere segmenti di pubblico chiave dall&#39;AAM e inviarli a RTCDP per una maggiore flessibilità e targeting.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 

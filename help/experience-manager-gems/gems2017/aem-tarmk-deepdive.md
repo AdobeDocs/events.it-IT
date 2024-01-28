@@ -1,11 +1,11 @@
 ---
 title: Into the tar pit - a TarMK deep dive (Indagine approfondita su TarMK)
 description: Vi siete mai chiesti cosa c'è all'interno dei file tar di TarMK? Che cos’è un segmento e che cos’è un record? Come funziona la raccolta dei rifiuti dell’archivio segmenti e perché (o perché no)? Questa sessione risponde a queste domande e molte altre.
-uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
 exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4071
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%

@@ -1,13 +1,13 @@
 ---
 title: Mantenimento di Open Source e integrità mentale
 description: Mantenere progetti open source può essere difficile. Progetti open source di successo possono richiedere molto tempo e spesso ti senti in colpa perché non trascorri abbastanza tempo a lavorarci. Impara una serie di cose che possono aiutarti a stare al passo con il tuo progetto senza i sentimenti di colpevolezza.
-uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
 exl-id: c9fddf02-73ec-44d9-be07-3f7fdcd62f70
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2085
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---

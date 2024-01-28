@@ -1,6 +1,6 @@
 ---
-title: Adobe Workfront e Adobe Experience Manager Assets
-description: Scopri come Adobe Workfront e Adobe Experience Manager Assets lavorano insieme.
+title: ADOBE WORKFRONT e ADOBE EXPERIENCE MANAGER ASSETS
+description: Scopri come Adobe Workfront e Adobe Experience Manager Assets collaborano.
 solution: Workfront, Experience Manager,Experience Manager Assets
 topic: Integrations
 role: User
@@ -9,16 +9,17 @@ version: Cloud Service
 kt: 9135
 type: Event
 exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1664
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 18%
+source-wordcount: '63'
+ht-degree: 11%
 
 ---
 
-# Adobe Workfront e Adobe Experience Manager Assets
+# ADOBE WORKFRONT e ADOBE EXPERIENCE MANAGER ASSETS
 
-Scopri come Adobe Workfront e Adobe Experience Manager Assets lavorano insieme.
+Scopri come Adobe Workfront e Adobe Experience Manager Assets collaborano.
 
 Continua la conversazione in **[Community Experienci League](https://adobe.ly/3kHfJED)**.
 
@@ -26,6 +27,6 @@ Continua la conversazione in **[Community Experienci League](https://adobe.ly/3k
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
+- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
 - [Panoramica del Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutorial su Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

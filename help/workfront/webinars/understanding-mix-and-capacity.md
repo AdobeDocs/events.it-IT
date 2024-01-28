@@ -1,14 +1,14 @@
 ---
 title: 'Chiedi all’esperto: comprendere la combinazione e la capacità'
 description: Scopri come misurare la combinazione e la capacità all’interno della tua azienda. Questo webinar è stato registrato il 2 ottobre 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4239
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '2224'
+source-wordcount: '2230'
 ht-degree: 1%
 
 ---

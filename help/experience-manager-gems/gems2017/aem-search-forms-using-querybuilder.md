@@ -1,14 +1,14 @@
 ---
 title: Moduli di ricerca semplificati con il querybuilder AEM
 description: Questa sessione spiega i principi alla base di querybuilder rispetto ad altri linguaggi di query nello stack JCR. Viene illustrato come utilizzarlo per creare facilmente moduli di ricerca affidabili, come creare ricerche efficienti, come eseguire il debug delle query e come estenderli.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 6%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ Demo
 
 * [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), presentata da Alexander Klimetschek
 
-Documentazione di AEM
+Documentazione AEM
 
 >[!WARNING]
 >

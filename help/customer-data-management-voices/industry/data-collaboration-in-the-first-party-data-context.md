@@ -9,10 +9,11 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 31%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
@@ -22,7 +23,7 @@ Mantenere la promessa dell’esperienza, con accesso a meno dati. Che tu sia un 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## Conclusioni principali:
+## Principali soluzioni:
 
 * Come incorporare modelli di collaborazione sui dati nel contesto dei dati di prime parti, con il consenso dei consumatori.
 * Creazione di partnership brand-to-brand ed editore-dirette che mantengano la promessa dell’esperienza.

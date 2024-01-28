@@ -1,14 +1,14 @@
 ---
 title: 'Chiedi all’esperto: best practice per massimizzare la bozza di Workfront'
 description: Scopri come configurare le impostazioni, abilitare funzioni di reporting avanzate ed evitare problemi comuni in Proof. Questo webinar è stato registrato il 26 febbraio 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5182
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '5566'
+source-wordcount: '5572'
 ht-degree: 2%
 
 ---

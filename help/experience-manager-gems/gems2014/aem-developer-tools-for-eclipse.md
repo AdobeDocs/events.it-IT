@@ -1,14 +1,14 @@
 ---
 title: Strumenti AEM Developer per Eclipse
 description: Gli strumenti per sviluppatori AEM per Eclipse sono un set di plug-in Eclipse volti a semplificare lo sviluppo di applicazioni AEM, renderlo più semplice e allineato con le best practice. Basato su due nuove facciate di progetto - una per i bundle OSGi e una per i contenuti JCR - consente una sincronizzazione fluida e iterativa tra le istanze Eclipse e AEM. Viene fornito con un browser dei contenuti che consente di visualizzare e modificare il contenuto in formato FileVault. Infine, ma non per importanza, contiene un esempio di progetto basato su Maven con più moduli che può essere utilizzato per avviare la configurazione di un progetto.
-uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3325
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 10%
+source-wordcount: '227'
+ht-degree: 6%
 
 ---
 

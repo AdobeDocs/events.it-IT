@@ -1,14 +1,14 @@
 ---
 title: 'Domande all’esperto: creazione di rapporti in modalità testo di base con ricarica avanzata tramite API Explorer'
 description: Scopri l’Explorer API, come utilizzarlo e come migliorare i rapporti sfruttando la modalità testo di base. Questo webinar è stato registrato il 22 gennaio 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4068
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1662'
+source-wordcount: '1658'
 ht-degree: 2%
 
 ---

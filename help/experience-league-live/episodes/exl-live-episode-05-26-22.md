@@ -4,14 +4,14 @@ description: Scopri l’SDK per web. Ti mostreremo tutte le nozioni di base di W
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ In questa prima delle tre sessioni in diretta streaming relative alla raccolta d
 
 ## Experience League aggiuntivo di sessioni LIVE da questa serie di raccolta dati
 
-* [Ask the experts - Real-Time CDP Connections (Domande agli esperti: Real-Time CDP Connections)](exl-live-episode-06-23-22.md)
+* [Chiedi agli esperti: connessioni Real-Time CDP](exl-live-episode-06-23-22.md)
 * [Domande agli esperti: flussi di dati e preparazione dei dati](exl-live-episode-07-21-22.md)
 
 ### Alcuni collegamenti utili
@@ -34,6 +34,6 @@ In questa prima delle tre sessioni in diretta streaming relative alla raccolta d
 * [Raccolta automatica delle informazioni nell’SDK per web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Provisioning gratuito di Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
 * [Informazioni sugli ID dispositivo di prime parti nell’SDK per web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Panoramica e download di Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Panoramica e download degli Adobi Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Documentazione SDK per dispositivi mobili](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informazioni sulla raccolta di app ibride](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

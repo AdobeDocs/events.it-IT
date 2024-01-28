@@ -1,11 +1,11 @@
 ---
 title: 'Modulo di accesso esterno Oak: autenticazione con LDAP e oltre'
 description: Consulta il nuovo modulo di accesso esterno di Apache Jackrabbit Oak. Scopri i dettagli e l’interazione del modulo di accesso, il gestore di sincronizzazione e il provider di identità. Ottieni una dimostrazione della configurazione richiesta in modo che gli utenti LDAP possano essere importati automaticamente in AEM a scopo di autenticazione. Scopri suggerimenti e trucchi su come eseguire il debug del sistema se le cose non funzionano immediatamente.
-uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 1%

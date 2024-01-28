@@ -1,14 +1,14 @@
 ---
 title: Approfondimento su AEM 5.6 Media Publisher
 description: Ottieni una panoramica del Framework Commerce CQ 5.6 da un punto di vista architetturale. Scopri i dettagli dell’implementazione di riferimento, in base all’archivio JCR.
-uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: 12120eb9-a324-4d0d-b969-862419d99f07
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2385
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 6%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 

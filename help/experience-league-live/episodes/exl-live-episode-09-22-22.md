@@ -6,14 +6,14 @@ kt: 11028
 feature: Campaigns
 role: User
 thumbnail: https://video.tv.adobe.com/v/3409504?format=jpeg
-event-cta-url: null
 event-start-time: 2022-09-22 08:30-7
 event-guests: Sandra Hausmann,Frederic Mary,Bridgette Darling
 exl-id: fa2a7641-438c-4167-80ec-46761e0b91bb
-source-git-commit: 12744b6c125d03ee3193e78ae6b38692fb34b41a
+duration: 3030
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 27%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,6 @@ La nuova funzionalità Campagne di Journey Optimizer consente di inviare messagg
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409504/?quality=12&learn=on)
 
-In questo episodio Experience League Live, originariamente svolto il 22 settembre 2022, è possibile vedere l’ospite Sandra Hausmann e gli esperti di prodotto Bridgette Darling e Frederic Mary mentre discutono i casi d’uso che copre questa nuova funzionalità e mostrano come configurare ed eseguire facilmente una campagna in Journey Optimizer. Scopri come utilizzare sia Campagne che Percorsi per fornire esperienze cliente personalizzate e coinvolgenti e come viene utilizzato il nuovo flusso di lavoro di messaggistica in linea in ciascuna di queste due aree di lavoro.
+In questo Experience League episodio live, originariamente svolto il 22 settembre 2022, è possibile vedere l’ospite Sandra Hausmann e gli esperti di prodotto Bridgette Darling e Frederic Mary mentre discutono i casi d’uso che copre questa nuova funzione e mostrano come configurare ed eseguire facilmente una campagna in Journey Optimizer. Scopri come utilizzare sia Campagne che Percorsi per fornire esperienze cliente personalizzate e coinvolgenti e come viene utilizzato il nuovo flusso di lavoro di messaggistica in linea in ciascuna di queste due aree di lavoro.
 
 Continua la discussione su questo argomento in [Experience League post community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). Speriamo di avere tue notizie!

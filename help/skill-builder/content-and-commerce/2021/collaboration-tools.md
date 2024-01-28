@@ -13,14 +13,15 @@ version: Cloud Service
 type: Event
 kt: 7342
 exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3667
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Nozioni di base di Adobe Experience Manager Sites 
+# Nozioni di base su Adobe Experience Manager Sites
 
 Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experience Manager in questa serie di webinar in 5 parti. Inizieremo con gli elementi di base dell’authoring dei contenuti, presentandoti i concetti e le operazioni fondamentali. Questo includerà le funzioni di amministrazione dei siti e le nozioni di base sulla gestione delle risorse digitali in AEM. Nella parte successiva della serie, scopri le funzioni che possono aiutarti a risparmiare tempo ed essere più efficiente riutilizzando i contenuti e distribuendoli tra i canali.
 

@@ -1,13 +1,13 @@
 ---
 title: 'Integrazioni AEM: una solida base è molto lunga'
 description: Mentre il lavoro dell’AEM è piuttosto autonomo, noi consulenti AT/AAM/AA che lavorano con l’AEM dobbiamo collaborare con le nostre controparti AEM. Questa sessione offre una breve panoramica delle integrazioni AT/AAM/AA utilizzando DTM, delle cose che cerchiamo e del perché è importante.
-uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
 exl-id: 52581331-7021-4c1d-9340-161bd56cfad8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

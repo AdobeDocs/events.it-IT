@@ -1,13 +1,13 @@
 ---
 title: Come sfruttare al massimo il feature pack DAM
 description: Scopri il FP2 DAM per AEM 5.6.1. Questo feature pack si concentra sull’utilizzo della funzionalità Progetti creativi per offrirti un modo univoco di gestire l’origine delle risorse. La sessione descrive le varie fasi del flusso di lavoro di un progetto creativo per creare, modificare, caricare un elenco di foto e caricare le risorse da un elenco di foto. Vengono inoltre fornite informazioni sulla revisione e l’approvazione delle risorse caricate, sulla configurazione della superficie attività, sui modelli di flusso di lavoro per progetti personalizzati e sulla creazione di gerarchie di prodotti.
-uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 13067227-3006-407d-9450-c976cd6c8805
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2919
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

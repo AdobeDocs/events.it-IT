@@ -1,13 +1,13 @@
 ---
 title: Gestione dei metadati in AEM DAM
 description: Scopri come AEM DAM gestisce i metadati delle risorse. Scopri lo standard XMP e come DAM lo utilizza, come utilizzare i metadati nelle ricerche ed estendere gli schemi di metadati incorporati. Viene presentato anche il nuovo editor schema metadati, introdotto nell’ultimo feature pack di DAM.
-uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2907
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---

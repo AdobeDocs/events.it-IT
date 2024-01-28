@@ -1,5 +1,5 @@
 ---
-title: Consegna dei contenuti in Experience Manager Cloud Service
+title: Consegna dei contenuti su Experience Manager Cloud Service
 description: Adobe Experience Manager as a Cloud Service dispone di una potente architettura di distribuzione dei contenuti preconfigurata. Scopri come sfruttare al meglio le configurazioni ottimizzate per la distribuzione dei contenuti. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Experience Manager
 product: experience manager
@@ -12,10 +12,11 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1597
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 

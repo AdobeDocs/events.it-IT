@@ -1,13 +1,13 @@
 ---
 title: Lanci AEM - preparazione simultanea di più versioni di un sito web (AEM 5.6)
 description: Scopri come utilizzare i lanci AEM per lavorare in modo simultaneo su più versioni dello stesso sito e sincronizzare le modifiche tra di esse. Scopri come AEM Launches è stato integrato nell’AEM e i suoi meccanismi di base.
-uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: 5a80f708-3536-4009-a76d-38611d505a89
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2897
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 2%
 
 ---

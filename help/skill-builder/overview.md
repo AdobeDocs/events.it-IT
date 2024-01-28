@@ -2,10 +2,11 @@
 title: Panoramica di Skill Builder
 description: Serie di webinar registrati per creare una knowledge base e massimizzare l'investimento in Adobe Experience Cloud.
 exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 48
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +21,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
   <td>
     <img alt="Contenuti ed Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Contenuti ed Commerce</strong>
+      <strong>Content and Commerce</strong>
     </div>
     <p>
     <em>Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre, scopri come creare esperienze di e-commerce multicanale su un’unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull’intelligenza artificiale.</em>

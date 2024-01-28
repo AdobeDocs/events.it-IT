@@ -1,14 +1,14 @@
 ---
 title: Ask the Expert - Qualità e coinvolgimento della misurazione
 description: Scopri come creare rapporti che rispondono a domande su qualità e coinvolgimento. Questo webinar è stato registrato il 13 novembre 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
 exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3980
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1210'
 ht-degree: 1%
 
 ---

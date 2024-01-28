@@ -1,11 +1,11 @@
 ---
 title: 'Real-time and lightweight: crea integrazioni basate su eventi con l’AEM utilizzando gli eventi Adobe I/O'
 description: Stanchi di costruire connettori per l'AEM? Vieni a scoprire come esporre eventuali eventi OSGi interni da AEM tramite Eventi Adobe I/O per creare facilmente flussi di lavoro basati su eventi su più sistemi. Gli eventi di I/O consentono di rispondere in tempo reale sia agli eventi amministrativi che ai comportamenti dei clienti.
-uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
 exl-id: 18613ec9-a2d9-4c9d-958d-a324d9e4a1a7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2315
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%

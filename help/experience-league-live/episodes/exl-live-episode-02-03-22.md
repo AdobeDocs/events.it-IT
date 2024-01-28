@@ -1,5 +1,5 @@
 ---
-title: Presentazione di demo di riferimento completamente nuove su AEM
+title: Presentazione di demo di riferimento completamente nuove per l'AEM
 description: Scopri il modo più veloce per eseguire il provisioning, la demo e l’esplorazione delle funzioni dell’AEM as a Cloud Service con il componente aggiuntivo Demo di riferimento.
 solution: Experience Manager
 thumbnail: https://video.tv.adobe.com/v/340236?format=jpeg
@@ -7,16 +7,17 @@ event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser
 exl-id: 434d0d98-83ab-4168-bebf-4ba2f2cb5efd
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3925
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 44%
+source-wordcount: '128'
+ht-degree: 20%
 
 ---
 
-# Presentazione di demo di riferimento completamente nuove su AEM
+# Presentazione di demo di riferimento completamente nuove per l&#39;AEM
 
-Scopri il modo più veloce per eseguire il provisioning, la dimostrazione e l’esplorazione delle funzionalità di AEM as a Cloud Service
+Scopri il modo più veloce per eseguire il provisioning, la demo e l’esplorazione delle funzioni di AEM as a Cloud Service
 
 AEM Reference Demos Add-On consente di creare facilmente ambienti sandbox precaricati con contenuti di esempio e preconfigurati utilizzando le linee guida più recenti sulle best practice per Adobe. Con il componente aggiuntivo è possibile valutare facilmente le funzionalità AEM nel contesto e senza quasi alcuna configurazione. Le demo includono Sites, Editor SPA, Commerce e funzioni avanzate di Assets.
 

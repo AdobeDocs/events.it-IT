@@ -1,13 +1,13 @@
 ---
 title: 'Connettore SharePoint: configurazione'
 description: Segui una guida dettagliata su come impostare e configurare un connettore Share con CQ/AEM (5.6.0) e una demo con alcuni esempi. Il connettore SharePoint di Adobe espone i contenuti tramite l’interfaccia JCR standard, consentendo alle applicazioni di accedere ai contenuti che risiedono in un archivio proprietario in modo standardizzato, semplificando così l’accesso ai contenuti.
-uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
 exl-id: bf44898e-f455-456a-b168-912feb275aae
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3478
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '164'
 ht-degree: 1%
 
 ---

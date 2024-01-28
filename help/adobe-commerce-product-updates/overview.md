@@ -3,10 +3,11 @@ title: Aggiornamenti dei prodotti Adobe Commerce
 description: Ultime innovazioni di prodotto in Adobe Commerce, presentate dal team di prodotto Adobe Commerce.
 user-guide-breadcrumb: Adobe Commerce Release Updates
 exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+duration: 105
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 25%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Analytics] in ufficio o in viaggio"
+title: '''[!DNL Analytics] in ufficio o in movimento'
 description: Con un numero così elevato di richieste di tempo e attenzione, devi essere in grado di creare e accedere a informazioni aziendali in qualsiasi ambiente, che tu sia dietro una scrivania o fuori.
 solution: Analytics
 kt: 11360
@@ -9,9 +9,10 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8
 event-guests: Eric Matisoff,Jennifer Werkmeister,Doug Moore
 exl-id: 0662d6d4-2445-4359-82bf-4ef5bab7c7a6
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+duration: 3753
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

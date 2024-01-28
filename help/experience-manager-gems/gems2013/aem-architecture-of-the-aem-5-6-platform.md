@@ -1,13 +1,13 @@
 ---
 title: Architettura della piattaforma AEM 5.6
 description: Scopri l’evoluzione dell’architettura della piattaforma applicativa AEM. Dalla prima versione del comunicato 1, fino al lancio più recente di AEM 5.6, l'applicazione ha subito diverse modifiche per diventare la piattaforma applicativa versatile ed estensibile che è oggi.
-uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2883
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 4%
 
 ---
