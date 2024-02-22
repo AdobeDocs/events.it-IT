@@ -11,7 +11,7 @@ duration: 3632
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14970
 thumbnail: 3427355.jpeg
-source-git-commit: d50bee76b17c486088ea62619b3331906a68be80
+source-git-commit: de1dbd19647f523ba96bf9e94ab2a15f2f4bc710
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In questa sessione di Commerce &amp; Coffee, Corey Gelato, Sr. Commerce Strategy
 
 Corey evidenzia anche come l’intelligenza artificiale possa aiutare a creare campagne di marketing mirate che risuonano con i singoli clienti attraverso descrizioni di prodotti, e-mail e banner di siti web personalizzati. Per quanto importante sia analizzare i dati passati, prevedere il comportamento futuro dei clienti può avere lo stesso impatto. Utilizzando analisi predittive, gli utenti possono prevedere le tendenze di acquisto future dei loro clienti, creando l’opportunità di offerte personalizzate proattive. Corey illustra come creare un’esperienza di acquisto personalizzata migliore con le funzioni Live Search e Chatbot. Poi condivide una dimostrazione live di Product Recommendations, Category Merchandising e Live Search. Come sempre, rispondiamo alle domande dei clienti in diretta durante le domande e risposte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427355/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)
