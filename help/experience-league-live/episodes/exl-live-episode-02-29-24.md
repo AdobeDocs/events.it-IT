@@ -1,15 +1,15 @@
 ---
 title: La nuova interfaccia utente di Adobe Campaign Web
-description: Unisciti a noi il 29 febbraio per scoprire come pianificare, avviare e misurare strategie cross-channel utilizzando la nuova interfaccia utente web di Adobe Campaign, incluse le funzionalità di intelligenza artificiale generativa in versione beta.
+description: Unisciti a noi il 29 febbraio per scoprire come pianificare, avviare e misurare le strategie cross-channel utilizzando la nuova interfaccia utente web di Adobe Campaign.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
