@@ -7,7 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
+source-git-commit: 3266abc5c077d75424eeae5cb87d66cf0ee52357
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 2%
@@ -27,8 +27,8 @@ Partecipa a questa sessione Experience League Live, dove gli esperti dei prodott
 ## Risorse aggiuntive
 
 * **[Interfaccia utente web di Campaign: funzionalità principali](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}**
-*Documentazione dettagliata su ciò che è attualmente disponibile nell’interfaccia utente web di Adobe Campaign, visita [Interfaccia utente web di Campaign: funzionalità principali](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}.
+  *Documentazione dettagliata su ciò che è attualmente disponibile nell’interfaccia utente web di Adobe Campaign, visita [Interfaccia utente web di Campaign: funzionalità principali](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}.*
 
 * **[Interfaccia utente web di Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-*Video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente web di Adobe Campaign.
+  *Video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente web di Adobe Campaign.*
 
