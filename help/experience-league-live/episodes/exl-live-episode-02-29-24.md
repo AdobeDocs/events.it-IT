@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
+source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,8 @@ Adobe Campaign v8 avrà un aspetto e un’atmosfera completamente nuovi. La nuov
 
 Partecipa a questa sessione Experience League Live, dove gli esperti dei prodotti Adobe Campaign mostreranno come pianificare, avviare e misurare le campagne cross-channel nella nuova esperienza utente.
 
-[![ExL LIVE 29 febbraio 2024](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**Fai clic sull’immagine qui sopra per registrarti all’evento.**
+Per la documentazione dettagliata su ciò che è attualmente disponibile nell’interfaccia utente di Adobe Campaign Web, visita [Interfaccia utente web di Campaign: funzionalità principali](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}.
+
+**Hai delle domande a riguardo?** Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
