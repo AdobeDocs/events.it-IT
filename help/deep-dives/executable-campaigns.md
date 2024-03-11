@@ -8,13 +8,13 @@ duration: 3778
 last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
-source-git-commit: 3871036fda1f4286b5aef937a41463ebac302141
+exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto
 
@@ -23,12 +23,18 @@ ht-degree: 0%
 **Moderato da** Chris Willis
 **Altoparlanti** Courtny Edwards-Jones e Jane Musatova
 
-Scopri come i Marketo Champs hanno utilizzato le campagne eseguibili per risolvere una serie di problemi, tra cui il nuovo tentativo automatico dei processi non riusciti.
+## Panoramica
 
-Questa sessione è personalizzata per tutti, dagli amministratori di Marketo ai professionisti delle operazioni strategiche delle campagne, e si concentra sulla comprensione e l’implementazione di campagne eseguibili per aggiungere valore immediatamente alle campagne e ai programmi, aumentare l’efficienza e stimolare la crescita.
+In questa edizione di Adobe Champion Deep Dive, discutiamo l’utilizzo di campagne eseguibili in Marketo e forniamo esempi di come utilizzarle per semplificare i processi e garantire l’accuratezza dei dati. Le campagne eseguibili sono un tipo di campagna intelligente che esegue i flussi in modo sincrono, consentendo dipendenze tra passaggi diversi. Possono essere utilizzati per ritentare automaticamente i processi non riusciti, ad esempio la standardizzazione dei dati o la qualificazione dei lead, prima di passare al passaggio successivo. Il documento illustra inoltre l’utilizzo delle campagne principali e degli eseguibili nidificati, nonché le limitazioni delle campagne eseguibili, ad esempio l’impossibilità di utilizzare webhook o i passaggi di attesa.
 
-Informazioni chiave
+## A cosa serve l’utilizzo di campagne eseguibili?
 
-* *101 campagne eseguibili* - Scopri le differenze tra le campagne eseguibili e gli altri flussi di lavoro automatizzati e attivati; e quando è meglio utilizzarli, i vantaggi principali dell’utilizzo degli eseguibili, nonché suggerimenti e trucchi per aiutarti a creare in modo efficiente.
-* *Automazione dei processi non riusciti* - Scopri come utilizzare campagne eseguibili per automatizzare la gestione dei processi non riusciti, garantendo operazioni senza soluzione di continuità e riducendo al minimo gli interventi manuali. Scopri le strategie per identificare e correggere gli errori in modo efficiente, migliorando l’affidabilità complessiva del flusso di lavoro.
-* *Creazione di un centro operativo di eccellenza* : scopri come le campagne eseguibili possono semplificare l’identificazione delle sorgenti di contatto, l’igiene dei dati di punteggio e i processi di arricchimento. Scopri le tecniche per ottimizzare questi passaggi critici, riducendo la ridondanza e migliorando la precisione per creare un flusso di &quot;elaborazione originale&quot; più solido.
+L’utilizzo di campagne eseguibili ha lo scopo di semplificare e automatizzare flussi di lavoro complessi in Marketo. Le campagne eseguibili consentono di definire una sequenza di azioni che devono essere completate prima di passare al passaggio successivo di una campagna. In questo modo ogni azione viene eseguita completamente prima di procedere, riducendo il rischio di errori o processi incompleti. Le campagne eseguibili possono essere utilizzate per ritentare i processi non riusciti, standardizzare e arricchire i dati, qualificare i lead, acquisire momenti interessanti e altro ancora. Offrono un modo più efficiente e organizzato di gestire e automatizzare le operazioni di marketing.
+
+## Cos’è una campagna eseguibile e come funziona?
+
+Una campagna eseguibile è un tipo di campagna intelligente in Marketo che consente l’esecuzione sequenziale di più flussi all’interno di una singola campagna. È progettato per garantire che ogni flusso venga eseguito completamente prima che inizi quello successivo. Questo è diverso da una campagna di richiesta, che esegue i flussi in modo asincrono e può avere più flussi in esecuzione in parallelo.
+
+Per creare una campagna eseguibile, è necessario selezionare la casella &quot;Eseguibile&quot; durante la creazione della campagna. Una volta creata, puoi aggiungere alla campagna passaggi di flusso, come la modifica dei valori dei dati, l’invio di e-mail o l’aggiornamento degli stati del programma. Tuttavia, esistono alcune limitazioni alle campagne eseguibili. Non puoi utilizzare trigger, webhook o passaggi di attesa all’interno di una campagna eseguibile.
+
+Le campagne eseguibili sono utili per i processi che hanno dipendenze l’uno dall’altro, dove un flusso deve essere completato prima che possa iniziare quello successivo. Consentono di semplificare i processi operativi, semplificare l&#39;elaborazione dei dati e ridurre al minimo il rischio di errori o arretrati. Utilizzando campagne eseguibili, puoi assicurarti che ogni passaggio di un processo sia completato prima di passare a quello successivo, migliorando l’efficienza e la precisione delle operazioni di marketing.
