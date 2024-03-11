@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: b2114296a518f633d4b409838ae640ddb4817d79
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -32,7 +32,7 @@ Continua la discussione su questo argomento in Adobe Experience League [Post com
 
 Sei un professionista Real-Time CDP attuale e stai cercando informazioni sulle novità del prodotto, sul perché è importante e su come Adobe può aiutarti a migliorare le strategie di gestione dei dati dei clienti? Non guardate oltre - siete venuti nel posto giusto! In questa serie, approfondiremo ciò che è stato recentemente lanciato in Real-Time CDP in modo da poter sfruttare subito le novità e avere un impatto sulla tua organizzazione.
 
-# Elementi principali da ricordare
+## Elementi principali da ricordare
 
 In questa sessione verranno illustrate cinque nuove funzionalità introdotte negli ultimi mesi:
 
