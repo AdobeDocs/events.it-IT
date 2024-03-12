@@ -1,7 +1,7 @@
 ---
 title: Creazione di vetrine sui Edge Delivery Services con Adobe Commerce
 description: Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui Edge Delivery Services per Adobe Commerce. Ti guideremo attraverso il processo di configurazione del tuo progetto con la piattaforma standard Commerce e come collegarlo ai nuovi servizi SaaS di Commerce per un’integrazione rapida e avanzata del catalogo dei prodotti tramite interfaccia utente Sensei. Vengono introdotti componenti di tipo "drop-in", un insieme di componenti front-end personalizzabili che accelerano lo sviluppo della vetrina. Scopri le best practice per estenderle e assegnarvi uno stile. Infine, verranno evidenziate nuove funzioni di authoring di Consegna Edge per arricchire le esperienze Commerce con contenuti creati.
-version: Cloud Service
+version: Experience Manager:Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
+source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
