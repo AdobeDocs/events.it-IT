@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-Il nostro ultimo webinar AEM GEMs su **Liberare il potenziale di New Relic APM per AEM as a Cloud Service. Massimizzare le prestazioni e accelerare la risoluzione dei problemi** è stato eseguito il *20 settembre 2023*.
-Il **registrazione** si trova qui: [New Relic APM per Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+Il nostro ultimo webinar AEM GEMs su **Creazione di vetrine sui Edge Delivery Services con Adobe Commerce** è stato eseguito il *6 marzo 2024*.
+Il **registrazione** si trova qui:
+[Creazione di vetrine sui Edge Delivery Services con Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > Iscriviti per ricevere notifiche sui prossimi webinar AEM GEMs all’indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
 
-## Rilancio 2022 dei GEM dell’AEM
+## AEM GEMs - webinar tecnici sull’AEM - per sviluppatori forniti da sviluppatori
 
 Benvenuti in **AEM GEM** : la nostra serie di webinar di approfondimenti tecnici su Adobe Experience Manager, condotti da esperti Adobi. Questa serie è un complemento della documentazione di prodotto e di tutti gli altri canali tecnici relativi a Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.
 
@@ -61,9 +62,7 @@ I webinar saranno condotti regolarmente, tra cui:
 * Una durata massima di 60 minuti
 * Domande e risposte alla fine del webinar e chat con esperti
 * Registrazione disponibile dopo ogni webinar
-* Il webinar è gratuito
-
-Tutti i nostri webinar AEM GEMs sono gratuiti e condotti virtualmente.
+* Tutti i webinar AEM GEM sono gratuiti e condotti praticamente; è richiesta solo la registrazione.
 
 Registrati su [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui prossimi webinar.
 

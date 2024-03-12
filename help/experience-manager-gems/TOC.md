@@ -2,10 +2,10 @@
 user-guide-title: Eventi Adobe Experience Manager GEMS
 user-guide-description: Scopri AEM Gems, una serie di approfondimenti tecnici proposti da esperti Adobe Experience Manager.
 breadcrumb-title: Eventi AEM GEM
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 5%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 5%
 # Experience Manager di eventi GEMS {#experience-manager-gems-recordings}
 
 + [Panoramica](overview.md)
++ 2024{#gems2024}
+   + [Guida introduttiva all’authoring e ai Edge Delivery Services AEM](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Creazione di vetrine nei Edge Delivery Services su Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM per AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certificazione AEM - tecnica](gems2023/aem-certification-technical.md)
@@ -21,7 +24,7 @@ ht-degree: 5%
 + 2022 {#gems2022}
    + [Caso di utilizzo di un cliente e implementazione di AEM Headless in uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Looking under the hood - Cloud Manager 2022 (Uno sguardo approfondito: Cloud Manager 2022)](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integrazre AEM e il framework CIF per creare un’esperienza di e-commerce ricca e coinvolgente](gems2022/aem-and-cif-framework-integration.md)
+   + [Integrare il framework AEM &amp; CIF per creare un’esperienza di e-commerce ricca e coinvolgente](gems2022/aem-and-cif-framework-integration.md)
    + [Creare siti web più rapidamente con AEM headless e App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: revisione del 2021 e prospettive per il 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
@@ -68,7 +71,7 @@ ht-degree: 5%
    + [Risolvere i problemi relativi alla distribuzione dei contenuti Sling](gems2017/aem-troubleshooting-sling.md)
 + 2016 {#gems2016}
    + [Configurare DAM per l’organizzazione](gems2016/aem-configuring-dam-for-enterprise.md)
-   + [Introduzione a AEM Screens](gems2016/aem-introduction-to-aem-screens.md)
+   + [Introduzione ad AEM Screens](gems2016/aem-introduction-to-aem-screens.md)
    + [Gestire i contenuti con l’editor modelli di Adobe Experience Manager](gems2016/aem-managing-content-with-template-editor.md)
    + [Indici Oak Lucene](gems2016/aem-oak-lucene-indexes.md)
    + [Eseguire AEM su MongoDB](gems2016/aem-running-aem-on-mongodb.md)
