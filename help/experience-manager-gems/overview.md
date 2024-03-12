@@ -12,7 +12,7 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 -->
 Il nostro ultimo webinar AEM GEMs su **Creazione di vetrine sui Edge Delivery Services con Adobe Commerce** è stato eseguito il *6 marzo 2024*.
 Il **registrazione** si trova qui:
-[Creazione di vetrine sui Edge Delivery Services con Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Creazione di vetrine sui Edge Delivery Services con Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
