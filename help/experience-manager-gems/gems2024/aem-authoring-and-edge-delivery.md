@@ -1,7 +1,7 @@
 ---
 title: Guida introduttiva all’authoring e ai Edge Delivery Services AEM
 description: Questo webinar AEM GEMs include una presentazione e una demo che mostrano come l’authoring dell’AEM funziona insieme ai Edge Delivery Services. Ti guideremo nel processo di creazione di un nuovo progetto di Edge Delivery Services abilitato per l’authoring AEM con AEM Cloud Service come origine di contenuto e ti mostreremo come puoi trarre vantaggio da un’esperienza di sviluppo snella e agile fornita con i Edge Delivery Services, mantenendo al contempo un’esperienza di authoring WYSIWYG per il professionista.
-version: Experience Manager:Cloud Service
+version: Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
+source-git-commit: 32ae273fcd9f4271e1a61684d925a8fcb74252b8
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
