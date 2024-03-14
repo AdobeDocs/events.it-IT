@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Data del webinar: 13 marzo 2024
 
-Orario: 17:00 CET / 8:00 PST / 19:30 IST Registrati tramite il link alla pagina dell&#39;evento.
+Questo webinar è stato completato. Guarda la registrazione di seguito.
 
 ## Guida introduttiva all’authoring e ai Edge Delivery Services AEM
 
@@ -33,9 +33,9 @@ Questo webinar AEM GEMs include una presentazione e una demo che mostrano come l
 
 ## Registrazione webinar
 
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
+
 >[!NOTE]
->
->* Registrati/Rispondi a questo webinar tramite [Pagina evento](https://adobe.ly/4bz9T0H).
 > 
 >* Per le interazioni specifiche della community su Experience League, visita il nostro [thread contestuale](https://adobe.ly/3uIj6D7).
 >
