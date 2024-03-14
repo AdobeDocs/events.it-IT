@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-Il nostro ultimo webinar AEM GEMs su **Creazione di vetrine sui Edge Delivery Services con Adobe Commerce** è stato eseguito il *6 marzo 2024*.
+Il nostro ultimo webinar AEM GEMs su **Guida introduttiva all’authoring e ai Edge Delivery Services AEM** è stato eseguito il *13 marzo 2024*.
 Il **registrazione** si trova qui:
-[Creazione di vetrine sui Edge Delivery Services con Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Guida introduttiva all’authoring e ai Edge Delivery Services AEM](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> Iscriviti per ricevere notifiche sui prossimi webinar AEM GEMs all’indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+> Iscriviti per ricevere notifiche sui prossimi webinar AEM GEMs - [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - webinar tecnici sull’AEM - per sviluppatori forniti da sviluppatori
 
