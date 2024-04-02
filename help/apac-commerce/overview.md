@@ -3,9 +3,9 @@ title: Serie di webinar su Commerce APAC
 description: La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze del settore.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i cl
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Webinar Adobe Commerce Innovation Spotlight" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Webinar Adobe Commerce Innovation Spotlight</strong>
+      </a>
+    </div>
+    <p>
+    <em>Unisciti a noi per scoprire come adottare le funzionalità e l’architettura più recenti per offrire la migliore esperienza ai tuoi clienti e far crescere il tuo business!In questo webinar.</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Strumento di analisi per l’intero sito di Adobe Commerce" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ La serie di webinar su APAC Commerce è una cadenza mensile di workshop per i cl
     <em>Sfrutta la potenza dell’intelligenza artificiale per offrire ai clienti un’esperienza eccezionale con l’investimento di Adobe nell’intelligenza artificiale e la sua integrazione in Commerce.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Strategie di e-commerce componibili per un e-commerce scalabile e agile" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Strategie di e-commerce componibili per un e-commerce scalabile e agile</strong>
-      </a>
-    </div>
-    <p>
-    <em>Unisciti a noi per un webinar approfondito che approfondirà il mondo dell’architettura componibile e come sta rivoluzionando il panorama dell’e-commerce.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
