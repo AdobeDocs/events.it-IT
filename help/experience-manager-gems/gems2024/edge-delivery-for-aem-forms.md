@@ -1,6 +1,6 @@
 ---
 title: Guida introduttiva ai Edge Delivery Services per AEM Forms
-description: 'Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e distribuirli come esperienze eccezionali Edge di. Verranno descritti due modi per creare questi moduli: mediante l’authoring basato sui documenti e l’authoring basato su AEM. Scoprirai come impostare un progetto di Edge Delivery Services AEM Forms per personalizzare blocchi e componenti Forms e per utilizzare le estensioni lato server. Scoprirai anche come sfruttare AEM Forms as a Cloud Service per l’elaborazione back-end di Forms dopo l’invio. '
+description: 'Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e distribuirli come esperienze eccezionali Edge di. Verranno descritti due modi per creare questi moduli: mediante l’authoring basato sui documenti e l’authoring basato su AEM. Scoprirai come impostare un progetto di Edge Delivery Services AEM Forms per personalizzare blocchi e componenti Forms e per utilizzare le estensioni lato server. Scoprirai anche come sfruttare AEM Forms as a Cloud Service per l’elaborazione back-end di Forms dopo l’invio.'
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e
 * Arun Taneja, Director per la gestione dei prodotti, Adobe
 * Vijay Kumar Jalagari, Sr. Engineering Manager, Adobe
 
-## Registrazione webinar
+## Interazione della community del webinar
 
 >[!NOTE]
 > 
->* Per le interazioni della community specifiche per sessione su Experience League, a breve sarà disponibile un thread contestuale.
+>* Per le interazioni community specifiche per sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4aCz0OE).
 >
 >* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
