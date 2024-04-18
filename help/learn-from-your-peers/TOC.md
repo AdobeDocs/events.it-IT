@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '153'
 ht-degree: 6%
 
 ---
@@ -57,3 +57,4 @@ ht-degree: 6%
       + [Cracking del codice di personalizzazione in scala utilizzando [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo {#mar2023}
       + [Come creare [!DNL Adobe Marketo Engage] Scalabilità dei contenuti](marketo/mar2023/templates-tokens-teamwork.md)
++ [Scopri come inviare un’applicazione campione di Adobi in evidenza](./adobe-champion-application.md)
