@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure ha completamente rinnovato i dashboard di Discover. Non si tratta solo di piccoli miglioramenti e aggiunte; si tratta di un restyling completo. Le bacheche sono state riprogettate e soprattutto semplificate. Queste nuove schede madri sono molto più intuitive e facili da usare per ottenere i dati necessari in modo rapido e semplice.
 
-[![ExL LIVE 17 gennaio 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Registrati ora](https://engage.adobe.com/ExpLeagueLive-240418.html) per l&#39;evento!**
+Argomenti trattati:
 
+* Filosofia dell’attribuzione in un mondo di marketing B2B
+* Trasformare la mentalità dei reportistica in profitto
+* Scopri i suggerimenti pro per segmentare e migliorare in modo strategico i dati
+* Scopri come risolvere gli errori più comuni
+* Quali nuovi dashboard predefiniti sono disponibili e come trarne il massimo
+* Metriche nuove disponibili e come utilizzarle per migliorare le informazioni aziendali
+* Come generare e salvare rapporti personalizzati
