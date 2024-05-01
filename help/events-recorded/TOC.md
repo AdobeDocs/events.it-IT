@@ -2,10 +2,10 @@
 user-guide-title: Registrazioni di eventi Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Raccolta di registrazioni di eventi utilizzati per l'utilizzo di prodotti Adobe Enterprise
-source-git-commit: 2f61c1360c57a6c93a36cfb944351c67b98a54ed
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 14%
+source-wordcount: '347'
+ht-degree: 12%
 
 ---
 
@@ -14,14 +14,15 @@ ht-degree: 14%
 
 + [Panoramica](overview.md)
 + Per serie {#series}
+   + [Webinar su Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Serie Adobe Campaign Insider](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Forum sulla gestione dei contenuti Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Aggiornamenti dei prodotti Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [Ore ufficio campioni AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
-   + [Eventi Commerce APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [Eventi APAC Commerce](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Adobe di webinar per il successo del cliente](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
-   + [Commercio e caffè](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+   + [Commerce e caffè](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it)
    + [Approfondimenti](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -35,6 +36,8 @@ ht-degree: 14%
    + [Scambio di competenze](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Per soluzione {#solution}
+   + Acrobat Sign {#as}
+      + [Webinar su Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + Servizi Adobe Acrobat {#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + Adobe Audience Manager {#aam}
@@ -54,8 +57,8 @@ ht-degree: 14%
    + Adobe Commerce {#acommerce}
       + [Aggiornamenti dei prodotti Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [Eventi Commerce APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-      + [Commercio e caffè](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+      + [Eventi APAC Commerce](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+      + [Commerce e caffè](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Webinar MBI](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Office Hours](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
