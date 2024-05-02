@@ -2,13 +2,13 @@
 title: Nuove dashboard di Marketo Measure Discover
 description: Marketo Measure ha completamente rinnovato i dashboard di Discover. Non si tratta solo di piccoli miglioramenti e aggiunte; si tratta di un restyling completo. Le bacheche sono state riprogettate e soprattutto semplificate. Queste nuove schede madri sono molto più intuitive e facili da usare per ottenere i dati necessari in modo rapido e semplice.
 kt: KT-15186
-thumbnail: https://video.tv.adobe.com/v/3428093?format=jpeg
+solution: Marketo Measure
 event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
 exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
-source-git-commit: 05a172345f394d3eacff2548d4e71547bbf000f3
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Argomenti trattati:
 * Quali nuovi dashboard predefiniti sono disponibili e come trarne il massimo
 * Metriche nuove disponibili e come utilizzarle per migliorare le informazioni aziendali
 * Come generare e salvare rapporti personalizzati
-

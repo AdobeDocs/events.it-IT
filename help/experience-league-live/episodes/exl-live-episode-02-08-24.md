@@ -1,14 +1,15 @@
 ---
 title: Migliora il coinvolgimento in e-commerce con i playbook Use Case, modelli self-service per distribuire casi di utilizzo e-commerce in pochi clic
-description: Scopri come distribuire facilmente i playbook basati su casi d’uso in Adobe Real-Time CDP e Adobe Journey Optimizer e come sbloccare le potenziali funzionalità per migliorare il coinvolgimento dei clienti nell’e-commerce.
+description: Scopri come distribuire facilmente i playbook con casi di utilizzo in Adobe Real-Time CDP e Adobe Journey Optimizer e sbloccare il potenziale per migliorare il coinvolgimento dei clienti nell’e-commerce.
 jira: KT-14791
-thumbnail: https://video.tv.adobe.com/v/3426930?format=jpeg
+solution: Experience Platform, Real-Time Customer Data Platform
+feature: Playbooks
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
 exl-id: 8e820234-2c73-46dc-aa85-f1f089e4ae8e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 0%
