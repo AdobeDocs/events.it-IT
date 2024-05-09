@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: b023ed45c159d848f28f159348a21763d4c539f5
+source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
@@ -13,9 +13,10 @@ ht-degree: 1%
 # Adobe di webinar per il successo del cliente {#adobe-customer-success-webinar-recordings}
 
 + [Adobe di webinar per il successo del cliente](overview.md)
-+ 2024{#2024}
++ 2024 {#2024}
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
+   + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Leadership strategica](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Creazione delle basi per la personalizzazione su larga scala](2023/personalization-at-scale.md)
