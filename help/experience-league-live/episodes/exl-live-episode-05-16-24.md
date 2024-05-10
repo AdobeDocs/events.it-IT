@@ -5,13 +5,13 @@ kt: KT-15382
 solution: Analytics,Data Collection
 feature: Implementation Basics, Tags
 event-cta-url-live: https://www.youtube.com/watch?v=J4fuB2fki8o
-event-start-time: 2024-04-18 09:00-7
+event-start-time: 2024-05-16 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury
 duration: 25
 exl-id: c762dfe2-07b8-4eac-afa4-d94636d0b5b5
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 3240741ecbade0921e29ff72ea6a52b5f8b59baa
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Scopri il modo più recente e avanzato (NUOVO) per migrare da Adobe Analytics a Web SDK.
 
-[![ExL LIVE 16 maggio 2024](assets/WebBanner-May16-2024.jpg)](https://www.youtube.com/watch?v=J4fuB2fki8o)
+[![ExL LIVE 16 maggio 2024](assets/WebBanner-May16-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240516.html)
 
-**Fai clic sull’immagine qui sopra per impostare un promemoria YouTube per lo spettacolo.**
+**[Registratevi per l&#39;evento!](https://engage.adobe.com/ExpLeagueLive-240516.html)**
 
 
 **Dettagli**: in questa sessione, scopri il modo più recente e più grande (NUOVO) per migrare da Adobe Analytics a Web SDK. Questo ti consentirà di utilizzare le nuove librerie più veloci, un sacco di nuove funzioni e un’implementazione scalabile mentre desideri utilizzare Adobe Experience Platform, il tutto inviando facilmente i dati ad Adobe Analytics (e Target e AAM).
