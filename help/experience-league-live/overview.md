@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 44%
 
 ---
 
@@ -26,16 +26,9 @@ Experience League LIVE è un evento in diretta prodotto dal team Experience Leag
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE 16 maggio 2024" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md">
-        <strong>Questo è il modo...per migrare Analytics a Web SDK</strong>
-      </a>
-      <br/><em>con Doug Moore, Mitch Rice e Joe Khoury</em>
-      <br/><em>16 maggio 2024</em>
-    </div>
+<td style="vertical-align: top;"><b>Torna presto a questa pagina per saperne di più sui nostri spettacoli di giugno 2024:</b><br/>
+    * Versioni di H1 2024 per Adobe Real-time Customer Data Platform<br/>
+    * Revisione e approvazioni unificate di Adobe Workfront
   </td>
 </tr>
 </table>
