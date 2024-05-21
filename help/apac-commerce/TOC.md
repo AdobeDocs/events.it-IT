@@ -2,10 +2,10 @@
 user-guide-title: Eventi APAC Commerce
 breadcrumb-title: Eventi APAC Commerce
 user-guide-description: Adobe Commerce Events è una libreria video in cui esperti e colleghi hanno condiviso le loro opinioni e idee su come utilizzare Adobe Commerce.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [Panoramica](overview.md)
 + 2024 {#2024}
+   + [Giorno dell&#39;acceleratore](2024/accelerator-day/overview.md)
+   + Giorno dell&#39;acceleratore{#accelerator-day}
+      + [Nascosto: Navigazione di domani](./2024/accelerator-day/navigating-tomorrow.md)
+      + [Nascosto: pannello oltre i bordi](./2024/accelerator-day/panel-beyond-borders.md)
+      + [Nascosto: evoluzione dell’esperienza](./2024/accelerator-day/experience-evolution.md)
+      + [Nascosto: il pannello si tocca nel futuro](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [Nascosto: Commerce di nuova generazione](./2024/accelerator-day/next-gen-commerce.md)
+      + [Nascosto: sotto la superficie](./2024/accelerator-day/beneath-the-surface.md)
+      + [Nascosto: velocità fulmine](./2024/accelerator-day/lightning-speed.md)
+      + [Nascosto: Composabilità](./2024/accelerator-day/composability.md)
+      + [Nascosto: Sinfonia cross-channel](./2024/accelerator-day/cross-channel-symphony.md)
+      + [Nascosto: l&#39;arte di Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Webinar Innovation Spotlight](2024/innovation-spotlight.md)
    + [Come il pensiero visionario sta trasformando Commerce](2024/visionary-thinking.md)
    + [7 modi per far crescere un&#39;azienda di eCommerce in modo organico](2024/grow-ecommerce-business.md)
