@@ -2,10 +2,10 @@
 user-guide-title: Eventi Adobe Experience Manager GEMS
 user-guide-description: Scopri AEM Gems, una serie di approfondimenti tecnici proposti da esperti Adobe Experience Manager.
 breadcrumb-title: Eventi AEM GEM
-source-git-commit: cc1d6b52a335ca76968eb78e89efdf060dfd064d
+source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 2%
+source-wordcount: '718'
+ht-degree: 1%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 2%
 
 + [Panoramica](overview.md)
 + 2024 {#gems2024}
+   + [Migliorare l’esperienza di sviluppo per AEM Assets con le nuove API ed eventi](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Guida introduttiva ai Edge Delivery Services per AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
    + [Guida introduttiva all’authoring e ai Edge Delivery Services AEM](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Creazione di vetrine nei Edge Delivery Services su Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
@@ -100,7 +101,7 @@ ht-degree: 2%
    + [Come ottenere il massimo dal tuo Feature Pack DAM](gems2014/aem-dam-feature-pack.md)
    + [Distribuzione di contenuti gestiti alle app native](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [Modalità sviluppatore AEM 6.0](gems2014/aem-developer-mode.md)
-   + [Strumenti AEM Developer per Eclipse](gems2014/aem-developer-tools-for-eclipse.md)
+   + [Strumenti per sviluppatori AEM per Eclipse](gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher: nuove funzioni e best practice](gems2014/aem-dispatcher.md)
    + [Creare in modo efficiente componenti riutilizzabili](gems2014/aem-efficiently-build-reusable-components.md)
    + [Introduzione ad HTL](gems2014/aem-introduction-to-htl.md)
