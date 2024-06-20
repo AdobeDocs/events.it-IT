@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # Data del webinar: 19 giugno 2024
 
-Questo webinar sarà trasmesso mercoledì 19 giugno - 17:00 CEST / 8:00 PDT / 20:30 IST.
-Effettua la registrazione tramite il nostro [pagina evento](https://adobe.ly/3wLRpdI).
+Questo webinar è stato condotto mercoledì 19 giugno - 17:00 CEST / 8:00 PDT / 20:30 IST. Visualizzare la registrazione di seguito.
 
 ## Migliorare l’esperienza di sviluppo per AEM Assets con le nuove API ed eventi
 
@@ -34,10 +34,12 @@ Gli sviluppatori AEM avranno l’opportunità di esplorare le API aperte di Asse
 * Ian Reasor, scienziato informatico senior, Adobe
 * Ievgen Nedoviesov, Manager, Ingegneria del software, Adobe
 
-## Interazione della community del webinar
+## Registrazione webinar
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Per le interazioni community specifiche per sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/3UQXwFO).
+>* Per le interazioni community specifiche per sessione su questo webinar sull’Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/3UQXwFO).
 >
 >* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
