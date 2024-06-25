@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '420'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 37: In che modo le ultime versioni di Adobe Real-Time CDP possono spostare l’ago per la tua azienda](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36: ecco come...migrare Analytics a Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Nuovo canale di esperienza basato su codice in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34: nuove dashboard di Marketo Measure per l’individuazione](episodes/exl-live-episode-04-18-24.md)
