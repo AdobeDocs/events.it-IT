@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 56ccf95c77ba8efebf8d8ed112d2e8e1d7c0418a
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 1%
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 Scopri le nuove funzioni di Adobe Real-Time CDP lanciate negli ultimi mesi e come possono fare la differenza per la tua azienda.
 
->[!VIDEO](https://video.tv.adobe.com/v/331788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Per continuare la discussione, visitare il sito [discussione sulla comunità degli Experienci League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}**
+**Per continuare la discussione, visitare il sito [discussione sulla comunità degli Experienci League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
 **Mostra dettagli**: sei un utente Real-Time CDP esperto e stai cercando informazioni approfondite sulle novità del prodotto, sul perché è importante e su come Adobe può aiutarti a migliorare le strategie di gestione dei dati dei clienti? Non guardate oltre - siete venuti nel posto giusto! In questa serie, approfondiremo ciò che è stato recentemente lanciato in Real-Time CDP in modo da poter sfruttare subito le novità e avere un impatto sulla tua organizzazione.\
 In questa sessione verranno illustrate cinque nuove funzionalità introdotte negli ultimi mesi:
@@ -37,4 +37,3 @@ Al termine di questa sessione, dovresti aspettarti di:
 * Scopri come funzionano queste funzioni nella pratica, attraverso una demo live
 * Scopri perché queste funzionalità hanno un impatto notevole e forniscono efficienza e valore agli utenti in qualità di professionisti
 * Essere in grado di iniziare a sfruttare queste nuove funzioni oggi stesso
-
