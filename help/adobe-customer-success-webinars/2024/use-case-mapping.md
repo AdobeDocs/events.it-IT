@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Real-time CDP: mappatura dei casi d’uso alle funzionalità della soluzione
 
@@ -26,3 +26,31 @@ Questo webinar esplora i modi principali per esplorare e assegnare priorità ai 
 
 * Casi d’uso che Real-time CDP risolve e assegna priorità a quelli specifici per i risultati aziendali
 * Allineamento delle funzionalità di Real-time CDP ai casi d’uso con priorità
+
+## Riepilogo della riunione
+
+**Sfide affrontate da Real-time CDP**
+
+* Strumenti di marketing separati
+* Origini dati sparse
+* Modifica delle normative di governance
+
+**Impatto della rimozione dei cookie di terze parti**
+
+* Effetti su casi d’uso come il retargeting e la personalizzazione di contenuti multimediali a pagamento
+
+**Confronto tra Real-time CDP e Audience Manager DMP**
+
+* Concentrati sull’acquisizione dei dati, la gestione dell’audience e le strutture di output dei dati
+
+**Importanza dell’allineamento e della definizione delle priorità**
+
+* Allineamento delle funzionalità CDP alle priorità strategiche
+* Assegnazione di priorità ai casi d’uso
+* Garantire l’esecuzione efficace
+
+**Strategie discusse**
+
+* Utilizzo di funzionalità di segmentazione avanzate
+* Utilizzo delle funzioni di condivisione dei dati
+* Utilizzo di Customer Air per esperienze cliente e strategie di conservazione personalizzate

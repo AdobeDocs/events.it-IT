@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
-
 
 # Marketo e Mochas: come gettare le basi per il successo dello sviluppo dei lead
 
@@ -24,3 +24,24 @@ Con lo sviluppo del lead, gli addetti al marketing possono comunicare in modo co
 Carly guiderà inoltre una dimostrazione live, guidandoti nella creazione di un programma di coinvolgimento utilizzando il modello di best practice presente nella libreria dei programmi di Marketo. Come sempre, risponderemo alle tue domande in diretta durante le domande e risposte!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429436/?learn=on)
+
+## Primi 3 portali chiave per lo sviluppo di lead
+
+
+**Importanza dello sviluppo di piombo**
+
+* Lo sviluppo di lead è fondamentale per creare relazioni efficaci con i potenziali clienti.
+* Comporta la condivisione di risorse, la fornitura di informazioni utili, l’istruzione su prodotti e servizi e la personalizzazione delle interazioni.
+* Aiuta ad aumentare la propensione all&#39;acquisto di un potenziale cliente, crea fiducia, migliora la leadership di marchio e pensiero e accorcia il ciclo di vendita.
+
+**Strategie per uno sviluppo efficace del lead**
+
+* Definisci obiettivi chiari, allinea le attività di marketing e vendita, identifica i tipi di pubblico target e segmenta i dati in modo efficace.
+* Seleziona i giusti tipi di campagne di sviluppo, riutilizza i contenuti esistenti, crea nuovi contenuti e utilizza strumenti come Marketo.
+* Utilizza contenuti esistenti, segmenta i tipi di pubblico, personalizza i contenuti, ottimizza i dati in base a metriche delle prestazioni e misura il successo.
+
+*Ottimizzazione delle campagne e-mail e del processo decisionale*
+
+* Valuta l’utilizzo di programmi nidificati o di eventi modelli di programmi di sviluppo per campagne e-mail complesse.
+* Allinea la decisione di interrompere lo sviluppo di lead con l’obiettivo della campagna di sviluppo.
+* Incoraggia il coinvolgimento accedendo alle registrazioni passate, ai prossimi eventi, scaricando risorse, compilando sondaggi e contattando gli account manager per ulteriori domande.
