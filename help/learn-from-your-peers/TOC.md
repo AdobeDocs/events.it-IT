@@ -1,11 +1,11 @@
 ---
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: "Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa7d6f3d8f132e14c318f7df9bec97aa3805a57d
+user-guide-description: "Raccolta di registrazioni da  [!DNL Experience Makers Learn from your peers]"
+source-git-commit: 8e156c10666116c4f761cc8ddc9dca3249b4e889
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 9%
+source-wordcount: '281'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,49 @@ ht-degree: 9%
    + Giugno 2023 {#june2023}
       + [Tracciare, analizzare e ottimizzare le campagne di marketing](marketo/june2023/marketing-campaigns.md)
    + Maggio 2023 {#may2023}
-      + [Cracking del codice di personalizzazione in scala utilizzando [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
+      + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo 2023 {#mar2023}
-      + [Come creare [!DNL Adobe Marketo Engage] Scalabilità dei contenuti](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/mar2023/templates-tokens-teamwork.md)
++ Workfront {#workfront}
+   + 2024 {#2024}
+      + Aprile {#april2024}
+         + [Assegnazione del personale all&#39;amministratore di sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
+   + 2023 {#2023}
+      + Novembre {#november}
+         + [Utilizzo di Workfront per formazione e abilitazione](workfront/2023/11/using-workfront-for-training-and-enablement.md)
+      + Luglio {#july}
+         + [Comunicazione con gli utenti finali](workfront/2023/07/communicating-with-end-users.md)
+      + Giugno {#june}
+         + [La creazione di un centro di eccellenza Workfront](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
+      + Maggio {#may}
+         + [Nozioni di base dei modelli di progetto](workfront/2023/05/foundations-of-project-templates.md)
+      + Aprile {#april}
+         + [Ricerca di efficienze nell&#39;automazione Workfront](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
+      + Marzo {#march}
+         + [Migliorare l’esperienza utente con la progettazione dell’interfaccia](workfront/2023/03/improving-user-experience-with-interface-design.md)
+      + Febbraio {#february}
+         + [Suggerimenti per acquisire un’istanza Workfront esistente](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
+   + 2022 {#2022}
+      + Dicembre {#december}
+         + [Navigazione nella gestione delle modifiche in Workfront](workfront/2022/12/navigating-change-management.md)
+      + Novembre {#november}
+         + [Adozione corretta da parte dell&#39;utente finale](workfront/2022/11/successful-end-user-adoption.md)
+      + Ottobre {#october}
+         + [Progettazione di flussi di lavoro e processi](workfront/2022/10/workflow-and-process-design.md)
+      + Settembre {#september}
+         + [Introduzione alla gestione delle risorse](workfront/2022/09/getting-started-with-resource-management.md)
+      + Agosto {#august}
+         + [Manutenzione e pulizia del sistema](workfront/2022/08/system-maintenance-and-cleanup.md)
+      + Luglio {#july}
+         + [Informazioni sulle code di richieste](workfront/2022/07/all-about-request-queues.md)
+      + Giugno {#june}
+         + [Nozioni di base per la generazione di rapporti operativi](workfront/2022/06/foundations-of-operational-reporting.md)
+      + Maggio {#may}
+         + [Utilizzo dell’amministratore di gruppo](workfront/2022/05/leveraging-the-group-admin.md)
+      + Aprile {#april}
+         + [Progettazione di un’esperienza utente ideale](workfront/2022/04/designing-an-ideal-user-experience.md)
+      + Marzo {#march}
+         + [COS’È la governance di Workfront?](workfront/2022/03/what-is-workfront-governance.md)
+      + Febbraio {#february}
+         + [Informazioni sulla gestione utente](workfront/2022/02/understanding-user-management.md)
 + [Scopri come inviare un’applicazione campione di Adobi in evidenza](./adobe-champion-application.md)
