@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Funzione AEM GEM: caso di utilizzo di un cliente e implementazione di AEM Headless in uso
 
-*Questo webinar è stato condotto su **Mercoledì 12 ottobre - 15:00 UTC**. La registrazione è disponibile di seguito.*
+*Questo webinar è stato condotto il **mercoledì 12 ottobre - 15:00 UTC**. La registrazione è disponibile di seguito.*
 
 Questa eccezionale sessione AEM GEMs ha due relatori che gestiscono AEM come clienti. La sessione sarà divisa in due parti, come segue:
 
@@ -54,5 +54,5 @@ Questo elimina la necessità per l’API di fornire molti endpoint che forniscon
 
 >[!NOTE]
 >
->* Per le interazioni della community specifiche per sessione su Experience League, visita questo [Thread contestuale](https://adobe.ly/3r6P4nr)
->* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+>* Per le interazioni community specifiche della sessione su Experience League, visita questo [thread contestuale](https://adobe.ly/3r6P4nr)
+>* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM di Adobe](https://aem-augs.adobe.com/).

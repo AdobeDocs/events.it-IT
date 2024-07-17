@@ -28,13 +28,13 @@ Carly guiderà inoltre una dimostrazione live, guidandoti nella creazione di un 
 ## Primi 3 portali chiave per lo sviluppo di lead
 
 
-**Importanza dello sviluppo di piombo**
+**Importanza dello sviluppo di lead**
 
 * Lo sviluppo di lead è fondamentale per creare relazioni efficaci con i potenziali clienti.
 * Comporta la condivisione di risorse, la fornitura di informazioni utili, l’istruzione su prodotti e servizi e la personalizzazione delle interazioni.
 * Aiuta ad aumentare la propensione all&#39;acquisto di un potenziale cliente, crea fiducia, migliora la leadership di marchio e pensiero e accorcia il ciclo di vendita.
 
-**Strategie per uno sviluppo efficace del lead**
+**Strategie per uno sviluppo efficace dei lead**
 
 * Definisci obiettivi chiari, allinea le attività di marketing e vendita, identifica i tipi di pubblico target e segmenta i dati in modo efficace.
 * Seleziona i giusti tipi di campagne di sviluppo, riutilizza i contenuti esistenti, crea nuovi contenuti e utilizza strumenti come Marketo.

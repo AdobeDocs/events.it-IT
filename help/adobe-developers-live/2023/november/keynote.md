@@ -1,6 +1,6 @@
 ---
 title: Apertura di una nota chiave
-description: In questa sessione di approfondimento, registrata presso Adobe Developers Live Content and Commerce il 6 novembre 2023, gli esperti del settore Nishant Kapoor e Cedric Huesler rivelano gli ultimi progressi in Adobe Commerce e Experience Manager. Esplora l’evoluzione e il futuro di queste potenti piattaforme, con particolare attenzione alle applicazioni reali, agli strumenti di sviluppo a basso codice e alle strategie per mantenere siti web ad alte prestazioni. Ron Nagy ospita questa sessione approfondita, che offre un approfondimento degli strumenti che consentono esperienze digitali coinvolgenti e personalizzate.
+description: In questa sessione di approfondimento, registrata presso Adobe Developers Live Content e Commerce il 6 novembre 2023, gli esperti del settore Nishant Kapoor e Cedric Huesler rivelano gli ultimi progressi in Adobe Commerce e Experience Manager. Esplora l’evoluzione e il futuro di queste potenti piattaforme, con particolare attenzione alle applicazioni reali, agli strumenti di sviluppo a basso codice e alle strategie per mantenere siti web ad alte prestazioni. Ron Nagy ospita questa sessione approfondita, che offre un approfondimento degli strumenti che consentono esperienze digitali coinvolgenti e personalizzate.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Developer

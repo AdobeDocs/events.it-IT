@@ -1,5 +1,5 @@
 ---
-title: Innovazioni nella personalizzazione dei contenuti che offrono valore commerciale
+title: Innovazioni nel Content Personalization che offrono valore al business
 description: scopri le recenti innovazioni nella soluzione di contenuti Adobe e come Adobe sta guidando l’innovazione nelle soluzioni Commerce
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Innovazioni nella personalizzazione dei contenuti che offrono valore commerciale
+# Innovazioni nel Content Personalization che offrono valore al business
 
-Contenuti e commerce
+Contenuti e Commerce
 
-Unisciti a noi per scoprire le recenti innovazioni nella soluzione di contenuti Adobe che ti aiuteranno a democratizzare l’authoring dei contenuti, rendere la distribuzione omni-channel un gioco da ragazzi e scalare la personalizzazione per fare in modo che ogni esperienza conti.  Discuteremo anche di come Adobe stia guidando l’innovazione nelle soluzioni Commerce che ti aiuteranno a coinvolgere il tuo pubblico, a realizzare pienamente gli sforzi dei sistemi di marketing e di gestione delle relazioni con i clienti e a sovrascrivere le piattaforme Commerce per rendere ogni esperienza da ricordare.
+Unisciti a noi per scoprire le recenti innovazioni nella soluzione di contenuti Adobe che ti aiuteranno a democratizzare l’authoring dei contenuti, rendere la distribuzione omni-channel un gioco da ragazzi e scalare la personalizzazione per fare in modo che ogni esperienza conti.  Discuteremo anche di come Adobe stia guidando l&#39;innovazione nelle soluzioni Commerce che ti aiuteranno a coinvolgere il tuo pubblico, a realizzare pienamente gli sforzi dei sistemi di marketing e di gestione delle relazioni con i clienti e a sovrascrivere le piattaforme Commerce per rendere ogni esperienza uno da ricordare.
 
-*Shaun McCran* Product Marketing per Adobe Commerce / Adobe
+*Shaun McCran* Product Marketing per Adobe Commerce/Adobe
 
 *Jamie Brighton* Responsabile marketing prodotto e settore EMEA/Adobe
 

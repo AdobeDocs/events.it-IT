@@ -8,13 +8,13 @@ duration: 3717
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Approfondisci Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-Experience Manager fornisce una soluzione agile per progettare, anticipare e fornire esperienze rapidamente adattabili su web, dispositivi mobili e qualsiasi endpoint nel percorso del cliente. Partecipa a questa sessione per visualizzare in anteprima le funzioni e le integrazioni chiave della prossima versione di Adobe Experience Manager 6.4. L&#39;ordine del giorno comprende: Panoramica dell&#39;AEM 6.4 | Componenti core 2 | Sistema di stili | Modifiche del percorso a causa della separazione di contenuto da app/prodotto | Cambiamenti in Oak e Sling - incl. configurazione sensibile al contesto | Rendi modificabili le app a pagina singola con lo stato attivo su React
+Experience Manager fornisce una soluzione agile per progettare, anticipare e fornire esperienze rapidamente adattabili su web, dispositivi mobili e qualsiasi endpoint nel percorso del cliente. Partecipa a questa sessione per visualizzare in anteprima le funzioni e le integrazioni chiave della prossima versione di Adobe Experience Manager 6.4. L&#39;ordine del giorno comprende: Panoramica dell&#39;AEM 6.4 | Componenti core 2 | Sistema di stili | Modifiche del percorso a causa della separazione di contenuto da app/prodotto | Modifiche in Oak e Sling - incluso configurazione sensibile al contesto | Rendi modificabili le app a pagina singola con lo stato attivo su React
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 

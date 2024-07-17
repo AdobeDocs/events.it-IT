@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Recapito messaggi (parte 2)
-description: Questa sessione di Marketo & Mochas presenta Marketo Deliverability Manager, Sean Wirt che esamina le best practice per il recapito messaggi, evidenziandone il recapito in Gmail, la privacy della posta di Apple e un riepilogo degli IP condivisi e dedicati. Sean analizza una lunga dimostrazione del prodotto dello strumento Deliverability in [!DNL Marketo Engage] nonché come importare elenchi di seed, creare elenchi avanzati, rapporti e altro ancora. L'evento si conclude con una sessione di domande e risposte prolungata in cui Sean risponde alle domande degli iscritti e dei partecipanti.
+description: Questa sessione di Marketo & Mochas presenta Marketo Deliverability Manager, Sean Wirt che esamina le best practice per il recapito messaggi, evidenziandone il recapito in Gmail, la privacy della posta di Apple e un riepilogo degli IP condivisi e dedicati. Sean analizza una lunga dimostrazione sul prodotto dello strumento Deliverability in [!DNL Marketo Engage] e spiega come importare elenchi di seed, creare elenchi avanzati, rapporti e altro ancora. L'evento si conclude con una sessione di domande e risposte prolungata in cui Sean risponde alle domande degli iscritti e dei partecipanti.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo e Mochas - Recapito messaggi (parte 2)
 
-Questa sessione di Marketo &amp; Mochas presenta Marketo Deliverability Manager, Sean Wirt che esamina le best practice per il recapito messaggi, evidenziandone il recapito in Gmail, la privacy della posta di Apple e un riepilogo degli IP condivisi e dedicati. Sean analizza una lunga dimostrazione del prodotto dello strumento Deliverability in [!DNL Marketo Engage] nonché come importare elenchi di seed, creare elenchi avanzati, rapporti e altro ancora. L&#39;evento si conclude con una sessione di domande e risposte prolungata in cui Sean risponde alle domande degli iscritti e dei partecipanti.
+Questa sessione di Marketo &amp; Mochas presenta Marketo Deliverability Manager, Sean Wirt che esamina le best practice per il recapito messaggi, evidenziandone il recapito in Gmail, la privacy della posta di Apple e un riepilogo degli IP condivisi e dedicati. Sean analizza una lunga dimostrazione del prodotto dello strumento Deliverability in [!DNL Marketo Engage] e spiega come importare elenchi di seed, creare elenchi avanzati, rapporti e altro ancora. L&#39;evento si conclude con una sessione di domande e risposte prolungata in cui Sean risponde alle domande degli iscritti e dei partecipanti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418668/?learn=on)

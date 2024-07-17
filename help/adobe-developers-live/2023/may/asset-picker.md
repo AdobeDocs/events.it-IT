@@ -1,6 +1,6 @@
 ---
-title: Come incorporare il selettore delle risorse più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
-description: Come incorporare il selettore delle risorse più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti utilizzando APILntrai come sfruttare tutte le opzioni disponibili per integrare le risorse in altre applicazioni. L’integrazione di Cloud Service AEM Assets con questi CMS è davvero difficile? Vuoi sapere come scrivere integrazioni AEM Assets stabili, testabili e manutenibili in pochi minuti anziché in ore/giorni? Dimostreremo la potenza e la versatilità delle micro-front-end attraverso le nostre esperienze, convertendo due progetti React - Selettore di destinazione e Selettore risorse - in componenti front-end modulari, indipendenti e facilmente implementabili.
+title: Come incorporare il selettore Assets più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
+description: Come incorporare il selettore di Assets più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti utilizzando APILntrai come sfruttare tutte le opzioni disponibili per integrare risorse in altre applicazioni. L’integrazione di Cloud Service AEM Assets con questi CMS è davvero difficile? Vuoi sapere come scrivere integrazioni AEM Assets stabili, testabili e manutenibili in pochi minuti anziché in ore/giorni? Dimostreremo la potenza e la versatilità delle micro-front-end attraverso le nostre esperienze, convertendo due progetti React - Selettore di destinazione e Selettore risorse - in componenti front-end modulari, indipendenti e facilmente implementabili.
 product: experience manager
 sub-product: assets
 topic: Development
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Come incorporare il selettore delle risorse più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
+# Come incorporare il selettore Assets più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
 
-Come incorporare il selettore delle risorse più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
+Come incorporare il selettore Assets più recente in altre interfacce/prodotti e integrarlo con applicazioni di terze parti tramite API
 
 Scopri come sfruttare tutte le opzioni disponibili per integrare le risorse in altre applicazioni. L’integrazione di Cloud Service AEM Assets con questi CMS è davvero difficile? Vuoi sapere come scrivere integrazioni AEM Assets stabili, testabili e manutenibili in pochi minuti anziché in ore/giorni? Dimostreremo la potenza e la versatilità delle micro-front-end attraverso le nostre esperienze, convertendo due progetti React - Selettore di destinazione e Selettore risorse - in componenti front-end modulari, indipendenti e facilmente implementabili. → Continuare la conversazione all&#39;indirizzo: https://adobe.ly/3LqELUM
 

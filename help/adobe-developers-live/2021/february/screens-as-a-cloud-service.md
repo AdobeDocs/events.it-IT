@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Riprogettazione di Adobe Experience Manager Screens as a Cloud Service: un percorso dall’essere strettamente associato a un CMS per diventare un servizio cloud completamente gestito e scalabile.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** per le diapositive della sessione.

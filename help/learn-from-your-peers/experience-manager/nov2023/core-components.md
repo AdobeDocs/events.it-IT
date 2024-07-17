@@ -27,7 +27,8 @@ Preparati a immergerti in,
 
 * Accelerazione dello sviluppo di siti web e riduzione dei costi di manutenzione con i componenti core WCM (Web Content Management)
 * Una dimostrazione live che mostra come trasformare un componente teaser in un componente in stile scheda con più varianti di progettazione
-* Best practice per l’ottimizzazione dei sistemi di stile *Una dimostrazione dettagliata dell’implementazione efficiente delle modifiche all’interfaccia utente tramite la pipeline front-end
+* Best practice per ottimizzare i sistemi di stile
+*Una dimostrazione dettagliata dell’implementazione efficiente delle modifiche all’interfaccia utente utilizzando la pipeline front-end
 
 È possibile accedere alle diapositive della presentazione [qui](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
 

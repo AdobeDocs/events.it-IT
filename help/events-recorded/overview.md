@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Ad Experience League, l’apprendimento è un evento.
 
-Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso di apprendimento. Visita spesso questo spazio per visualizzare le registrazioni di eventi passati come Experience League LIVE, Skill Builders, Developers Live e altro ancora. Se desideri registrarti per un evento in programma, dai un’occhiata al [prossimi eventi](https://%65xperienceleague.adobe.com/events/?lang=en) su Experience League.
+Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso di apprendimento. Visita spesso questo spazio per visualizzare le registrazioni di eventi passati come Experience League LIVE, Skill Builders, Developers Live e altro ancora. Se desideri registrarti per un evento in programma, osserva i [prossimi eventi](https://%65xperienceleague.adobe.com/events/?lang=en) sull&#39;Experience League.
 
 ## Serie di eventi
 
@@ -31,7 +31,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinar su Acrobat Sign">Webinar su Acrobat Sign</a>
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinar su Acrobat Sign">Webinar Acrobat Sign</a>
           </p>
           <p class="is-size-6">
          Scopri dagli Adobi esperti come padroneggiare i nuovi flussi di lavoro di firma elettronica in Acrobat Sign.</p>
@@ -54,7 +54,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Serie Adobe Campaign Insider">Serie Adobe Campaign Insider</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Serie Adobe Campaign Insider">Adobe Campaign Insider Series</a>
           </p>
           <p class="is-size-6">
          Suggerimenti e trucchi per i clienti di Adobe Campaign al fine di contribuire a sviluppare strategie di marketing cross-channel, migliorare le competenze dei professionisti di marketing di team e aiutare le organizzazioni a lanciare strategie di marketing cross-channel più avanzate.</p>
@@ -77,7 +77,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Forum sulla gestione dei contenuti Adobe">Forum sulla gestione dei contenuti Adobe</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Forum sulla gestione dei contenuti Adobe">Forum Adobe per la gestione dei contenuti</a>
           </p>
           <p class="is-size-6">
          Scopri dagli Adobi esperti lo stato attuale e futuro della strategia di gestione dei contenuti, i materiali da consegnare, le sfide e i requisiti tecnici.</p>
@@ -165,7 +165,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinar APAC Adobe Commerce">Webinar APAC Adobe Commerce</a>
+              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinar APAC Adobe Commerce">Webinar APAC su Adobe Commerce</a>
           </p>
           <p class="is-size-6">
          La serie di webinar APAC Commerce è una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze del settore.</p>
@@ -231,7 +231,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" title="Customer Data Management Voices">Customer Data Management Voices</a>
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" title="Customer Data Management Voices">Voci di gestione dati cliente</a>
           </p>
           <p class="is-size-6">
          La tua destinazione come responsabile tecnico e specialista della gestione dei dati dei clienti. Uno sportello unico per ascoltare i tuoi colleghi, trarre ispirazione e scoprire gli sviluppi in Martech.</p>
@@ -253,7 +253,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Approfondimenti">Approfondimenti</a>
+              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Approfondimenti">Unità profonde</a>
           </p>
           <p class="is-size-6">
          Le registrazioni di eventi deep dive on-demand consentono di comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.</p>
@@ -297,7 +297,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMME EXPERIENCI MANAGER">GEMME EXPERIENCI MANAGER</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMME EXPERIENCI MANAGER">GEMME Experienci Manager</a>
           </p>
           <p class="is-size-6">
          Approfondimenti tecnici su Adobe Experience Manager forniti da esperti Adobi. Questa serie è un complemento della documentazione del prodotto e di tutti gli altri canali tecnici relativi a Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.</p>
@@ -341,7 +341,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Impara dai tuoi colleghi">Impara dai tuoi colleghi</a>
+              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Impara dai tuoi colleghi">Scopri dai tuoi colleghi</a>
           </p>
           <p class="is-size-6">
          Scopri dagli Adobi esperti e colleghi come ottenere il massimo dalle soluzioni Adobe. Con gli argomenti selezionati dai professionisti per gli utenti, queste sessioni interattive condividono casi d’uso, best practice e suggerimenti.</p>
@@ -429,7 +429,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">Skill Builder</a>
+              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">Generatori di abilità</a>
           </p>
           <p class="is-size-6">
          Skill Builder è una serie di webinar progettati per creare la knowledge base e massimizzare l’investimento in Adobe Experience Cloud.</p>
@@ -451,7 +451,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Scambio di competenze">Scambio di competenze</a>
+              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Scambio di competenze">Scambio abilità</a>
           </p>
           <p class="is-size-6">
          Experience Makers The Skill Exchange è una serie globale di eventi di apprendimento virtuale per i clienti, incentrati sull'approfondimento delle soluzioni Adobe Experience Cloud. Questo programma offre l’opportunità di imparare dagli esperti dei prodotti Adobe e da colleghi esperti attraverso la condivisione di best practice e suggerimenti.</p>

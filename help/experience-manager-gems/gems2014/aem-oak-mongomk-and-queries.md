@@ -1,5 +1,5 @@
 ---
-title: AEM 6 Oak - MongoMK e domande
+title: AEM 6 Oak - MongoMK e query
 description: Scopri il motore di query di Oak e come si confronta con Jackrabbit 2.x. La sessione offre indicazioni su come analizzare le prestazioni delle query e gestire gli indici personalizzati. Nella seconda parte, si parla di MongoMK con particolare attenzione alle garanzie di coerenza fornite dalla nuova implementazione cluster in AEM.
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 3968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
-# AEM 6 Oak - MongoMK e domande{#aem-oak-mongomk-and-queries}
+# AEM 6 Oak - MongoMK e query{#aem-oak-mongomk-and-queries}
 
 Scopri il motore di query di Oak e come si confronta con Jackrabbit 2.x. La sessione offre indicazioni su come analizzare le prestazioni delle query e gestire gli indici personalizzati. Nella seconda parte, si parla di MongoMK con particolare attenzione alle garanzie di coerenza fornite dalla nuova implementazione cluster in AEM.
 

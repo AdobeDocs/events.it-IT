@@ -10,7 +10,7 @@ duration: 3644
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,13 +30,13 @@ La replica è una funzione centrale in AEM in quanto consente la pubblicazione d
 
 ## Collegamenti correlati {#related-links}
 
-* [Replica di AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
-* [Replica di AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
-* [Replica di AEM 6.1](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
-* [Replica di AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
+* [Replica AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
+* [Replica AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
+* [Replica AEM 6.1](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
+* [Replica AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 
 >[!MORELIKETHIS]
 >
 >* [Indicizzazione AEM e query JCR](aem-indexing-jcr-query.md)
->* [Risoluzione dei problemi di replica dell’AEM](aem-troubleshooting-aem-replication.md)
+>* [Risoluzione dei problemi di replica AEM](aem-troubleshooting-aem-replication.md)
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

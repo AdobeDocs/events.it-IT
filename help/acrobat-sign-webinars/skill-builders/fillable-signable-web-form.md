@@ -1,5 +1,5 @@
 ---
-title: Pubblica un modulo Web compilabile e firmabile
+title: 'Post: modulo Web compilabile e firmabile'
 description: Scopri come creare un modulo web che consenta a chiunque di completare e firmare — senza dover avviare la transazione o anche conoscere l’indirizzo e-mail del firmatario.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Pubblica un modulo Web compilabile e firmabile
+# Post: modulo Web compilabile e firmabile
 
 Scopri come creare un modulo web che consenta a chiunque di completare e firmare — senza dover avviare la transazione o anche conoscere l’indirizzo e-mail del firmatario. Scoprirai anche come preparare un modello di documento che può essere utilizzato per singole transazioni di firma e per la registrazione in un URL univoco per la condivisione ampia.
 

@@ -1,5 +1,5 @@
 ---
-title: SDK di Experienci Platform e Launch Server Side
+title: SDK di Experience Platform e Launch Server Side
 description: Sfrutta appieno il potenziale di AEP Launch Server Side con gli SDK di AEP Web & Mobile per ottimizzare la raccolta dati aziendali. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Data Collection
 product: experience platform
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# SDK di Experienci Platform e Launch Server Side
+# SDK di Experience Platform e Launch Server Side
 
 Sfrutta appieno il potenziale di AEP Launch Server Side con gli SDK di AEP Web &amp; Mobile per ottimizzare la raccolta dati aziendali.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** per le diapositive della sessione.

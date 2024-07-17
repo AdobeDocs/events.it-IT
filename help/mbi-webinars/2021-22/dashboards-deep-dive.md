@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence era precedentemente nota come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
+>Adobe Commerce Intelligence era noto in precedenza come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
 
-Fai una visita guidata ai quattro dashboard inclusi nella configurazione con ogni account di Commerce Intelligence. Questo webinar registrato evidenzia il ruolo svolto dalle dashboard predefinite nell’ottenere valore dai dati dell’archivio eCommerce e illustra gli obiettivi di alto livello di ciascuna dashboard. Inoltre, approfondisce alcuni casi d’uso comuni dei rapporti predefiniti, come ad esempio:
+Fai una visita guidata ai quattro dashboard inclusi nella configurazione con ogni account Commerce Intelligence. Questo webinar registrato evidenzia il ruolo svolto dalle dashboard predefinite nell’ottenere valore dai dati dell’archivio eCommerce e illustra gli obiettivi di alto livello di ciascuna dashboard. Inoltre, approfondisce alcuni casi d’uso comuni dei rapporti predefiniti, come ad esempio:
 
 - Identifica l’impatto delle campagne di acquisizione dei clienti visualizzando le relazioni tra il valore del mese e il ciclo di vita dell’acquisizione del cliente.
 - Tendenze a pronti nel posizionamento degli ordini orari che indicano le esigenze di allocazione del magazzino o del personale.
@@ -36,4 +36,4 @@ Fai una visita guidata ai quattro dashboard inclusi nella configurazione con ogn
 ## Risorse utili
 
 [Dashboard](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Esportazione dati grafico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Esportazione dei dati del grafico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

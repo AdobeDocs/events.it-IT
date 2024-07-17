@@ -8,7 +8,7 @@ duration: 2780
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ La sessione fornirà una panoramica del DataStore (DS) e dettagli sulla configur
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*Consegnato l’11 ottobre 2017*
+*Consegnato l&#39;11 ottobre 2017*
 
 **Presentato da:**
 

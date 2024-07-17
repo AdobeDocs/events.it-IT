@@ -25,5 +25,5 @@ Scopri come ottenere il massimo dalla tua CDP investendo nelle persone e nei pro
 ## Informazioni aggiuntive
 
 * [Semplificazione del primo miglio di gestione dei dati](first-mile.md)
-* [Migliorare il ruolo dell’addetto marketing come amministratore dei dati](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [Miglioramento del ruolo dell&#39;addetto al marketing come amministratore dei dati](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [10 considerazioni sulla gestione responsabile dei dati dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

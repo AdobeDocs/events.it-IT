@@ -27,5 +27,5 @@ I tempi di caricamento del sito e le prestazioni complessive hanno un impatto di
 
 Guarda il video precedente per vedere questo evento in diretta streaming, dove gli esperti della distribuzione delle esperienze degli Adobi hanno discusso su cosa prendere in considerazione e quali passaggi puoi intraprendere per aumentare le prestazioni.
 
-**Hai delle domande a riguardo?** Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**Hai domande?** Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) di Adobe Experience League.
 

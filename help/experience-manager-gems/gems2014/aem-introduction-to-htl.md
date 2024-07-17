@@ -8,7 +8,7 @@ duration: 4010
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ HTL è un nuovo motore di modelli e un’implementazione del linguaggio. HTL si 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Presentato il 25 giugno 2014*
+*Consegnato il 25 giugno 2014*
 
 **Presentato da:**
 

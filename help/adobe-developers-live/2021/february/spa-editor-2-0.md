@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Carica il tuo SPA React o Angular esistente nell’Editor pagina e, con un intervento minimo, consenti agli autori di inserire contenuti che modificano nel contesto.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** per le diapositive della sessione.

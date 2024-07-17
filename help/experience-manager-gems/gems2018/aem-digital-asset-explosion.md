@@ -8,24 +8,24 @@ duration: 3276
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# L&#39;esplosione delle risorse digitali e [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+# Esplosione delle risorse digitali e [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
 Ad Adobe, abbiamo osservato un&#39;esplosione delle risorse digitali in 4 aree chiave:
 
 * Dimensione file delle risorse digitali prodotte
 * Numero di risorse digitali prodotte
 * Le aspettative degli utenti e dei clienti per le risorse digitali
-* Le richieste di dimensioni sempre maggiori [!DNL AEM Assets] implementazioni
+* Richieste per implementazioni di [!DNL AEM Assets] di dimensioni maggiori
 
-In questa sessione impareremo a conoscere l’esplosione delle risorse digitali, comprenderemo la portata dell’AEM in caso di esplosione delle risorse e seguiremo un esempio di cliente durante il ciclo di vita delle [!DNL AEM Assets] progetto.
+In questa sessione verranno fornite informazioni sull&#39;esplosione delle risorse digitali, verrà illustrata la portata dell&#39;AEM quando le risorse esplodono e verrà illustrato un esempio di cliente durante il ciclo di vita del progetto [!DNL AEM Assets].
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Presentate il 31 gennaio 2018*
+*Consegnato il 31 gennaio 2018*
 
 **Presentato da:**
 

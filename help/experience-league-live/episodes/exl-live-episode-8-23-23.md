@@ -26,9 +26,9 @@ Adobe Journey Optimizer offre un&#39;interfaccia e un flusso di lavoro moderni e
 
 Con le campagne attivate da API, le aziende possono impostare una campagna e utilizzarla più volte per inviare messaggi personalizzati con informazioni contestuali in tempo reale attivando tramite API REST.
 
-In questo Experience League Sessione live, gli esperti di prodotto Adobe spiegheranno come eseguire casi di utilizzo transazionali e di marketing con le funzionalità di messaggistica tramite attivazione API in AJO.
+In questo Experience League Sessione live, gli esperti di prodotto di Adobe spiegheranno come eseguire casi di utilizzo transazionali e di marketing con le funzionalità di messaggistica con attivazione API in AJO.
 
-**Fai clic sull’immagine qui sopra per guardare lo spettacolo!**
+**Fai clic sull&#39;immagine qui sopra per guardare lo spettacolo!**
 
-Continua la discussione su [Experience League post community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continua la discussione sul [post della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

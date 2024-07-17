@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Utilizza i modelli di sito per creare nuovi siti in pochi clic e ridare il tocco dello sviluppo front-end con la rapida distribuzione di risorse front-end come CSS e JS.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** per le diapositive della sessione.

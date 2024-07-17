@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - Domande a un esperto
-description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business tramite dati intelligenti.
-landing-page-description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business tramite dati intelligenti.
-short-description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business tramite dati intelligenti.
+title: Commerce Intelligence - Chiedi a un esperto
+description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business attraverso dati intelligenti.
+landing-page-description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business attraverso dati intelligenti.
+short-description: Guarda questi webinar registrati per un approfondimento con il team di prodotto Commerce Intelligence, inclusa la trasformazione del business attraverso dati intelligenti.
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence era precedentemente nota come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
+>Adobe Commerce Intelligence era noto in precedenza come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
 
 Sessione 1:
 
@@ -51,7 +51,7 @@ _Chiedi a un esperto_ è composto da due sessioni:
 
 >[!TIP]
 >
->Se hai poca esperienza con Commerce Intelligence, [Serie di video introduttivi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fornisce una panoramica completa per ottenere informazioni e risultati di business migliori attraverso l’aggregazione, l’analisi e la visualizzazione dei dati.
+>Se sei un nuovo utente di Commerce Intelligence, la [serie di video introduttivi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fornisce una panoramica completa per ottenere informazioni e risultati aziendali migliori tramite aggregazione, analisi e visualizzazione dei dati.
 
 - [Introduzione a Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Supporto per Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Supporto Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -1,6 +1,6 @@
 ---
 title: Suggerimenti per l’interfaccia utente touch di AEM Sites
-description: Scopri i suggerimenti più interessanti su [!DNL AEM Sites] Interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
+description: Scopri i suggerimenti e i trucchi più interessanti sull' [!DNL AEM Sites] interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Suggerimenti per [!DNL AEM Sites] Interfaccia utente touch{#tips-and-tricks-for-aem-sites-touch-ui}
+# Suggerimenti per l&#39;interfaccia utente touch [!DNL AEM Sites]{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Scopri i suggerimenti più interessanti su [!DNL AEM Sites] Interfaccia utente touch. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
+Scopri i suggerimenti e i trucchi più interessanti sull&#39;interfaccia utente touch [!DNL AEM Sites]. Scopri le funzioni dell’interfaccia utente touch di cui potresti essere a conoscenza o meno, che ti consentono di ottenere di più e di farlo più rapidamente. Che tu sia uno stratega dei contenuti o un esperto di marketing dei contenuti, scoprirai alcune delle perle nascoste dell’interfaccia utente touch che ti renderanno più efficiente e produttivo.
 
 In questo GEM, scopri come:
 

@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Estensione [!DNL Experience Manager] Headless con Adobe [!DNL App Builder]
+# Estensione di [!DNL Experience Manager] Headless con Adobe [!DNL App Builder]
 
-Sean Steimer e Kelvin Xu parlano di [!DNL Experience Manager] Headless e [!DNL App Builder]. Dalle integrazioni basate su eventi, all&#39;elaborazione scalabile senza server alle applicazioni a pagina singola (SPA), [!DNL App Builder] offre funzionalità avanzate per l’integrazione di Adobe [!DNL Experience Manager] con sistemi di terze parti in modalità headless. Ottieni una panoramica di alcuni casi d’uso reali e pattern comuni in cui [!DNL App Builder] è stato utilizzato per estendere l’Adobe [!DNL Experience Manager].
+Sean Steimer e Kelvin Xu parlano di [!DNL Experience Manager] Headless e [!DNL App Builder]. Dalle integrazioni basate su eventi all&#39;elaborazione scalabile senza server alle applicazioni a pagina singola (SPA), [!DNL App Builder] offre funzionalità avanzate per l&#39;integrazione di Adobe [!DNL Experience Manager] con sistemi di terze parti in modo headless. Visualizza alcuni casi d&#39;uso reali e pattern comuni in cui [!DNL App Builder] è stato utilizzato per estendere l&#39;Adobe [!DNL Experience Manager].
 
 >[!VIDEO](https://video.tv.adobe.com/v/345380/?quality=12&learn=on)

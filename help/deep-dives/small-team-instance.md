@@ -1,6 +1,6 @@
 ---
-title: Scopri come un piccolo team massimizza il proprio Adobe [!DNL Marketo Engage] istanza
-description: Descrivi come supportare le istanze di Adobe [!DNL Marketo Engage] con una piccola squadra o una squadra di uno.
+title: Scopri in che modo un piccolo team massimizza la propria istanza di Adobe [!DNL Marketo Engage]
+description: Descrivi come supportare le istanze di Adobe [!DNL Marketo Engage] con un piccolo team o team di uno di essi.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Scopri in che modo un piccolo team massimizza la propria istanza
 
-Partecipa all&#39;Adobe corrente [!DNL Marketo Engage] I campioni, Darshil Shah, Jenny Robertson e Joy Martinez discutono di come hanno supportato gli Adobi [!DNL Marketo Engage] con una piccola squadra o una squadra di uno. I nostri campioni discuteranno anche di come sono riusciti a ottenere successo, senza un sacco di risorse, come questo ha aiutato la loro carriera e i risultati positivi che sono stati in grado di vedere all&#39;interno della loro istanza.
+Unisciti ai campioni di Adobe [!DNL Marketo Engage], Darshil Shah, Jenny Robertson e Joy Martinez mentre discutono di come hanno supportato le istanze di Adobe [!DNL Marketo Engage] con un piccolo team o team di uno di essi. I nostri campioni discuteranno anche di come sono riusciti a ottenere successo, senza un sacco di risorse, come questo ha aiutato la loro carriera e i risultati positivi che sono stati in grado di vedere all&#39;interno della loro istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Clic **[qui](assets/small-team-instance.pdf){target="_blank"}** per le diapositive della sessione.
+Fai clic **[qui](assets/small-team-instance.pdf){target="_blank"}** per le diapositive della sessione.

@@ -1,6 +1,6 @@
 ---
-title: Generazione di rapporti in [!DNL Marketo Engage]
-description: Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL Marketo Engage] inclusione di Reports Smart List Analyzer MPI Email Insights
+title: Generazione di rapporti in  [!DNL Marketo Engage]
+description: Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL Marketo Engage] , inclusi gli analizzatori MPI di Reports Smart List Analyzer per approfondimenti e-mail
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -11,13 +11,13 @@ duration: 2355
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Generazione di rapporti in [!DNL Marketo Engage]
 
-Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL Marketo Engage] tra cui:
+Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL Marketo Engage], tra cui:
 
 * Rapporti
 * Elenchi smart
@@ -30,7 +30,7 @@ Questa sessione esaminerà tutti gli strumenti di reporting disponibili in [!DNL
 * Quando utilizzare rapporti standard ed elenchi avanzati
    * Abbonamenti
 
-Questa sessione approfondirà le funzionalità di reporting di alto livello disponibili in [!DNL Marketo Engage]e approfondisci i rapporti ed elenchi avanzati.
+Questa sessione verrà terminata con una descrizione delle funzionalità di reporting di alto livello disponibili in [!DNL Marketo Engage] e un approfondimento dei report e degli elenchi smart.
 
 Alla fine di questa sessione, riceverai una serie di domande e risposte live.
 

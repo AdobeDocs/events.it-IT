@@ -9,7 +9,7 @@ duration: 2746
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -35,8 +35,8 @@ Sarah Xu, Adobe Evangelista per sviluppatori
 
 >[!MORELIKETHIS]
 >
->* [Solr come indice Oak per l’AEM](solr-as-an-oak-index-for-aem.md)
->* [Sblocco Di Un’Analisi Più Potente Delle Risorse Con AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Solr come indice Oak per AEM](solr-as-an-oak-index-for-aem.md)
+>* [Sblocco Di Analisi Delle Risorse Più Potenti Con AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

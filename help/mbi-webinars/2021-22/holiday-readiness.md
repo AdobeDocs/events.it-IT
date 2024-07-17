@@ -13,7 +13,7 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence era precedentemente nota come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
+>Adobe Commerce Intelligence era noto in precedenza come [!DNL Magento Business Intelligence (MBI)]. Le registrazioni per gli eventi passati riflettono il nome precedente.
 
 Utilizza i dati di e-commerce per il successo durante le feste. Questo webinar evidenzia alcuni casi d’uso e metodi comuni di analisi stagionale per affrontarli utilizzando le funzioni principali di MBI, tra cui:
 
@@ -41,4 +41,4 @@ Utilizza i dati di e-commerce per il successo durante le feste. Questo webinar e
 ## Risorse utili
 
 [Guida utente di Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=it)
-[Supporto per Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Supporto Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

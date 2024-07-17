@@ -20,7 +20,7 @@ ht-degree: 0%
 
 La preparazione è fondamentale per il successo e in questo webinar ti guideremo attraverso le best practice per sfruttare Adobe Commerce al massimo le vendite e le prestazioni in questo importante periodo di trading (o in qualsiasi altro evento di vendita che la tua azienda potrebbe sperimentare durante l’anno).
 
-Sentirai Jason Ford, Manager Commerce Solutions Consulting APAC, e Sophia Gray, Senior Commerce Account Manager, che tratteranno i seguenti argomenti:
+Jason Ford, Manager Commerce Solutions Consulting APAC, e Sophia Gray, Senior Commerce Account Manager, tratteranno i seguenti argomenti:
 
 * Preparazione della campagna
 * Considerazioni sulle prestazioni

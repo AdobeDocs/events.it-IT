@@ -1,6 +1,6 @@
 ---
-title: Skill Builder - Contenuti ed e-commerce
-description: Serie di webinar registrati per creare una knowledge base e massimizzare l’investimento in soluzioni di contenuti e commercio Adobi
+title: Skill Builder - Contenuti e Commerce
+description: Serie di webinar registrati per creare una knowledge base e massimizzare l'investimento in soluzioni Adobe Content e Commerce
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,7 +10,7 @@ ht-degree: 2%
 
 ---
 
-# Contenuti ed Commerce
+# Contenuti e Commerce
 
 Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre, scopri come creare esperienze di e-commerce multicanale su un’unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull’intelligenza artificiale.
 
@@ -24,7 +24,7 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Fornire esperienze headless con Adobe Experience Manager</strong>
+        <strong>Distribuisci esperienze headless con Adobe Experience Manager</strong>
       </a>
     </div>
     <p>
@@ -37,7 +37,7 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>Sfruttare i metadati per la tua attività in Adobe Experience Manager Assets</strong>
+        <strong>Fai funzionare i metadati per la tua attività in Adobe Experience Manager Assets</strong>
       </a>
     </div>
     <p>
@@ -50,11 +50,11 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-        <strong>Ottenere il massimo dalla gestione dei flussi di lavoro aziendali</strong>
+        <strong>Ottieni il massimo dalla gestione dei flussi di lavoro aziendali</strong>
       </a>
     </div>
     <p>
-    <em>In questa sessione scoprirai i vantaggi dell’utilizzo dei flussi di lavoro per la gestione delle risorse e come crearli rapidamente.</em>
+    <em>In questa sessione imparerai i vantaggi dell'utilizzo dei flussi di lavoro per la gestione delle risorse e come crearli rapidamente.</em>
     <p>
   </td>
 </tr>

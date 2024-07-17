@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Comprendere l’API basata su eventi di ACDL. Un esempio di Commerce mostrerà come i Componenti core lo idratano e l’estensione Launch si interfaccia con AA e AT.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** per le diapositive della sessione.

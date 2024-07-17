@@ -23,4 +23,4 @@ Devono evolversi anche le piattaforme che facilitano la gestione dei dati dei cl
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Per integrare questo video, puoi anche [scarica un white paper](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+Per completare questo video, puoi anche [scaricare un white paper](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

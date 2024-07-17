@@ -1,6 +1,6 @@
 ---
 title: apm newrelic per aem cloud service
-description: Unisciti a noi e partecipa alla nostra sessione, dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, assicurando un’esperienza eccezionale attraverso il miglioramento dell’efficienza del progetto as a Cloud Service per l’AEM, la misurazione dell’influenza dei servizi esterni per il tuo sistema as a Cloud Service per l’AEM e la possibilità di sfruttare al massimo viste personalizzate. Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
+description: Unisciti a noi e partecipa alla nostra sessione, dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, assicurandoti un’esperienza straordinaria migliorando l’efficienza del progetto AEM as a Cloud Service, misurando l’influenza dei servizi esterni per il tuo sistema AEM as a Cloud Service e sfruttando al massimo viste personalizzate. Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -24,14 +24,14 @@ ht-degree: 0%
 
 Ottimizzazione delle prestazioni e risoluzione rapida dei problemi.
 
-Questo webinar è stato condotto su **20 settembre**, 2023. Visualizzare la registrazione di seguito.
+Questo webinar è stato condotto il **20 settembre**, 2023. Visualizzare la registrazione di seguito.
 
 ## Descrizione sessione
 
 Unisciti a noi nella nostra sessione, dove ti guideremo nel riconoscere e risolvere le sfide che interessano i tuoi clienti finali, assicurandoti un’esperienza straordinaria attraverso:
 
 * Migliorare l’efficienza del progetto AEM as a Cloud Service
-* Misurazione dell’influenza di servizi esterni sull’impianto as a Cloud Service AEM
+* Misurazione dell’influenza di servizi esterni sul sistema AEM as a Cloud Service
 * Sfruttare al meglio le visualizzazioni personalizzate
 
 Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazione predefinita con AEM as a Cloud Service. Non esitare a rispondere alle tue domande.
@@ -50,6 +50,6 @@ Scopri la procedura per accedere a New Relic, una funzione inclusa per impostazi
 
 >[!NOTE]
 >
->* Per le interazioni specifiche della community su Experience League, visita il nostro [thread contestuale](https://adobe.ly/3sV67N5).
+>* Per le interazioni della community specifiche per sessione su Experience League, visita il nostro [thread contestuale](https://adobe.ly/3sV67N5).
 >
->* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+>* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

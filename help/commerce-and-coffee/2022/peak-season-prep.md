@@ -1,6 +1,6 @@
 ---
-title: Commerce and Coffee - Preparazione stagione di picco
-description: Questa sessione approfondisce strategie, suggerimenti e best practice per il sito Commerce durante la stagione di picco. Discutiamo delle aspettative per le vacanze 2022, del mobile commerce, delle opzioni di promozione e pagamento, nonché dell’importanza del marketing per favorire il successo della stagione di picco. La presentazione e la demo sono accompagnate da un live Q&A con Corey Gelato.
+title: Commerce e caffè - Preparazione della stagione di picco
+description: Questa sessione analizza strategie, suggerimenti e best practice per il sito Commerce durante la stagione di picco. Discutiamo delle aspettative per le vacanze 2022, del mobile commerce, delle opzioni di promozione e pagamento, nonché dell’importanza del marketing per favorire il successo della stagione di picco. La presentazione e la demo sono accompagnate da un live Q&A con Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce and Coffee: preparazione della stagione di picco
+# Commerce e Coffee: preparazione della stagione di picco
 
-Questa sessione approfondisce strategie, suggerimenti e best practice per il sito Commerce durante la stagione di picco. Discutiamo delle aspettative per le vacanze 2022, del mobile commerce, delle opzioni di promozione e pagamento, nonché dell’importanza del marketing per favorire il successo della stagione di picco. La presentazione e la demo sono accompagnate da un live Q&amp;A con Corey Gelato.
+Questa sessione analizza strategie, suggerimenti e best practice per il sito Commerce durante la stagione di picco. Discutiamo delle aspettative per le vacanze 2022, del mobile commerce, delle opzioni di promozione e pagamento, nonché dell’importanza del marketing per favorire il successo della stagione di picco. La presentazione e la demo sono accompagnate da un live Q&amp;A con Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

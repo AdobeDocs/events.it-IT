@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -32,10 +32,10 @@ Nozioni di base sull’impostazione e l’utilizzo di DAM.
 ## Risorse
 
 * [Guida utente di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configurazione della struttura delle cartelle di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Configurare le autorizzazioni per la cartella AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=it)
+* [Configurazione della struttura di cartelle di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Configurare le autorizzazioni della cartella AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=it)
 * [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Trovare risorse visivamente simili con l’apprendimento automatico](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Trova risorse visivamente simili con apprendimento automatico](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 

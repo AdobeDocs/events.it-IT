@@ -1,6 +1,6 @@
 ---
 title: Non perdere mai più tempo a cercare contenuti
-description: Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e siti AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana
+description: Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e Sites dell’AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Scopri come creare esperienze cliente avanzate e coinvolgenti in Adobe Experienc
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e siti AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana.
+Diventa un autore esperto con un approfondimento dell’interfaccia utente di amministrazione di Media Library e Sites dell’AEM con suggerimenti e trucchi per aumentare l’efficienza quotidiana.
 
 ## Registrazioni in serie
 

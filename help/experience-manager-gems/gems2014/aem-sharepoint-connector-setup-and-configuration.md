@@ -8,7 +8,7 @@ duration: 3478
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Il connettore SharePoint di Adobe espone i contenuti tramite l’interfaccia JCR
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*Presentato il 29 gennaio 2014*
+*Consegnato il 29 gennaio 2014*
 
 **Presentato da:**
 

@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Suggerimenti e trucchi dei campioni'
-description: Partecipa a cinque [!DNL Adobe Analytics] Campioni da tutto il mondo mentre condividono i suggerimenti e trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics] suggerimenti campioni'
+description: Unisciti a cinque [!DNL Adobe Analytics] campioni da tutto il mondo mentre condividono i suggerimenti e i trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Suggerimenti e trucchi dei campioni
+# [!DNL Adobe Analytics] suggerimenti e trucchi dei campioni
 
-Partecipa a cinque [!DNL Adobe Analytics] Campioni da tutto il mondo mentre condividono i suggerimenti e trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics].
+Unisciti a cinque campioni di [!DNL Adobe Analytics] da tutto il mondo, condividendo i suggerimenti e i trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

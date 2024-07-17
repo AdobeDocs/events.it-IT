@@ -22,7 +22,7 @@ Durante questa sessione David discuterà:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Consegnato l’11 febbraio 2015*
+*Consegnato l&#39;11 febbraio 2015*
 
 **Presentato da:**
 

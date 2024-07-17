@@ -17,6 +17,8 @@ ht-degree: 0%
 
 # Una corda superiore si immerge in oggetti personalizzati e velocità
 
-Dati relazionali uno-a-molti più un motore di modelli testato nel tempo; il team di tag perfetto per contenuti e-mail avanzati. Scopri le tattiche per la progettazione dello schema CO, l’ordinamento, il filtraggio e l’aggregazione dei record CO, il rilevamento degli aggiornamenti dei record e l’integrazione di pseudo-CO utilizzando JSON. Vengono inoltre illustrate le attività generali di Velocity, ad esempio la localizzazione di date, ore e valute.
+Dati relazionali uno-a-molti più un motore di modelli testato nel tempo; il team di tag perfetto per contenuti e-mail avanzati. Scopri le tattiche per CO
+progettazione dello schema; ordinamento, filtraggio e aggregazione di record CO; rilevamento degli aggiornamenti dei record; integrazione di pseudo-CO tramite JSON. Lo faremo
+copre anche le attività generali di Velocity come la localizzazione di date, ore e valute.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

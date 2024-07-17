@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # La potenza di una campagna intelligente
 
-In questa sessione imparerai tutto su *Campagne avanzate* tra cui: Elenco avanzato - Attivatori e filtri, Flusso, Pianificazione e Risultati.
+In questa sessione imparerai tutto sulle *campagne avanzate*, tra cui: Elenco avanzato - Attivatori e filtri, Flusso, Pianificazione e Risultati.
 
 Lascerai questa sessione con una comprensione di cosa sono le campagne intelligenti, come utilizzarle e suggerimenti e trucchi per il successo!
 

@@ -1,6 +1,6 @@
 ---
-title: Contenuti ed e-commerce con Adobe Experience Manager as a Cloud Service
-description: Questa sessione aiuta gli sviluppatori a iniziare a utilizzare Commerce su Adobe Experience Manager as a Cloud Service, dalla configurazione locale di Adobe Experience Manager SDK + Commerce integration framework a Adobe Experience Manager e Magento nel cloud. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
+title: Contenuti e Commerce con Adobe Experience Manager as a Cloud Service
+description: Questa sessione aiuta gli sviluppatori a iniziare a utilizzare Commerce su Adobe Experience Manager as a Cloud Service, dalla configurazione locale dell’SDK di Adobe Experience Manager + Commerce integration framework a Adobe Experience Manager e Magento nel cloud. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Contenuti ed e-commerce con Adobe Experience Manager as a Cloud Service
+# Contenuti e Commerce con Adobe Experience Manager as a Cloud Service
 
-Questa sessione aiuta gli sviluppatori a iniziare a utilizzare Commerce su Adobe Experience Manager as a Cloud Service, dalla configurazione locale di Adobe Experience Manager SDK + Commerce integration framework a Adobe Experience Manager e Magento nel cloud.
+Questa sessione aiuta gli sviluppatori a iniziare a utilizzare Commerce su Adobe Experience Manager as a Cloud Service, dalla configurazione locale dell’SDK di Adobe Experience Manager + Commerce integration framework a Adobe Experience Manager e Magento nel cloud.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/content-commerce.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/content-commerce.pdf)** per le diapositive della sessione.

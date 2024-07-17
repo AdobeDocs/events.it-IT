@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Distribuire la personalizzazione dei contenuti](2022/personalization.md)
    + [Creare una supply chain di contenuti scalabile](2022/supply-chain.md)
    + [[!DNL Experience Manager as a Cloud Service] innovazioni](2022/innovations.md)
-   + [Risorse per tutte](2022/assets-for-all.md)
+   + [Assets per tutti](2022/assets-for-all.md)
    + [AEM Forms: semplificato, integrato e headless](2022/forms-headless.md)

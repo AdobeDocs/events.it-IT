@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Gabriel Walt, Product Manager per Experience Manager, offre una panoramica dei grandi temi che guidano la roadmap di Adobe Experience Manager e delle relazioni tra le sessioni.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** per le diapositive della sessione.

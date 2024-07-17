@@ -25,4 +25,4 @@ Unisciti a Chris Knittle, manager del Training and Delivery di Workfront, per as
 * Nozioni di base sulle durate delle attività e sui predecessori
 * Introduzione ai vincoli delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot link MPC/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)

@@ -28,11 +28,11 @@ Questo webinar è stato condotto il 27 aprile 2022 e presentato da Kunal Gaba e 
 
 >[!MORELIKETHIS]
 >
->* [Pagina Evento gruppo utenti Adobe Experience Manager corrispondente](https://adobe.ly/3O0uXl5/)
+>* [Pagina evento gruppo utenti Adobe Experience Manager corrispondente](https://adobe.ly/3O0uXl5/)
 >* [Thread contestuale corrispondente](https://adobe.ly/3jorz5r)
->* Effettua la registrazione all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui prossimi webinar.
+>* Registrati al [Gruppo utenti AEM di Adobe](https://aem-augs.adobe.com/) per ricevere notifiche sui prossimi webinar.
 
-**Agenda ad alto livello:**
+**Agenda di alto livello:**
 
 * Cos’è l’CIF e perché usare l’CIF?
 

@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # Punti salienti della raccolta dati e roadmap
 
-**Cosa abbiamo rilasciato e cosa viene fuori con la raccolta dati di Adobi**
+**Informazioni che sono state rilasciate e risultati della raccolta dati di Adobe**
 
 La raccolta dei dati è fondamentale, ad Adobe. Devi essere in grado di fare affidamento sui dati con cui lavori. L’anno scorso è stato ricco di eventi per quanto riguarda le versioni e ci sono grandi novità in arrivo.
 
@@ -27,5 +27,5 @@ La raccolta dei dati è fondamentale, ad Adobe. Devi essere in grado di fare aff
 
 Guarda il video qui sopra per vedere questo evento in diretta streaming, dove Adobi di esperti di raccolta dati hanno riassunto importanti aggiornamenti recenti, e fornito uno sguardo sui prossimi elementi della roadmap.
 
-Hai delle domande a riguardo? Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) di Adobe Experience League.
 

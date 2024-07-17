@@ -38,6 +38,6 @@ Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e
 
 >[!NOTE]
 > 
->* Per le interazioni community specifiche per sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4aCz0OE).
+>* Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4aCz0OE).
 >
->* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+>* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

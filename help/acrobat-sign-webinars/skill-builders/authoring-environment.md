@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Formazione avanzata sull’ambiente di authoring
 
@@ -28,4 +28,3 @@ Approfondisci le opzioni disponibili nell’ambiente di authoring di Acrobat Sig
 * Vengono esaminate ulteriori opzioni quali i campi degli allegati, i campi dei collegamenti ipertestuali e i campi ID transazione.
 * Ai partecipanti possono essere assegnati campi modulo e le proprietà del modello possono essere impostate per la personalizzazione.
 * Sono inoltre trattati il processo di creazione di modelli di documento riutilizzabili, la gestione di modelli e l&#39;esportazione di accordi firmati.
-

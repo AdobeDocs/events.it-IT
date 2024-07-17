@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Qualità e adozione dei dati in [!DNL Analytics]
+# Qualità dei dati e adozione in [!DNL Analytics]
 
-Le aziende hanno identificato i dati come fattori chiave per il successo aziendale futuro. Per ottenere questo risultato, sono necessari un alto livello di qualità dei dati e l’adozione di uno stack di dati maturo. Scopri come migliorare la qualità dei dati in ogni aspetto di [!DNL Adobe Analytics] e creare una cultura condivisa intorno ad esso.
+Le aziende hanno identificato i dati come fattori chiave per il successo aziendale futuro. Per ottenere questo risultato, sono necessari un alto livello di qualità dei dati e l’adozione di uno stack di dati maturo. Scopri come migliorare la qualità dei dati in ogni aspetto di [!DNL Adobe Analytics] e creare una cultura condivisa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

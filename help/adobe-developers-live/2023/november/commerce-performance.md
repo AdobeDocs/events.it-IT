@@ -1,5 +1,5 @@
 ---
-title: Fornire prestazioni commerciali tramite la piattaforma
+title: Fornire prestazioni Commerce tramite la piattaforma
 description: In questa interessante presentazione presentiamo la nostra storia "Better Together", in cui Adobe Commerce si integra perfettamente con la nostra suite tecnologica completa. Scopri come questa sinergia promuove l’efficienza, l’innovazione e l’esperienza olistica dei clienti, elevando la tua attività a nuove vette
 solution: Commerce
 feature-set: Commerce
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Fornire prestazioni commerciali tramite la piattaforma
+# Fornire prestazioni Commerce tramite la piattaforma
 
 In questa interessante presentazione presentiamo la nostra storia &quot;Better Together&quot;, in cui Adobe Commerce si integra perfettamente con la nostra suite tecnologica completa. Scopri come questa sinergia promuove l’efficienza, l’innovazione e l’esperienza olistica dei clienti, elevando la tua attività a nuove vette
 

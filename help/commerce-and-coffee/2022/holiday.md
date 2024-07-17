@@ -1,5 +1,5 @@
 ---
-title: Commercio e caffè - Retrospettiva vacanze 2021
+title: Commerce and Coffee - Retrospettiva vacanze 2021
 description: Durante questa sessione, diamo un’occhiata a come il panorama eCommerce è riuscito durante l’unica stagione festiva del 2021. Sulla base di questi insegnamenti, verranno illustrati i metodi per influenzare meglio la strategia Adobe Commerce nel 2022. Corey dimostra poi gli avvisi sulle scorte dei prodotti, il ritiro BOPIS / Curbside, premi e fedeltà e molto altro. La presentazione e la demo sono accompagnate da un live Q&A con Corey.
 solution: Commerce
 topic: Commerce

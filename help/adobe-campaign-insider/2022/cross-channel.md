@@ -1,5 +1,5 @@
 ---
-title: Migliorare il marketing su più canali con Adobe [!DNL Campaign Classic]
+title: Migliora il tuo marketing su più canali con Adobe [!DNL Campaign Classic]
 description: Webinar di approfondimento incentrato su flussi di lavoro, automazione, personalizzazione e misurazione, ad Adobe [!DNL Campaign Classic] clienti.
 version: Classic v7
 solution: Campaign
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Migliorare il marketing su più canali con Adobe [!DNL Campaign Classic]
+# Migliora il tuo marketing su più canali con l&#39;Adobe [!DNL Campaign Classic]
 
 Webinar di approfondimento incentrato su flussi di lavoro, automazione, personalizzazione e misurazione, ad Adobe [!DNL Campaign Classic] clienti.
 

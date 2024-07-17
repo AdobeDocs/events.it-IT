@@ -1,6 +1,6 @@
 ---
 title: Commerce integration framework estensibilità tramite GraphQL
-description: Scopri come estendere i componenti core Commerce utilizzando GraphQL. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
+description: Scopri come estendere i componenti core di Commerce utilizzando GraphQL. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Commerce integration framework estensibilità tramite GraphQL
 
-Scopri come estendere i componenti core Commerce utilizzando GraphQL.
+Scopri come estendere i componenti core di Commerce utilizzando GraphQL.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** per le diapositive della sessione.

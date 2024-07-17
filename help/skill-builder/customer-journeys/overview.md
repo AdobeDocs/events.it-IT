@@ -20,15 +20,15 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="L&apos;unione fa la forza - Adobe [!DNL Marketo Engage] e REAL-TIME CDP" src="assets/343824.jpeg" />
+      <img alt="L&apos;unione fa la forza: Adobe [!DNL Marketo Engage] e Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>L'unione fa la forza - Adobe [!DNL Marketo Engage] e REAL-TIME CDP</strong>
+        <strong>Migliore insieme - Adobe [!DNL Marketo Engage] e Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>Scopri come coordinare campagne B2B con [!DNL Marketo Engage] e RT-CDP (edizione B2B) e quali sono i casi d’uso principali e i vantaggi offerti.</em>
+    <em>Scopri come orchestrare campagne B2B con [!DNL Marketo Engage] e RT-CDP (edizione B2B) e quali sono i casi d’uso principali e i vantaggi sbloccati.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Sviluppare e personalizzare modelli di dati in Adobe [!DNL Campaign Classic]</strong>
+        <strong>Sviluppare e personalizzare modelli di dati nell'Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>Partecipa a questa sessione con il nostro istruttore di Campaign per scoprire come sviluppare uno schema di dati all’interno di un modello di dati in [!DNL Campaign Classic].</em>
+    <em>Partecipa a questa sessione con il nostro istruttore di Campaign per scoprire come sviluppare uno schema di dati all'interno di un modello di dati in [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

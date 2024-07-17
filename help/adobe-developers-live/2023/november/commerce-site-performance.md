@@ -1,6 +1,6 @@
 ---
 title: Strategie per ottimizzare le prestazioni del sito Commerce
-description: 'Migliora la tua esperienza di e-commerce: approfondisci la nostra presentazione sulle strategie per ottimizzare le prestazioni del tuo sito. Scopri le tecniche e le best practice per migliorare la velocità, i tempi di risposta e la soddisfazione dei clienti, portando avanti il tuo business online.'
+description: 'Migliora la tua esperienza con Commerce: partecipa alla presentazione sulle strategie per ottimizzare le prestazioni del tuo sito. Scopri le tecniche e le best practice per migliorare la velocità, i tempi di risposta e la soddisfazione dei clienti, portando avanti il tuo business online.'
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Strategie per ottimizzare le prestazioni del sito Commerce
 
-Migliora la tua esperienza di e-commerce: approfondisci la nostra presentazione sulle strategie per ottimizzare le prestazioni del tuo sito. Scopri le tecniche e le best practice per migliorare la velocità, i tempi di risposta e la soddisfazione dei clienti, portando avanti il tuo business online.
+Migliora la tua esperienza con Commerce: partecipa alla presentazione sulle strategie per ottimizzare le prestazioni del tuo sito. Scopri le tecniche e le best practice per migliorare la velocità, i tempi di risposta e la soddisfazione dei clienti, portando avanti il tuo business online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

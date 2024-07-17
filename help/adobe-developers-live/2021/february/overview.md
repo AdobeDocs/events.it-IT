@@ -19,7 +19,7 @@ Dall’8 al 9 febbraio 2021, Adobe Developers Live: Content ha riunito sviluppat
 
 Questa conferenza di due giorni ha visto importanti aggiornamenti per gli sviluppatori di Adobe Experience Manager, come Headless e GraphQL, Adobe Experience Manager as a Cloud Service, sessioni tecniche e opportunità di networking per la community.
 
-Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Connettiti con altri sviluppatori e partecipa alle conversazioni di sessione in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 ## In evidenza
 
@@ -31,7 +31,7 @@ Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione 
       </a>
       <div>
          <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL con frammenti di contenuto</strong></a>         
-         <br/><em>con Jabran Asghar, Sr. Software Engineer</em>
+         <br/><em>con Jabran Asghar, Sr. Ingegnere software</em>
       </div>
       <p>
         <br/>
@@ -57,7 +57,7 @@ Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione 
       <img alt="Preparati al Cloud Service: best practice per la migrazione" src="/help/adobe-developers-live/assets/andreea.png"/>
       </a>
       <div>
-         <a href="get-ready-aem-cloud.md"><strong>Preparati al Cloud Service: best practice per la migrazione</strong></a>
+         <a href="get-ready-aem-cloud.md"><strong>Preparati per il Cloud Service - Best practice per la migrazione</strong></a>
          <br/><em>con Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>
@@ -74,12 +74,12 @@ Connettersi con altri sviluppatori e partecipare alle conversazioni di sessione 
 
 ## Risorse aggiuntive
 
-* [Experience League - Esplorare l’AEM](https://experienceleague.adobe.com/?lang=it#recommended/solutions/experience-manager)
-* [Documentazione sull’authoring di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [Experience League - Esplora AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Documentazione sull&#39;authoring di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [Documentazione sullo sviluppo per AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [Documentazione sull’amministrazione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Documentazione sull&#39;amministrazione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [Documentazione sulla distribuzione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it)
-* [Tutorials as a Cloud Service AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it)
+* [Tutorials AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it)
 * [Tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it)
 * [Tutorial su AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [Tutorial su AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

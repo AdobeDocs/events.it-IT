@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Marketo Engage] Champion Deep Email Nurture
+title: Adobe [!DNL Marketo Engage] Alimentazione e-mail approfondita Champion
 description: Lead Nurturing, Drip Marketing, contenuto e-mail strategico possono andare con molti nomi diversi. La cultura dell’e-mail è una strategia collaudata che ha innumerevoli utilizzi per un’organizzazione, ma può essere un mistero completo per molti esperti di marketing e venditori, pertanto questa potente strategia spesso non viene utilizzata. In questa sessione, imparerai i fattori chiave da considerare che ti aiuteranno a essere più sicuro di creare la tua strategia di nutrizione dei lead, a parlare attraverso alcuni esempi di colture di successo e ad imparare come applicare queste strategie in tutta la tua organizzazione per soddisfare i tuoi obiettivi unici.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

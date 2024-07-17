@@ -1,6 +1,6 @@
 ---
-title: Analisi degli errori di distribuzione as a Cloud Service AEM
-description: Interni di distribuzione as a Cloud Service all’AEM e risoluzione dei problemi.
+title: Analisi degli errori di distribuzione di AEM as a Cloud Service
+description: Interni sull’implementazione di AEM as a Cloud Service e risoluzione dei problemi.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Analisi degli errori di distribuzione as a Cloud Service AEM
+# Analisi degli errori di distribuzione di AEM as a Cloud Service
 
-In questa sessione imparerai nozioni su come eseguire internamente l’implementazione as a Cloud Service all’AEM e sulla risoluzione dei problemi.
+In questa sessione, scoprirai le procedure interne di implementazione di AEM as a Cloud Service e la risoluzione dei problemi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

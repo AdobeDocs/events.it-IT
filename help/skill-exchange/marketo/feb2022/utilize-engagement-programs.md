@@ -1,6 +1,6 @@
 ---
 title: Nurture 101 - Utilizzare I Programmi Di Coinvolgimento Per Coinvolgere I Clienti
-description: Scopri le nozioni di base dei programmi di coinvolgimento in [!DNL Marketo Engage] inclusi casi d’uso di esempio, suggerimenti e trucchi.
+description: Scopri le nozioni di base dei programmi di coinvolgimento all'interno di  [!DNL Marketo Engage] , inclusi casi d'uso di esempio, suggerimenti e trucchi.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Nurture 101 - Utilizzare I Programmi Di Coinvolgimento Per Coinvolgere I Clienti
 
-Scopri le nozioni di base dei programmi di coinvolgimento in [!DNL Marketo Engage] inclusi casi d’uso di esempio, suggerimenti e trucchi.
+Scopri le nozioni di base dei programmi di coinvolgimento in [!DNL Marketo Engage], inclusi casi d&#39;uso di esempio, suggerimenti e trucchi.
 
-**Takeaway chiave**
+**Eliminazione chiavi**
 
 * Comprendere meglio i programmi di coinvolgimento Marketo e le loro funzionalità esclusive
 * Scopri la configurazione del programma e le best practice, e come si applicano ai casi d’uso reali

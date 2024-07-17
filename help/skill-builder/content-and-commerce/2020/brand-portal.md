@@ -17,7 +17,7 @@ duration: 3095
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Brand Portal consente di condividere facilmente le risorse con i team interni ed
 
 * [Panoramica di Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
 * [Video su Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [Asset Sourcing](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=it)
+* [Origine risorse](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## Registrazioni in serie
 

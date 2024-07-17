@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Creazione di una cultura basata sui dati - Domande e risposte'
-description: 'Durante il [!DNL Adobe Analytics] Creazione di un webinar sulla cultura basata sui dati, oltre 35 domande sono state poste da [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che [!DNL Adobe Analytics] Champion non è stato in grado di rispondere a tutte queste domande durante le sessioni live di domande e risposte: le abbiamo richiamate e abbiamo organizzato una sessione di domande e risposte per condividere conoscenze ancora più approfondite.'
+title: '''[!DNL Adobe Analytics] Creazione di domande e risposte relative a un''impostazione basata sui dati'
+description: Durante il webinar  [!DNL Adobe Analytics] Creazione di una cultura basata sui dati, sono state poste più di 35 domande da  [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che il nostro  [!DNL Adobe Analytics] Champion non è stato in grado di rispondere a tutte queste domande durante le sessioni di domande e risposte live, li abbiamo riportati indietro e abbiamo ospitato una sessione di domande e risposte successive per rispondere alle TUE domande e condividere una conoscenza ancora più approfondita.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Creazione di una cultura basata sui dati - Domande e risposte
+# [!DNL Adobe Analytics] Creazione di domande e risposte relative a una cultura basata sui dati
 
-Durante il [!DNL Adobe Analytics] Creazione di un webinar sulla cultura basata sui dati, oltre 35 domande sono state poste da [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che [!DNL Adobe Analytics] Champion non è stato in grado di rispondere a tutte queste domande durante le sessioni live di domande e risposte: le abbiamo richiamate e abbiamo organizzato una sessione di domande e risposte per condividere conoscenze ancora più approfondite.
+Durante il webinar sulla creazione di una cultura basata sui dati [!DNL Adobe Analytics], sono state poste più di 35 domande da [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che il nostro [!DNL Adobe Analytics] Champion non è stato in grado di rispondere a tutte queste domande durante le sessioni di domande e risposte live, li abbiamo richiamati e abbiamo ospitato una sessione di domande e risposte per condividere conoscenze ancora più approfondite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

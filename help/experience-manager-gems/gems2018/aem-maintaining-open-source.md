@@ -1,5 +1,5 @@
 ---
-title: Mantenimento di Open Source e integrità mentale
+title: Mantenere Open Source e la sanità mentale
 description: Mantenere progetti open source può essere difficile. Progetti open source di successo possono richiedere molto tempo e spesso ti senti in colpa perché non trascorri abbastanza tempo a lavorarci. Impara una serie di cose che possono aiutarti a stare al passo con il tuo progetto senza i sentimenti di colpevolezza.
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 2085
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Mantenimento Dell&#39;Open Source Mantenendo La Sanità{#maintaining-open-source-while-maintaining-your-sanity}
+# Mantenere Open Source E Mantenere La Sanità{#maintaining-open-source-while-maintaining-your-sanity}
 
 Mantenere progetti open source può essere difficile. Progetti open source di successo possono richiedere molto tempo e spesso ti senti in colpa perché non trascorri abbastanza tempo a lavorarci. Tu non sei sola! Sono stato un collaboratore open source per molto tempo e un responsabile di base di Apache Cordova per oltre 8 anni. Ho imparato una serie di cose che possono aiutarti a stare al passo con il tuo progetto senza i sentimenti di colpevolezza.
 

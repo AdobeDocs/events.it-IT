@@ -1,6 +1,6 @@
 ---
-title: Riflettori puntati su Marketi Engage Experience Makers
-description: Vieni a conoscere due clienti esperti e [!DNL Marketo Engage] utenti. Ognuno condividerà il proprio meglio [!DNL Marketo Engage] suggerimento o trucco.
+title: Riflettori puntati su Marketo Engage Experience Makers
+description: Unisciti a noi mentre mettiamo in evidenza due clienti esperti e  [!DNL Marketo Engage]  utenti. Ognuno condividerà il proprio suggerimento o trucco migliore [!DNL Marketo Engage] .
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Riflettori puntati su Experience Maker
+# Riflettori puntati su [!DNL Marketo Engage] Experience Makers
 
-Vieni a conoscere due clienti esperti e [!DNL Marketo Engage] utenti. Ognuno condividerà il proprio meglio [!DNL Marketo Engage] suggerimento o trucco.
+Unisciti a noi mentre vengono evidenziati due clienti esperti e [!DNL Marketo Engage] utenti. Ognuno condividerà il proprio suggerimento o trucco [!DNL Marketo Engage] migliore.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

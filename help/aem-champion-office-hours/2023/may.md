@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Champion Office Hours - Cloud Manager
-description: Unisciti a noi per l’edizione di maggio di Office Hours dei campioni di AEM di Adobe, dove i campioni di Adobe Experience Manager discuteranno delle best practice, condivideranno i suggerimenti e parteciperanno a domande e risposte live su AEM Cloud Manager.Se sei un nuovo utente di AEM, vuoi sapere come Cloud Manager può semplificare i flussi di lavoro o vuoi capire in che modo la pipeline di build preconfigurata e la distribuzione stabile di Cloud Manager consentono alle organizzazioni di creare, testare e distribuire automaticamente applicazioni AEM sul cloud, i nostri campioni di AEM avranno le risposte!
+description: Unisciti a noi per l’edizione di maggio di Office Hours dei campioni di AEM di Adobe come panel di campioni di Adobe Experience Manager per discutere delle best practice, condividere i suggerimenti e partecipare a un live Q&A sul Cloud Manager dell’AEM.Se sei un nuovo utente dell’AEM, vuoi sapere come Cloud Manager può semplificare i tuoi flussi di lavoro o vuoi capire in che modo la pipeline di build preconfigurata di Cloud Manager AEM AEM e l’implementazione stabile consentono alle organizzazioni di creare, testare e distribuire automaticamente le applicazioni sul cloud, i nostri campioni di hanno le risposte!
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 # Adobe Experience Manager Champion Office Hours - Cloud Manager
 
-Unisciti a noi per l’edizione di maggio di Office Hours dei campioni di AEM di Adobe, dove un gruppo di campioni di Adobe Experience Manager discuterà delle best practice, condividerà suggerimenti e parteciperà a domande e risposte live su AEM Cloud Manager.
+Unisciti a noi per l’edizione di maggio di Office Hours dei campioni di AEM di Adobe, dove un gruppo di campioni di Adobe Experience Manager discuterà delle best practice, condividerà suggerimenti e parteciperà a domande e risposte live sul Cloud Manager dell’AEM.
 
-Se sei un nuovo utente di AEM, vuoi sapere come Cloud Manager può semplificare i flussi di lavoro o vuoi capire in che modo la pipeline di build preconfigurata e la distribuzione stabile di Cloud Manager consentono alle organizzazioni di creare, testare e distribuire automaticamente le applicazioni AEM sul cloud, i nostri campioni AEM hanno le risposte!
+Se sei un nuovo utente di AEM, vuoi sapere come Cloud Manager può semplificare i tuoi flussi di lavoro o vuoi capire in che modo la pipeline di build preconfigurata di Cloud Manager e la distribuzione stabile consentono alle organizzazioni di creare, testare e distribuire automaticamente le applicazioni AEM sul cloud, i nostri campioni di AEM hanno le risposte!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

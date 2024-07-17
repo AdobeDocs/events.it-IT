@@ -1,5 +1,5 @@
 ---
-title: Commerce e Coffee - Tendenze dell'e-commerce
+title: Commerce e Coffee - Tendenze E-Commerce
 description: Questa sessione affronta oggi 5 delle tendenze più importanti nell’eCommerce. Vengono illustrate le strategie e le tattiche in base alle tendenze principali e l'impatto che queste hanno sulla tua azienda una volta implementate. Corey presenta una dimostrazione di biglietti per eventi, autorizzazioni per categorie, funzionalità B2B e altro ancora. La presentazione e la demo sono accompagnate da un live Q&A con Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Commerce e Coffee - Tendenze dell&#39;e-commerce
+# Commerce e Coffee - Tendenze E-Commerce
 
 Questa sessione affronta oggi 5 delle tendenze più importanti nell’eCommerce. Vengono illustrate le strategie e le tattiche in base alle tendenze principali e l&#39;impatto che queste hanno sulla tua azienda una volta implementate. Corey presenta una dimostrazione di biglietti per eventi, autorizzazioni per categorie, funzionalità B2B e altro ancora. La presentazione e la demo sono accompagnate da un live Q&amp;A con Corey.
 

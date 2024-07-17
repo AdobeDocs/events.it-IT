@@ -1,5 +1,5 @@
 ---
-title: Risorse per tutte
+title: Assets per tutti
 description: Purnima Rachoor Roy ci parla di come Assets Essentials è il nuovo Digital Asset Management system per i reparti e le aziende di medie dimensioni.
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Risorse per tutte
+# Assets per tutti
 
-Purnima Rachoor Roy spiega come [!DNL Assets Essentials] è il nuovo [!DNL Digital Asset Management] per i dipartimenti e le medie imprese.
+Purnima Rachoor Roy spiega come [!DNL Assets Essentials] è il nuovo sistema [!DNL Digital Asset Management] per reparti e aziende di medie dimensioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -35,5 +35,5 @@ Jukka Zitting, Senior Developer, Adobe
 
 ## Collegamenti correlati {#related-links}
 
-* [Documentazione di aggiornamento AEM](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [Presentazione da ApacheCon &quot;Oak, l&#39;architettura di Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [Documentazione sull&#39;aggiornamento AEM](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [Presentazione di ApacheCon &quot;Oak, l&#39;architettura di Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

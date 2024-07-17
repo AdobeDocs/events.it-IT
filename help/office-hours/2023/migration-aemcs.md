@@ -1,6 +1,6 @@
 ---
 title: Migrazione ad AEM Cloud Service
-description: Scopri le tecniche e gli strumenti disponibili per semplificare la migrazione ad AEM Cloud Service. Dallo strumento Content Transfer al nuovo Cloud Acceleration Manager, utilizzato in combinazione con Best Practice Analyzer per valutare l’ambiente.
+description: Scopri le tecniche e gli strumenti disponibili per semplificare la migrazione ad AEM Cloud Service. Dallo strumento Content Transfer (Trasferimento contenuti) al nuovo Cloud Acceleration Manager, utilizzato in combinazione con Best Practice Analyzer per valutare l’ambiente.
 role: Admin, User
 level: Beginner
 feature-set: Experience Manager
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Migrazione ad AEM Cloud Service
 
-In questa sessione ti verranno presentate le tecniche e gli strumenti disponibili per semplificare la migrazione ad AEM Cloud Service. Dallo strumento Content Transfer al nuovo Cloud Acceleration Manager, utilizzato in combinazione con Best Practice Analyzer per valutare l’ambiente, non perdete questa sessione di abilitazione per essere pronti per un lancio di successo sul Cloud Service.
+In questa sessione ti verranno presentate le tecniche e gli strumenti disponibili per semplificare la migrazione ad AEM Cloud Service. Dallo strumento Content Transfer al nuovo Cloud Acceleration Manager utilizzato in combinazione con Best Practice Analyzer per valutare l’ambiente, non perderti questa sessione di abilitazione per assicurarti di essere pronto per un lancio di successo in Cloud Service.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422533/?learn=on)

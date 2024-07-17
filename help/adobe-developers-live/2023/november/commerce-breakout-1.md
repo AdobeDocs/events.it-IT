@@ -1,5 +1,5 @@
 ---
-title: Breakout di Adobe Developers Live Commerce 1 - novembre 2023
+title: Breakout Commerce di Adobe Developers Live 1 - novembre 2023
 description: Unisciti a Fahd Siddiqui in questa sessione illuminante di Adobe Developers Live, registrata il 6 novembre 2023, mentre analizza come gli innovativi servizi di catalogo e indicizzazione dei prezzi di Adobe Commerce stiano rimodellando il commercio digitale B2B. Scopri le sfide della gestione di assortimenti di prodotti in crescita e le soluzioni offerte da Adobe Commerce per offrire esperienze di acquisto veloci ed efficienti. Questa sessione è fondamentale per gli sviluppatori che desiderano migliorare la loro esperienza nel mondo dinamico della tecnologia di e-commerce B2B.
 solution: Commerce
 feature-set: Commerce
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Breakout di Adobe Developers Live Commerce 1 - novembre 2023
+# Breakout Commerce di Adobe Developers Live 1 - novembre 2023
 
 Unisciti a Fahd Siddiqui in questa sessione illuminante di Adobe Developers Live, registrata il 6 novembre 2023, mentre analizza come gli innovativi servizi di catalogo e indicizzazione dei prezzi di Adobe Commerce stiano rimodellando il commercio digitale B2B. Scopri le sfide della gestione di assortimenti di prodotti in crescita e le soluzioni offerte da Adobe Commerce per offrire esperienze di acquisto veloci ed efficienti. Questa sessione è fondamentale per gli sviluppatori che desiderano migliorare la loro esperienza nel mondo dinamico della tecnologia di e-commerce B2B.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/3rJfZcN).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425623/?learn=on)

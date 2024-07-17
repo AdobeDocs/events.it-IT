@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# Creative Edge: come il pensiero visionario sta trasformando Commerce
 
-# The Creative Edge: il pensiero visionario sta trasformando Commerce
-
-The Creative Edge: How Visionary Thinking is Transforming Ecommerce approfondisce l’innovazione dove la Gen AI sta rivoluzionando il panorama creativo, offrendo insights e possibilità senza precedenti. I partecipanti scopriranno come l’intelligenza artificiale semplifica la gestione delle linee guida di brand e stile, garantendo coerenza tra le varie piattaforme e canali.
+Creative Edge: How Visionary Thinking is Transforming Ecommerce (Il pensiero visionario sta trasformando l’e-commerce) punta in prima linea nell’innovazione, dove Gen AI sta rivoluzionando il panorama creativo, offrendo informazioni e possibilità senza precedenti. I partecipanti scopriranno come l’intelligenza artificiale semplifica la gestione delle linee guida di brand e stile, garantendo coerenza tra le varie piattaforme e canali.
 
 Grazie all’integrazione diretta, scopri come incorporare facilmente le risorse creative nell’esecuzione di marketing e nel commerce, aumentando il coinvolgimento dei clienti e i tassi di conversione.
 
@@ -34,5 +34,5 @@ Unisciti a noi mentre esploriamo le infinite opportunità all&#39;intersezione t
 * Integrazione di Creativity and Commerce: il webinar sottolinea l’importanza di riunire creatività e commerce per migliorare il processo di creazione dei contenuti e fornire esperienze personalizzate.
 * Catena di fornitura dei contenuti: Adobe presenta la sua catena di fornitura dei contenuti, che include strumenti come Adobe Experience Manager e Adobe Stock per gestire e integrare in modo efficiente le risorse tra i siti commerce.
 * Adobe Workfront: Workfront viene introdotto come strumento di gestione delle risorse marketing di Adobe per facilitare la collaborazione, i flussi di lavoro di approvazione e l’integrazione tra i team creativi e di marketing.
-* Esperienze personalizzate su larga scala: gli strumenti di intelligenza artificiale generativi di Adobe, come Adobe Firefly e Adobi Express, consentono agli utenti di creare contenuti personalizzati su larga scala mantenendo la coerenza del brand.
+* Esperienze personalizzate su larga scala: gli strumenti di intelligenza artificiale generativi di Adobe, come Adobe Firefly e Adobe Express, consentono agli utenti di creare contenuti personalizzati su larga scala mantenendo la coerenza del brand.
 * Approfondimenti e tracciamento delle prestazioni: Adobe Gen Studio fornisce informazioni approfondite sulle prestazioni dei contenuti, consentendo agli addetti al marketing di monitorare e analizzare il successo delle campagne su più canali per un miglioramento e un’ottimizzazione continui.

@@ -1,5 +1,5 @@
 ---
-title: Creazione delle basi per la personalizzazione su larga scala
+title: Creazione delle basi per Personalization su larga scala
 description: Questo webinar si concentra sulla comprensione delle basi necessarie per orchestrare la personalizzazione su larga scala
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Creazione delle basi per la personalizzazione su larga scala
+# Creazione delle basi per Personalization su larga scala
 
 Questo webinar si concentra sulla comprensione delle basi necessarie per orchestrare la personalizzazione su larga scala
 

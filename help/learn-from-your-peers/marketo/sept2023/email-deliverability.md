@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Migliora il recapito messaggi e-mail con il Marketo Engage
 
-Partecipa a questo webinar &quot;Scopri dai tuoi colleghi&quot; come l’Adobe Marketo Champion Beth Massura, condivide come valuta i fattori che influiscono sul recapito dei messaggi e-mail, agisce sui segnali di allarme e assicura un buon recapito dei messaggi utilizzando le funzioni integrate di Marketi Engage.
+Partecipa a questo webinar &quot;Scopri dai tuoi colleghi&quot; come l’Adobe Marketo Champion Beth Massura, condivide come valuta i fattori che influiscono sul recapito dei messaggi e-mail, agisce sui segnali di allarme e assicura un buon recapito dei messaggi utilizzando le funzioni integrate di Marketo Engage.
 
 In questo webinar scoprirai:
 

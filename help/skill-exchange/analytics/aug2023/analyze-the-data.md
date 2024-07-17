@@ -1,6 +1,6 @@
 ---
 title: Analisi dei dati
-description: 'Le tabelle a forma libera sono la base flessibile di Analysis Workspace: padroneggiare queste potenti tabelle ti porterà lontano nel tuo percorso WorkspaceI segmenti sono un modo altamente flessibile per filtrare e approfondire i dati e possono essere applicati a livello globale, a livello di metrica o utilizzati come dimensioni autonome. I pannelli offrono scelte rapide per analisi complesse; in particolare, il pannello quick insights è un’ottima opzione per rispondere semplicemente alle domande che si pongono alla tua azienda'
+description: 'Le tabelle a forma libera sono la base flessibile di Analysis Workspace: padroneggiare queste potenti tabelle ti porterà lontano nel tuo percorso Workspace. I segmenti sono un modo altamente flessibile per filtrare e approfondire i dati e possono essere applicati a livello globale, a livello di metrica o utilizzati come dimensioni autonome. I pannelli offrono scelte rapide per analisi complesse; in particolare, il pannello quick insights è un’ottima opzione per rispondere semplicemente alle domande che si pongono alla tua azienda'
 feature-set: Analytics
 feature: Freeform Tables, Metrics
 role: User
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Evento Skill Exchange Ago 2023 - Traccia dell’apprendimento - Adobe Analytics: analisi dei dati
 
-Le tabelle a forma libera sono la base flessibile di Analysis Workspace: padroneggiarle ti porterà lontano nel tuo percorso Workspace
+Le tabelle a forma libera sono la base flessibile di Analysis Workspace: padroneggiare queste potenti tabelle ti porterà lontano nel tuo percorso Workspace
 
 I segmenti sono un modo altamente flessibile per filtrare e approfondire i dati e possono essere applicati a livello globale, a livello di metrica o utilizzati come dimensioni autonome
 

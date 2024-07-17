@@ -1,6 +1,6 @@
 ---
 title: Il futuro di Adobe Workfront Proof
-description: Utilizzi Workfront Proof per i flussi di lavoro di revisione e approvazione all’interno dell’organizzazione? Curioso come ottenere il massimo dallo strumento e ciò che abbiamo pianificato per il futuro.
+description: Utilizzi Workfront Proof per i flussi di lavoro di revisione e approvazione presso la tua organizzazione? Curioso come ottenere il massimo dallo strumento e ciò che abbiamo pianificato per il futuro.
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Il futuro di Adobe Workfront Proof
 
-Utilizzi Workfront Proof per i flussi di lavoro di revisione e approvazione all’interno dell’organizzazione? Curioso come ottenere il massimo dallo strumento e cosa abbiamo pianificato per il futuro? Caroline Ossmann, Product Manager di Adobe Workfront for Proof, condividerà:
+Utilizzi Workfront Proof per i flussi di lavoro di revisione e approvazione presso la tua organizzazione? Curioso come ottenere il massimo dallo strumento e cosa abbiamo pianificato per il futuro? Caroline Ossmann, Product Manager di Adobe Workfront for Proof, condividerà:
 
 * Vantaggi delle recenti innovazioni
 * Esempi di come vediamo i nostri clienti che sfruttano Proof

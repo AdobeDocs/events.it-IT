@@ -1,6 +1,6 @@
 ---
 title: Breakout dei Edge Delivery Services Adobe Developers Live 1 - novembre 2023
-description: Unisciti a Markus Haack in questa sessione pratica, registrata in diretta su Adobe Developers Live. Scopri come creare un sito web dalla base utilizzando i Edge Delivery Services di Adobe Experience Manager. Questa sessione tratta tutte le fasi, dalla configurazione di un archivio GitHub alla gestione delle librerie di documenti, dalla pubblicazione del primo contenuto allo stile del sito e alla creazione di blocchi personalizzati. Ideale per sviluppatori che non hanno mai usato Adobe Experience Manager, questa guida offre una panoramica completa di uno sviluppo web efficiente tramite strumenti ottimizzati per l’AEM.
+description: Unisciti a Markus Haack in questa sessione pratica, registrata in diretta su Adobe Developers Live. Scopri come creare un sito web dalla base utilizzando i Edge Delivery Services di Adobe Experience Manager. Questa sessione tratta tutte le fasi, dalla configurazione di un archivio GitHub alla gestione delle librerie di documenti, dalla pubblicazione del primo contenuto allo stile del sito e alla creazione di blocchi personalizzati. Ideale per sviluppatori che non hanno mai usato Adobe Experience Manager, questa guida offre una panoramica completa di uno sviluppo web efficiente utilizzando gli strumenti ottimizzati dell’AEM.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 # Breakout dei Edge Delivery Services Adobe Developers Live 1 - novembre 2023
 
-Unisciti a Markus Haack in questa sessione pratica, registrata in diretta su Adobe Developers Live. Scopri come creare un sito web dalla base utilizzando i Edge Delivery Services di Adobe Experience Manager. Questa sessione tratta tutte le fasi, dalla configurazione di un archivio GitHub alla gestione delle librerie di documenti, dalla pubblicazione del primo contenuto allo stile del sito e alla creazione di blocchi personalizzati. Ideale per sviluppatori che non hanno mai usato Adobe Experience Manager, questa guida offre una panoramica completa di uno sviluppo web efficiente tramite strumenti ottimizzati per l’AEM.
+Unisciti a Markus Haack in questa sessione pratica, registrata in diretta su Adobe Developers Live. Scopri come creare un sito web dalla base utilizzando i Edge Delivery Services di Adobe Experience Manager. Questa sessione tratta tutte le fasi, dalla configurazione di un archivio GitHub alla gestione delle librerie di documenti, dalla pubblicazione del primo contenuto allo stile del sito e alla creazione di blocchi personalizzati. Ideale per sviluppatori che non hanno mai usato Adobe Experience Manager, questa guida offre una panoramica completa di uno sviluppo web efficiente utilizzando gli strumenti ottimizzati dell’AEM.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/3Q82EUF).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/3Q82EUF).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

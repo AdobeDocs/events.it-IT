@@ -28,11 +28,11 @@ Anche se la sicurezza è legata a numerosi fattori tecnici e aziendali, scopri i
 
 ## Punti chiave da eliminare
 
-**Sicurezza del settore dell&#39;e-commerce**
+**Sicurezza del settore e-commerce**
 
 * Altamente bersaglio da cyber attacchi per furto di dati di carta di credito.
 
-**Misure di sicurezza Adobe Commerce**
+**Misure di sicurezza di Adobe Commerce**
 
 * Rafforzare attivamente le misure di sicurezza per la protezione dei commercianti.
 * Consiglia l’autenticazione a due fattori, la limitazione della frequenza API e i criteri di sicurezza dei contenuti.
@@ -48,7 +48,7 @@ Anche se la sicurezza è legata a numerosi fattori tecnici e aziendali, scopri i
 
 * Effettua l’aggiornamento alle ultime versioni per risolvere le vulnerabilità relative alla sicurezza e garantire la conformità.
 
-**Integrazione rapida WAF di nuova generazione**
+**Integrazione Fastly WAF Di Nuova Generazione**
 
 * In corso di miglioramento delle misure di sicurezza.
 * Collaboration con professionisti del supporto per l’implementazione di regole Fastly per bloccare le richieste dannose.

@@ -24,6 +24,6 @@ ht-degree: 0%
 
 In questa sessione informativa da Adobe Developers Live, Gabriel Walt e Alex Tondo condividono approfondimenti su come Adobe.com utilizza l’Editor Universale in Adobe Experience Manager per migliorare la loro strategia dei contenuti. Registrati il 6 novembre 2023, parlano delle funzionalità di questo editor WYSIWYG per semplificare i processi di distribuzione dei contenuti e del suo ruolo nella semplificazione dell’authoring dei contenuti. Questa sessione è perfetta per chi è interessato a capire come utilizzare in modo efficace gli strumenti di contenuto nell’AEM per esperienze digitali dinamiche e coinvolgenti.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/46ELi7X).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/46ELi7X).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

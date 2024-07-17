@@ -12,7 +12,7 @@ exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,15 +24,15 @@ Partecipa a questa sessione Experience League Live, dove gli esperti dei prodott
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Hai delle domande?&quot;]
+>[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
 La nuova interfaccia utente web di Campaign è importante perché offre un’esperienza utente unificata e moderna agli utenti di Adobe Campaign. Semplifica il processo di creazione delle campagne, consente una facile navigazione e configurazione e offre funzioni quali la creazione di tipi di pubblico, la progettazione di contenuti e la gestione delle campagne. La nuova interfaccia si integra anche con altre soluzioni Adobe Experience Cloud, semplificando l’accesso e l’utilizzo di diversi strumenti all’interno dell’ecosistema. Inoltre, la nuova interfaccia utente è accessibile dai browser web, eliminando la necessità per gli utenti di passare da una piattaforma o applicazione all’altra. Nel complesso, la nuova interfaccia utente web di Campaign migliora l’efficienza, l’esperienza utente e la collaborazione per gli addetti al marketing e i manager delle campagne.
 
-## Elementi principali da ricordare
+## Punti chiave da eliminare
 
 * È stata avviata la nuova interfaccia utente web di Adobe Campaign, disponibile per i clienti che utilizzano la versione 8.6 di Adobe Campaign.
 * L’interfaccia utente web offre un’esperienza utente unificata e coerente per tutti i prodotti Adobe Experience Cloud.
@@ -46,9 +46,9 @@ La nuova interfaccia utente web di Campaign è importante perché offre un’esp
 
 ## Risorse aggiuntive
 
-* **[Interfaccia utente web di Campaign: funzionalità principali](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}**
-  *Documentazione dettagliata su ciò che è attualmente disponibile nell’interfaccia utente web di Adobe Campaign.*
+* **[Interfaccia utente di Campaign Web - Funzionalità chiave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}**
+  *Documentazione dettagliata su ciò che è attualmente disponibile nell&#39;interfaccia utente di Adobe Campaign Web.*
 
-* **[Interfaccia utente web di Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-  *Video e tutorial sulle funzioni e caratteristiche dell’interfaccia utente web di Adobe Campaign.*
+* **[Interfaccia utente Web Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *Video e tutorial sulle funzionalità dell&#39;interfaccia utente di Adobe Campaign Web.*
 

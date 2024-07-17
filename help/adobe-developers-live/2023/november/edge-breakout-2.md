@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Ekrem Dogan affronta gli aspetti cruciali dell’ottimizzazione delle prestazioni del sito web in questa sessione da Adobe Developers Live. Registrato in diretta il 6 novembre 2023, scopri le strategie per raggiungere e mantenere un punteggio Lighthouse superiore, garantendo siti web efficienti e di facile utilizzo con Adobe Experience Manager. Questo discorso è ricco di suggerimenti pratici ed esempi reali, rendendolo un must-attend per gli sviluppatori focalizzati sull’ottimizzazione delle prestazioni web.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/3rC7TTm).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/3rC7TTm).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

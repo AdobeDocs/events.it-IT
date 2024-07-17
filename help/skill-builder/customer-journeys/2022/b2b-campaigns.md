@@ -1,6 +1,6 @@
 ---
-title: L'unione fa la forza - Adobe [!DNL Marketo Engage] e REAL-TIME CDP
-description: scopri come coordinare campagne B2B con [!DNL Marketo Engage] e RT-CDP (edizione B2B)
+title: 'L''unione fa la forza: Adobe [!DNL Marketo Engage]  e Real-Time CDP'
+description: scopri come coordinare campagne B2B con  [!DNL Marketo Engage]  e RT-CDP (edizione B2B)
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# L&#39;unione fa la forza - Adobe [!DNL Marketo Engage] e REAL-TIME CDP
+# L&#39;unione fa la forza: Adobe [!DNL Marketo Engage] e Real-Time CDP
 
-In questa sessione imparerai a orchestrare campagne B2B con [!DNL Marketo Engage] e RT-CDP (edizione B2B) e quali sono i casi d’uso principali e i vantaggi offerti.
+In questa sessione imparerai a orchestrare campagne B2B con [!DNL Marketo Engage] e RT-CDP (edizione B2B) e quali sono i casi d’uso principali e i vantaggi sbloccati.
 
 *Mihai Prisacariu* Consulente soluzioni, CJM / Adobe
 

@@ -8,7 +8,7 @@ duration: 4329
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 7%
+ht-degree: 5%
 
 ---
 
@@ -18,7 +18,7 @@ In questa sessione Peter Klassen - Product Manager esaminerà i seguenti aspetti
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*Consegnato l’11 giugno 2014*
+*Consegnato l&#39;11 giugno 2014*
 
 **Presentato da:**
 
@@ -32,4 +32,4 @@ Peter Klassen, Product Manager, Adobe
 
 * [Note sulla versione di AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [Gestione di AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Pianificazione dell’aggiornamento a AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [Pianificazione dell&#39;aggiornamento a AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

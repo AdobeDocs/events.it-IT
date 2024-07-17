@@ -1,6 +1,6 @@
 ---
-title: Estensibilità del servizio Asset compute
-description: Scopri come utilizzare Adobe Developer App Builder per creare un processo di lavoro Asset compute personalizzato per l’elaborazione delle risorse durante l’acquisizione in Adobe Experience Manager. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
+title: Estensibilità del servizio Asset Compute
+description: Scopri come utilizzare Adobe Developer App Builder per creare un processo di lavoro di Asset compute personalizzato per l’elaborazione delle risorse durante l’acquisizione in Adobe Experience Manager. Questa sessione è stata distribuita come parte dell’evento Contenuto Adobe Developers Live.
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Estensibilità del servizio Asset compute
+# Estensibilità del servizio Asset Compute
 
-Scopri come utilizzare Adobe Developer App Builder per creare un processo di lavoro Asset compute personalizzato per l’elaborazione delle risorse durante l’acquisizione in Adobe Experience Manager.
+Scopri come utilizzare Adobe Developer App Builder per creare un processo di lavoro di Asset compute personalizzato per l’elaborazione delle risorse durante l’acquisizione in Adobe Experience Manager.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

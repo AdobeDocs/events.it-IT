@@ -17,7 +17,7 @@ duration: 3081
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -32,9 +32,9 @@ Con Dynamic Medie, l’output delle risorse viene automatizzato per tutti i cana
 ## Risorse
 
 *[Video su Dynamic Medie](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
-*[Guida introduttiva alla strategia per i contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[Guida ai predefiniti per le immagini della strategia Rich Media](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Immagine della serie Blog Everything](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[Guida introduttiva alla strategia per contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
+*[Guida alle impostazioni predefinite per le immagini della strategia per contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[L&#39;immagine è tutta la serie di blog](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Registrazioni in serie
 

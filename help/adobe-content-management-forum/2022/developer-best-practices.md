@@ -1,6 +1,6 @@
 ---
 title: Best practice per gli sviluppatori per velocizzare il time-to-market
-description: Pauline Hyunh e Gabriel Walt illustrano gli approcci modulari di AEM Sites, la creazione rapida dei siti, le best practice... le best practice per gli sviluppatori, gli strumenti low code, i modelli e altro ancora. (Può contenere tra 60 e 160 caratteri, ma è di 177 caratteri)
+description: Pauline Hyunh e Gabriel Walt illustrano gli approcci modulari di AEM Sites, la creazione rapida dei siti, le best practice... le best practice per gli sviluppatori, gli strumenti low code, i modelli e altro ancora. (Deve essere compreso tra 60 e 160 caratteri, ma è di 177 caratteri)
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
@@ -13,7 +13,7 @@ duration: 2446
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 

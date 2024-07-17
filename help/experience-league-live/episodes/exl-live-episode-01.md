@@ -1,6 +1,6 @@
 ---
 title: Experience League LIVE, Episodio 1 - I miei tre Adobi preferiti [!DNL Analytics] Suggerimenti per l'implementazione
-description: L’hai visto sul palco al Summit. L’hai sentito condividere consigli di esperti all’Adobe Insider Tour. Potresti anche aver avuto il vantaggio di lavorare con lui sul tuo Adobe [!DNL Analytics] implementazione. Ora, Eric Matisoff porta il suo Adobe dei Tre Preferiti [!DNL Analytics] Suggerimenti per l’implementazione per questo Experience League esclusivo Discussione live.
+description: L’hai visto sul palco al Summit. L’hai sentito condividere consigli di esperti all’Adobe Insider Tour. Potresti anche aver avuto l'opportunità di lavorare con lui sulla tua implementazione dell'Adobe [!DNL Analytics] . Ora Eric Matisoff porta i suoi tre Adobi preferiti [!DNL Analytics] suggerimenti di implementazione in questo Experience League esclusivo Live Discussione.
 solution: Analytics
 feature: Implementation Basics
 kt: 8553
@@ -15,11 +15,11 @@ ht-degree: 23%
 
 ---
 
-# Experience League LIVE, Episodio 1: I miei tre Adobi preferiti [!DNL Analytics] Suggerimenti per l&#39;implementazione
+# Experience League LIVE, Episodio 1: I miei tre Adobi preferiti [!DNL Analytics] Suggerimenti sull&#39;implementazione
 
-L’hai visto sul palco al Summit. L’hai sentito condividere consigli di esperti all’Adobe Insider Tour. Potresti anche aver avuto il vantaggio di lavorare con lui sul tuo Adobe [!DNL Analytics] implementazione. Ora, Eric Matisoff porta il suo Adobe dei Tre Preferiti [!DNL Analytics] Suggerimenti per l’implementazione per questo Experience League esclusivo Discussione live.
+L’hai visto sul palco al Summit. L’hai sentito condividere consigli di esperti all’Adobe Insider Tour. Potresti anche aver avuto l&#39;opportunità di lavorare con lui sull&#39;implementazione del tuo Adobe [!DNL Analytics]. Ora Eric Matisoff porta i suoi tre suggerimenti per l&#39;implementazione dell&#39;Adobe preferito [!DNL Analytics] in questo Experience League esclusivo Live Discussione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Per discutere di questa sessione, visita il [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Per discutere di questa sessione, visita la [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
 

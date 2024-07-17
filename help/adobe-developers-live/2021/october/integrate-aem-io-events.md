@@ -14,7 +14,7 @@ duration: 1566
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 6%
 
 Esistono molti modi per integrare il Cloud Service Adobe Experience Manager con gli eventi personalizzati Adobe I/O. Scopri le diverse opzioni disponibili e come potrebbero essere più adatte al tuo caso d’uso specifico.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3ij0O1W)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3ij0O1W)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
+- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Panoramica del Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutorial su Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

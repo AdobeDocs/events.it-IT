@@ -22,12 +22,12 @@ ht-degree: 7%
 
 Impara dagli errori più comuni che altri hanno fatto in modo da poterli evitare tu stesso! In questa sessione, esamineremo alcuni dei problemi comuni riscontrati dai nostri tecnici addetti alle chiamate e al supporto e discuteremo le best practice per garantire che tu possa evitarli nell’implementazione di Adobe Experience Manager as a Cloud Service.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3kLQK3j)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

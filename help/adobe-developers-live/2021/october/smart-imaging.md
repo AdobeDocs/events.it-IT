@@ -21,12 +21,12 @@ ht-degree: 2%
 
 Le immagini possono occupare oltre il 60% della larghezza di banda totale nelle esperienze digitali e, per le esperienze ricche di contenuti multimediali e di grandi dimensioni, possono raggiungere l’85%. Per fornire agli utenti le migliori esperienze, è importante ottimizzare le immagini distribuite. Scopri in che modo Adobe Experience Manager Dynamic Medie può migliorare l’esperienza utente e i tassi di conversione, grazie alla sua funzionalità di imaging avanzato leader di settore e all’ampia gamma di funzioni di imaging dinamico. Questa sessione aiuterà gli utenti tecnici a comprendere le best practice sull’utilizzo degli URL e dei modificatori di Dynamic Medie, una sorta di punto di riferimento unico, senza dover ottimizzare le immagini tramite tentativi ed errori.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3F58miP)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3F58miP)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
+- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Panoramica del Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutorial su Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

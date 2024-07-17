@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Osa crescere? Mercati miracolosi come forza per la crescita
 
-Nell&#39;episodio di settembre della serie di webinar su APAC Commerce, siamo entusiasti di accogliere gli oratori ospiti, Cheryl Jones e Joael Pereira, che si uniscono a noi di Mirakl, uno dei Premier Technology Partner di Adobe. In questa sessione imparerai a sfruttare i marketplace per incrementare i ricavi e fornire al contempo un’esperienza del cliente eccezionale e l’importanza di adattarsi a un mercato di consumo sempre più esigente. Potrai comprendere la facilità e la semplicità di integrazione dei marketplace nel tuo store Adobe Commerce con una demo e avere l’opportunità di porre domande in diretta ai nostri oratori.
+Nell&#39;edizione di settembre della serie di webinar APAC Commerce, siamo entusiasti di accogliere gli oratori ospiti, Cheryl Jones e Joael Pereira, che si uniscono a noi di Mirakl, uno dei Premier Technology Partner di Adobe. In questa sessione imparerai a sfruttare i marketplace per incrementare i ricavi e fornire al contempo un’esperienza del cliente eccezionale e l’importanza di adattarsi a un mercato di consumo sempre più esigente. Potrai comprendere la facilità e la semplicità di integrazione dei marketplace nel tuo store Adobe Commerce con una demo e avere l’opportunità di porre domande in diretta ai nostri oratori.
 
 Unisciti a noi per scoprire:
 

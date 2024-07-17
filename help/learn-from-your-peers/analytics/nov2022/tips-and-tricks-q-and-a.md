@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Ulteriori domande e risposte sui Champion Tips and Tricks'
-description: Ci siamo riuniti cinque [!DNL Adobe Analytics] Campioni da tutto il mondo per condividere i suggerimenti e trucchi che li hanno aiutati padroneggiare [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che [!DNL Adobe Analytics] gli esperti non sono stati in grado di rispondere a tutte queste domande durante le sessioni live di domande e risposte, abbiamo riunito il gruppo e ospitato una sessione di domande e risposte successiva in cui i campioni hanno risposto alle tue domande e condiviso suggerimenti e trucchi ancora più esperti.
+title: '[!DNL Adobe Analytics] suggerimenti campioni e trucchi - Domande e risposte di follow-up'
+description: Abbiamo riunito cinque [!DNL Adobe Analytics] campioni da tutto il mondo per condividere i suggerimenti e i trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] gli utenti in tutto il mondo. Poiché i nostri  [!DNL Adobe Analytics]  esperti non sono stati in grado di rispondere a tutte queste domande durante le sessioni di domande e risposte live, abbiamo riunito il gruppo e ospitato una sessione di domande e risposte successiva in cui i campioni hanno risposto alle TUE domande e condiviso suggerimenti e trucchi ancora più esperti.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Suggerimenti e trucchi dei campioni - Q e A
+# [!DNL Adobe Analytics] suggerimenti e trucchi per i campioni - Domande frequenti e risposte
 
-Ci siamo riuniti cinque [!DNL Adobe Analytics] Campioni da tutto il mondo per condividere i suggerimenti e trucchi che li hanno aiutati padroneggiare [!DNL Adobe Analytics]. Durante l&#39;evento, sono state poste oltre 90 domande da [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che [!DNL Adobe Analytics] gli esperti non sono stati in grado di rispondere a tutte queste domande durante le sessioni live di domande e risposte, abbiamo riunito il gruppo e ospitato una sessione di domande e risposte successiva in cui i campioni hanno risposto alle tue domande e condiviso suggerimenti e trucchi ancora più esperti.
+Abbiamo riunito cinque campioni di [!DNL Adobe Analytics] da tutto il mondo per condividere i suggerimenti e i trucchi che li hanno aiutati a padroneggiare [!DNL Adobe Analytics]. Durante l&#39;evento, sono state poste più di 90 domande da [!DNL Adobe Analytics] utenti in tutto il mondo. Poiché i nostri esperti di [!DNL Adobe Analytics] non sono stati in grado di rispondere a tutte queste domande durante le sessioni di domande e risposte in diretta, abbiamo riunito il gruppo e ospitato una sessione di domande e risposte successiva in cui i campioni hanno risposto alle tue domande e condiviso suggerimenti e trucchi ancora più esperti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)

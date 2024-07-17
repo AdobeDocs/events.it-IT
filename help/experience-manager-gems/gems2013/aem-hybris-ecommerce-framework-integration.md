@@ -8,7 +8,7 @@ duration: 1878
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ In questa sessione presentiamo la nostra soluzione di integrazione per l’ibrid
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Presentate il 13 maggio 2013*
+*Consegnato il 13 maggio 2013*
 
 **Presentato da:**
 

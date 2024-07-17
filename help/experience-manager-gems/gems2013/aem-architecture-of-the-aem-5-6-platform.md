@@ -8,7 +8,7 @@ duration: 2883
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Scopri l’evoluzione dell’architettura della piattaforma applicativa AEM. Dal
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Presentate l&#39;8 maggio 2013*
+*Consegnato l&#39;8 maggio 2013*
 
 **Presentato da:**
 

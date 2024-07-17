@@ -22,21 +22,21 @@ Presentazione di Use Case Playbook: un catalogo utilizzabile di playbook per cas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Hai delle domande?&quot;]
+>[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
 I playbook per i casi d’uso sono stati creati per affrontare due sfide principali:
 
-1. **Sindrome della pagina vuota** - Molti clienti, soprattutto quelli nuovi, si sentono sopraffatti quando accedono alla piattaforma Adobe Experience e non sanno da dove iniziare o come sfruttarne al massimo le potenzialità. I playbook per casi d’uso aiutano i clienti a superare questo ostacolo iniziale fornendo set curati di modelli di casi d’uso che li guidano attraverso il processo di implementazione di obiettivi di marketing specifici.
+1. **Sindrome delle pagine vuote** - Molti clienti, soprattutto quelli nuovi, si sentono sopraffatti quando accedono per la prima volta alla piattaforma Adobe Experience e non sanno da dove iniziare o come sfruttarne al meglio la potenza. I playbook per casi d’uso aiutano i clienti a superare questo ostacolo iniziale fornendo set curati di modelli di casi d’uso che li guidano attraverso il processo di implementazione di obiettivi di marketing specifici.
 
-1. **Maggiore adozione e coinvolgimento** - I playbook hanno lo scopo di aiutare i clienti a familiarizzarsi più rapidamente e a trarre il massimo dal loro investimento in prodotti di Adobe, fornendo modelli preconfigurati e indicazioni tecniche.  In questo modo i clienti possono implementare i casi d’uso più rapidamente, dimostrare valore alle parti interessate e promuovere la collaborazione tra i team IT e di marketing.  In ultima analisi, i playbook mirano a massimizzare l’adozione e il valore che i clienti ottengono dalla piattaforma Adobe Experience.
+1. **Adozione e coinvolgimento maggiori** - I playbook hanno lo scopo di aiutare i clienti a imparare a utilizzare i prodotti di Adobe più rapidamente e a trarre il massimo dal loro investimento, fornendo modelli predefiniti e indicazioni tecniche.  In questo modo i clienti possono implementare i casi d’uso più rapidamente, dimostrare valore alle parti interessate e promuovere la collaborazione tra i team IT e di marketing.  In ultima analisi, i playbook mirano a massimizzare l’adozione e il valore che i clienti ottengono dalla piattaforma Adobe Experience.
 
 Un esempio di un caso d’uso discusso in questa sessione è un caso d’uso abbandonato di navigazione e merci. Questo caso d’uso ha lo scopo di affrontare la sfida dei clienti che abbandonano la sessione di navigazione prima di effettuare un acquisto. Il segmento di pubblico risultante per questo caso d’uso sarebbe quello dei clienti che hanno abbandonato la sessione di navigazione senza completare un acquisto. Questo segmento può quindi essere oggetto di messaggi o offerte personalizzati per incoraggiarli a tornare e completare l’acquisto.
 
-## Elementi principali da ricordare
+## Punti chiave da eliminare
 
 * I playbook di casi d’uso sono set curati di modelli di casi d’uso che consentono ai clienti di sfruttare e scoprire la potenza di Adobe Experience Platform.
 * Le principali sfide che i playbook di utilizzo mirano a risolvere sono la &quot;sindrome della pagina vuota&quot; e la necessità di una maggiore adozione e coinvolgimento tra gli strumenti.
@@ -51,11 +51,11 @@ Un esempio di un caso d’uso discusso in questa sessione è un caso d’uso abb
 
 ## Risorse aggiuntive
 
-* **[Panoramica sui playbook di casi d’uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *I playbook basati su casi d’uso possono aiutarti a superare il problema quando inizi a usare Real-Time CDP o Adobe Journey Optimizer quando potresti non sapere esattamente con cosa iniziare o come creare le risorse giuste per ottenere i casi d’uso desiderati.*
+* **[Panoramica sui playbook di casi d&#39;uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+  *I playbook di casi d&#39;uso consentono di superare il problema quando si inizia a utilizzare Real-Time CDP o Adobe Journey Optimizer quando non si sa esattamente con cosa iniziare o come creare le risorse corrette per ottenere i casi d&#39;uso desiderati.*
 
-* **[Guida introduttiva ai playbook basati su casi d’uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=it){target="_blank"}**
-  *Scopri come impostare l’account per Use Case Playbook, progettato per Real-time Customer Data Platform e Adobe Journey Optimizer.*
+* **[Guida introduttiva ai playbook per casi d&#39;uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=it){target="_blank"}**
+  *Scopri come impostare il tuo account per i playbook dei casi d&#39;uso, progettati per Real-time Customer Data Platform e Adobe Journey Optimizer.*
 
-* **[Playbook di casi d’uso disponibili](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=it){target="_blank"}**
-  *Leggi questa pagina per una panoramica di tutti i playbook disponibili che puoi scoprire e utilizzare in Real-time Customer Data Platform e Adobe Journey Optimizer.*
+* **[Playbook Di Use Case Disponibili](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=it){target="_blank"}**
+  *Leggere questa pagina per ottenere una panoramica di tutti i playbook disponibili che è possibile individuare e utilizzare in Real-time Customer Data Platform e Adobe Journey Optimizer.*

@@ -9,7 +9,7 @@ duration: 4239
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '2230'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Scopri come misurare la combinazione e la capacità all’interno della tua azie
 
 ## Domande e risposte
 
-**domande**
+**Domanda**
 
 Come inserire %s in un istogramma?
 
@@ -29,7 +29,7 @@ Come inserire %s in un istogramma?
 
 I valori % elencati nel rapporto Mix erano presenti perché nella scheda grafico sceglievamo &quot;Raggruppa colonne&quot; e &quot;Sovrapponi al 100%&quot;. Se scegliessimo &quot;In pila&quot;, mostrerebbe i totali delle ore pianificate e non la percentuale.
 
-**domande**
+**Domanda**
 
 Se il carico di lavoro di reparto/organizzazioni è una combinazione di progetti/attività e problemi/richieste, come consigliamo di ottenere una revisione di alto livello (in un rapporto Workfront) di un WPI.
 
@@ -37,7 +37,7 @@ Se il carico di lavoro di reparto/organizzazioni è una combinazione di progetti
 
 I progetti, le attività e i problemi devono disporre di propri report con i propri moduli personalizzati. Tuttavia, ciascuno di essi può utilizzare lo stesso campo Tipo di lavoro. Potrebbe essere necessario visualizzare i tre rapporti in un unico dashboard.
 
-**domande**
+**Domanda**
 
 È necessario modificare le attività in blocco per renderle operative o strategiche?
 
@@ -47,7 +47,7 @@ La tecnica suggerita è quella di creare un rapporto che ti permetta di ottenere
 
 Nel webinar vengono menzionate alcune idee per prompt personalizzati che potrebbero aiutarti a ottenere un elenco, come verificare la presenza di determinate parole nel nome dell’attività, nel proprietario del progetto, nel portfolio o negli utenti assegnati. Queste sono solo idee. È necessario progettare un rapporto che funzioni al meglio nella propria situazione.
 
-**domande**
+**Domanda**
 
 Se nel mix sono presenti 4 categorie, è possibile creare un obiettivo per ogni categoria e quindi creare rapporti sui delta tra previsione e piano rispetto all&#39;effettivo? (4 categorie Campaign, Business Unit, Web e Product). A livello di progetto, le categorie sono disponibili nei campi o nei moduli personalizzati. L&#39;obiettivo consiste nel creare una previsione trimestrale (budget/previsione) e quindi nel tenere traccia delle ore pianificate in base a quella e alla fine effettive.
 
@@ -59,7 +59,7 @@ Puoi copiare il rapporto e modificarlo per creare un rapporto basato sui progett
 
 Puoi copiare nuovamente il rapporto, impostarlo su Raggruppa per ore effettive invece che per ore pianificate e mostrare solo i progetti completati entro gli intervalli di date desiderati. Questo mostrerebbe il mix percentuale in base alle ore effettive.
 
-**domande**
+**Domanda**
 
 Funzionerà se disponi di diversi ID categoria per un progetto o un’attività?
 
@@ -78,7 +78,7 @@ Il modo migliore per separarli con un carattere di tabulazione è creare prima l
 
 Gli ID multipli vengono trattati come OR, quindi se uno di essi è allegato all’attività non verrà visualizzato nel rapporto.
 
-**domande**
+**Domanda**
 
 I prompt del report sono &quot;ANDed&quot; o &quot;ORed&quot;?
 
@@ -86,7 +86,7 @@ I prompt del report sono &quot;ANDed&quot; o &quot;ORed&quot;?
 
 I singoli prompt personalizzati sono &quot;ANDed&quot;. Pertanto, se si specifica Pam come proprietario del progetto e Bill come assegnato all&#39;attività, verranno visualizzate solo le attività assegnate a Bill che si trovano in progetti in cui Pam è il proprietario del progetto.
 
-**domande**
+**Domanda**
 
 Perché è possibile ordinare solo per determinate colonne? ovvero non è possibile ordinare per assegnazioni.
 
@@ -114,7 +114,7 @@ Quale attività deve essere visualizzata per prima in un ordinamento? Si potrebb
 
 E il raggruppamento in base a un elenco? Se è possibile eseguire il raggruppamento in base a un elenco di nomi, tutte le attività assegnate a Jane, Bill, Dan verranno raggruppate e tutte le attività assegnate a Jane, Dan, Bill (lo stesso elenco, ma in un ordine diverso) verranno raggruppate in un raggruppamento diverso. Anche in questo caso, Workfront evita il problema non consentendo il raggruppamento per elenchi.
 
-**domande**
+**Domanda**
 
 Vengono utilizzate ore pianificate per attività strategiche e ore effettive per operazioni operative?
 
@@ -122,7 +122,7 @@ Vengono utilizzate ore pianificate per attività strategiche e ore effettive per
 
 No. Nel nostro esempio utilizziamo le ore pianificate per mostrare il livello di impegno pianificato sia per le attività strategiche che per quelle operative. Questo ci permette di confrontarli facilmente, sia nel passato, che nel presente o nel futuro. È inoltre possibile utilizzare le ore effettive per confrontare le attività strategiche e operative, ma solo per le attività passate, poiché le ore effettive sono quelle riportate dalle persone come tempo effettivamente dedicato alle attività.
 
-**domande**
+**Domanda**
 
 Nella pianificazione delle risorse, come vengono contabilizzate le attività pianificate in passato ma non completate? Le ore pianificate non sembrano essere riportate e pertanto non vengono visualizzate nelle settimane future come attività/ore che richiedono risorse.
 
@@ -130,7 +130,7 @@ Nella pianificazione delle risorse, come vengono contabilizzate le attività pia
 
 Non esiste un avanzamento &quot;automatico&quot; del lavoro non completato. In questo caso, dovrai ripianificare il progetto. È possibile che le risorse originariamente assegnate a una determinata attività non siano disponibili nel nuovo arco temporale, pertanto il project manager deve esaminare la questione e decidere il modo migliore per ripianificare. Ciò potrebbe comportare il coinvolgimento delle parti interessate e l&#39;ottenimento di approvazioni per le modifiche del piano.
 
-**domande**
+**Domanda**
 
 Invece di inserire 2 ore al giorno per controllare le e-mail, le interruzioni, consiglieresti di regolare il loro FTE?
 
@@ -140,7 +140,7 @@ Sì, se si imposta l&#39;FTE su 0,75 per mostrare un utente disponibile 6 ore al
 
 Alcune persone preferiscono i progetti di costi comuni perché possono costruirli per se stesse e modificarli quando lo desiderano, mentre potrebbero non avere i diritti per modificare il proprio FTE.
 
-**domande**
+**Domanda**
 
 I dati del dashboard capacità team sono disponibili per chiunque condivida il report, indipendentemente dalle autorizzazioni di cui dispone sul lavoro?
 
@@ -148,7 +148,7 @@ I dati del dashboard capacità team sono disponibili per chiunque condivida il r
 
 Se un utente non dispone dell’autorizzazione per visualizzare l’oggetto, questo non sarà visibile all’interno del report/dashboard. Tuttavia, se desideri che tutti vedano gli stessi risultati, vai in Azioni rapporto > Modifica > Impostazioni rapporto e immetti nel tuo nome nel campo &quot;Esegui questo rapporto con i diritti di accesso di&quot;. In questo modo, gli utenti condivisi in questo report potranno vedere i risultati esatti visualizzati. Non concederà loro un accesso aggiuntivo al risultato stesso, quindi alcuni risultati possono essere cliccati o meno.
 
-**domande**
+**Domanda**
 
 Come si crea un report che mostra tutto il personale assegnato a un progetto in generale (non a livello di attività)?
 
@@ -166,7 +166,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-**domande**
+**Domanda**
 
 Vorrei avere un rapporto/dashboard che incorpori il modo in cui funziona il mio team. In particolare, i seguenti scenari: - Progetti di mia proprietà / Progetti creati per me / Attività assegnate ad altri / Attività assegnate a me
 
@@ -216,7 +216,7 @@ e la sua sostituzione con
 Assignment Users > ID > Equal > $$USER.ID
 ```
 
-**domande**
+**Domanda**
 
 Esiste un modo per personalizzare le etichette nei grafici? Ho scoperto che quando creo un grafico per riflettere gli stati del progetto, il nome del gruppo predefinito viene incluso nell&#39;etichetta.
 
@@ -224,7 +224,7 @@ Esiste un modo per personalizzare le etichette nei grafici? Ho scoperto che quan
 
 Le etichette dei grafici utilizzano il nome del campo in base al quale si sta effettuando il raggruppamento. Pertanto, l’unico modo per modificare le etichette è utilizzare un campo personalizzato calcolato con qualsiasi nome desideri. Nella sezione di calcolo del campo, inserisci il nome del campo nativo in base al quale desideri eseguire il raggruppamento.
 
-**domande**
+**Domanda**
 
 Come si colorano le barre dei rapporti nelle assegnazioni del team di Chuck? Cioè ambra per dietro, rosso per tardi e verde per puntuale? È inoltre possibile modificare l’ordine in modo che sia più logico, ovvero rosso/ambra/verde o viceversa?
 
@@ -234,7 +234,7 @@ Per modificare i colori utilizzati nel report per le opzioni Stato di avanzament
 
 Sfortunatamente non puoi modificare l’ordine di questi.
 
-**domande**
+**Domanda**
 
 È possibile creare un grafico che punti al numero di progetti in cui a un lavoratore viene assegnata un&#39;attività?
 
@@ -249,7 +249,7 @@ Sì, ecco come:
    Project Users > ID > Equal >$$USER.ID 
 ```
 
-* In caso contrario, sostituisci il nome utente con [!DNL $$USER.ID]. Verranno visualizzati tutti i progetti a cui questa persona è assegnata un&#39;attività oppure è il proprietario o lo sponsor. Se desideri visualizzare solo i progetti a cui sono state assegnate delle attività, aggiungi queste due regole di filtro aggiuntive:
+* In caso contrario, sostituire [!DNL $$USER.ID] con il nome utente. Verranno visualizzati tutti i progetti a cui questa persona è assegnata un&#39;attività oppure è il proprietario o lo sponsor. Se desideri visualizzare solo i progetti a cui sono state assegnate delle attività, aggiungi queste due regole di filtro aggiuntive:
 
 ```
    Project > Owner ID > Not Equal > $$USERID
@@ -260,7 +260,7 @@ Sì, ecco come:
 
 Quando a un utente viene assegnata un&#39;assegnazione in un progetto (assegnata a un&#39;attività, a un proprietario del progetto o allo sponsor del progetto), tale persona viene aggiunta al team del progetto e visualizzata nella scheda Gestione del personale della scheda secondaria Persone. Se un utente viene rimosso dall’incarico di proprietario del progetto, sponsor o con assegnazioni di attività, il suo nome rimane nel team del progetto. Deve essere rimossa manualmente se desideri rimuoverla. Tieni presente che questo potrebbe influire sulla precisione dei risultati del rapporto. Per rimuovere un utente dal team del progetto, passare a Personale > Persone, selezionare la persona o le persone desiderate, quindi fare clic sul pulsante Rimuovi visualizzato sopra l&#39;elenco.
 
-**domande**
+**Domanda**
 
 Come modificare l&#39;ordine decrescente di una colonna in modalità testo (in un raggruppamento)?
 
@@ -268,7 +268,7 @@ Come modificare l&#39;ordine decrescente di una colonna in modalità testo (in u
 
 È possibile scegliere di ordinare la maggior parte delle colonne nella scheda Colonne (Visualizzazione) durante la creazione di un report. Se non hai raggruppamenti, il rapporto dell’elenco verrà ordinato per intero. Se disponi di raggruppamenti, verrà ordinato in base a tale scelta all’interno di ciascun raggruppamento.
 
-**domande**
+**Domanda**
 
 Come si crea una colonna che identifichi i membri del team assegnati a una fase di approvazione?
 

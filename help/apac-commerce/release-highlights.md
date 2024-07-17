@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Elementi principali della roadmap di Adobe Commerce
 
-Unisciti a Ed Kennedy, Senior Product Marketing Manager per Adobe Commerce, per conoscere gli ultimi aggiornamenti sui principali investimenti dei prodotti Adobe Commerce, tra cui Adobe Experience Platform Connector per Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment e Scalabilità automatica.
+Unisciti a Ed Kennedy, Senior Product Marketing Manager per Adobe Commerce, per conoscere gli ultimi aggiornamenti sui principali investimenti dei prodotti Adobe Commerce, tra cui Adobe Experience Platform Connector per Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment e Autoscaling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

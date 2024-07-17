@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Un panel con Ian Boston, Tomek Rekawek e Carlos Sanchez, su come abbiamo trasferito con successo Adobe Experience Manager nel cloud.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

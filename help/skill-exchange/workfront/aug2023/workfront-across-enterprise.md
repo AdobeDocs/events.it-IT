@@ -27,6 +27,8 @@ Dale Whitchurch, EVP, Production Intelligence, di IPG Health, condividerà come 
 
 Sentirai,
 
-Come hanno evoluto sia i processi che l&#39;infrastruttura nel tempo Consigli pratici per l&#39;integrazione di Workfront nel tuo stack tecnologico più ampio e per la maturazione dei flussi di lavoro chiave Come IPG sta gettando le basi per la catena di fornitura dei contenuti
+Come hanno evoluto nel tempo i processi e l&#39;infrastruttura
+Consigli pratici per l’integrazione di Workfront nello stack tecnologico più ampio e per la maturazione dei flussi di lavoro chiave
+Come IPG sta gettando le basi per la catena di fornitura dei contenuti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

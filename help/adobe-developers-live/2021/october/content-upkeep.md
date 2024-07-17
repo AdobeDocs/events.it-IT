@@ -12,7 +12,7 @@ duration: 1843
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 12%
 
 Dimostrare le funzioni disponibili nella suite di strumenti di modernizzazione Adobe Experience Manager. Scopri come i team di sviluppo possono utilizzarlo per consolidare, convertire o aggiornare i contenuti per ridurre il carico di lavoro per gli autori man mano che la libreria dei componenti si evolve.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3zJuUBH)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

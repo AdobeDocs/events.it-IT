@@ -27,5 +27,5 @@ La pagina Home di Workfront, completamente rinnovata, è diventata un potente mo
 
 In questo Experience League Live Session, l’esperto di prodotto Ben Robbins ti guiderà attraverso la nuova esperienza Home, inclusi i nuovi controlli di layout per amministratori e i miglioramenti interessanti in arrivo nel 2024. E il cliente Workfront, Jamie Smith, condividerà con noi approfondimenti su come la nuova esperienza Home stia aumentando la produttività in AT&amp;T.
 
-**Per continuare la discussione, visitare il [Post community Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**Per continuare la discussione, visita la [Post della community Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

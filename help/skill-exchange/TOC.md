@@ -6,7 +6,7 @@ event-series: The Skill Exchange
 source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 11%
+ht-degree: 9%
 
 ---
 
@@ -78,18 +78,18 @@ ht-degree: 11%
       + [Tutti gli elementi insieme](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Agosto 2023 {#aug2023}
-      + Developer Track {#developer-track}
+      + Percorso sviluppatore {#developer-track}
          + [Kit per sviluppatori AEM](aem/aug2023/deploy-new-project.md)
          + [Creazione di un sistema di stili efficace e scalabile](aem/aug2023/scalable-style-system.md)
          + [Migrare ad AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [E-mail di marketing personalizzato](aem/aug2023/personalized-marketing-emails.md)
-      + Traccia web {#webtrack}
+      + Traccia Web {#webtrack}
          + [Guida introduttiva ad AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utilizzo di un DAM collaborativo](aem/aug2023/collaborative-dam.md)
          + [Scalabilità per la preparazione all’intelligenza artificiale](aem/aug2023/metadata.md)
          + [In evidenza](aem/aug2023/spotlight.md)
    + Agosto 2022 {#aug2022}
-      + Developer Track {#developer-track}
+      + Percorso sviluppatore {#developer-track}
          + [Riflettori puntati su Experience Maker](aem/aug2022/spotlight.md)
          + [Multi tenancy per sessioni AEM Champion](aem/aug2022/multi-tenancy.md)
          + [Componenti core e sistemi di stile dell’AEM](aem/aug2022/core-components.md)
@@ -101,25 +101,25 @@ ht-degree: 11%
 + Marketo {#marketo}
    + Febbraio 2022 {#feb2022}
       + [Manutenzione dati](marketo/feb2022/data-maintenance.md)
-      + [Contenuti dinamici e il potere della personalizzazione](marketo/feb2022/dynamic-content.md)
+      + [Contenuti dinamici e la potenza di Personalization](marketo/feb2022/dynamic-content.md)
       + [Riflettori puntati su Experience Maker](marketo/feb2022/experience-makers-spotlight.md)
       + [Gem Nascosta Nel Database - Record Riconciliati](marketo/feb2022/hidden-gems.md)
-      + [Personalizzazione Su Scala](marketo/feb2022/personalization-at-scale.md)
+      + [Personalization su larga scala](marketo/feb2022/personalization-at-scale.md)
       + [Scalabilità ed efficienza con i token](marketo/feb2022/using-tokens.md)
       + [Utilizzo Di Programmi Di Coinvolgimento Per Coinvolgere I Clienti](marketo/feb2022/utilize-engagement-programs.md)
    + Agosto 2021 {#aug2021}
-      + [Creazione di programmi in [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [Creazione di programmi in  [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage] Rockstar](marketo/aug2021/engage-rockstars.md)
       + [Potenza di una campagna intelligente](marketo/aug2021/smart-campaign.md)
       + [Campi personalizzati del membro del programma](marketo/aug2021/program-member-custom-fields.md)
-      + [Generazione di rapporti in [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Generazione di rapporti in  [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Roadmap di Marketo](marketo/aug2021/marketo-roadmap.md)
    + Febbraio 2021 {#feb2021}
       + [Una corda superiore si immerge in oggetti personalizzati e velocità](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Segmento Rockstar](marketo/feb2021/rockstar.md)
-      + [Creazione di programmi in Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Creazione Di Programmi In Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Potenza di una campagna intelligente](marketo/feb2021/power-of-smart-campaign.md)
-      + [Generazione di rapporti in [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Generazione di rapporti in  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Suggerimenti e trucchi per il tuo Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto 2023 {#aug2023}

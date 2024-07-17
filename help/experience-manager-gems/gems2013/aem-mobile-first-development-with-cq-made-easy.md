@@ -26,4 +26,4 @@ Bruce Lefebvre, informatico, Adobe
 
 ## Collegamenti correlati {#related-links}
 
-[Diapositive e risorse presentatore](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[Diapositive presentatore e risorse](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

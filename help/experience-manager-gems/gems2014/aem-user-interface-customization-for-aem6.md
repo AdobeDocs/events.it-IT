@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ La sessione illustra come estendere l’interfaccia utente di AEM 6.0. Con la nu
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*Consegnate il 7 maggio 2014*
+*Consegnato il 7 maggio 2014*
 
 **Presentato da:**
 
@@ -31,7 +31,7 @@ La sessione illustra come estendere l’interfaccia utente di AEM 6.0. Con la nu
 
 ## Collegamenti correlati {#related-links}
 
-* [Concetti dell’interfaccia touch](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Concetti relativi all&#39;interfaccia utente touch](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [Struttura](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [Personalizzazione delle console (interfaccia utente ottimizzata per il tocco)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Personalizzazione dell’authoring delle pagine (interfaccia utente ottimizzata per il tocco)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Personalizzazione delle console (interfaccia touch)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Personalizzazione dell&#39;authoring delle pagine (interfaccia touch)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

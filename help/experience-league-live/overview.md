@@ -27,7 +27,7 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team di
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Tornate presto per scoprire di nuovi, prossimi spettacoli! Nel frattempo, puoi visualizzare gli episodi precedenti facendo clic sui collegamenti sottostanti o nella barra di navigazione a sinistra.</b>
+      <b>Torna presto per scoprire i nuovi programmi in programma. Nel frattempo, puoi visualizzare gli episodi precedenti facendo clic sui collegamenti sottostanti o nel menu di navigazione a sinistra.</b>
   </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team di
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>Ask the experts: The basics of Web SDK (Domande agli esperti: nozioni di base di Web SDK)</strong>
+        <strong>Domande agli esperti: nozioni di base di Web SDK</strong>
       </a>
       <br/><em>con Rudi Shumpert, Jeff Chasin ed Eric Matisoff</em>
       <br/><em>26 maggio 2022</em>
@@ -93,4 +93,4 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team di
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta il nostro [corsi](https://experienceleague.adobe.com/#dashboard/learning) nonché singoli utenti [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).

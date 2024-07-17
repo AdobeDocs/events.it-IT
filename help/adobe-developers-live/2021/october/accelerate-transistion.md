@@ -1,8 +1,8 @@
 ---
 title: Accelerazione della transizione ad Adobe Experience Manager as a Cloud Service
 description: Scopri come sfruttare gli strumenti di refactoring del codice Adobe Experience Manager as a Cloud Service per accelerare la transizione da un percorsi Cloud Service all’altro rendendo compatibili i contenuti esistenti (struttura dei pacchetti, indici, flussi di lavoro di elaborazione delle risorse di Adobe Experience Manager Cloud Service, configurazioni del dispatcher) tramite l’automazione.
-landing-page-description: Utilizza gli strumenti di refactoring del codice as a Cloud Service all’AEM per accelerare la transizione al Cloud Service.
-short-description: Utilizza gli strumenti di refactoring del codice as a Cloud Service all’AEM per accelerare la transizione al Cloud Service.
+landing-page-description: Utilizza gli strumenti di refactoring del codice di AEM as a Cloud Service per accelerare la transizione al Cloud Service.
+short-description: Utilizza gli strumenti di refactoring del codice di AEM as a Cloud Service per accelerare la transizione al Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -28,12 +28,12 @@ In questa sessione verrà illustrato come utilizzare il plug-in NodeJS basato su
 
 Ci auguriamo di aiutare le persone a comprendere le best practice sull’utilizzo degli strumenti di refactoring del codice, mostrando l’esecuzione degli strumenti su una base di codice cliente Adobe Experience Manager reale.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3ETr7FI)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3ETr7FI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=it)
+- [Documentazione di Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Panoramica del Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Tutorial su Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

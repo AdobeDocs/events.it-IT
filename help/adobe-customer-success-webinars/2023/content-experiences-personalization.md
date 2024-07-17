@@ -1,5 +1,5 @@
 ---
-title: Contenuti ed esperienze - Il cuore pulsante della personalizzazione
+title: Contenuti ed esperienze - Il cuore pulsante di Personalization
 description: Identificazione e superamento delle sfide comuni per la creazione di una funzionalità di contenuti ed esperienze Creazione di casi d’uso per distribuire contenuti all’interno del percorso del cliente
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Contenuti ed esperienze: il cuore pulsante della personalizzazione
+# Contenuti ed esperienze: il cuore pulsante di Personalization
 
-*Contenuti ed esperienze: il cuore pulsante della personalizzazione*
+*Contenuti ed esperienze: il cuore pulsante di Personalization*
 
 * Identificazione e superamento delle sfide comuni per la creazione di una funzionalità di contenuti ed esperienze
 * Creazione di casi d’uso per distribuire i contenuti all’interno del percorso del cliente

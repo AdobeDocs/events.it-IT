@@ -8,15 +8,15 @@ duration: 3408
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
 # Versione principale di Brand Portal e nuova implementazione di riferimento per Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-I portali multimediali sono fondamentali per le organizzazioni per condividere le risorse sia internamente che, in molti casi, esternamente. In questa sessione ti presenteremo le nuove Asset Share Commons di Adobe Assets.
+I portali multimediali sono fondamentali per le organizzazioni per condividere le risorse sia internamente che, in molti casi, esternamente. In questa sessione ti presenteremo i nuovi Asset Share Commons di Adobe Assets.
 
-Contenuti:
+Potrai scoprire:
 
 * Quali opzioni di Media Portal sono disponibili in base ai casi d’uso
 * Come implementare queste opzioni
@@ -24,11 +24,11 @@ Contenuti:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Consegnato l’8 novembre 2017*
+*Consegnato l&#39;8 novembre 2017*
 
 **Presentato da:**
 
-Mike Carley, Product Marketing Manager [!DNL AEM Assets], ADOBE
+Mike Carley, Product Marketing Manager - [!DNL AEM Assets], Adobe
 
 Krishna Selvaraj, Technical Marketing Engineer - AEM, Adobe
 

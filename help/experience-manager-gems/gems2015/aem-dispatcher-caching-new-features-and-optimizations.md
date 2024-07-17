@@ -8,17 +8,17 @@ duration: 2777
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
 # Memorizzazione in cache di Dispatcher - Nuove funzioni e ottimizzazioni{#dispatcher-caching-new-features-and-optimizations}
 
-Per massimizzare la tua esperienza con l’AEM, è importante ottimizzare la cache del Dispatcher AEM. Scopri le nuove funzioni di AEM dispatcher e alcuni modi per ottimizzare la cache. La sessione tratta le nuove funzioni aggiunte tra le versioni 4.1.0 e 4.1.9.
+Per ottimizzare la tua esperienza con l’AEM, è importante ottimizzare la cache del Dispatcher AEM. Scopri le nuove funzioni di AEM dispatcher e alcuni modi per ottimizzare la cache. La sessione tratta le nuove funzioni aggiunte tra le versioni 4.1.0 e 4.1.9.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19378/?quality=9)
 
-*Presentato il 28 gennaio 2015*
+*Consegnato il 28 gennaio 2015*
 
 **Presentato da:**
 

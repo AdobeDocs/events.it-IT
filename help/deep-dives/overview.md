@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Eventi di immersione profonda
 
-Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzo di queste risorse in combinazione con Adobe Marketo [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html) e [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), saprai comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
+Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste risorse in combinazione con la [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html) e le [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) di Adobe Marketo, potrai comprendere meglio come utilizzare Marketo Adobe per supportare la tua attività.
 
 >[!TIP]
 >

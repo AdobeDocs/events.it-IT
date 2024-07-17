@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Potenziare i team snelli
 
@@ -42,7 +42,7 @@ Questo webinar illustra le sfide affrontate dai team snelli e fornisce strategie
 
 * Processo creativo semplificato: le librerie Creative Cloud consentono agli utenti di trascinare e rilasciare le risorse direttamente nei loro progetti. Ciò semplifica il processo creativo e riduce il tempo necessario per completare le attività, ad esempio l’aggiunta di immagini o l’applicazione di colori o stili di testo specifici.
 
-* Collaborazione e aggiornamenti in tempo reale: le librerie Creative Cloud facilitano la collaborazione tra i membri del team consentendo agli utenti di condividere librerie o risorse con altri utenti. In questo modo, tutti possono lavorare con lo stesso set di materiali e aggiornamenti in tempo reale. Quando un membro del team aggiorna una risorsa in una libreria condivisa, la modifica è automaticamente disponibile per tutti coloro che vi accedono.
+* Aggiornamenti in tempo reale e Collaboration: le librerie Creative Cloud facilitano la collaborazione tra i membri del gruppo consentendo agli utenti di condividere librerie o risorse con altri utenti. In questo modo, tutti possono lavorare con lo stesso set di materiali e aggiornamenti in tempo reale. Quando un membro del team aggiorna una risorsa in una libreria condivisa, la modifica è automaticamente disponibile per tutti coloro che vi accedono.
 
 * Controllo della versione: le librerie di Creative Cloud semplificano la gestione di diverse versioni delle risorse. Questo riduce il rischio di incoerenze con le risorse e garantisce che i membri del gruppo utilizzino sempre la versione più recente.
 
@@ -58,7 +58,7 @@ Le sfide che si devono affrontare quando si lavora con un team snello includono:
 
 * Gestione dell’esaurimento e del carico di lavoro: con un team snello, ogni membro del team spesso indossa più cappelli, con conseguente aumento dei carichi di lavoro, pressione elevata e rischio di esaurimento. Il bilanciamento della qualità della vita lavorativa diventa difficile e può influire sul morale e sulla produttività nel tempo.
 
-* Collaborazione e comunicazione: una collaborazione e una comunicazione efficaci sono fondamentali per garantire che i team snelli funzionino in modo efficiente. Tuttavia, coordinare diversi progetti e garantire l’allineamento di tutti i membri del gruppo può essere difficile senza personale sufficiente per gestire diversi flussi di lavoro. Questa sfida è complicata se il team è distribuito o lavora in remoto.
+* Collaboration e comunicazione: una collaborazione e una comunicazione efficaci sono fondamentali per garantire che i team snelli funzionino in modo efficiente. Tuttavia, coordinare diversi progetti e garantire l’allineamento di tutti i membri del gruppo può essere difficile senza personale sufficiente per gestire diversi flussi di lavoro. Questa sfida è complicata se il team è distribuito o lavora in remoto.
 
 * Queste sfide possono essere superate semplificando le attività, aumentando l’efficienza, migliorando la qualità della vita, riducendo le lacune di competenze e sfruttando le funzionalità e le integrazioni chiave dei prodotti fornite da Adobe Solutions.
 

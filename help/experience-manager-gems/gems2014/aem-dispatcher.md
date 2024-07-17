@@ -1,5 +1,5 @@
 ---
-title: 'Dispatcher: nuove funzioni e best practice'
+title: Dispatcher - Nuove funzioni e best practice
 description: In questa sessione verranno esplorate le nuove funzioni del dispatcher (a partire dalla versione 4.1.9) e verranno esaminate alcune best practice per la distribuzione del dispatcher.
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 3623
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
-# Dispatcher: nuove funzioni e best practice{#dispatcher-new-features-and-best-practices}
+# Dispatcher - Nuove funzioni e best practice{#dispatcher-new-features-and-best-practices}
 
 Questa sessione esplora le nuove funzioni del dispatcher (a partire dalla versione 4.1.9) e osserva alcune best practice per la distribuzione del dispatcher.
 
@@ -30,9 +30,9 @@ Dominique Pfister, Senior informatico, Adobe
 
 ## Risorse {#resources}
 
-[Ulteriori informazioni sulla cache di Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
+[Altro nella cache di Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Abusare di JSONP con il Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Abuso di JSONP con il Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
 [Ulteriori informazioni](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 

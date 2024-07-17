@@ -23,7 +23,7 @@ Una libreria di eventi Workfront registrati in cui esperti e colleghi condividon
       <img alt="Manutenzione del sistema Workfront" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="user-groups/workfront-system-maintenance.md"><strong>Manutenzione del sistema Workfront</strong></a>
+         <a href="user-groups/workfront-system-maintenance.md"><strong>Manutenzione sistema Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

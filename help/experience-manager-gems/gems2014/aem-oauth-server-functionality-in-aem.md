@@ -8,13 +8,13 @@ duration: 1804
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Funzionalità del server OAuth in AEM: abbraccia la federazione e libera le API REST.{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
 
-Adobe Experience Manager (AEM) è implementato per essere eseguito in un ambiente OSGi e si basa sui principi REST. REST non dispone di metodi di sicurezza predefiniti (come ad esempio con i servizi web SOAP), pertanto gli sviluppatori possono definirne di propri. Un modo per risolvere i problemi di sicurezza REST consiste nell’utilizzare OAuth 2. Il protocollo OAuth (Web Authorization) consente a un utente di concedere a un sito Web o a un&#39;applicazione di terze parti l&#39;accesso alle risorse protette dell&#39;utente, senza necessariamente rivelare le credenziali a lungo termine o persino la propria identità. OAuth 2 è ampiamente utilizzato dai principali lettori Internet (come Google, Facebook, Twitter) per proteggere le loro API (anche REST). Questa presentazione introdurrà il framework OAuth 2 e la nuova funzione del server Granite OAuth.
+Adobe Experience Manager (AEM) è implementato per essere eseguito in un ambiente OSGi e si basa sui principi REST. REST non dispone di metodi di sicurezza predefiniti (come avviene ad esempio con i servizi Web SOAP), pertanto gli sviluppatori definiscono i propri. Un modo per risolvere i problemi di sicurezza REST consiste nell’utilizzare OAuth 2. Il protocollo OAuth (Web Authorization) consente a un utente di concedere a un sito Web o a un&#39;applicazione di terze parti l&#39;accesso alle risorse protette dell&#39;utente, senza necessariamente rivelare le credenziali a lungo termine o persino la propria identità. OAuth 2 è ampiamente utilizzato dai principali lettori Internet (come Google, Facebook, Twitter) per proteggere le loro API (anche REST). Questa presentazione introdurrà il framework OAuth 2 e la nuova funzione del server Granite OAuth.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19466/?quality=9)
 

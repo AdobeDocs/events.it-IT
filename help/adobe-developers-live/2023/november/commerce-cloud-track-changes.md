@@ -1,6 +1,6 @@
 ---
 title: Tracciamento delle modifiche su Adobe Commerce Cloud
-description: Tieni traccia degli eventi di distribuzione del progetto Commerce in New Relic creando un’integrazione script. Abilita facilmente la funzione New Relic Track changes per monitorare gli eventi di distribuzione nel progetto di infrastruttura cloud Commerce. La raccolta dati sulle distribuzioni consente di analizzare l’impatto delle modifiche apportate alle prestazioni complessive, ad esempio CPU, memoria, tempi di risposta delle transazioni e altro ancora.
+description: Monitora gli eventi di distribuzione del progetto Commerce in New Relic creando un’integrazione script. Abilita facilmente la funzione New Relic Track changes per monitorare gli eventi di distribuzione nel progetto di infrastruttura cloud Commerce. La raccolta dati sulle distribuzioni consente di analizzare l’impatto delle modifiche apportate alle prestazioni complessive, ad esempio CPU, memoria, tempi di risposta delle transazioni e altro ancora.
 solution: Commerce
 feature-set: Commerce
 feature: Cloud, Deploy
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Tracciamento delle modifiche su Adobe Commerce Cloud
 
-Tieni traccia degli eventi di distribuzione del progetto Commerce in New Relic creando un’integrazione script. Abilita facilmente la funzione New Relic Track changes per monitorare gli eventi di distribuzione nel progetto di infrastruttura cloud Commerce. La raccolta dati sulle distribuzioni consente di analizzare l’impatto delle modifiche apportate alle prestazioni complessive, ad esempio CPU, memoria, tempi di risposta delle transazioni e altro ancora.
+Monitora gli eventi di distribuzione del progetto Commerce in New Relic creando un’integrazione script. Abilita facilmente la funzione New Relic Track changes per monitorare gli eventi di distribuzione nel progetto di infrastruttura cloud Commerce. La raccolta dati sulle distribuzioni consente di analizzare l’impatto delle modifiche apportate alle prestazioni complessive, ad esempio CPU, memoria, tempi di risposta delle transazioni e altro ancora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)

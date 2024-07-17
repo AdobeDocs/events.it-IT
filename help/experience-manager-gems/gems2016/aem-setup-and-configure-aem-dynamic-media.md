@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ AEM Dynamic Medie consente ai clienti di offrire esperienze rich media coinvolge
 
 ## Collegamenti correlati {#related-links}
 
-[Configurazione di Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[Configurazione di Dynamic Medie](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

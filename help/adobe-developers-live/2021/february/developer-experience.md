@@ -22,8 +22,8 @@ ht-degree: 0%
 
 Unisciti a Jonathan Roeder, Director di Developer Experience per Experience Cloud, per scoprire gli ultimi aggiornamenti per sviluppatori disponibili in Adobe Experience Cloud.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/developer-experience.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/developer-experience.pdf)** per le diapositive della sessione.

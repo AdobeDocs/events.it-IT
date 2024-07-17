@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Come posso gestire tutti questi tipi di pubblico?
 
-Unisciti al moderatore Doug Moore e agli ospiti Nick Cammuso e Jackie Chevallier per scoprire come utilizzare sia Audienci Manager (AAM) che Real-time Customer Data Platform (RTCDP) per aiutarti a raggiungere le tue strategie chiave di pubblico e i tuoi casi d’uso. Mostreranno anche come prendere segmenti di pubblico chiave dall&#39;AAM e inviarli a RTCDP per una maggiore flessibilità e targeting.
+Unisciti al moderatore Doug Moore e agli ospiti Nick Cammuso e Jackie Chevallier per scoprire come utilizzare sia Audience Manager (AAM) che Real-time Customer Data Platform (RTCDP) per aiutarti a raggiungere le tue strategie chiave di pubblico e i tuoi casi d’uso. Mostreranno anche come prendere segmenti di pubblico chiave dall&#39;AAM e inviarli a RTCDP per una maggiore flessibilità e targeting.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Per continuare la conversazione su questa sessione, visita il [Experience League post community](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), dove risponderemo anche a domande a cui non abbiamo avuto il tempo di rispondere dal vivo durante la sessione.
+Per continuare la conversazione su questa sessione, visita il [post della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), dove risponderemo anche alle domande a cui non abbiamo avuto il tempo di rispondere dal vivo durante la sessione.
 

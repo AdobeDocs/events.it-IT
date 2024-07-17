@@ -8,7 +8,7 @@ duration: 2315
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Stanchi di costruire connettori per l&#39;AEM? Vieni a scoprire come esporre eve
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Consegnate il 16 maggio 2018*
+*Consegnato il 16 maggio 2018*
 
 **Presentato da:**
 

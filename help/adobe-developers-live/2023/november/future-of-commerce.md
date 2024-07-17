@@ -1,6 +1,6 @@
 ---
 title: Il futuro del commercio (Gen AI e 3D)
-description: Sfrutta il futuro di Adobe Commerce. Esplora la nostra presentazione all’avanguardia sui miglioramenti più recenti della nostra piattaforma Commerce, basata su tecnologia AI generativa e 3D. Scopri come queste innovazioni ridefiniscono il coinvolgimento dei clienti e guidano il successo aziendale.
+description: Sfrutta il futuro di Adobe Commerce. Esplora la nostra presentazione all’avanguardia sui miglioramenti più recenti della piattaforma Commerce, basata su tecnologie AI e 3D generative. Scopri come queste innovazioni ridefiniscono il coinvolgimento dei clienti e guidano il successo aziendale.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Il futuro del commercio (Gen AI e 3D)
 
-Sfrutta il futuro di Adobe Commerce. Esplora la nostra presentazione all’avanguardia sui miglioramenti più recenti della nostra piattaforma Commerce, basata su tecnologia AI generativa e 3D. Scopri come queste innovazioni ridefiniscono il coinvolgimento dei clienti e guidano il successo aziendale.
+Sfrutta il futuro di Adobe Commerce. Esplora la nostra presentazione all’avanguardia sui miglioramenti più recenti della piattaforma Commerce, basata su tecnologie AI e 3D generative. Scopri come queste innovazioni ridefiniscono il coinvolgimento dei clienti e guidano il successo aziendale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)

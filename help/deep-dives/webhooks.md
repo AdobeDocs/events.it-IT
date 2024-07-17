@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
+source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Utilizzo dei webhook per trasferire i dati
 
@@ -24,7 +24,7 @@ A volte non è necessario seguire l’intero processo di creazione, test e imple
 
 Questo evento fornisce una panoramica completa dei webhook in Marketo e offre consigli pratici su come utilizzarli in modo efficace. Gli oratori spiegano l’utilizzo dei webhook per inviare e ricevere dati in modo strutturato, consigliano l’utilizzo di richieste GET e POST e ricordano che i webhook possono essere utilizzati con formati JSON o XML. Evidenziano vari casi d’uso per i webhook, tra cui l’integrazione CRM, la gestione degli eventi, l’e-commerce e l’archiviazione cloud. Viene sottolineata l&#39;importanza della gestione degli errori, con suggerimenti su come gestire gli errori, automatizzare il ripristino e impostare gli avvisi. Vengono trattati metodi di autenticazione come l’autenticazione basata su API, l’autenticazione di base e l’autenticazione OAuth 2.0, con la raccomandazione di utilizzare OAuth 2.0 per una maggiore sicurezza.I dettagli dell’implementazione includono l’utilizzo di webhook nelle campagne di attivazione e nelle campagne batch, insieme a limitazioni quali il limite di timeout di 30 secondi e l’attenta gestione di set di dati di grandi dimensioni. Nel complesso, il webinar fornisce informazioni preziose sull’utilizzo efficace dei webhook in Marketo.
 
-## Elementi principali da ricordare
+## Punti chiave da eliminare
 
 * I webhook in Marketo forniscono un modo strutturato per inviare e ricevere dati, supportando formati JSON o XML.
 * I webhook hanno vari casi d’uso, tra cui integrazione CRM, gestione di eventi, e-commerce e archiviazione cloud.

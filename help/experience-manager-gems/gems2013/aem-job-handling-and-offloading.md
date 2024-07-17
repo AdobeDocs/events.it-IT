@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -36,6 +36,6 @@ Diapositive presentatore - Parte 2
 
 ## Collegamenti correlati {#related-links}
 
-* [Eventi Apache Sling e gestione dei processi](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API Discovery e relative implementazioni](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Gestione eventi e processi Sling Apache](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [API di individuazione e relative implementazioni](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
 * [Offload dei processi](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

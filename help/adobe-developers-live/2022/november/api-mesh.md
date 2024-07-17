@@ -1,5 +1,5 @@
 ---
-title: Adobe Developers Live - 22 NOVEMBRE- Come creare contenuti ed esperienze commerciali utilizzando App Builder e Mesh API
+title: Adobe Developers Live - 22 NOVEMBRE- Come creare contenuti ed esperienze Commerce utilizzando App Builder e API Mesh
 description: In questa sessione imparerai il flusso per sviluppatori end-to-end che crea una vetrina commerciale headless basata su esperienze, a partire da Mesh API di AppBuilder per aggregare diverse origini di contenuto da Adobe Experience Manager e Commerce Scopri come creare un’esperienza headless visualizzando prodotti arricchiti con frammenti di contenuto di Adobe Experience Manager Utilizza Micro Frontends per integrare un carrello nella tua applicazione
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Creare contenuti ed esperienze Commerce con App Builder e Mesh API
+# Creare contenuti ed esperienze Commerce utilizzando App Builder e API Mesh
 
 In questa sessione imparerai il flusso per sviluppatori end-to-end che crea una vetrina commerciale basata su esperienze headless,
 

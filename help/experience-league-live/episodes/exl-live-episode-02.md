@@ -23,5 +23,5 @@ Unisciti a noi per un incontro con tre Adobi esperti che hanno contribuito a por
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-Per discutere di questa sessione, visita il [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
+Per discutere di questa sessione, visita la [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
 

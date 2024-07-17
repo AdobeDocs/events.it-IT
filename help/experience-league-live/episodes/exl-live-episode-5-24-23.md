@@ -23,4 +23,4 @@ Scopri i vantaggi della messaggistica in-app come canale di coinvolgimento in te
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-Hai delle domande a riguardo? Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)).
+Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638) di Adobe Experience League.

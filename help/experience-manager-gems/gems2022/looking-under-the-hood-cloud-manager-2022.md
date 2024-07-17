@@ -18,13 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Looking under the hood - Cloud Manager 2022 (Uno sguardo approfondito: Cloud Manager 2022)
+# Uno sguardo approfondito: Cloud Manager 2022
 
-*Questo webinar è stato condotto dal 15 giugno alle 15 UTC. Visualizzare la registrazione di seguito.*
+*Questo webinar è stato condotto dal 15 giugno alle 15 UTC. Visualizza la registrazione di seguito.*
 
-Descrizione della sessione: esplora le nuove funzioni rilasciate nell’ultimo anno, un aggiornamento sugli sviluppi dietro le quinte e uno sguardo in avanti nel resto del 2022. Dettagli su come Cloud Manager funziona dal punto di vista tecnico e come un cliente può utilizzarlo al meglio.
+Descrizione sessione:
+Scopri le nuove funzioni rilasciate l’anno scorso, un aggiornamento sugli sviluppi dietro le quinte e uno sguardo in avanti nel resto del 2022. Dettagli su come Cloud Manager funziona dal punto di vista tecnico e come un cliente può sfruttarlo al meglio.
 
-Il contenuto si applica sia ad Adobe Experience Manager as a Cloud Service che ad Experience Manager Managed Services, con particolare attenzione al Cloud Service. È adatto sia ai partecipanti tecnici che a quelli non tecnici. L’esposizione precedente a Cloud Manager può essere utile per il contesto, ma non è necessaria.
+Il contenuto si applica sia ad Adobe Experience Manager as a Cloud Service che ad Experience Manager Managed Services, con particolare attenzione al Cloud Service. È adatto sia ai partecipanti tecnici che a quelli non tecnici. L’esposizione precedente a Cloud Manager può aiutare per il contesto, ma non è necessaria.
 
 **Registrazione webinar**
 
@@ -32,5 +33,5 @@ Il contenuto si applica sia ad Adobe Experience Manager as a Cloud Service che a
 
 >[!NOTE]
 >
->* Per le interazioni della community specifiche per sessione su Experience League, visita questo [Thread contestuale](https://adobe.ly/3O0rdzd)
->* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+>* Per le interazioni community specifiche della sessione su Experience League, visita questo [thread contestuale](https://adobe.ly/3O0rdzd)
+>* Per ricevere notifiche automatiche sui webinar, registratevi all&#39;indirizzo [Gruppo utenti AEM di Adobe](https://aem-augs.adobe.com/).

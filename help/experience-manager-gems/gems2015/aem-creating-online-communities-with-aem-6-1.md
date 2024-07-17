@@ -8,13 +8,13 @@ duration: 3473
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Creare community online con AEM 6.1{#creating-online-communities-with-aem}
 
-Immagina di poter gestire un sito della community in poche ore anziché settimane senza l’assistenza degli ingegneri CQ. AEM Communities 6.1 si concentrerà sulla fornitura di questa funzionalità tramite un approccio basato su modelli guidato per coprire una varietà di casi d’uso iniziali. AEM Communities 6.1 consentirà inoltre di personalizzare ulteriormente questi nuovi siti della community tramite WCM AEM [!DNL Sites] funzionalità. Unisciti a noi per scoprire come sfruttare la potente interfaccia di authoring dell’AEM per creare una community di clienti dinamica e imparare gli strumenti per mantenere attiva la base di fan molto dopo il lancio.
+Immagina di poter gestire un sito della community in poche ore anziché settimane senza l’assistenza degli ingegneri CQ. AEM Communities 6.1 si concentrerà sulla fornitura di questa funzionalità tramite un approccio basato su modelli guidato per coprire una varietà di casi d’uso iniziali. AEM Communities 6.1 consentirà inoltre di personalizzare ulteriormente questi nuovi siti della community tramite la funzionalità WCM [!DNL Sites] dell&#39;AEM. Unisciti a noi per scoprire come sfruttare la potente interfaccia di authoring dell’AEM per creare una community di clienti dinamica e imparare gli strumenti per mantenere attiva la base di fan molto dopo il lancio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 

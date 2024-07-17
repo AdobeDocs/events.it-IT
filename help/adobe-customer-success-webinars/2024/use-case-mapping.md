@@ -29,7 +29,7 @@ Questo webinar esplora i modi principali per esplorare e assegnare priorità ai 
 
 ## Riepilogo della riunione
 
-**Sfide affrontate da Real-time CDP**
+**Problemi risolti da Real-time CDP**
 
 * Strumenti di marketing separati
 * Origini dati sparse
@@ -39,11 +39,11 @@ Questo webinar esplora i modi principali per esplorare e assegnare priorità ai 
 
 * Effetti su casi d’uso come il retargeting e la personalizzazione di contenuti multimediali a pagamento
 
-**Confronto tra Real-time CDP e Audience Manager DMP**
+**Confronto di Real-Time CDP con l&#39;Audience Manager DMP**
 
 * Concentrati sull’acquisizione dei dati, la gestione dell’audience e le strutture di output dei dati
 
-**Importanza dell’allineamento e della definizione delle priorità**
+**Importanza dell&#39;allineamento e della definizione delle priorità**
 
 * Allineamento delle funzionalità CDP alle priorità strategiche
 * Assegnazione di priorità ai casi d’uso

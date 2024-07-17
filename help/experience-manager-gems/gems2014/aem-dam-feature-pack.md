@@ -24,7 +24,7 @@ Nella sessione verrà inoltre dimostrata la possibilità di configurare la super
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*Presentato il 5 marzo 2014*
+*Consegnato il 5 marzo 2014*
 
 **Presentato da:**
 

@@ -1,6 +1,6 @@
 ---
-title: Commercio e caffè
-description: La serie Adobe Commerce e Coffee si concentra su strategie e tattiche di Commerce, supportate da statistiche che riflettono l’argomento dell’evento.
+title: Commerce e caffè
+description: La serie Adobe Commerce and Coffee si concentra sulle strategie e tattiche di Commerce, supportate da statistiche che riflettono l'argomento dell'evento.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Commercio e caffè
+# Commerce e caffè
 
-La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti di tutti i livelli di competenza e le caratteristiche Sr. Commerce Strategy Consultant, Corey Gelato. La serie si concentra sulle strategie e tattiche di Commerce, supportate da statistiche che riflettono l’argomento dell’evento. Dopo la presentazione, è disponibile una dimostrazione live che mostra come implementare le strategie discusse in azione all’interno di una piattaforma Commerce. Ogni evento si conclude dando ai partecipanti l&#39;opportunità di porre domande in diretta e di interagire direttamente con gli Adobi. Lascerai ogni evento con un rinnovato senso del perché e di come rimanere competitivi e raggiungere il successo, il tutto massimizzando ciò che la tua piattaforma Adobe Commerce ha da offrire.
+La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti di tutti i livelli di competenza e le caratteristiche Sr. Commerce Strategy Consultant, Corey Gelato. La serie si concentra sulle strategie e tattiche di Commerce, supportate da statistiche che riflettono l&#39;argomento dell&#39;evento. Dopo la presentazione, è stata organizzata una dimostrazione live per illustrare come utilizzare le strategie discusse all&#39;interno di una piattaforma Commerce. Ogni evento si conclude dando ai partecipanti l&#39;opportunità di porre domande in diretta e di interagire direttamente con gli Adobi. Lascerai ogni evento con un rinnovato senso del perché e di come rimanere competitivi e raggiungere il successo, il tutto massimizzando ciò che la tua piattaforma Adobe Commerce ha da offrire.
 
 <!--
 ## What's New

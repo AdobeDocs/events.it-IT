@@ -8,7 +8,7 @@ duration: 3249
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 1%
 
 In questa sessione, Justin Edelson, Global Evangelist per AEM e co-project lead di ACS AEM Commons e ACS AEM Tools forniranno informazioni sull&#39;obiettivo e i processi utilizzati da questi progetti open source per l&#39;AEM e dimostreranno alcune delle caratteristiche chiave, tra cui:
 
-* [!UICONTROL Regole di svuotamento del Dispatcher]
+* [!UICONTROL Regole di scaricamento Dispatcher]
 * [!UICONTROL Generatore mappa del sito]
-* [!UICONTROL AEM Fiddle]
+* [!UICONTROL File AEM]
 * [!UICONTROL Elenchi generici]
 * [!UICONTROL Cloud Service Typekit]
 

@@ -8,7 +8,7 @@ duration: 2754
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -36,11 +36,11 @@ Diapositive presentatore - 11/21/18
 
 ## Collegamenti correlati {#related-links}
 
-[Tutorial del fine settimana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=it)
+[Tutorial sul fine settimana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentazione](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Esempio - Giornale di registrazione We retail](https://github.com/adobe/aem-sample-we-retail-journal)
+[Esempio - Giornale di registrazione vendite al dettaglio](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

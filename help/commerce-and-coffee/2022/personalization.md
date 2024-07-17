@@ -1,6 +1,6 @@
 ---
-title: Commercio e caffè - Personalizzazione
-description: Questa sessione si concentra su strategie e tattiche per personalizzare il sito Commerce e rimanere competitivi tutto l’anno. Esaminiamo il perché, cosa e come personalizzare e discutere gli impatti sulla conversione direttamente correlati alla personalizzazione. Corey offre poi una dimostrazione di Autorizzazioni per categorie, Segmenti di clienti, Blocchi dinamici/Widget, Product Recommendations e altro ancora. La presentazione e la demo sono accompagnate da un live Q&A con Corey.
+title: Commerce e Coffee - Personalization
+description: Questa sessione si concentra su strategie e tattiche per personalizzare il tuo sito Commerce e rimanere competitivi tutto l'anno. Esaminiamo il perché, cosa e come personalizzare e discutere gli impatti sulla conversione direttamente correlati alla personalizzazione. Corey offre poi una dimostrazione di Autorizzazioni per categorie, Segmenti di clienti, Blocchi dinamici/Widget, Product Recommendations e altro ancora. La presentazione e la demo sono accompagnate da un live Q&A con Corey.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commercio e caffè - Personalizzazione
+# Commerce e Coffee - Personalization
 
-Questa sessione si concentra su strategie e tattiche per personalizzare il sito Commerce e rimanere competitivi tutto l’anno. Esaminiamo il perché, cosa e come personalizzare e discutere gli impatti sulla conversione direttamente correlati alla personalizzazione. Corey offre poi una dimostrazione di Autorizzazioni per categorie, Segmenti di clienti, Blocchi dinamici/Widget, Product Recommendations e altro ancora. La presentazione e la demo sono accompagnate da un live Q&amp;A con Corey.
+Questa sessione si concentra su strategie e tattiche per personalizzare il tuo sito Commerce e rimanere competitivi tutto l&#39;anno. Esaminiamo il perché, cosa e come personalizzare e discutere gli impatti sulla conversione direttamente correlati alla personalizzazione. Corey offre poi una dimostrazione di Autorizzazioni per categorie, Segmenti di clienti, Blocchi dinamici/Widget, Product Recommendations e altro ancora. La presentazione e la demo sono accompagnate da un live Q&amp;A con Corey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

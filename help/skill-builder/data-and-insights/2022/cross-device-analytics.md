@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Scopri come utilizzare Adobe Analytics e Customer Journey Analytics per analizzare il comportamento degli utenti in più browser, dispositivi e app e in più canali.
 
-*Sonia Charles* Consulente soluzioni, dati e informazioni / Adobe
+*Sonia Charles* Consulente soluzioni, dati e approfondimenti / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

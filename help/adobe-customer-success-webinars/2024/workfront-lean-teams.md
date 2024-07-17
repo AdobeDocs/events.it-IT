@@ -32,7 +32,7 @@ Strategie approfondite e approcci pratici per le organizzazioni che intendono se
 
 L’incontro si è incentrato sui team snelli e sull’ottimizzazione dell’efficienza con Adobe Workfront. Ecco una sintesi dei punti chiave discussi,
 
-**Squadre snelle ed efficienza**
+**Efficienza e team snelli**
 
 * Sfide affrontate dai team Lean.
 * Obiettivi e vantaggi della gestione snella.
@@ -44,11 +44,11 @@ L’incontro si è incentrato sui team snelli e sull’ottimizzazione dell’eff
 * Semplificare la comunicazione.
 * Prendere decisioni basate sui dati.
 
-**Strumenti Workfront**
+**Strumenti di Workfront**
 
 * Utilizzo di strumenti Workfront come blueprint, pianificazione delle risorse e integrazioni per il successo.
 
-**Takeaway chiave**
+**Eliminazione chiavi**
 
 * Strategie per l&#39;efficienza.
 * Semplificazione della comunicazione.

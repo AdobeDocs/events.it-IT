@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* Le informazioni sulle prossime sessioni seguiranno all’inizio di novembre 2022.
->* Effettua la registrazione all&#39;indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/) per ricevere automaticamente una notifica sui prossimi webinar.
+>* Registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/) per ricevere automaticamente una notifica sui prossimi webinar.

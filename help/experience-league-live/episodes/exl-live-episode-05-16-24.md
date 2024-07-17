@@ -22,12 +22,12 @@ Scopri il modo più recente e avanzato (NUOVO) per migrare da Adobe Analytics a 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**Dettagli**: in questa sessione, scopri il modo più recente e più grande (NUOVO) per migrare da Adobe Analytics a Web SDK. Questo ti consentirà di utilizzare le nuove librerie più veloci, un sacco di nuove funzioni e un’implementazione scalabile mentre desideri utilizzare Adobe Experience Platform, il tutto inviando facilmente i dati ad Adobe Analytics (e Target e AAM).
+**Dettagli**: in questa sessione, scopri il modo più recente e avanzato (NUOVO) per migrare Adobe Analytics a Web SDK. Questo ti consentirà di utilizzare le nuove librerie più veloci, un sacco di nuove funzioni e un’implementazione scalabile mentre desideri utilizzare Adobe Experience Platform, il tutto inviando facilmente i dati ad Adobe Analytics (e Target e AAM).
 
 Configuriamo un flusso di dati sul server Edge di e installiamo e configuriamo l’estensione Web SDK nella nostra proprietà Tags. Viene mostrato come migrare diversi tipi di regole dall’estensione Analytics all’SDK per web.
 
-Per porre domande o entrare in contatto con Adobi esperti e colleghi, visita il [Experience League discussione della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Per porre domande o entrare in contatto con Adobi esperti e colleghi, visita la [discussione della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
 
 Per ulteriore documentazione, consulta [Implementare Adobe Analytics utilizzando Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
-Per partecipare a un **webinar sui passaggi strategici per l’implementazione di Web SDK**, registro [QUI](https://engage.adobe.com/step_by_step_guide_implement.html).
+Per partecipare a un prossimo **webinar sui passaggi strategici per l&#39;implementazione di Web SDK**, registra [QUI](https://engage.adobe.com/step_by_step_guide_implement.html).

@@ -1,6 +1,6 @@
 ---
 title: Cloud Service Adobe Experience Manager Forms - Registrazione digitale sicura multicanale
-description: Scopri come creare esperienze di registrazione digitale moderne, sicure e moderne con Adobe Experience Manager Forms as a Cloud Service. Questa sessione evidenzierà le best practice sulla protezione dei dati elaborati nei flussi di lavoro, sull’esternalizzazione dei dati inviati all’archiviazione Azure e sulla raccolta di informazioni approfondite utilizzando Adobe [!DNL Analytics] con Adaptive Forms su cloud service.
+description: Scopri come creare esperienze di registrazione digitale moderne, sicure e moderne con Adobe Experience Manager Forms as a Cloud Service. Questa sessione evidenzierà le best practice sulla protezione dei dati elaborati nei flussi di lavoro, sull’esternalizzazione dei dati inviati all’archiviazione Azure e sulla raccolta di informazioni tramite Adobe [!DNL Analytics] con Adaptive Forms sul servizio cloud.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -20,16 +20,16 @@ ht-degree: 7%
 
 Scopri come creare esperienze di registrazione digitale moderne, sicure e moderne con Adobe Experience Manager Forms as a Cloud Service.
 
-Questa sessione evidenzierà le best practice sulla protezione dei dati elaborati nei flussi di lavoro, sull’esternalizzazione dei dati inviati all’archiviazione Azure e sulla raccolta di informazioni approfondite utilizzando Adobe [!DNL Analytics] con Adaptive Forms su cloud service.
+Questa sessione evidenzierà le best practice sulla protezione dei dati elaborati nei flussi di lavoro, sull’esternalizzazione dei dati inviati all’archiviazione Azure e sulla raccolta di informazioni tramite l’Adobe [!DNL Analytics] con Adaptive Forms sul servizio cloud.
 
 Inoltre, includeremo un’anteprima di alcune integrazioni nella nostra roadmap, come l’integrazione di Microsoft Power Automate e Teams con Adobe Experience Manager Forms.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3CQjKgg)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3CQjKgg)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

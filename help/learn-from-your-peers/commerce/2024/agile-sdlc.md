@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Semplificazione dell’e-commerce: un approccio mirato alla comunicazione, ai requisiti e ai test in Agile SDLC
+# Semplificazione di E-Commerce: un approccio mirato alla comunicazione, ai requisiti e ai test in Agile SDLC
 
 Unisciti all’esperto e sostenitore di Adobe Commerce, Tyler Granlund, mentre si immerge nella semplificazione dell’e-commerce attraverso le pratiche SDLC (Agile Software Development Life Cycle).
 
@@ -30,6 +30,6 @@ In questo webinar imparerai,
 * Eccellenza dei test: suggerimenti per le procedure di test applicabili in varie fasi, garantendo lo sviluppo di siti web di e-commerce solidi e affidabili.
 * Comunicazione tra parti interessate e team: suggerimenti per promuovere una comunicazione efficace. Sottolineare la trasparenza e la responsabilità come fattori chiave per il successo dell&#39;esecuzione dei progetti.
 
-È possibile accedere alle diapositive [qui](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
+Puoi accedere alle diapositive [qui](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

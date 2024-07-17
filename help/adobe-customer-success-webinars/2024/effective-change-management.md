@@ -30,7 +30,7 @@ Approfondisci le sfaccettature della gestione dei cambiamenti e fornisci informa
 
 ## 3 punti chiave per una gestione efficace delle modifiche
 
-**Aspetti essenziali della gestione dei cambiamenti**
+**Aspetti essenziali della gestione delle modifiche**
 
 * La gestione delle modifiche allinea gli obiettivi organizzativi alle prestazioni individuali.
 * Aumenta l’agilità e migliora l’efficienza all’interno dell’organizzazione.
@@ -41,7 +41,7 @@ Approfondisci le sfaccettature della gestione dei cambiamenti e fornisci informa
 * Una comunicazione efficace è fondamentale.
 * Per adottare con successo il cambiamento sono necessari formazione e supporto.
 
-**Risolvere le sfide della gestione dei cambiamenti**
+**Risoluzione delle sfide nella gestione delle modifiche**
 
 * Affrontare la gestione dell’affaticamento da cambiamenti e della resistenza.
 * È fondamentale definire le metriche di successo.

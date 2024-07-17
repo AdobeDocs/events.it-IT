@@ -1,6 +1,6 @@
 ---
 title: Preparazione della stagione di picco
-description: Nella prossima puntata della serie di webinar su APAC Commerce, che si concentrerà sulla preparazione della tua attività per la stagione di picco. La preparazione è fondamentale per il successo e in questo webinar ti guideremo attraverso le best practice per sfruttare Adobe Commerce al massimo le vendite e le prestazioni in questo importante periodo di trading (o in qualsiasi altro evento di vendita che la tua azienda potrebbe sperimentare durante l’anno).
+description: Nella prossima puntata della serie di webinar APAC Commerce, che si concentrerà sulla preparazione della tua attività per la stagione di picco. La preparazione è fondamentale per il successo e in questo webinar ti guideremo attraverso le best practice per sfruttare Adobe Commerce al massimo le vendite e le prestazioni in questo importante periodo di trading (o in qualsiasi altro evento di vendita che la tua azienda potrebbe sperimentare durante l’anno).
 solution: Commerce
 feature: Best Practices
 topic: Performance
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Preparazione della stagione di picco
 
-Nella prossima puntata della serie di webinar su APAC Commerce, che si concentrerà sulla preparazione della tua attività per la stagione di picco. La preparazione è fondamentale per il successo e in questo webinar ti guideremo attraverso le best practice per sfruttare Adobe Commerce al massimo le vendite e le prestazioni in questo importante periodo di trading (o in qualsiasi altro evento di vendita che la tua azienda potrebbe sperimentare durante l’anno).
+Nella prossima puntata della serie di webinar APAC Commerce, che si concentrerà sulla preparazione della tua attività per la stagione di picco. La preparazione è fondamentale per il successo e in questo webinar ti guideremo attraverso le best practice per sfruttare Adobe Commerce al massimo le vendite e le prestazioni in questo importante periodo di trading (o in qualsiasi altro evento di vendita che la tua azienda potrebbe sperimentare durante l’anno).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423983/?learn=on)

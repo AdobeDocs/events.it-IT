@@ -15,7 +15,7 @@ ht-degree: 2%
 + [Panoramica](overview.md)
 + 2024 {#2024}
    + [Giorno dell&#39;acceleratore](2024/accelerator-day/overview.md)
-   + Giorno dell&#39;acceleratore{#accelerator-day}
+   + Giorno acceleratore{#accelerator-day}
       + [Nascosto: Navigazione di domani](./2024/accelerator-day/navigating-tomorrow.md)
       + [Nascosto: pannello oltre i bordi](./2024/accelerator-day/panel-beyond-borders.md)
       + [Nascosto: evoluzione dell’esperienza](./2024/accelerator-day/experience-evolution.md)
@@ -37,7 +37,7 @@ ht-degree: 2%
    + [Aumento delle conversioni tramite e-commerce](2023/ecommerce-conversions.md)
    + [Strategie di e-commerce componibili](2023/composable-commerce.md)
    + [I mercati come fattore di crescita](2023/marketplaces.md)
-   + [Preparazione della stagione di picco](2023/peak-season-prep.md)
+   + [Preparazione massima della stagione](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Preparazione alle festività 2022](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)

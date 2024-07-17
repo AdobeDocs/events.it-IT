@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Iryna Lagno e Valerii Naida presentano un approccio innovativo alla gestione dei contenuti in Adobe Experience Manager in questa sessione registrata in diretta il 6 novembre 2023. Scopri come integrare origini dati esterne come l’API di Google Places in frammenti di contenuto e scoprire l’API dei dati di Canvas e gli elementi personalizzati dell’interfaccia utente. Questa sessione offre conoscenze pratiche per sviluppatori e content manager che desiderano semplificare i flussi di lavoro e introdurre elementi basati sui dati nelle loro strategie di contenuto.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/48Rl57B).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/48Rl57B).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

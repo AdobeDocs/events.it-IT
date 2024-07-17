@@ -19,6 +19,6 @@ ht-degree: 66%
 
 Scopri come sfruttare al meglio i metadati in AEM Assets riducendo il carico di lavoro per assegnare tag alle risorse e rendendo le risorse più ricercabili.
 
-*Robin Bussell* Formatore/Adobe senior
+*Robin Bussell* Allievo / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

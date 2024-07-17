@@ -1,5 +1,5 @@
 ---
-title: Contenuti dinamici e il potere della personalizzazione
+title: Contenuti dinamici e la potenza di Personalization
 description: In questa sessione scopri come sfruttare il Contenuto dinamico per inviare contenuti più mirati e rilevanti al database.
 solution: Marketo Engage
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Contenuti dinamici e il potere della personalizzazione
+# Contenuti dinamici e la potenza di Personalization
 
 In questa sessione scopri come sfruttare il Contenuto dinamico per inviare contenuti più mirati e rilevanti al database.
 
-**Takeaway chiave**
+**Eliminazione chiavi**
 
-* Semplificare [!DNL Marketo Engage] Il programma crea e risparmia tempo utilizzando Contenuto dinamico
+* Semplifica le build del programma [!DNL Marketo Engage] e risparmia tempo utilizzando Contenuto dinamico
 * Scopri come segmentare il database per potenziare i contenuti dinamici
 * Report sull’impatto dei contenuti dinamici per guidare le future decisioni di marketing
 

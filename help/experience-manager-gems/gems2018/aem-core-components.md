@@ -8,7 +8,7 @@ duration: 3592
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ Scopri tutto ciò che riguarda i Componenti core e le relative funzioni, il loro
 
 Gabriel Walt, Product Manager, Adobe
 
-[Documentazione dei Componenti core AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[Documentazione dei componenti core AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
 AEM Gems - Componenti core AEM - Data: 12/05/2018
 

@@ -28,7 +28,7 @@ La serie di webinar APAC Commerce è una cadenza mensile di workshop per i clien
       </a>
     </div>
     <p>
-    <em>Adobe e Commonwealth Bank of Australia (CBA) illustrano le innovazioni nelle soluzioni per il commercio, il cloud e i pagamenti.</em>
+    <em>Adobe e Commonwealth Bank of Australia (CBA) illustrano le innovazioni nelle soluzioni commerce, cloud e di pagamento.</em>
     <p>
   </td>
   <td>
@@ -41,7 +41,7 @@ La serie di webinar APAC Commerce è una cadenza mensile di workshop per i clien
       </a>
     </div>
     <p>
-    <em>Unisciti a noi per scoprire come adottare le funzionalità e l’architettura più recenti per offrire la migliore esperienza ai tuoi clienti e far crescere il tuo business!In questo webinar.</em>
+    <em>Unisciti a noi per scoprire come adottare le funzionalità e l'architettura più recenti per offrire la migliore esperienza ai tuoi clienti e far crescere la tua azienda!In questo webinar.</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ La serie di webinar APAC Commerce è una cadenza mensile di workshop per i clien
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>Creative Edge - Il pensiero visionario sta trasformando Commerce</strong>
+        <strong>L'Edge creativo - Il pensiero visionario sta trasformando Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Esplora l’integrazione tra creatività e commercio.</em>
+    <em>Esplora l'integrazione di creatività e commerce.</em>
     <p>
   </td>
 </tr>

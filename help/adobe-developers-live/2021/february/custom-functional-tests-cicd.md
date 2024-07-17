@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Scopri come distribuire il codice in produzione con sicurezza grazie ai test funzionali personalizzati. La qualità non dovrebbe essere difficile, anche in un venerdì pomeriggio indaffarato.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** per le diapositive della sessione.

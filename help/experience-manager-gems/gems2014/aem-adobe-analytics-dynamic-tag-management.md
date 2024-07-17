@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Sandro Looser, architetto della soluzione, Adobe
 
 [Integrazione con Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[Guida di DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[Guida DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
 [Richiedi accesso a DTM](https://dtm.adobe.com/request_access)
 
@@ -43,4 +43,4 @@ Sandro Looser, architetto della soluzione, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Come distribuire Adobe Analytics su un’istanza AEM locale utilizzando Dynamic Tag Management Cloud Service](aem-adobe-analytics-dynamic-tag-management.md)
+>* [Come distribuire Adobe Analytics in un&#39;istanza AEM locale utilizzando il servizio cloud Dynamic Tag Management](aem-adobe-analytics-dynamic-tag-management.md)

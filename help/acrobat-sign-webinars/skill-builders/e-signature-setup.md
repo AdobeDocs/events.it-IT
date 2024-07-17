@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1796
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15293
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 599f4121-b27b-41af-8220-2f0b1716e3d5
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Preparare i contratti per la firma elettronica
 
@@ -32,10 +32,10 @@ Questo approccio offre diversi vantaggi:
 
 * **Integrazione perfetta** Poiché molti documenti iniziano in Microsoft Word, l&#39;utilizzo di tag di testo consente di lavorare con il documento originale senza la necessità di software o conversioni aggiuntive.È possibile gestire e modificare il documento in Word pur mantenendo la possibilità di raccogliere firme elettroniche.
 
-* **Controllo completo sui campi modulo** I tag di testo consentono di controllare completamente il posizionamento e le proprietà dei campi modulo.È possibile specificare il tipo di campo (ad esempio firma, immissione di testo, casella di controllo), assegnarlo a un partecipante specifico, impostarlo come obbligatorio o facoltativo e definire altre proprietà, ad esempio aspetto, valori predefiniti e descrizioni.
+* **Controllo completo sui campi modulo** I tag di testo consentono di controllare completamente il posizionamento e le proprietà dei campi modulo.È possibile specificare il tipo di campo, ad esempio firma, immissione di testo, casella di controllo, assegnarlo a un partecipante specifico, impostarlo come obbligatorio o facoltativo e definire altre proprietà, ad esempio aspetto, valori predefiniti e descrizioni.
 
-* **Riutilizzabilità** Dopo aver applicato i tag di testo al documento di Word, è possibile utilizzarlo come modello riutilizzabile per la raccolta di firme elettroniche.È possibile salvare e condividere il modello, semplificando l&#39;utilizzo dello stesso documento per più accordi o flussi di lavoro.
+* **Riutilizzabilità** Dopo aver applicato i tag di testo al documento di Word, questo può essere utilizzato come modello riutilizzabile per la raccolta di firme elettroniche.È possibile salvare e condividere il modello, semplificando l&#39;utilizzo dello stesso documento per più accordi o flussi di lavoro.
 
-* **Flessibilità e personalizzazione** I tag di testo consentono di definire vari tipi di campi modulo, tra cui caselle di controllo, pulsanti di scelta, elenchi a discesa e altro ancora.Questa flessibilità consente di creare moduli personalizzati personalizzati in base alle esigenze specifiche e di raccogliere diversi tipi di informazioni dai partecipanti.
+* **Flessibilità e personalizzazione** I tag di testo consentono di definire vari tipi di campi modulo, tra cui caselle di controllo, pulsanti di scelta, elenchi a discesa e altro ancora. Questa flessibilità consente di creare moduli personalizzati in base alle esigenze specifiche e di raccogliere diversi tipi di informazioni dai partecipanti.
 
-* **Guida e riferimento semplici** In questo Adobe viene fornita una guida ai tag di testo che illustra la sintassi e la struttura dei tag di testo.Questa guida può fungere da riferimento quando si applicano tag di testo ai propri documenti, garantendo che vengano formattati correttamente e sfruttando tutte le opzioni disponibili.
+* **Guida di riferimento e guida** L&#39;Adobe fornisce una guida ai tag di testo che illustra la sintassi e la struttura dei tag di testo. Questa guida può fungere da riferimento quando si applicano i tag di testo ai propri documenti, assicurandosi di formattarli correttamente e di sfruttare tutte le opzioni disponibili.

@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Rendi il tuo sito installabile su dispositivi mobili e disponibile offline con un semplice clic, indipendentemente dal fatto che si tratti di un’app web o di un sito tradizionale.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

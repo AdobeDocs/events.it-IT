@@ -1,5 +1,5 @@
 ---
-title: Experience League di risorse LIVE
+title: EXPERIENCE LEAGUE LIVE ASSETS
 description: Questa pagina contiene le risorse per Experience League LIVE
 role: User
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Experience League di risorse LIVE
+# EXPERIENCE LEAGUE LIVE ASSETS
 
 Questa pagina contiene le risorse per Experience League LIVE
 
-![Immagine barra laterale Episodio 6](assets/exl-live-ep6-sidebar.jpg)
+![Immagine Sidebar Episodio 6](assets/exl-live-ep6-sidebar.jpg)
 
 ![Logo Experience League Live](assets/exl-live-logo.png)

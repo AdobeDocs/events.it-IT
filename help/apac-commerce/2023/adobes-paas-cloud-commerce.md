@@ -1,5 +1,5 @@
 ---
-title: Semplifica la tua attività con Adobe PaaS Cloud Commerce
+title: Semplifica la tua attività con il PaaS Cloud Commerce di Adobe
 description: Esplora il valore della soluzione Commerce Cloud PaaS di Adobe. Per chiunque sia al momento self-hosting e curioso di sapere cosa potrebbe offrire loro una soluzione PaaS, questo webinar è per voi.
 feature-set: Commerce
 feature: Upgrade
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ---
 
-# Semplifica la tua attività con Adobe PaaS Cloud Commerce
+# Semplifica la tua attività con il PaaS Cloud Commerce di Adobe
 
-Nell’ultimo episodio della serie di webinar su APAC Commerce, analizziamo il valore della soluzione Commerce Cloud PaaS di Adobe. Per chiunque sia curioso di sapere cosa potrebbe offrire loro una soluzione PaaS, questo webinar è per te. Se sei già cliente di Adobe Commerce Cloud, puoi unirti a noi per scoprire come massimizzare il valore della tua configurazione esistente.
+Nell’ultimo episodio della serie di webinar APAC Commerce, analizziamo il valore della soluzione Adobe Commerce Cloud PaaS. Per chiunque sia curioso di sapere cosa potrebbe offrire loro una soluzione PaaS, questo webinar è per te. Se sei già cliente di Adobe Commerce Cloud, puoi unirti a noi per scoprire come massimizzare il valore della tua configurazione esistente.
 
 Potrai sentire le opinioni di uno dei nostri clienti, Panatrade, il principale distributore di abbigliamento sportivo in Indonesia, sul percorso da on-premise a Adobe Commerce Cloud e su come stanno raccogliendo i frutti del passaggio a una soluzione completamente ottimizzata e gestita per il loro business di e-commerce.
 

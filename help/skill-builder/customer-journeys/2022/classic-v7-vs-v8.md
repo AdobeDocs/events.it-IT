@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] V7 e V8
+# Adobe [!DNL Campaign Classic] v7 vs v8
 
 Partecipa a questa sessione per scoprire gli ultimi aggiornamenti dei prodotti e le differenze tra V7 e V8 da parte dei nostri Product Manager.
 
 *Christophe Protat* Product Manager/Adobe
 
-*Gael Mouello* Senior Product Manager / Adobe
+*Gael Mouello* Senior Product Manager/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

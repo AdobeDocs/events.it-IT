@@ -1,6 +1,6 @@
 ---
 title: 'Modelli, token e lavoro di squadra: rendere il contenuto scalabile'
-description: Scopri come utilizzare token e modelli in [!DNL Marketo Engage]. Scopri i suggerimenti per sfruttare al massimo la libreria di contenuti esistente.
+description: Informazioni sull'utilizzo di token e modelli in [!DNL Marketo Engage]. Scopri i suggerimenti per sfruttare al massimo la libreria di contenuti esistente.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Modelli, token e lavoro di squadra: crea il tuo Adobe [!DNL Marketo Engage] contenuto scalabile
+# Modelli, token e lavoro di squadra: rendi scalabile il contenuto dell&#39;Adobe [!DNL Marketo Engage]
 
-La creazione di contenuti per i programmi di marketing è un processo lungo. L’applicazione di modelli e token consente di creare processi scalabili tra i team e di ottenere di più con meno risorse [!DNL Marketo Engage]. Ascolta Lauren McCormack, pluripremiata leader di marketing, e 2x Adobe [!DNL Marketo Engage] Champion—come condivide i suoi anni di saggezza per fare il vostro [!DNL Marketo Engage] contenuti scalabili.
+La creazione di contenuti per i programmi di marketing è un processo lungo. L&#39;applicazione di modelli e token consente di creare processi scalabili tra i team e di ottenere di più con meno risorse in [!DNL Marketo Engage]. Ascolta Lauren McCormack, pluripremiata leader del marketing e due volte campionessa Adobe di [!DNL Marketo Engage], mentre condivide gli anni di saggezza per rendere scalabili i contenuti di [!DNL Marketo Engage].
 
 Informazioni su:
 

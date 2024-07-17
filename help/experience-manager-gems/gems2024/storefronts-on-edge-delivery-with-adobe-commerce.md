@@ -1,6 +1,6 @@
 ---
 title: Creazione di vetrine sui Edge Delivery Services con Adobe Commerce
-description: Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui Edge Delivery Services per Adobe Commerce. Ti guideremo attraverso il processo di configurazione del tuo progetto con la piattaforma standard Commerce e come collegarlo ai nuovi servizi SaaS di Commerce per un’integrazione rapida e avanzata del catalogo dei prodotti tramite interfaccia utente Sensei. Vengono introdotti componenti di tipo "drop-in", un insieme di componenti front-end personalizzabili che accelerano lo sviluppo della vetrina. Scopri le best practice per estenderle e assegnarvi uno stile. Infine, verranno evidenziate nuove funzioni di authoring di Consegna Edge per arricchire le esperienze Commerce con contenuti creati.
+description: Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui Edge Delivery Services per Adobe Commerce. Ti guideremo attraverso il processo di configurazione del tuo progetto con la piattaforma di espansione Commerce e come collegarlo ai nuovi servizi Commerce SaaS per un’integrazione rapida e migliorata dell’interfaccia utente di Sensei per il catalogo dei prodotti. Vengono introdotti componenti di tipo "drop-in", un insieme di componenti front-end personalizzabili che accelerano lo sviluppo della vetrina. Scopri le best practice per estenderle e assegnarvi uno stile. Infine, verranno evidenziate le nuove funzioni di authoring di Edge Delivery per arricchire le esperienze Commerce con i contenuti creati.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -21,11 +22,12 @@ ht-degree: 0%
 
 # Data del webinar: 6 marzo 2024
 
-Orario: 17 CET / 9:00 PDT / 19:30 IST Questo webinar è stato completato. Visualizzare la registrazione di seguito.
+Orario: 17:00 CET / 9:00 PDT / 21:30 IST
+Questo webinar è stato completato. Visualizzare la registrazione di seguito.
 
 ## Creazione di vetrine sui Edge Delivery Services con Adobe Commerce
 
-Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui Edge Delivery Services per Adobe Commerce. Ti guideremo attraverso il processo di configurazione del tuo progetto con la piattaforma standard Commerce e come collegarlo ai nuovi servizi SaaS di Commerce per un’integrazione rapida e avanzata del catalogo dei prodotti tramite interfaccia utente Sensei. Vengono introdotti componenti di tipo &quot;drop-in&quot;, un insieme di componenti front-end personalizzabili che accelerano lo sviluppo della vetrina. Scopri le best practice per estenderle e assegnarvi uno stile. Infine, verranno evidenziate nuove funzioni di authoring di Consegna Edge per arricchire le esperienze Commerce con contenuti creati.
+Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui Edge Delivery Services per Adobe Commerce. Ti guideremo attraverso il processo di configurazione del tuo progetto con la piattaforma di espansione Commerce e come collegarlo ai nuovi servizi Commerce SaaS per un’integrazione rapida e migliorata dell’interfaccia utente di Sensei per il catalogo dei prodotti. Vengono introdotti componenti di tipo &quot;drop-in&quot;, un insieme di componenti front-end personalizzabili che accelerano lo sviluppo della vetrina. Scopri le best practice per estenderle e assegnarvi uno stile. Infine, verranno evidenziate le nuove funzioni di authoring di Edge Delivery per arricchire le esperienze Commerce con i contenuti creati.
 
 ## Presentatori
 
@@ -38,6 +40,6 @@ Questo webinar AEM GEMs illustra come creare una vetrina ad alte prestazioni sui
 
 >[!NOTE]
 > 
->* Per le interazioni specifiche della community su Experience League, visita il nostro [thread contestuale](https://adobe.ly/48m4dEm).
+>* Per le interazioni della community specifiche per sessione su Experience League, visita il nostro [thread contestuale](https://adobe.ly/48m4dEm).
 >
->* Per ricevere notifiche sui prossimi webinar, registrati al seguente indirizzo [Gruppo di utenti AEM dell’Adobe](https://aem-augs.adobe.com/).
+>* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

@@ -28,5 +28,5 @@ In questa sessione sulla raccolta dei dati per Adobe Experience Cloud, i nostri 
 * [Ask the experts - The basics of Web SDK (Domande agli esperti: nozioni di base di Web SDK)](exl-live-episode-05-26-22.md)
 * [Domande agli esperti: connessioni RTCDP](exl-live-episode-06-23-22.md)
 
-Per ulteriori informazioni su questo argomento, consultare l&#39;Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Per continuare la discussione su questo argomento, visita l&#39;Experience League [Post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
 

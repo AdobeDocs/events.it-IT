@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] Missione di documentazione possibile'
-description: Guarda questa sessione per scoprire perché la documentazione è fondamentale per il successo, le best practice, i suggerimenti e i trucchi e diversi approcci da seguire per documentare i tuoi [!DNL Adobe Analytics] dell'istanza. Giugno 2022
+title: '[!DNL Adobe Analytics] Documentation Mission Possibile'
+description: Guarda questa sessione per scoprire perché la documentazione è fondamentale per il successo, le best practice, i suggerimenti e i trucchi e diversi approcci da seguire per documentare la tua istanza  [!DNL Adobe Analytics] . Giugno 2022
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Adobe Analytics] Missione di documentazione possibile
+# [!DNL Adobe Analytics] missione di documentazione possibile
 
-Guarda questa sessione per scoprire perché la documentazione è fondamentale per il successo, le best practice, i suggerimenti e i trucchi e diversi approcci da seguire per documentare i tuoi [!DNL Adobe Analytics] dell&#39;istanza.
+Guarda questa sessione per scoprire perché la documentazione è fondamentale per il successo, le best practice, i suggerimenti e i trucchi e diversi approcci da seguire per documentare l&#39;istanza [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414194/?quality=12&learn=on)

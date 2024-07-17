@@ -31,13 +31,13 @@ Scopri le risposte ad alcune domande frequenti su Commerce Intelligence relative
 * Le cifre monetarie nei rapporti hanno il prefisso del simbolo di valuta specificato.
 * L’impostazione della valuta viene eseguita nelle impostazioni del conto selezionando una valuta applicabile per la conversione dei tassi di valuta.
 
-**Metodi di importazione dei dati**
+**Metodi di importazione dati**
 
 * L’importazione dei dati può essere eseguita utilizzando la connettività API, i caricamenti CSP e l’API di importazione.
 * Oracle DB non è supportato; tuttavia, l’API di caricamento o importazione CSP può essere utilizzata come alternativa.
 * Le limitazioni sull’utilizzo dell’API includono una richiesta di consumo al mese e circa 100 richieste di record, per un totale di circa 100.000 record al mese.
 
-**Integrazione di Data Source**
+**Integrazione Data Source**
 
 * Adobe Commerce Intelligence supporta più origini dati come Adobe Commerce, SAS, API, database e così via.
 * Consente la convergenza dei dati da varie istanze di Adobe Commerce in un’unica istanza di Commerce Intelligence.

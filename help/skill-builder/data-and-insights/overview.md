@@ -24,11 +24,11 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-        <strong>Personalizzare e automatizzare con Adobe Target</strong>
+        <strong>Personalizza e automatizza con Adobe Target</strong>
       </a>
     </div>
     <p>
-    <em>Partecipa a questa sessione per scoprire i concetti fondamentali delle funzionalità di automazione e ottimizzazione di Adobe Target tramite Targeting automatico e Personalizzazioni automatiche.</em>
+    <em>Partecipa a questa sessione per scoprire i concetti fondamentali relativi all'automazione e all'ottimizzazione delle funzionalità di Adobe Target tramite il Targeting automatico e le Personalizzazioni automatiche.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>Innovazioni e tendenze per il 2022</strong>
+        <strong>2022 Innovazioni e tendenze</strong>
       </a>
     </div>
     <p>
-    <em>In questa sessione di approfondimento scoprirai le principali tendenze in D&amp;I. Unisciti a noi per scoprire come utilizzare in modo rilevante i tuoi dati massimizzando completamente gli investimenti Experienci Cloud e sbirciare nelle nuove innovazioni.</em>
+    <em>In questa sessione di approfondimento scoprirai le principali tendenze in D&amp;I. Unisciti a noi per scoprire come utilizzare in modo rilevante i tuoi dati massimizzando completamente gli investimenti in Experienci Cloud e sbirciare nelle nuove innovazioni.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando inf
       </a>
     </div>
     <p>
-    <em>In questa sessione scoprirai le best practice sull’utilizzo delle dashboard di Analytics sui dispositivi mobili, nonché su come personalizzare le app tramite Target.</em>
+    <em>In questa sessione scoprirai le best practice per l'utilizzo delle dashboard di Analytics sui dispositivi mobili e per la personalizzazione delle app tramite Target.</em>
     <p>
   </td>
 </tr>

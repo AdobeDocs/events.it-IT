@@ -67,7 +67,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
       <img alt="10 suggerimenti per il Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10 suggerimenti per il Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>10 suggerimenti per il tuo Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

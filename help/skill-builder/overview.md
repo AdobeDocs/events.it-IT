@@ -6,7 +6,7 @@ duration: 48
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,12 +19,12 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
 <table>
 <tr>
   <td>
-    <img alt="Contenuti ed Commerce" src="assets/commerce.png" />
+    <img alt="Contenuti e Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Content and Commerce</strong>
+      <strong>Contenuto e Commerce</strong>
     </div>
     <p>
-    <em>Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre, scopri come creare esperienze di e-commerce multicanale su un’unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull’intelligenza artificiale.</em>
+    <em>Crea e gestisci una serie di siti Web coinvolgenti, app mobili e moduli. Inoltre, scopri come creare esperienze di e-commerce multicanale su un'unica piattaforma con la nostra soluzione di e-commerce flessibile e basata sull'intelligenza artificiale.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>
@@ -33,7 +33,7 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
   <td>
     <img alt="Percorsi di clienti" src="assets/customer-journey.png" />
     <div>
-      <strong>Percorsi di clienti</strong>
+      <strong>percorsi di clienti</strong>
     </div>
     <p>
     <em>Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per creare percorsi personalizzati cross-channel.</em>
@@ -45,10 +45,10 @@ Skill Builder è una serie di webinar progettati per creare la knowledge base e 
   <td>
     <img alt="Dati e informazioni" src="assets/data-insights.png" />
     <div>
-      <strong>Dati e informazioni</strong>
+      <strong>Dati e approfondimenti</strong>
     </div>
     <p>
-    <em>Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando informazioni approfondite sui dati online e offline in tutta l’organizzazione.</em>
+    <em>Promuovi la personalizzazione in tempo reale su qualsiasi canale utilizzando approfondimenti sui dati online e offline in tutta l'organizzazione.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sfoglia sessioni</span>

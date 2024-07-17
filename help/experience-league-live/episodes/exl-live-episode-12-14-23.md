@@ -23,9 +23,9 @@ Scopri in che modo le nuove funzioni rilasciate nel 2023 possono aiutarti ad att
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Hai delle domande?&quot;]
+>[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento in Adobe Experience League [Post community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -33,7 +33,7 @@ Continua la discussione su questo argomento in Adobe Experience League [Post com
 
 Sei un professionista Real-Time CDP attuale e stai cercando informazioni sulle novità del prodotto, sul perché è importante e su come Adobe può aiutarti a migliorare le strategie di gestione dei dati dei clienti? Non guardate oltre - siete venuti nel posto giusto! In questa serie, approfondiremo ciò che è stato recentemente lanciato in Real-Time CDP in modo da poter sfruttare subito le novità e avere un impatto sulla tua organizzazione.
 
-## Elementi principali da ricordare
+## Punti chiave da eliminare
 
 In questa sessione verranno illustrate cinque nuove funzionalità introdotte negli ultimi mesi:
 

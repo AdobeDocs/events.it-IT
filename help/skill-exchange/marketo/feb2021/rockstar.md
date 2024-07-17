@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Marketo Engage] Segmento Rockstar
-description: Quattro clienti "Rockstar" si presenteranno ciascuno con il meglio di sé [!DNL Marketo Engage] suggerimento o trucco. Chi ti abbaglierà oltre ogni convinzione?
+description: Quattro clienti "Rockstar" presenteranno ciascuno il loro suggerimento o trucco migliore [!DNL Marketo Engage] . Chi ti abbaglierà oltre ogni convinzione?
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage] Segmento Rockstar
+# Adobe [!DNL Marketo Engage] segmento Rockstar
 
-Quattro clienti &quot;Rockstar&quot; si presenteranno ciascuno con il meglio di sé [!DNL Marketo Engage] suggerimento o trucco. Chi ti abbaglierà oltre ogni convinzione?
+Quattro clienti &quot;Rockstar&quot; presenteranno ciascuno il loro miglior suggerimento o trucco [!DNL Marketo Engage]. Chi ti abbaglierà oltre ogni convinzione?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

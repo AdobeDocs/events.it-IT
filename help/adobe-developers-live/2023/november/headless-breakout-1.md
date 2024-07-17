@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Scopri il potenziale delle API headless di Adobe Experience Manager in questa sessione di Catalina Dumitru, registrata in diretta su Adobe Developers Live. Scopri le funzionalità estese di queste API, tra cui assegnazione di tag, controllo delle versioni e ricerca degli endpoint. Scopri in che modo semplificano un recupero efficiente dei contenuti per esperienze simili alle app nei vari canali digitali e come visualizzare in azione le applicazioni reali di queste API. Questa sessione è una risorsa preziosa per gli sviluppatori che cercano di sfruttare la tecnologia headless per soluzioni innovative.
 
-Continua la conversazione in [Community Experienci League](https://adobe.ly/3rJfZcN).
+Continua la conversazione in [Experience League Communities](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

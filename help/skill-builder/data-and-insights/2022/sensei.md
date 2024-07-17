@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Scopri come sfruttare Sensei, il framework di intelligenza artificiale fornito da Adobe, per analizzare in modo intelligente clienti e segmenti di pubblico per trovare differenze significative, attribuire fattori di conversione e prevedere il comportamento futuro.
 
-*Matthias Kolitsch* Formatore senior per più soluzioni EMEA / Adobe
+*Matthias Kolitsch* Senior Multi Solution Trainer EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

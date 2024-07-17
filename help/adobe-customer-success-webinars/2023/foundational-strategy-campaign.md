@@ -1,6 +1,6 @@
 ---
 title: 'Collegamento dei punti: strategia fondamentale per l’orchestrazione delle campagne'
-description: Nozioni di base sull’orchestrazione delle campagne Ruolo dell’orchestrazione delle campagne nella personalizzazione @ Scale Principi fondamentali & Guida alle best practice per la misurazione dell’orchestrazione Sfide e soluzioni comuni
+description: Fondamenti dell’orchestrazione delle campagne Il ruolo dell’orchestrazione delle campagne all’interno di Personalization @ Scale Principi fondanti e guida Principi di orchestrazione Best practice per la misurazione Sfide e soluzioni comuni
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Collegamento dei punti: strategia fondamentale per l’orchestrazione delle campagne
 
-*Nozioni di base sull’orchestrazione delle campagne*
+*Nozioni di base dell&#39;orchestrazione delle campagne*
 
-* Il ruolo dell’orchestrazione delle campagne nella personalizzazione su scala
+* Il ruolo dell’orchestrazione delle campagne all’interno di Personalization @ Scale
 * Pilastri Fondamentali E Principi Guida
 * Best practice per la misurazione dell’orchestrazione
 * Sfide e soluzioni comuni

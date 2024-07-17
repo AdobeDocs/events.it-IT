@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Per massimizzare i vantaggi del Cloud Service Adobe Experience Manager, è fondamentale adattare la base di codice in modo da renderlo compatibile con il cloud e resistente ai bollettini, in modo da evitare aggiornamenti futuri gestiti dal sistema operativo.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/36Yd3v6)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-Clic **[qui](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** per le diapositive della sessione.
+Fai clic **[qui](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** per le diapositive della sessione.

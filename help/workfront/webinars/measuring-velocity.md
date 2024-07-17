@@ -1,6 +1,6 @@
 ---
 title: 'Chiedi all’esperto: misurazione della velocità'
-description: Scopri come misurare e tracciare la velocità utilizzando [!DNL Workfront] reportistica. Questo workshop è stato registrato il 14 agosto 2019.
+description: Scopri come misurare e tenere traccia della velocità utilizzando il reporting  [!DNL Workfront] . Questo workshop è stato registrato il 14 agosto 2019.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Chiedi all’esperto: misurazione della velocità
 
-Scopri come misurare e tracciare la velocità utilizzando [!DNL Workfront] reportistica. Questo workshop è stato registrato il 14 agosto 2019.
+Scopri come misurare e tenere traccia della velocità utilizzando il reporting [!DNL Workfront]. Questo workshop è stato registrato il 14 agosto 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -39,7 +39,7 @@ Calcolo:
 IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
-**Prima durata**
+**Prima Durata**
 
 Formato: testo
 
@@ -91,7 +91,7 @@ IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({
 
 ## Domande e risposte
 
-**domande**
+**Domanda**
 
 Ciao, grazie per aver organizzato questo webinar. Ho una domanda sul campo in Workfront. Nel nostro sistema, abbiamo creato un campo personalizzato denominato &quot;Stato&quot; che è una combinazione di Stato e Condizione. Questo campo State contiene molte statue in migliaia di progetti che è molto importante per il nostro estratto dati Tableau. Tuttavia, ora vogliamo eliminare questo campo e utilizzare il campo Condizione, il campo nativo. Hai idea di come posso capovolgere questo campo senza perdere dati. Tutto ciò che posso pensare di fare senza perdere dati in questo momento è cambiarlo manualmente da progetto a progetto.
 
@@ -99,7 +99,7 @@ Ciao, grazie per aver organizzato questo webinar. Ho una domanda sul campo in Wo
 
 In una situazione come questa puoi utilizzare il filtro e la modifica in blocco per semi-automatizzare il processo di compilazione del campo Condizione in base al campo personalizzato Stato.
 
-Ecco come si fa:
+Di seguito sono riportati i passaggi da seguire:
 
 1. Determinare quali valori di stato si desidera mappare ai valori di condizione. Ad esempio, supponiamo che tu abbia un valore di Stato &quot;Late&quot; (In ritardo) e &quot;Very Late&quot; (Molto in ritardo) entrambi mappati su un valore di Condizione &quot;In difficoltà&quot; (In Trouble)
 1. Crea un report di progetti che mostra tutti i progetti con un valore di Stato &quot;In ritardo&quot; e &quot;Molto in ritardo&quot;
@@ -111,7 +111,7 @@ Ecco come si fa:
 1. Fai clic su Salva modifiche
 
 
-**domande**
+**Domanda**
 
 Come viene definito Excellent, Not Bad, etc (Eccellente, Non cattivo, ecc.)?
 
@@ -136,7 +136,7 @@ Quindi, dato tutto ciò che ho deciso di assegnare gli stati sia per Velocità a
 * Da 1,6 a 1,9 ho chiamato Povero.
 * 2 o più, ho chiamato Terribile.
 
-**domande**
+**Domanda**
 
 Cosa deve fare il lavoratore per tenere traccia del tempo necessario per eseguire i progetti?
 
@@ -144,7 +144,7 @@ Cosa deve fare il lavoratore per tenere traccia del tempo necessario per eseguir
 
 Qui non teniamo traccia delle ore effettivamente impiegate per i progetti, ma semplicemente monitoriamo e confrontiamo la durata. Ma se tieni traccia delle ore e desideri utilizzare le ore effettive sulle ore pianificate per calcolare la velocità, puoi fare lo stesso tipo di rapporto confrontando le ore pianificate con le ore effettive. Si desidera acquisire anche le ore pianificate dalla baseline originale.
 
-**domande**
+**Domanda**
 
 È possibile fornire i filtri utilizzati per Velocity?
 
@@ -157,7 +157,7 @@ Ho utilizzato due regole di filtro per i rapporti Velocity:
 
 Ho anche aggiunto altri filtri per mantenere il mio rapporto sufficientemente piccolo da gestire per il webinar, ma nel tuo ambiente di produzione probabilmente vorrai visualizzare tutti i progetti con il modulo personalizzato WPI in un particolare periodo di tempo. Puoi filtrare in base alla data di completamento effettiva del progetto.
 
-**domande**
+**Domanda**
 
 Se copi un progetto, questo avrà le stesse linee di base nel nuovo progetto?
 
@@ -165,7 +165,7 @@ Se copi un progetto, questo avrà le stesse linee di base nel nuovo progetto?
 
 No, le previsioni non sono incluse nel progetto copiato
 
-**domande**
+**Domanda**
 
 Per un processo di approvazione attività, puoi mostrarmi come creare un rapporto che fornisca un audit trail per attività in un progetto con un timestamp per ogni approvatore?
 
@@ -179,7 +179,7 @@ Task >> Is Approval (Approvazione) >> Equal (Uguale) > True (Vero). Verranno vis
 
 Se necessario, aggiungi altri filtri.
 
-**domande**
+**Domanda**
 
 Vorrei creare un rapporto sulla bozza. Un elenco di progetti che mostra quante bozze hanno e quante versioni esistono.
 
@@ -195,7 +195,7 @@ Filtra il rapporto per versione corrente: l’ID bozza non è vuoto.
 
 Questo ti fornirà un elenco di tutte le bozze in ciascun progetto. Avrà una riga per ogni bozza e visualizzerà il numero di versione (che sarà uguale al numero totale di versioni).
 
-**domande**
+**Domanda**
 
 È possibile utilizzare la velocità a livello di attività? Piuttosto che a livello di progetto?
 
@@ -203,7 +203,7 @@ Questo ti fornirà un elenco di tutte le bozze in ciascun progetto. Avrà una ri
 
 Sì, ma dovrai copiare il modulo personalizzato del progetto e creare un modulo personalizzato per le attività da esso. Sarà quindi necessario modificare il calcolo nel campo Data primo commit e cambiare il riferimento a &quot;Previsione predefinita&quot; in &quot;Attività prevista predefinita&quot;. Fate lo stesso per la prima durata. In seguito è possibile allegare il modulo personalizzato dell&#39;attività a tutte le attività che si desidera misurare. Sarà necessario creare relazioni sulle attività invece di relazioni sui progetti per queste. Tuttavia, sarà comunque necessario assicurarsi che la baseline del progetto originale sia impostata come baseline predefinita. Tutti i dati dell&#39;attività vengono mantenuti nella stessa previsione con i dati del progetto.
 
-**domande**
+**Domanda**
 
 La data del primo commit deve essere impostata manualmente dal proprietario del progetto? Oppure può richiamare da campi esistenti?
 
@@ -211,7 +211,7 @@ La data del primo commit deve essere impostata manualmente dal proprietario del 
 
 La data del primo commit viene acquisita dalla baseline predefinita. Se la previsione predefinita è quella originale, verrà visualizzata la data di completamento pianificata del progetto al momento in cui è stato impostato per la prima volta sullo stato Corrente.
 
-**domande**
+**Domanda**
 
 I campi calcolati nei moduli personalizzati devono ancora essere aggiornati periodicamente e corretti? Oppure accadrà automaticamente durante la notte (o in un altro momento)?
 
@@ -223,7 +223,7 @@ I campi calcolati vengono ricalcolati:
 * In caso di modifica in blocco con le espressioni personalizzate ricalcolate attivate
 * Modifiche al modulo con l’opzione &quot;Aggiorna calcoli precedenti&quot; selezionata
 
-**domande**
+**Domanda**
 
 Se la velocità considera la durata, la percentuale di completamento nella preferenza progetto deve essere basata sulla durata?
 
@@ -231,7 +231,7 @@ Se la velocità considera la durata, la percentuale di completamento nella prefe
 
 No, l&#39;opzione Preferenze progetto si riferisce solo alla modalità di calcolo della percentuale di completamento. Questa impostazione non influisce sul valore della durata stessa.
 
-**domande**
+**Domanda**
 
 Qual è la differenza tra la durata del primo piano e quella del piano?
 
@@ -243,7 +243,7 @@ Durata pianificata è il numero di giorni dall&#39;inizio del progetto alla Data
 
 Il valore dei rapporti Velocity deriva dalla possibilità di vedere quanto è cambiata la durata pianificata rispetto alla prima durata. È possibile vedere questo dato già all&#39;inizio della registrazione delle previsioni quando i progetti sono cambiati da Pianificazione a Attuale.
 
-**domande**
+**Domanda**
 
 È possibile impostare i processi di lavoro in base al colore in modo che siano uguali in tutti i rapporti?
 
@@ -251,7 +251,7 @@ Il valore dei rapporti Velocity deriva dalla possibilità di vedere quanto è ca
 
 Se si raggruppa per Assegnato a >> Nome in un report attività, è possibile assegnare un colore a determinati lavoratori nella scheda Grafico. È sufficiente scegliere l&#39;opzione Colori personalizzati accanto alla casella Assegnato a >> Nome nella scheda Grafico e aggiungere un colore per ogni lavoratore.
 
-**domande**
+**Domanda**
 
 Si sta tentando di determinare se è possibile creare un dashboard con un&#39;area che esamina un modulo personalizzato a livello di attività per verificare se è presente e secondario se alcuni campi non sono vuoti. È possibile?
 
@@ -267,7 +267,7 @@ Categorie >> Modulo ID Equal Tammy
 
 Task >> Il Campo Tammy Non È Vuoto
 
-**domande**
+**Domanda**
 
 È possibile creare un report per cercare un documento con nome specifico nella raccolta documenti? Parte del dashboard che vogliamo misurare se esistono determinati documenti.
 
@@ -275,7 +275,7 @@ Task >> Il Campo Tammy Non È Vuoto
 
 Sì.  È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
 
-**domande**
+**Domanda**
 
 È possibile scegliere un colore o un valore esadecimale non elencato nella scheda del grafico, ma che sia un nuovo colore, ovvero un nuovo valore esadecimale, ad esempio un nuovo colore dei colori del mio marchio per consentire la personalizzazione dei rapporti?
 
@@ -283,7 +283,7 @@ Sì.  È necessario creare un report Documento. Potrebbe essere necessario speci
 
 Sì, è possibile immettere qualsiasi codice RGB che sia stato possibile trovare. Si tratta di un codice standard che indica la quantità di rosso, verde e blu contenuta nel colore. Workfront accetterà qualsiasi valore esadecimale da 000000 a FFFFFF, quindi se conosci il codice del colore del tuo marchio puoi utilizzarlo.
 
-**domande**
+**Domanda**
 
 È possibile riaffermare la definizione dei rapporti nel dashboard (fornire una dichiarazione di ciò che ogni rapporto misura)?
 
@@ -301,7 +301,7 @@ Rapporto Elenco stato velocità
 
 > Questo rapporto contiene tutti i campi personalizzati calcolati e le date significative per gli stessi progetti nei grafici. Il suo scopo è quello di consentirci di controllare i nostri calcoli e ottenere informazioni più dettagliate, se desiderato.
 
-**domande**
+**Domanda**
 
 Come hai aggiunto i nuovi dati all’asse x?
 
@@ -309,7 +309,7 @@ Come hai aggiunto i nuovi dati all’asse x?
 
 Quando si esegue il raggruppamento in base a qualsiasi elemento in un report, è possibile creare un grafico. È quindi possibile impostare l&#39;asse X o Y nella scheda Grafico.
 
-**domande**
+**Domanda**
 
 Puoi analizzare la differenza tra la prima durata e la durata effettiva?
 
@@ -319,7 +319,7 @@ Prima durata è il numero di giorni promessi originariamente al cliente per il p
 
 Durata effettiva è il numero di giorni compresi tra l&#39;inizio del progetto e la data di completamento effettiva.
 
-**domande**
+**Domanda**
 
 Come si inserisce il fattore di previsione del progetto in questo rapporto?
 
@@ -327,7 +327,7 @@ Come si inserisce il fattore di previsione del progetto in questo rapporto?
 
 La previsione originale del progetto contiene la data di completamento pianificata e la durata pianificata che esistevano quando il progetto è stato modificato per la prima volta nello stato Attuale. Se il processo deve pianificare il progetto prima di impostarlo su Corrente, verrà indicata la data entro la quale si è impegnato a completare il progetto.
 
-**domande**
+**Domanda**
 
 Esiste un modo per applicare in massa il nuovo modulo ai vecchi progetti?
 
@@ -337,7 +337,7 @@ Sì, è possibile selezionare più progetti da un elenco. In questo caso, nella 
 
 Per aggiungere moduli personalizzati a un numero elevato di progetti, è possibile creare un rapporto filtrato in modo da includere solo i progetti desiderati. Quindi, invece di selezionare i progetti singolarmente, fai clic sulla casella di controllo sopra la prima casella nell’elenco e selezionerai l’intero elenco.
 
-**domande**
+**Domanda**
 
 È possibile rimuovere le voci duplicate dall&#39;interno del raggruppamento in un report di assegnazione, ma non tra raggruppamenti?
 
@@ -351,7 +351,7 @@ Il raggruppamento successivo viene applicato all’elenco filtrato. Un raggruppa
 
 Di conseguenza, nessun oggetto può essere visualizzato in più raggruppamenti. La visualizzazione di un oggetto nell&#39;elenco è completamente controllata dal filtro e dalla persona che esegue il report dispone dei diritti per visualizzarlo.
 
-**domande**
+**Domanda**
 
 Consiglieresti altri rapporti per tenere traccia di Velocity? Solo una raccomandazione di alto livello è grande perché so che non c&#39;è abbastanza tempo per passare attraverso i dettagli.
 
@@ -365,7 +365,7 @@ Una ragione per cui ho deciso di confrontare la Durata Reale con due tipi di Dur
 
 Workfront non ha alcun rapporto integrato sulla velocità; pertanto, ti consiglierei di fare un brainstorming con il tuo team per capire cosa vuoi sapere per determinare la velocità e capire cosa devi tracciare.
 
-**domande**
+**Domanda**
 
 È possibile calcolare qualcosa a livello di COLONNA? Invece di chiamare un CAMPO calcolato da un modulo personalizzato?
 
@@ -375,7 +375,7 @@ Per eseguire questi calcoli, sarebbe stato possibile utilizzare un’espressione
 
 Per quanto riguarda lo stato del rapporto tra lavoro e impegno e lo stato della velocità adeguato, questi dovevano essere campi personalizzati in modo da poterli utilizzare nella scheda Grafico. La scheda Grafico non riconosce i raggruppamenti in modalità testo, devono essere campi personalizzati. E siccome avevamo bisogno di Work-to-Commit Ratio (Rapporto lavoro-impegno) e di Adjusted Velocity (Velocità adattata) per calcolare quegli stati, avevamo bisogno che fossero anche campi personalizzati. In questo caso dovevano essere tutti campi personalizzati, ma è sempre bene considerare entrambi i modi e scegliere quello che funzionerà meglio. Grazie per la domanda.
 
-**domande**
+**Domanda**
 
 I nostri progetti cambiano spesso a causa di ritardi o modifiche dei clienti durante il processo. La nostra relazione potrebbe essere &quot;terribile&quot;. Cosa si consiglia di fare per tenere traccia dei motivi delle modifiche? Abbiamo pensato di aggiungere un modulo personalizzato a livello di documento che segnala il motivo della modifica (interna o client), ma ci chiediamo quale sia la best practice.
 
@@ -387,7 +387,7 @@ Solo un altro commento. Potrebbe non essere necessario includere tutti i progett
 
 Assicurati quindi di concentrare il reporting sulla velocità sui punti in cui può aiutarti a raggiungere i tuoi obiettivi.
 
-**domande**
+**Domanda**
 
 Se si imposta la previsione predefinita su &#39;Originale&#39; per un progetto, quindi si riposiziona il progetto fuori dal progetto corrente, verrà modificata la previsione predefinita?
 
@@ -395,7 +395,7 @@ Se si imposta la previsione predefinita su &#39;Originale&#39; per un progetto, 
 
 Sì.  Ogni volta che si cambia lo stato in Corrente, viene creata una nuova linea di base, che sarà quella predefinita. Tuttavia, tutte le baseline precedenti esisteranno ancora e sarà possibile impostare manualmente la baseline originale come predefinita.
 
-**domande**
+**Domanda**
 
 Esiste un modo per impostare in un rapporto quali campi sono modificabili? È possibile impostare restrizioni per determinati campi?
 
@@ -403,7 +403,7 @@ Esiste un modo per impostare in un rapporto quali campi sono modificabili? È po
 
 È possibile limitare i diritti di visualizzazione e modifica per i campi di un modulo personalizzato. È necessario includere i campi in una sezione e nelle impostazioni della sezione è possibile scegliere i diritti necessari per consentire agli utenti di visualizzare o modificare i campi nella sezione.
 
-**domande**
+**Domanda**
 
 È possibile creare un report che cerchi un documento con nome specifico nella raccolta documenti?
 
@@ -411,15 +411,15 @@ Esiste un modo per impostare in un rapporto quali campi sono modificabili? È po
 
 Sì.  È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
 
-**domande**
+**Domanda**
 
-Nei rapporti, perché i valori sono disponibili come colonna ma non per la selezione o il raggruppamento? Ad esempio: Origine problema.
+Nei rapporti, perché i valori sono disponibili come colonna ma non per la selezione o il raggruppamento? Ad esempio: Issue Source.
 
 **Risposta**
 
 Il motivo principale per cui una colonna potrebbe essere visualizzabile ma non disponibile per il raggruppamento è che potrebbe contenere un elenco, ad esempio caselle di controllo, campi personalizzati o assegnazioni di attività. Il raggruppamento in un elenco non è consentito.
 
-**domande**
+**Domanda**
 
 Come posso separare in un rapporto (in base a quali campi) quando è avvenuta l’immissione di ore e quando le ore sono state effettivamente eseguite?
 
@@ -427,7 +427,7 @@ Come posso separare in un rapporto (in base a quali campi) quando è avvenuta l�
 
 Il campo Data immissione per l&#39;oggetto Hour si riferisce alla data di lavoro delle ore. In questo modo la Data di ingresso è diversa da quella di altri oggetti, dove indica la data di creazione dell&#39;oggetto. Anche se non esiste una data di creazione per le ore, esiste una &quot;Data ultimo aggiornamento&quot;, che è inizialmente la data di creazione e poi qualsiasi data in cui l’ora è stata modificata successivamente.
 
-**domande**
+**Domanda**
 
 Dal punto di vista della generazione rapporti, come possiamo accedere ai dati della linea di base? Ho un progetto con più linee di base. Desidero vedere come sono state pianificate le singole attività in ogni previsione. Esiste un modo per scrivere un report che mostri il piano del progetto per ogni previsione?
 
@@ -437,7 +437,7 @@ In un report verranno visualizzati i campi che si desidera visualizzare per la b
 
 Tuttavia, se si desidera visualizzare graficamente le informazioni sulle attività, è possibile farlo utilizzando la funzione del diagramma di Gantt. Attiva Gantt in un elenco di attività (utilizzando l’icona Gantt in alto a destra accanto a Salvataggio automatico), passa all’icona Impostazioni appena sotto e a destra e fai clic su di essa. Selezionare la casella Baseline per visualizzare tutte le baseline. È possibile selezionarli uno alla volta e visualizzare le modifiche apportate alle attività nella visualizzazione Gantt.
 
-**domande**
+**Domanda**
 
 Come creare un report per trovare le modifiche nel relativo stato per un periodo definito, ad esempio il mese scorso.
 
@@ -467,7 +467,7 @@ Nella scheda Filtri, crea le seguenti regole di filtro:
 * aggiungi eventuali regole aggiuntive da filtrare in base alla data di immissione della nota. Puoi scegliere di escludere questo valore da Filtri e di utilizzare al suo posto un prompt per report
 * Puoi filtrare in base al progetto, al portfolio o ad altri dati.
 
-**domande**
+**Domanda**
 
 Come Planner puoi richiamare rapporti per altri utenti?
 

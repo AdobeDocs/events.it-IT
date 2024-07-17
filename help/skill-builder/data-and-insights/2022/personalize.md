@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Partecipa a questa sessione per scoprire i concetti fondamentali delle funzionalità di automazione e ottimizzazione di Adobe Target tramite Targeting automatico e Personalizzazioni automatiche.
 
-*Matthias Kolitsch* Formatore senior per più soluzioni EMEA / Adobe
+*Matthias Kolitsch* Senior Multi Solution Trainer EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

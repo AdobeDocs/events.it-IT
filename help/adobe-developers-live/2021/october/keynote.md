@@ -12,7 +12,7 @@ duration: 2740
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 19%
+ht-degree: 17%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 19%
 
 Scopri i progressi tecnologici più recenti e gli aggiornamenti degli strumenti per sviluppatori disponibili in Adobe Creative Cloud, Document Cloud e Experience Cloud.
 
-Continua la conversazione in **[Community Experienci League](https://adobe.ly/3F2g1ym)**.
+Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3F2g1ym)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 
 ## Risorse aggiuntive
 
-- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it)
+- [Documentazione di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Panoramica di Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=it)
 - [Tutorial su Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=it)

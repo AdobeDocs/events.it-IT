@@ -23,13 +23,13 @@ Unisciti a Bryan, Eric e Doug mentre discutono su come muoversi rapidamente con 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Hai delle domande?&quot;]
+>[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su [Forum della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Continua la discussione sulla [discussione del Forum della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
-## Elementi principali da ricordare
+## Punti chiave da eliminare
 
 * Esistono due modi per trasferire i dati da Adobe Analytics al Customer Journey Analytics: tramite Connettore dati di Analytics (ADC) e SDK per web.
 * L’ADC consente di copiare i dati da una suite di rapporti in Adobe Experience Platform per l’analisi, mentre l’SDK per web invia i dati direttamente in Adobe Experience Platform.

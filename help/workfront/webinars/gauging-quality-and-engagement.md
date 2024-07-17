@@ -9,7 +9,7 @@ duration: 3980
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1210'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Scopri come creare rapporti che rispondono a domande su qualità e coinvolgiment
 
 ## Domande e risposte
 
-**domande**
+**Domanda**
 
 Alcuni campi sono disponibili per il filtro ma non lo sono quando si tenta di raggrupparli in base a essi. Stai lavorando per renderle opzioni coerenti?
 
@@ -31,7 +31,7 @@ Gli strumenti di reporting non consentono di raggruppare in base a un campo dina
 
 Puoi filtrare per caselle di controllo e visualizzarle, ma non puoi semplicemente raggrupparle.
 
-**domande**
+**Domanda**
 
 Nell’esempio di iterazione su mansioni, posso mostrare quella principale in grassetto?
 
@@ -59,7 +59,7 @@ QA Engineer
 
 Dove Designer è il ruolo principale per questo utente.
 
-**domande**
+**Domanda**
 
 Salve! Sto creando un flusso di lavoro per il nostro team editoriale che tiene traccia di dove si trova un articolo nel suo ciclo di vita (stesura iniziale —> recensioni reparto/i —> modifiche finali —> pubblicazione). Vogliono vedere facilmente a quale Milestone o Attività si trova attualmente. Il feedback che ricevo è che la vista Milestone standard (con l&#39;ombreggiatura rossa o verde) è troppo &quot;occupata e complessa&quot;. Esiste un modo per mostrare semplicemente &quot;Nome progetto&quot; e &quot;Cardine corrente&quot; in una tabella o griglia?
 
@@ -67,7 +67,7 @@ Salve! Sto creando un flusso di lavoro per il nostro team editoriale che tiene t
 
 Sì.  È possibile creare un report di attività che mostrerà le attività cardine su cui si sta lavorando e l&#39;attività a cui è associato. Puoi farlo in una tabella o in un rapporto elenco.
 
-**domande**
+**Domanda**
 
 È possibile combinare le informazioni della bozza con quelle del progetto in un rapporto?
 
@@ -82,7 +82,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-**domande**
+**Domanda**
 
 Vorrei anche maggiori informazioni sul reporting dei dati della bozza in relazione al progetto. Ad esempio, un rapporto di progetto che include la decisione relativa alla bozza e i commenti.
 
@@ -90,7 +90,7 @@ Vorrei anche maggiori informazioni sul reporting dei dati della bozza in relazio
 
 Per fare riferimento alle informazioni sul progetto e sulla bozza in un unico rapporto, è necessario creare un rapporto Proof Approval (Approvazione della bozza). Attualmente, i commenti di una bozza non possono essere inseriti in questo report. Tuttavia, ogni decisione dell&#39;approvatore della bozza si trova sulla propria riga, nella colonna Decisione approvatore.
 
-**domande**
+**Domanda**
 
 Utilizzo spesso sharecol per creare lo stato di una singola pagina (molte colonne). Tuttavia, se dopo aver creato un rapporto voglio aggiungere una colonna nella parte superiore della pagina, tornare indietro e modificare richiede molto tempo. Hai suggerimenti o trucchi per effettuare questo tipo di modifica?
 
@@ -102,7 +102,7 @@ Tuttavia, se il rapporto è già stato creato e la prima colonna è costituita d
 
 Nell’editor dei rapporti aggiungi solo un paio di nuove colonne e trascinale all’estrema sinistra della schermata Colonne (Visualizzazione). dopo aver eseguito questa operazione, osservare la colonna sinistra e i numeri di colonna in modalità testo sono stati tutti incrementati. Trascinare il numero di colonne vuote desiderato. Assicurati di inserire qualcosa in quelle colonne vuote prima di salvarla, altrimenti verranno rimosse.
 
-**domande**
+**Domanda**
 
 Ciao, per quanto riguarda il report finale sui bug, come si possono eseguire i report per più progetti, se sono in arrivo bug per più progetti??
 
@@ -112,7 +112,7 @@ Puoi filtrare per portfolio o progetto, a seconda di come hai organizzato il tuo
 
 Puoi anche filtrare in base alle code di richieste. È possibile impostare code di richieste per ogni progetto in cui è possibile creare utenti cliente come revisori che possono accedere e inviare i ticket direttamente alle code di richieste condivise con loro.
 
-**domande**
+**Domanda**
 
 I primi rapporti erano basati sul nome dei progetti/progetti, questo può essere fatto anche sulle attività e, in caso affermativo, qual è il modo migliore per raggrupparle, dato che il nome dell’attività potrebbe essere diverso più spesso di quanto non lo sia...grazie!
 
@@ -122,7 +122,7 @@ Tutte queste relazioni possono essere eseguite come relazioni su attività, prob
 
 Un modo comune per raggruppare le attività consiste nel raggrupparle prima in base al nome del progetto e quindi in base al nome dell&#39;attività all&#39;interno di ciascun progetto. In questo modo, se si dispone di due attività con lo stesso nome, è facile vedere in quale progetto si trovano.
 
-**domande**
+**Domanda**
 
 Voglio sapere quali prove sono in sospeso, a quale attività e progetto sono legati, quando è stato instradato, quando è dovuto, e chi è il moderatore e l&#39;approvatore.
 
@@ -148,7 +148,7 @@ valueformat=HTML
 
 Per quanto riguarda la data di instradamento, la data di scadenza e il moderatore, questi campi al momento non possono essere richiamati in nessuno dei rapporti di Workfront, pertanto dovrai fare clic direttamente nella bozza per visualizzare tali informazioni.
 
-**domande**
+**Domanda**
 
 È possibile impostare un modulo personalizzato da inviare automaticamente a un richiedente una volta completata la richiesta? Come un sondaggio sulla &quot;soddisfazione del cliente&quot;?
 
@@ -160,7 +160,7 @@ Puoi creare la notifica del promemoria, come abbiamo fatto nel webinar, per &quo
 
 Un’integrazione sarebbe migliore in quanto potrebbe automatizzare i passaggi manuali, ma la notifica di promemoria può essere eseguita immediatamente.
 
-**domande**
+**Domanda**
 
 Ho creato un report che mostra i progetti per tipo di modello. Posso elencare il proprietario del progetto, ma non le persone assegnate a un progetto.
 

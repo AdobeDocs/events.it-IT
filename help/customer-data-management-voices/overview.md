@@ -29,7 +29,7 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Semplificazione del primo miglio di gestione dei dati" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Semplificazione del primo miglio di gestione dei dati</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Semplificazione del primo miglio di gestione dati</strong></a>
          <br/>
       </div>
    </td>
@@ -47,7 +47,7 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Persone e processo" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>Best practice per CDP: persone e processi</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>Best practice CDP - Persone e processo</strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Creare esperienze migliori con i profili dei clienti" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Creare esperienze migliori con i profili dei clienti</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Creazione di esperienze migliori con i profili cliente</strong></a>
       </div>
       <p>
         <br/>
@@ -77,7 +77,7 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Come i team di marketing migliorano le strategie di gestione dei dati" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Come i team di marketing migliorano le strategie di gestione dei dati</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Miglioramento delle strategie di gestione dei dati da parte dei team di marketing</strong></a>
       </div>
       <p>
       </p>
@@ -116,7 +116,7 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Migliorare il ruolo dell’addetto marketing come amministratore dei dati" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Migliorare il ruolo dell’addetto marketing come amministratore dei dati</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Miglioramento del ruolo dell'addetto al marketing come amministratore dei dati</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ Benvenuti in Customer Data Management Voices come leader e specialista tecnico e
       <img alt="Crea esperienze straordinarie con i dati di prime parti" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Crea esperienze straordinarie con i dati di prime parti</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Crea esperienze eccezionali con i tuoi dati di prime parti</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Collaborazione dei dati nel contesto dei dati di prime parti" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Data Collaboration nel contesto dei dati di prime parti" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaborazione dei dati nel contesto dei dati di prime parti</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Data Collaboration nel contesto dati di prime parti</strong></a>
       </div>
       <p>
       </p>

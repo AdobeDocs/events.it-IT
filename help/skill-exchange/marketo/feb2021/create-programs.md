@@ -1,5 +1,5 @@
 ---
-title: Creazione di programmi in Adobe [!DNL Marketo Engage]
+title: Creazione Di Programmi In Adobe [!DNL Marketo Engage]
 description: 'Questa sessione ti fornirà tutte le informazioni sulla struttura del programma, tra cui: tipi di programmi, canali e stati e tag.'
 solution: Marketo Engage
 role: User
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Creazione di programmi in Adobe [!DNL Marketo Engage]
+# Creazione Di Programmi Nell&#39;Adobe [!DNL Marketo Engage]
 
 Questa sessione ti fornirà tutte le informazioni sulla struttura del programma, tra cui: tipi di programmi, canali e stati e tag. Scoprirai anche il concetto di programma Foundation e What Makes Up a Program.
 
-Uscirai da questa sessione con una descrizione di come impostare il tuo [!DNL Marketo Engage] per soddisfare le esigenze aziendali nel modo più efficiente e come creare programmi per eseguire e-mail e webinar.
+Lasciando questa sessione imparerai a configurare l&#39;istanza di [!DNL Marketo Engage] per soddisfare le esigenze aziendali nel modo più efficiente e a creare programmi per l&#39;esecuzione di e-mail e webinar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340308/?quality=12&learn=on)

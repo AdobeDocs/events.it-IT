@@ -1,6 +1,6 @@
 ---
 title: 'Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto'
-description: La sessione è personalizzata per gli amministratori di Marketo e i professionisti delle operazioni delle campagne e si concentra sulla comprensione e l’implementazione di campagne eseguibili per aggiungere valore a campagne e programmi, creare efficienze e favorire la crescita.
+description: La sessione è personalizzata per gli amministratori di Marketo e i professionisti di operazioni delle campagne e si concentra sulla comprensione e l’implementazione di campagne eseguibili per aggiungere valore a queste e ai programmi, migliorare l’efficienza e stimolare la crescita.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,7 +12,7 @@ exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Moderato da** Chris Willis
-**Altoparlanti** Courtny Edwards-Jones e Jane Musatova
+**Oratori** Courtny Edwards-Jones e Jane Musatova
 
 ## Panoramica
 
