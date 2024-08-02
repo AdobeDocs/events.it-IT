@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Esperienze digitali" src="./assets/ADX_Gems.png"/>
 
-## Prossimo webinar AEM GEMs: integrazione degli archivi GitHub privati in AEM Cloud Manager
+## Prossimo webinar AEM GEMs - Integrazione di AEM Assets con i Edge Delivery Services
 
-Questo webinar sarà condotto mercoledì 31 luglio - 17:00 CEST / 8:00 PDT / 20:30 IST. Per questo webinar è richiesta solo la registrazione - registrati [qui](https://adobe.ly/3LmXfGk).
+Questo webinar sarà condotto mercoledì 21 agosto - 17:00 CEST / 8:00 PDT / 20:30 IST. Per questo webinar è richiesta solo la registrazione - registrati [qui](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ Questo webinar sarà condotto mercoledì 31 luglio - 17:00 CEST / 8:00 PDT / 20:
 
 -->
 
-## Precedente evento AEM GEM
+## Precedente webinar AEM GEMs
 
-L&#39;ultimo webinar AEM GEMs su **Migliorare l&#39;esperienza degli sviluppatori per AEM Assets con le nuove API ed eventi** è stato condotto il *19 giugno 2024*.
+L&#39;ultimo webinar AEM GEMs su **Integrazione di archivi GitHub privati in AEM Cloud Manager** è stato condotto il *31 luglio 2024*.
 La **registrazione** è disponibile qui:
-[Miglioramento dell&#39;esperienza di sviluppo per AEM Assets con le nuove API ed eventi](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[Integrazione di archivi GitHub privati nei Cloud Manager AEM](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

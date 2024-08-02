@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # Data del webinar: 31 luglio 2024
 
-Questo webinar sarà condotto mercoledì 31 luglio - 17:00 CEST / 8:00 PDT / 20:30 IST. Per questo webinar è richiesta solo la registrazione - registrati [qui](https://adobe.ly/3LmXfGk).
+Questo webinar è stato completato - consulta la registrazione qui sotto.
 
 ## Integrazione di archivi GitHub privati in AEM Cloud Manager
 
@@ -36,10 +37,12 @@ Durante questo webinar AEM GEMs, mostreremo come ottenere il massimo dall’aggi
 
 ## Registrazione webinar
 
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Interazione della community del webinar
+
 >[!NOTE]
-> 
->* Questo webinar è gratuito, è necessaria solo la registrazione. Registra [qui](https://adobe.ly/3LmXfGk).
 >
->* Per le interazioni della community con webinar o argomenti specifici su questo webinar sull&#39;Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4f1jhMo).
+>* Per le interazioni della community con webinar o argomenti specifici su questo webinar sull&#39;Experience League, visita il rispettivo [Thread contestuale](tbd).
 >
 >* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
