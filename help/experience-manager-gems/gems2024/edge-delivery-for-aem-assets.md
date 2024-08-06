@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Questo webinar sarà condotto il 21 agosto 2024 - 17:00 CEST / 08:00 PDT / 20:30 IST.
 Il webinar è gratuito, è richiesta solo la registrazione.
-Per partecipare, registra [qui](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
+Per partecipare, registra [qui](https://adobe.ly/3LTT3hg).
 
 ## Integrazione di AEM Assets con Edge Delivery Services
 
@@ -34,5 +34,7 @@ Durante questo webinar AEM GEMs, ti mostreremo come utilizzare AEM Assets nel tu
 ## Interazione della community del webinar
 
 >[!NOTE]
+>
+>* Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4aCz0OE).
 >
 >* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
