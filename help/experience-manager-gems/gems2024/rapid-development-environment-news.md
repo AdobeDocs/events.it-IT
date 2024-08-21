@@ -1,5 +1,5 @@
 ---
-title: Quali sono le novità negli ambienti di sviluppo rapido?
+title: Quali sono le novità in Rapid Development Environments per AEM?
 description: Gli RDE consentono agli sviluppatori di implementare e rivedere rapidamente le modifiche, riducendo al minimo il tempo necessario per testare le funzioni che hanno dimostrato di funzionare in un ambiente di sviluppo locale. In questa sessione verrà illustrato come utilizzare gli RDE per ridurre i tempi di risposta durante lo sviluppo e ottenere un feedback immediato sulle modifiche apportate al codice. Inoltre, ti presenteremo le funzioni più recenti, come la registrazione migliorata e il supporto front-end. Unisciti a noi per saperne di più su ciò che puoi fare con gli RDE e farci sapere cosa vorresti vedere aggiunto dopo!
 solution: Experience Manager
 version: Cloud Service
@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
+source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Questo webinar sarà condotto il 4 settembre 2024 - 17:00 CEST / 08:00 PDT / 20:
 Il webinar è gratuito, è richiesta solo la registrazione.
 Per partecipare, registra [qui](https://adobe.ly/4cwc5W4).
 
-## Quali sono le novità negli ambienti di sviluppo rapido?
+## Quali sono le novità in Rapid Development Environments per AEM?
 
 Gli RDE consentono agli sviluppatori di implementare e rivedere rapidamente le modifiche, riducendo al minimo il tempo necessario per testare le funzioni che hanno dimostrato di funzionare in un ambiente di sviluppo locale. In questa sessione verrà illustrato come utilizzare gli RDE per ridurre i tempi di risposta durante lo sviluppo e ottenere un feedback immediato sulle modifiche apportate al codice. Inoltre, ti presenteremo le funzioni più recenti, come la registrazione migliorata e il supporto front-end. Unisciti a noi per saperne di più su ciò che puoi fare con gli RDE e farci sapere cosa vorresti vedere aggiunto dopo!
 
