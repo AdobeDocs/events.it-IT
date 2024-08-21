@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 1%
    + [Mappatura dei casi d’uso alle funzionalità della soluzione](2024/use-case-mapping.md)
    + [Nozioni di base sulla migrazione all’SDK per web](2024/web-sdk-migration.md)
    + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
-   + [Commerce &amp; Coffee: strategie per l&#39;e-commerce B2B](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure &amp; Mochas: attività e modelli personalizzati](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Creazione delle basi per Personalization su larga scala](2023/personalization-at-scale.md)
