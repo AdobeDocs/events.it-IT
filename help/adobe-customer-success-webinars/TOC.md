@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
@@ -14,17 +14,20 @@ ht-degree: 1%
 
 + [Adobe di webinar per il successo del cliente](overview.md)
 + 2024 {#2024}
+   + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
+   + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
    + [Adobe Workfront - Team esperti](2024/workfront-lean-teams.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
    + [Gestione modifiche effettiva](2024/effective-change-management.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
    + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront](2024/workfront-admin-guardianship.md)
    + [Iperpersonalizzazione](2024/hyperpersonalization.md)
+   + [Funzionalità mobili di Journey Optimizer](2024/journey-optimizer-mobile-capabilities.md)
    + [Leadership strategica](2024/strategic-leadership.md)
    + [Mappatura dei casi d’uso alle funzionalità della soluzione](2024/use-case-mapping.md)
    + [Nozioni di base sulla migrazione all’SDK per web](2024/web-sdk-migration.md)
-   + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
-   + [Marketo Measure &amp; Mochas: attività e modelli personalizzati](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
+
 + 2023 {#2023}
    + [Creazione delle basi per Personalization su larga scala](2023/personalization-at-scale.md)
    + [Gestione delle modifiche](2023/change-management.md)
