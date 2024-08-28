@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -16,12 +16,15 @@ ht-degree: 1%
 + 2024 {#2024}
    + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
    + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
+   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Team esperti](2024/workfront-lean-teams.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
    + [Gestione modifiche effettiva](2024/effective-change-management.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
    + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront](2024/workfront-admin-guardianship.md)
+   + [Squadre e Customer Journey Analytics snelli](2024/lean-teams-cja.md)
+   + [Personalization di destinazione](2024/target-personalization.md)
    + [Iperpersonalizzazione](2024/hyperpersonalization.md)
    + [Funzionalità mobili di Journey Optimizer](2024/journey-optimizer-mobile-capabilities.md)
    + [Leadership strategica](2024/strategic-leadership.md)
