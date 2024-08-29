@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
+source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 9%
+source-wordcount: '526'
+ht-degree: 7%
 
 ---
 
@@ -122,6 +122,14 @@ ht-degree: 9%
       + [Generazione di rapporti in  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Suggerimenti e trucchi per il tuo Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto 2024 {#aug2024}
+      + [Apertura di una nota chiave](workfront/aug2024/keynote.md)
+      + [Personalizzazione del Bilanciatore dei carichi di lavoro](workfront/aug2024/workload-balancer.md)
+      + [Migliora la tua esperienza di approvazione](workfront/aug2024/approval-experience.md)
+      + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
+      + [Miglioramenti dei processi ed efficienza operativa](workfront/aug2024/spotlight-process-operations.md)
+      + [Percorsi di fidelizzazione e coinvolgimento](workfront/aug2024/retention-engagement-journey.md)
+      + [Trasformazione dei flussi di processo in Workfront](workfront/aug2024/spotlight-process-flows.md)
    + Agosto 2023 {#aug2023}
       + [Introduzione alle schede madri](workfront/aug2023/introduction-to-boards.md)
       + [Riflettori puntati su Experience Maker](workfront/aug2023/spotlight.md)
