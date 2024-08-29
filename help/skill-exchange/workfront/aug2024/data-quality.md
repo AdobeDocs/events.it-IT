@@ -1,6 +1,6 @@
 ---
 title: 'Dal caos alla chiarezza: qualità dei dati migliorata'
-description: 'In questa sessione, scoprirai suggerimenti pratici e strategie per: sviluppare ed eseguire un piano per la pulizia dei dati Esempio di rapporti che puoi utilizzare per individuare i problemi di qualità dei dati Autorizzazione degli utenti di tutti gli utenti a riordinare e mantenere i dati Bonus! Preparare i dati per le funzionalità crescenti dei dashboard di Canvas"'
+description: In questa sessione, scoprirai suggerimenti pratici e strategie per lo sviluppo e l’esecuzione di un piano per la pulizia dei dati. Ad esempio puoi utilizzare dei rapporti per individuare i problemi relativi alla qualità dei dati. Consenti agli utenti di tutti gli utenti di riordinare e gestire i dati. Preparare i dati per le funzionalità crescenti dei dashboard di Canvas"
 solution: Workfront
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
