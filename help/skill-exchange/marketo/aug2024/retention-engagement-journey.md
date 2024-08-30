@@ -1,6 +1,6 @@
 ---
 title: Sfruttare gli approfondimenti dei dati sul coinvolgimento dei clienti per potenti Percorsi di fidelizzazione e coinvolgimento
-description: Analizza i dati e i rapporti dei clienti e applica le informazioni per segmentare efficacemente il pubblico nel Marketo Engage. Utilizza diversi tipi di programmi e tecniche di automazione per segmentare il pubblico e trasferirlo facilmente nelle fasi di coinvolgimento, vendita dei prodotti e rinnovo. Creare contenuti iper-personalizzati con token a livello di persona o di programma e script Velocity"
+description: Analizza i dati e i rapporti dei clienti e applica le informazioni per segmentare efficacemente il pubblico nel Marketo Engage. Utilizza diversi tipi di programmi e tecniche di automazione per segmentare il pubblico e trasferirlo facilmente nelle fasi di coinvolgimento, vendita dei prodotti e rinnovo. Creare contenuti iper-personalizzati con token a livello di persona o di programma e script Velocity
 solution: Marketo
 role: User
 level: Intermediate, Experienced
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 2091
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16003
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
