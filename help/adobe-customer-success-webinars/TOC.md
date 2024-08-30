@@ -2,10 +2,10 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +14,24 @@ ht-degree: 1%
 
 + [Adobe di webinar per il successo del cliente](overview.md)
 + 2024 {#2024}
-   + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
-   + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Team esperti](2024/workfront-lean-teams.md)
+   + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
+   + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
+   + [Copywriting basata sull’intelligenza artificiale](2024/ai-copywriting.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
    + [Gestione modifiche effettiva](2024/effective-change-management.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
    + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront](2024/workfront-admin-guardianship.md)
    + [Guida introduttiva di Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
+   + [Guida introduttiva a Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Squadre e Customer Journey Analytics snelli](2024/lean-teams-cja.md)
    + [Cookie di masterizzazione e privacy dei dati](2024/mastering-cookies-data-privacy.md)
    + [Personalization di destinazione](2024/target-personalization.md)
    + [Iperpersonalizzazione](2024/hyperpersonalization.md)
    + [Funzionalità mobili di Journey Optimizer](2024/journey-optimizer-mobile-capabilities.md)
+   + [Integrazione di Real-time Customer Data Platform e Marketo](2024/aep-marketo-integration.md)
    + [Preparazione alla migrazione di Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Leadership strategica](2024/strategic-leadership.md)
    + [Mappatura dei casi d’uso alle funzionalità della soluzione](2024/use-case-mapping.md)
