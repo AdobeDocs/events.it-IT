@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '615'
 ht-degree: 6%
 
 ---
@@ -16,10 +16,13 @@ ht-degree: 6%
 + [Panoramica](overview.md)
 + Adobe Commerce {#commerce}
    + Ago 2024 {#aug2024}
+      + [Apertura di una nota chiave](workfront/aug2024/keynote.md)
       + [Miglioramento delle prestazioni di Adobe Commerce](commerce/aug2024/commerce-performance.md)
+      + [Estensibilità effettiva](commerce/aug2024/extensibility.md)
       + [Massimizzare l’ottimizzazione SEO (Search Engine Optimization) durante i flussi di lavoro di migrazione](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
    + Ago 2024 {#aug2024}
+      + [Apertura di una nota chiave](analytics/aug2024/keynote.md)
       + [Concetti di attribuzione di alto livello](analytics/aug2024/attribution-concepts.md)
       + [Scoprire Informazioni Utili](analytics/aug2024/uncover-valuable-insights.md)
       + [Utilizzo delle metriche calcolate](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 6%
       + [Tutti gli elementi insieme](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Agosto 2024 {#aug2024}
+      + [Apertura di una nota chiave](aem/aug2024/keynote.md)
       + [AEM Sites con editor universale](aem/aug2024/universal-editor.md)
+      + [Gestione risorse Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
+      + [Esperienze coerenti con la personalizzazione e la governance dell’AEM](aem/aug2024/customize-elements.md)
+      + [Personalizzare gli elementi](aem/aug2024/customize-elements.md)
       + [Approcci principali headless e editor SPA](aem/aug2024/headless-spa-editor.md)
       + [Strategie di gestione delle risorse digitali](aem/aug2024/spotlight-dam-strategies.md)
    + Agosto 2023 {#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 6%
          + [Aumentare il valore aziendale con la personalizzazione dei contenuti in AEM](aem/aug2022/personalization.md)
          + [Massimizzare l’implementazione dell’AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + Agosto 2024 {#aug2024}
+      + [Apertura di una nota chiave](marketo/aug2024/keynote.md)
+      + [Applicazioni avanzate dei programmi di coinvolgimento](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Percorsi di fidelizzazione e coinvolgimento](marketo/aug2024/retention-engagement-journey.md)
+      + [Logica elenco avanzato](marketo/aug2024/smart-list-logic.md)
    + Febbraio 2022 {#feb2022}
       + [Manutenzione dati](marketo/feb2022/data-maintenance.md)
       + [Contenuti dinamici e la potenza di Personalization](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 6%
       + [Workfront Fusion e le schede madri](workfront/aug2024/fusion-boards.md)
       + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
       + [Miglioramenti dei processi ed efficienza operativa](workfront/aug2024/spotlight-process-operations.md)
-      + [Percorsi di fidelizzazione e coinvolgimento](workfront/aug2024/retention-engagement-journey.md)
       + [Personalizzazione delle home page di Workfront](workfront/aug2024/tailoring-homepages.md)
       + [Trasformazione dei flussi di processo in Workfront](workfront/aug2024/spotlight-process-flows.md)
    + Agosto 2023 {#aug2023}
