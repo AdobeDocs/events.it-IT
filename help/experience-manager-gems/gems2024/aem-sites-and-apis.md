@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -24,8 +24,7 @@ Per partecipare, registra [qui](https://adobe.ly/4g6TYck).
 
 ## Sbloccare la potenza di AEM Sites: padroneggiare le API di gestione dei contenuti
 
-Le modalità di utilizzo di AEM Sites si stanno evolvendo rapidamente, aggiungendo modelli API-first alle interazioni utente tradizionali. Per semplificare le operazioni o migliorare l&#39;automazione, è fondamentale essere sempre all&#39;avanguardia rispetto a queste tendenze. Partecipa a una sessione approfondita per scoprire gli aggiornamenti all’avanguardia correlati disponibili in AEM Sites e scoprire come questi possono potenziare la tua strategia di gestione dei contenuti.
-In questa sessione scoprirai:
+Le modalità di utilizzo di AEM Sites si stanno evolvendo rapidamente, aggiungendo modelli API-first alle interazioni utente tradizionali. Per semplificare le operazioni o migliorare l&#39;automazione, è fondamentale essere sempre all&#39;avanguardia rispetto a queste tendenze. Partecipa a una sessione approfondita per scoprire gli aggiornamenti all’avanguardia correlati disponibili in AEM Sites e scoprire come questi possono potenziare la tua strategia di gestione dei contenuti. In questa sessione scoprirai:
 * Standard OpenAPI avanzati: scopri le implementazioni OpenAPI più recenti per operazioni CRUD senza soluzione di continuità sui contenuti strutturati AEM.
 * Eventi e webhook: scopri come le funzionalità di evento e webhook di Adobe I/O possono automatizzare i processi in base al contenuto e ai cambiamenti di stato nell’AEM.
 * Nuove API REST per l’automazione della traduzione: scopri le nuove API REST che semplificano e semplificano i flussi di lavoro per la traduzione dei contenuti in AEM.
