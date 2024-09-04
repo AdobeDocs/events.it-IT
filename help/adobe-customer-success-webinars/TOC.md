@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 0%
    + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
    + [Copywriting basata sull’intelligenza artificiale](2024/ai-copywriting.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
+   + [Edge Network e Personalization per dispositivi mobili](2024/edge-network-mobile-personalization.md)
    + [Gestione modifiche effettiva](2024/effective-change-management.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
    + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
