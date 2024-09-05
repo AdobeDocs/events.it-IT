@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Esperienze digitali" src="./assets/ADX_Gems.png"/>
 
-## Prossimo webinar AEM GEMs - Sblocking the Power of AEM Sites: Master the Content Management APIs
+## Prossimo webinar AEM GEMs - AEM Sites: Padroneggiare le API di gestione dei contenuti
 
 Questo webinar sarà condotto mercoledì 9 ottobre - 17:00 CEST / 08:00 PDT / 20:30 IST. Per questo webinar è necessaria solo la registrazione.
 Se ti interessa partecipare, registrati [**qui**](https://adobe.ly/4g6TYck).
