@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,8 @@ Se ti interessa partecipare, registrati [**qui**](https://adobe.ly/4g6TYck).
 ## Precedente webinar AEM GEMs
 
 Il nostro ultimo webinar AEM GEMs su **Novità negli ambienti di sviluppo rapido per AEM?** è stato condotto il *4 settembre 2024*.
-La **registrazione** sarà presto disponibile...
-
-<!--
-[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
--->
+La **registrazione** può essere visualizzata qui:
+[Novità negli ambienti di sviluppo rapido per AEM?](gems2024/rapid-development-environment-news.md)
 
 >[!NOTE]
 >
