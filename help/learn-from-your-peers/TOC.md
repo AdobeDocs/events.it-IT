@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Raccolta di registrazioni da  [!DNL Experience Makers Learn from your peers]"
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+source-git-commit: ac811378b605024bc49232b84932b029fe783c45
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '297'
 ht-degree: 4%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 4%
    + Maggio {#may2023}
       + [Masterizzazione di contenuti e frammenti di esperienza](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Settembre 2024 {#sept2024}
+      + [Programmi di coinvolgimento multi-stream](marketo/sept2024/multi-stream-engagement-programs.md)
    + Luglio 2024 {#july2024}
       + [La mappa dell’addetto al marketing: Strategizzazione, creazione e analisi delle campagne Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
    + Aprile 2024 {#april2024}
