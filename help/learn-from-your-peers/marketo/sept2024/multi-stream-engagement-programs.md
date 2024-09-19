@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Scopri come coinvolgere e sviluppare sistematicamente le relazioni con i clienti
 
 ## Riepilogo
 
-Questa sezione Scopri dalle sessioni dei tuoi colleghi su come impostare e gestire i programmi di coinvolgimento in Marketo. Sono stati trattati argomenti quali la pianificazione, la creazione e il reporting all’interno dei programmi di coinvolgimento. I punti chiave includevano la scelta tra i programmi di cultura del viaggio e di coinvolgimento, l’utilizzo di campagne intelligenti per le transizioni, la decisione tra e-mail e programmi predefiniti e la comprensione delle metriche di successo del programma. &#x200B; La discussione ha toccato anche argomenti come la transizione dei contenuti, la gestione di diverse lingue, l’utilizzo di contenuti dinamici e la configurazione di più flussi in base alle fasi del ciclo di vita o alle famiglie di prodotti. Il webinar ha sottolineato l’importanza di testare, rendere disponibile il programma e utilizzare i punteggi di coinvolgimento a scopo di reporting. &#x200B;
+Questa sessione Scopri dai tuoi colleghi ha discusso la configurazione e la gestione dei programmi di coinvolgimento in Marketo Engage. Sono stati trattati argomenti quali la pianificazione, la creazione e il reporting all’interno dei programmi di coinvolgimento. I punti chiave includevano la scelta tra programmi di crescita a goccia e di coinvolgimento, l’utilizzo di campagne intelligenti per le transizioni, la decisione tra e-mail e programmi predefiniti e la comprensione delle metriche di successo del programma. &#x200B; La discussione ha toccato anche argomenti come la transizione dei contenuti, la gestione di diverse lingue, l’utilizzo di contenuti dinamici e la configurazione di più flussi in base alle fasi del ciclo di vita o alle famiglie di prodotti. Il webinar ha sottolineato l’importanza di testare, rendere disponibile il programma e utilizzare i punteggi di coinvolgimento a scopo di reporting. &#x200B;
 
 ## Conclusioni principali
 
-* Scelta del tipo di programma giusto: comprendere la differenza tra i programmi di cultura del viaggio e di coinvolgimento è fondamentale. &#x200B; I programmi di coinvolgimento offrono maggiore flessibilità e complessità per coltivare i lead in modo efficace rispetto ai programmi di cultura del viaggio. &#x200B;
+* Scelta del tipo di programma giusto: comprendere la differenza tra programmi di nutrizione a goccia e programmi di coinvolgimento è fondamentale. &#x200B; I programmi di coinvolgimento offrono maggiore flessibilità e complessità per coltivare i lead in modo efficace rispetto ai programmi di sviluppo a goccia. &#x200B;
 
 * Strategie di transizione: l’utilizzo di campagne intelligenti per la transizione tra i flussi all’interno di un programma di coinvolgimento fornisce controllo e automazione. &#x200B; È essenziale capire quando e come effettuare la transizione dei lead in base a fattori quali le fasi del ciclo di vita o l’esaurimento dei contenuti, per uno sviluppo efficace dei lead.
 
