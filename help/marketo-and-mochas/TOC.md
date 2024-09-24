@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 6%
 + [Panoramica](overview.md)
 + 2024 {#2024}
    + [Parte 1 relativa alla maturità - Gettare le basi](2024/maturity-part1-foundation.md)
+   + [Maturità Parte 2 - Ottimizzazione dell’utilizzo del Marketo](2024/optimize-marketo-usage.md)
    + [Successo dell’allevamento di lead](2024/lead-nurture-success.md)
    + [Nuove dashboard di individuazione](2024/new-discover-dashboard.md)
    + [Registrazione di dashboard di attribuzione](2024/attribution-dashboard-recording.md)
