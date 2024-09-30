@@ -4,10 +4,10 @@ description: Veloce panoramica delle funzioni più recenti di Adobe Experience M
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: b6a23208f526ff5f32f7ac2b6cf4259cbfd4c39f
+source-git-commit: a4eae8c4a4176ced8b34be1e521f3beaac1ca8e4
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,27 @@ ht-degree: 4%
 Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a Cloud Service. Si tratta di brevi video di circa 10 minuti forniti dal team di prodotto dell’AEM che presentano gli aspetti salienti dell’ultima versione.
 
 ## Ultimo aggiornamento
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2024/2024-9-0.md">
+        <img alt="Versione 2024.9.0" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
+      </a>
+      <div>
+        <a href="2024/2024-9-0.md">
+          <strong>Versione | 2024.9.0</strong>
+        </a>
+      </div>
+      <em>Data di rilascio: settembre 2024 </em>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
+      </p>
+    </td>
+  </tr>  
+</table>
+
+## Aggiornamenti precedenti
 
 <table style="max-width: 50%;">
   <tr>
@@ -33,13 +54,6 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
       </p>
     </td>
-  </tr>  
-</table>
-
-## Aggiornamenti precedenti
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2024/2024-7-0.md">
         <img alt="Versione 2024.7.0" src="https://video.tv.adobe.com/v/3431707?format=jpeg" />
@@ -68,6 +82,8 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=it">Note sulla versione</a>
       </p>
      </td>
+  </tr>
+  <tr> 
      <td>
       <a href="2024/2024-5-0.md">
         <img alt="Versione 2024.5.0" src="2024/assets/2024-5-0-thumb.png" />
@@ -80,8 +96,6 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       </div>
       <em>Data di rilascio: maggio 2024 </em>
     </td>
-  </tr>
-  <tr> 
     <td>
       <a href="2024/2024-4-0.md">
         <img alt="Versione 2024.4.0" src="2024/assets/2024-4-0-thumb.png" />
@@ -106,6 +120,8 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
       </div>
       <em>Data di rilascio: aprile 2024 </em>
     </td>   
+  </tr>
+  <tr> 
     <td>
       <a href="2024/2024-1-0.md">
         <img alt="Versione 2024.1.0" src="2024/assets/2024-1-0-thumb.png" />
@@ -118,8 +134,6 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
           <em>Data di rilascio: gennaio 2024 </em>
       </div>
     </td>
-  </tr>
-  <tr>     
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="Versione 2023.11.0" src="2023/assets/2023-11-0-thumb.png" />
@@ -142,18 +156,6 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
           <br/>
         </a>
           <em>Data di rilascio: ottobre 2023 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-9-0.md">
-        <img alt="Versione 2023.9.0" src="2023/assets/2023-9-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-9-0.md">
-          <strong>Versione | 2023.9.0</strong>
-          <br/>
-        </a>
-          <em>Data di rilascio: settembre 2023 </em>
       </div>
     </td>
   </tr>
