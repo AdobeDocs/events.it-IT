@@ -2,9 +2,9 @@
 user-guide-title: Adobe di webinar per il successo del cliente
 breadcrumb-title: Adobe di webinar per il successo del cliente
 user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront](2024/workfront-admin-guardianship.md)
    + [Guida introduttiva di Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Guida introduttiva a Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Sfruttare l’intelligenza artificiale per l’esperienza del cliente](2024/ai-customer-experience.md)
    + [Squadre e Customer Journey Analytics snelli](2024/lean-teams-cja.md)
    + [Cookie di masterizzazione e privacy dei dati](2024/mastering-cookies-data-privacy.md)
    + [Personalization di destinazione](2024/target-personalization.md)
