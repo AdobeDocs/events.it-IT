@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 41: Armonizzare i tipi di pubblico utilizzando la Composizione federata dei tipi di pubblico in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40: Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente all’intelligenza artificiale nelle applicazioni e nelle campagne Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39: Sei pronto a livellare l’app di analisi per dispositivi mobili?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: Riflettori puntati su estate - Le funzionalità di Adobe Journey Optimizer da provare sono tre](episodes/exl-live-episode-08-28-24.md)
