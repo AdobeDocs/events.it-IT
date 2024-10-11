@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessioni AEM GEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Esperienze digitali" src="./assets/ADX_Gems.png"/>
 
-## Prossimo webinar AEM GEMs - AEM Sites: Padroneggiare le API di gestione dei contenuti
+## I prossimi webinar AEM GEMs saranno annunciati a breve
 
-Questo webinar sarà condotto mercoledì 9 ottobre - 17:00 CEST / 08:00 PDT / 20:30 IST. Per questo webinar è necessaria solo la registrazione.
-Se ti interessa partecipare, registrati [**qui**](https://adobe.ly/4g6TYck).
+Registrati al [Gruppo utenti AEM di Adobe](https://aem-augs.adobe.com/) per ricevere una notifica.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Se ti interessa partecipare, registrati [**qui**](https://adobe.ly/4g6TYck).
 
 ## Precedente webinar AEM GEMs
 
-Il nostro ultimo webinar AEM GEMs su **Novità negli ambienti di sviluppo rapido per AEM?** è stato condotto il *4 settembre 2024*.
+Il nostro ultimo webinar AEM GEMs su **Sblocco della potenza di AEM Sites - Master delle API di gestione dei contenuti** è stato condotto il *9 ottobre 2024*.
 La **registrazione** può essere visualizzata qui:
-[Novità negli ambienti di sviluppo rapido per AEM?](gems2024/rapid-development-environment-news.md)
+[Sblocco della potenza di AEM Sites: padroneggiare le API di gestione dei contenuti](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
