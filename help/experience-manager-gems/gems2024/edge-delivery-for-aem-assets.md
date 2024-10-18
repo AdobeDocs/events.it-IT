@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
+exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
+source-git-commit: 0255ad98fecb5393cd60ed8d0809925c334472fa
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Durante questo webinar AEM GEMs, ti mostreremo come utilizzare AEM Assets nel tu
 ## Registrazione webinar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433046/)
->
+
 >[!NOTE]
 >
 >* Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/3LSCVfX).
