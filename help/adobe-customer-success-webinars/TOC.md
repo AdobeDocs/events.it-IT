@@ -1,21 +1,24 @@
 ---
-user-guide-title: Adobe di webinar per il successo del cliente
-breadcrumb-title: Adobe di webinar per il successo del cliente
-user-guide-description: I webinar Adobe di successo del cliente sono stati progettati per consentirti di ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+user-guide-title: Webinar Adobe Customer Success
+breadcrumb-title: Webinar Adobe Customer Success
+user-guide-description: Webinar di successo su Adobe progettati per aiutarti a ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 
-# Adobe di webinar per il successo del cliente {#adobe-customer-success-webinar-recordings}
+# Webinar Adobe Customer Success {#adobe-customer-success-webinar-recordings}
 
-+ [Adobe di webinar per il successo del cliente](overview.md)
++ [Webinar Adobe Customer Success](overview.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Team esperti](2024/workfront-lean-teams.md)
+   + [Adobe Workfront Mastery](2024/workfront-mastery.md)
+   + [Concetti chiave per la creazione di contenuti AEM](2024/aem-authoring-concepts.md)
+   + [Efficienza di AEM Sites](2024/aem-sites-efficiencies.md)
    + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
    + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
    + [Copywriting basata sull’intelligenza artificiale](2024/ai-copywriting.md)
