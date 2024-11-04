@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 645f97a48747f22008ca12a6cb832dfb89bb67e2
+source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -27,12 +27,12 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team di
 <tr>
 
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE 24 ott" src="episodes/assets/30Oct24-webbanner.png">
+      <img alt="Experience League LIVE 24 ott" src="assets/WebBanner-Nov-6-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Scopri le schede dei contenuti, un nuovo versatile canale di messaggistica per Adobe Journey Optimizer progettato per migliorare il coinvolgimento degli utenti e stimolare le conversazioni tra applicazioni mobili e web. </strong></a>
+      <a href="episodes/exl-live-episode-10-30-24.md"><strong>Scopri le schede dei contenuti, un nuovo versatile canale di messaggistica per Adobe Journey Optimizer progettato per migliorare il coinvolgimento degli utenti e stimolare le conversazioni tra applicazioni mobili e web. </strong></a>
       <br/><em>con Don Huyhn e Pravin Kumar</em>
-      <br/><em>30 ottobre 2024 alle 8:30 PT</em>
+      <br/><em>6 novembre 2024 alle 08:30 PT</em>
       <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">Registrati per questo evento</a>
     </div>
   </td>
