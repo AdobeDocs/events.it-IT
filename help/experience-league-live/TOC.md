@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 43: Introduzione di AI Assistant per i tipi di pubblico per gli addetti al marketing in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Svelare le schede di contenuto per Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Armonizzare i tipi di pubblico utilizzando la Composizione federata dei tipi di pubblico in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40: Bash sull’intelligenza artificiale - Sbloccare la potenza dell’Assistente all’intelligenza artificiale nelle applicazioni e nelle campagne Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
@@ -62,5 +63,5 @@ ht-degree: 4%
    + [Ep. 4: Chi l’ha cliccato? E poi cosa hanno fatto?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Suggerimenti degli esperti per dare risalto alle campagne per le vacanze](episodes/exl-live-episode-03.md)
    + [Ep. 2: Rendi il tuo prossimo segmento di pubblico più smart che mai](episodes/exl-live-episode-02.md)
-   + [Ep. 1: I miei tre Adobi preferiti [!DNL Analytics] Suggerimenti per l&#39;implementazione](episodes/exl-live-episode-01.md)
+   + [Ep. 1: I miei tre Adobe preferiti [!DNL Analytics] Suggerimenti per l&#39;implementazione](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
