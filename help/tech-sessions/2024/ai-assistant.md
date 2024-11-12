@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Incrementa la tua produttività con l’Assistente all’intelligenza artificiale in Adobe Experience Platform
 
@@ -28,10 +28,10 @@ Un webinar approfondito, dove imparerai a impostare, iniziare e esplorare casi d
 
 ## Agenda webinar
 
-Panoramica dell’assistente di IA e AI.
-Esempio di prompt e una demo di Rachel.
-Discussione sull&#39;attendibilità e sull&#39;utilizzo dei dati.
-Accesso all’assistente AI.
+* Panoramica dell’assistente di IA e AI.
+* Esempi di prompt e una demo.
+* Discussione sull&#39;attendibilità e sull&#39;utilizzo dei dati.
+* Accesso all’assistente AI.
 
 ## Punti chiave
 
