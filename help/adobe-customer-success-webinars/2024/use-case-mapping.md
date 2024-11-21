@@ -1,6 +1,6 @@
 ---
 title: 'Real-Time CDP: mappatura dei casi d’uso sulle funzionalità della soluzione'
-description: 'Questo webinar esplora i modi principali per esplorare e assegnare priorità ai casi d’uso, mapparli su funzioni RTCDP specifiche e garantire l’allineamento ai risultati e al valore aziendali. Punti principali di discussione: casi d’uso risolti da RT-CDP per i casi d’uso con priorità e assegnazione di priorità a quelli specifici ai risultati aziendali​Allineamento delle funzionalità RT-CDP ai casi d’uso con priorità'
+description: Questo webinar esplora i modi principali per esplorare e assegnare priorità ai casi d’uso, mapparli su funzioni specifiche di Real-time CDP e garantire l’allineamento ai risultati e al valore aziendali.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Questo webinar esplora i modi principali per esplorare e assegnare priorità ai 
 
 * Effetti su casi d’uso come il retargeting e la personalizzazione di contenuti multimediali a pagamento
 
-**Confronto di Real-Time CDP con l&#39;Audience Manager DMP**
+**Confronto di Real-time CDP con l&#39;Audience Manager di DMP**
 
 * Concentrati sull’acquisizione dei dati, la gestione dell’audience e le strutture di output dei dati
 

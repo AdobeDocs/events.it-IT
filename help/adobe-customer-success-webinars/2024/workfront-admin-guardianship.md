@@ -1,6 +1,6 @@
 ---
 title: Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront
-description: Scopri come determinare in modo adeguato il rapporto tra amministratori di sistema e amministratori di gruppi nell’istanza Workfront e perché lasciare un paio di chiavi in mano non deve necessariamente essere rischioso o spaventoso come si potrebbe inizialmente percepire. Questa registrazione offrirà una panoramica delle best practice relative al personale amministrativo, alla distribuzione del carico di lavoro amministrativo, al mantenimento dell’integrità e della scalabilità dei dati nelle istanze aziendali, condividendo al contempo parte del lavoro.
+description: Scopri le best practice per determinare il giusto equilibrio tra amministratori di sistemi e gruppi Workfront, distribuire i carichi di lavoro e mantenere l’integrità dei dati per scalare l’azienda in modo efficiente e sicuro.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront
 

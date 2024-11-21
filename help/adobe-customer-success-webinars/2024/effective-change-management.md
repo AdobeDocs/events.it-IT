@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Change: webinar sulla leadership senior per una gestione efficace delle modifiche'
-description: 'Approfondisci le sfumature della gestione dei cambiamenti e fornisci informazioni strategiche per aiutarti a guidare la tua organizzazione attraverso percorsi di trasformazione.Punti di discussione chiave: scopri come allineare gli sforzi di cambiamento con gli obiettivi e gli obiettivi organizzativi generali Padroneggia l’arte di comunicare il cambiamento a vari soggetti interessati Implementa strategie e pianificazione di abilitazione efficienti Scopri strategie proattive per mitigare i rischi e garantire transizioni fluide'
+description: Approfondisci le sfaccettature della gestione dei cambiamenti e fornisci informazioni strategiche che ti consentano di gestire la tua organizzazione attraverso percorsi di trasformazione.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

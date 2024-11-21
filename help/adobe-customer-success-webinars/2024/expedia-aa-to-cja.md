@@ -1,6 +1,6 @@
 ---
 title: Expedia e i principali marchi evolvono la loro organizzazione da Adobe Analytics a Customer Journey Analytics
-description: esplora la prossima evoluzione di Analytics, con Jake Winter, principale lead di Adswerve, Erika Ulmer, Senior Manager, Data Product Management di Expedia, Ben Gaines, Director of Product Management di Adobe e Trevor Paulsen, Director of Product Management di Adobe che condividerà la loro esperienza diretta di up-level delle loro organizzazioni con Adobe Customer Journey Analytics. Verranno discusse le ultime tendenze e best practice in Analytics, nonché le sfide e le opportunità che derivano dall’utilizzo del Customer Journey Analytics. Che tu sia un professionista di analisi o un leader di business che cerca di migliorare le funzionalità di analisi della tua organizzazione, questo webinar non deve essere tralasciato.
+description: Unisciti ai leader di settore di Adswerve, Expedia e Adobe per condividere informazioni, tendenze e best practice per sfruttare Adobe Customer Journey Analytics al fine di trasformare l’analisi organizzativa in questo webinar obbligatorio.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Verranno discusse le ultime tendenze e best practice in Analytics, nonché le sf
 
 
 ## Conclusioni principali
-
 
 * Acquisisci una profonda comprensione dei dati, inclusi i dati di modellazione con gruppi di campi e l’identità e l’ambito dell’evento.
 * Oltre a comunicare lo scopo e i vantaggi del Customer Journey Analytics (CJA) alle parti interessate e a fornire formazione per consentire alle persone di prendere decisioni basate sui dati.

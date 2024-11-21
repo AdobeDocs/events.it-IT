@@ -1,6 +1,6 @@
 ---
 title: Dalla visione al valore - Pianificazione dei casi d’uso AEP
-description: Scopri come fornire ai clienti esperienze di impatto definendo una strategia con obiettivi chiari e fattori di successo che 1) si allineano ai risultati di business e ai KPI, 2) definiscono una roadmap per la realizzazione di valore raggiungibile e 3) sfruttano in modo efficace le funzionalità della soluzione Adobe.
+description: Scopri come fornire ai clienti esperienze di impatto definendo una strategia con obiettivi chiari e fattori di successo in linea con i risultati di business e i KPI, definendo una roadmap per raggiungere la realizzazione di valore e sfruttando in modo efficace le funzionalità della soluzione Adobe.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # Da visione a valore: pianificazione dei casi d&#39;uso AEP
 
@@ -24,7 +24,7 @@ Scopri come fornire ai clienti esperienze di impatto definendo una strategia con
 
 1. Allineamento ai risultati aziendali e ai KPI
 1. fornire informazioni su una roadmap per la realizzazione del valore
-1. sfruttare in modo efficace le funzionalità delle soluzioni Adobe.
+1. sfruttare in modo efficace le funzionalità della soluzione Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
 title: Nozioni di base sulla migrazione all’SDK per web
-description: 'Scopri le differenze tra App Measurement/AT.js e Web SDK, come migrare, considerazioni sulla tempistica della migrazione, opzioni per la migrazione e differenze di dati previste.Punti di discussione principali: cos’è Web SDK? Passaggi e considerazioni sulla migrazione Tempistica delle migrazioni Passaggi comuni e insidie da evitare'
+description: Scopri le differenze tra App Measurement/AT.js e Web SDK, come effettuare la migrazione, considerazioni sulla tempistica della migrazione, opzioni per la migrazione e differenze di dati previste.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
