@@ -1,6 +1,6 @@
 ---
 title: Marketo e Mochas - Best practice per la gestione dei programmi
-description: I programmi sono uno degli elementi più importanti di Marketo. Sia che si stiano configurando cartelle, lavorando su convenzioni di denominazione, cercando membri, verificando lo stato del programma o solo interessati a gestire le best practice.  Gli ultimi aggiornamenti ai modelli della Libreria dei programmi e alle risorse creative, insieme alla condivisione delle best practice per la gestione dei programmi e a una dimostrazione.
+description: Esplora gli elementi essenziali dei programmi Marketo, tra cui la configurazione delle cartelle, le convenzioni di denominazione, le ricerche dei membri e i controlli dello stato dei programmi, con gli ultimi aggiornamenti ai modelli della Libreria dei programmi, le risorse creative e le dimostrazioni delle best practice.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

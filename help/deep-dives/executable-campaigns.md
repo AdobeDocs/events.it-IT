@@ -1,6 +1,6 @@
 ---
 title: 'Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto'
-description: La sessione è personalizzata per gli amministratori di Marketo e i professionisti di operazioni delle campagne e si concentra sulla comprensione e l’implementazione di campagne eseguibili per aggiungere valore a queste e ai programmi, migliorare l’efficienza e stimolare la crescita.
+description: Unisciti a Chris Willis, Courtny Edwards-Jones e Jane Musatova in questo approfondimento su Adobe Champion per scoprire come le campagne eseguibili in Marketo possono semplificare i processi, garantire l’accuratezza dei dati e automatizzare flussi di lavoro complessi, con esempi pratici e una particolare attenzione alla riduzione di errori e arretrati.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 
 ## Panoramica
 
-In questa edizione di Adobe Champion Deep Dive, discutiamo l’utilizzo di campagne eseguibili in Marketo e forniamo esempi di come utilizzarle per semplificare i processi e garantire l’accuratezza dei dati. Le campagne eseguibili sono un tipo di campagna intelligente che esegue i flussi in modo sincrono, consentendo dipendenze tra passaggi diversi. Possono essere utilizzati per ritentare automaticamente i processi non riusciti, ad esempio la standardizzazione dei dati o la qualificazione dei lead, prima di passare al passaggio successivo. Il documento illustra inoltre l’utilizzo delle campagne principali e degli eseguibili nidificati, nonché le limitazioni delle campagne eseguibili, ad esempio l’impossibilità di utilizzare webhook o i passaggi di attesa.
+In questa edizione di Adobe Champion Deep Dive, parliamo dell’utilizzo di campagne eseguibili in Marketo e forniamo esempi di come utilizzarle per semplificare i processi e garantire l’accuratezza dei dati. Le campagne eseguibili sono un tipo di campagna intelligente che esegue i flussi in modo sincrono, consentendo dipendenze tra passaggi diversi. Possono essere utilizzati per ritentare automaticamente i processi non riusciti, ad esempio la standardizzazione dei dati o la qualificazione dei lead, prima di passare al passaggio successivo. Il documento illustra inoltre l’utilizzo delle campagne principali e degli eseguibili nidificati, nonché le limitazioni delle campagne eseguibili, ad esempio l’impossibilità di utilizzare webhook o i passaggi di attesa.
 
 ## A cosa serve l’utilizzo di campagne eseguibili?
 

@@ -1,6 +1,6 @@
 ---
 title: Preparazione della stagione di picco
-description: Corey Gelato approfondisce le best practice e strategie per la stagione di picco, impara a promuovere con successo e in modo efficace i tuoi beni e/o servizi sui siti e resta competitivo durante la stagione di picco in qualsiasi momento dell’anno. Dopo una dimostrazione di funzioni quali staging e anteprima dei contenuti, promozioni, regole di prezzo per cataloghi e carrelli e altro ancora, Corey risponde alle domande durante una sessione live di domande e risposte.
+description: Unisciti a Corey Gelato per esplorare le strategie per la stagione di picco, tra cui promozioni, staging di contenuti e regole di prezzo, con dimostrazioni in tempo reale e suggerimenti degli esperti per aiutare il tuo sito eCommerce a rimanere competitivo tutto l’anno.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

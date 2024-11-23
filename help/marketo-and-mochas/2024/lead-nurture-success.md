@@ -1,6 +1,6 @@
 ---
 title: 'Marketo e Mochas: come gettare le basi per il successo dell''apprendimento dei lead'
-description: Unisciti a Business Advisors, Cynthia Chang e Carly Gaver, mentre condividono approfondimenti sulla massimizzazione dello sviluppo di lead in Adobe Marketo Engage. Con lo sviluppo del lead, gli addetti al marketing possono comunicare in modo coerente tra i canali, colmando il divario tra l’interazione iniziale e l’acquisto. Esamineremo inoltre il tipo di programma di coinvolgimento, che consente la distribuzione di contenuti a tipi di pubblico denominati in base a una pianificazione definita. I programmi di Marketo Engage consentono agli addetti al marketing di creare campagne sempre attive, coinvolgendo lead e clienti tramite contenuti ed esperienze personalizzati. Carly guiderà inoltre una dimostrazione live, guidandoti nella creazione di un programma di coinvolgimento utilizzando il modello di best practice presente nella libreria dei programmi di Marketo. Come sempre, risponderemo alle tue domande in diretta durante le domande e risposte!
+description: Cynthia Chang e Carly Gaver, consulenti aziendali, spiegano come massimizzare lo sviluppo dei lead in Adobe Marketo Engage, come esplorare i programmi di coinvolgimento per la distribuzione dei contenuti e come impostare un programma di coinvolgimento utilizzando il modello di best practice, con domande e risposte live.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

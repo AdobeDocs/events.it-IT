@@ -3,10 +3,10 @@ title: Approfondimenti
 description: Deep Dives è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare al meglio Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: e9206a4e6fe5e866affdc298cf7f32fe7cb29752
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '1211'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 0%
 
 ---
 
@@ -16,19 +16,19 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance
-* https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks
-
+* activity-log.md
+* admin-console.md
+* api.md
+* campaign-operations.md
+* certification.md
+* email-nurture.md
+* executable-campaigns.md
+* global-marketing.md
+* inheriting-an-instance.md
+* lead-lifecycles.md
+* pmcf-fields.md
+* small-team-instance.md
+* webhooks.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -36,8 +36,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" title="Notifica di processi complessi nel registro attività">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1731454105672" alt="Notifica di processi complessi nel registro attività"
+                    <a href="activity-log.md" title="Notifica di processi complessi nel registro attività" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1732319262209" alt="Notifica di processi complessi nel registro attività"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,12 +45,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" title="Notifica di processi complessi nel registro attività">Notifica dei processi complessi nel registro attività</a>
+                        <a href="activity-log.md" target="_blank" rel="referrer" title="Notifica di processi complessi nel registro attività">Notifica dei processi complessi nel registro attività</a>
                     </p>
-                    <p class="is-size-6">Avete mai sentito che cercare un ago in un pagliaio è come cercare il motivo per cui il processo non è riuscito? Possiamo relazionarci! I professionisti del MOP impegnati vogliono modi efficienti per risolvere i problemi dei processi complessi e noi siamo qui per questo! Unisciti a noi in questa sessione di approfondimento per scoprire come i Marketo Champs hanno utilizzato il pensiero predefinito per creare una scia di breadcrumb per processi complessi a più gambe. Scopri dove iniziano, terminano, falliscono e dove riescono i processi per i record utilizzando le note del registro attività create. Ospitato da Beth Massura &amp; Jimmy Spencer, moderato da Corey Bayless.</p>
+                    <p class="is-size-6">Unisciti a Beth Massura, Jimmy Spencer e al moderatore Corey Bayless in questa sessione Deep Dive per scoprire tecniche innovative di risoluzione dei problemi per processi complessi a più gambe in Marketo, utilizzando le note del registro attività per tracciare dove i processi iniziano, terminano, falliscono e hanno successo.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/activity-log" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="activity-log.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -59,8 +59,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" title="Preparazione del Marketo Engage sull’identità di Adobe">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1731454105304" alt="Preparazione del Marketo Engage sull’identità di Adobe"
+                    <a href="admin-console.md" title="Preparazione del Marketo Engage sull’identità di Adobe" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1732319262217" alt="Preparazione del Marketo Engage sull’identità di Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,12 +68,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" title="Preparazione del Marketo Engage sull’identità di Adobe">Preparazione per il Marketo Engage su Adobe Identity</a>
+                        <a href="admin-console.md" target="_blank" rel="referrer" title="Preparazione del Marketo Engage sull’identità di Adobe">Preparazione per il Marketo Engage su Adobe Identity</a>
                     </p>
-                    <p class="is-size-6">Un corso di formazione esclusivo sulla prossima migrazione a Adobe Admin Console. Questo incontro sarà in un formato di stile "Training the Trainer" in modo da poter prendere ciò che si impara ed educare i capitoli su questo cambiamento imminente.</p>
+                    <p class="is-size-6">Partecipa a questa sessione di formazione per preparare la migrazione degli abbonamenti del Marketo Engage a Adobe Identity, con particolare attenzione alla migrazione degli utenti, alle azioni chiave e alle risorse essenziali per gli amministratori, con istruzioni su come navigare nella console di migrazione e comprendere le modifiche a ogni fase cardine.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/admin-console" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -82,8 +82,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" title="API">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1731454105282" alt="API"
+                    <a href="api.md" title="API" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1732319262206" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,22 +91,22 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" title="API">API</a>
+                        <a href="api.md" target="_blank" rel="referrer" title="API">API</a>
                     </p>
-                    <p class="is-size-6">Adobe scopri come sfruttare le API di Marketo, come formare connessioni di base, utilizzare estensioni per mountain motion ed effettuare le prime chiamate API. Scopri i webhook e le API, per capire quale strumento è più adatto per la tua soluzione. Scopri le best practice sulla sicurezza, inclusa la minimizzazione dei set di autorizzazioni. Integra con il cloud, sfrutta l’archiviazione, sfrutta la potenza dell’API in blocco per le attività di importazione/esportazione.</p>
+                    <p class="is-size-6">Adobe Unisciti a noi per sfruttare al massimo il potenziale dell’API di Marketo, dall’esecuzione delle prime chiamate API all’utilizzo di API in blocco per attività di importazione/esportazione, esplorando webhook e API e apprendendo best practice per la sicurezza dei dati e l’integrazione cloud, con infinite possibilità di rivoluzionare le tue strategie di marketing.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/api" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Investing in Yourself - Adobe Marketo Engage Certification">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Champion Deep Dive - Automating & Streamlining Campaign Operations Using the Marketo API">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" title="Investire in se stessi - Certificazione Adobe Marketo Engage">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?quality=12&format=jpeg&nocache=1731454105307" alt="Investire in se stessi - Certificazione Adobe Marketo Engage"
+                    <a href="campaign-operations.md" title="Adobe Marketo Engage Champion Deep Dive - Automazione e semplificazione delle operazioni delle campagne tramite l’API Marketo" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1732319262212" alt="Adobe Marketo Engage Champion Deep Dive - Automazione e semplificazione delle operazioni delle campagne tramite l’API Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,22 +114,22 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" title="Investire in se stessi - Certificazione Adobe Marketo Engage">Investire in se stessi - Certificazione Adobe Marketo Engage</a>
+                        <a href="campaign-operations.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Champion Deep Dive - Automazione e semplificazione delle operazioni delle campagne tramite l’API Marketo">Adobe Marketo Engage Champion Deep Dive - Automazione e semplificazione delle operazioni delle campagne tramite l'API Marketo</a>
                     </p>
-                    <p class="is-size-6">Ti sei interessato al processo di certificazione e a come può esserti utile nella carriera di Marketing? O forse ti interessa il processo per studiare, preparare e sostenere l'esame? Unisciti ai campioni Adobe Marketo Engage mentre discutono del loro percorso per diventare un esperto o un architetto certificato Marketo!</p>
+                    <p class="is-size-6">Scopri come semplificare le operazioni di marketing con l’API di Marketo in questo approfondimento, dove dimostreremo come automatizzare attività ripetitive come la creazione di newsletter e-mail, il tracciamento di programmi, l’unione di duplicati, l’aggiornamento dei costi dei programmi e la clonazione di programmi, consentendoti di concentrarsi su iniziative strategiche.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/certification" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="campaign-operations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Champion Deep Dive Email Nurture">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Investing in Yourself - Adobe [!DNL Marketo Engage] Certification">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" title="Adobe Marketo Engage Champion Deep Email Nurture">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1731454105297" alt="Adobe Marketo Engage Champion Deep Email Nurture"
+                    <a href="certification.md" title="Investire in se stessi - Certificazione Adobe [!DNL Marketo Engage]" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1732319262212" alt="Investire in se stessi - Certificazione Adobe [!DNL Marketo Engage]"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,12 +137,35 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" title="Adobe Marketo Engage Champion Deep Email Nurture">Adobe Marketo Engage Champion Deep Email Nurture</a>
+                        <a href="certification.md" target="_blank" rel="referrer" title="Investire in se stessi - Certificazione Adobe [!DNL Marketo Engage]">Investimento in se stessi - Adobe [!DNL Marketo Engage] certificazione</a>
                     </p>
-                    <p class="is-size-6">Lead Nurturing, Drip Marketing, contenuto e-mail strategico possono andare con molti nomi diversi. La cultura dell’e-mail è una strategia collaudata che ha innumerevoli utilizzi per un’organizzazione, ma può essere un mistero completo per molti esperti di marketing e venditori, pertanto questa potente strategia spesso non viene utilizzata. In questa sessione, imparerai i fattori chiave da considerare che ti aiuteranno a essere più sicuro di creare la tua strategia di nutrizione dei lead, a parlare attraverso alcuni esempi di colture di successo e ad imparare come applicare queste strategie in tutta la tua organizzazione per soddisfare i tuoi obiettivi unici.</p>
+                    <p class="is-size-6">Sei curioso di sapere come la certificazione può migliorare la tua carriera nel marketing? Unisciti ai campioni Adobe Marketo Engage per condividere le loro esperienze e suggerimenti su come studiare, preparare e sostenere l'esame per diventare un esperto o architetto certificato Marketo!</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-nurture" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="certification.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion Deep Email Nurture" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1732319262219" alt="Adobe [!DNL Marketo Engage] Champion Deep Email Nurture"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="email-nurture.md" target="_blank" rel="referrer" title="Adobe [!DNL Marketo Engage] Champion Deep Email Nurture">Adobe [!DNL Marketo Engage] Champion Deep Email Nurture</a>
+                    </p>
+                    <p class="is-size-6">Sfrutta il potenziale dello sviluppo di lead e del marketing drip in questa sessione, dove imparerai i fattori chiave per creare strategie efficaci, esplorerai esempi di successo e scoprirai come applicare queste tecniche in tutta l’organizzazione per raggiungere i tuoi obiettivi univoci.</p>
+                </div>
+                <a href="email-nurture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -151,8 +174,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/it/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" title="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1731454105305" alt="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto"
+                    <a href="executable-campaigns.md" title="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1732319262232" alt="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -160,12 +183,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/it/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" title="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto">Campagne eseguibili: scopri come gli eseguibili possono aumentare l'efficienza e l'impatto</a>
+                        <a href="executable-campaigns.md" target="_blank" rel="referrer" title="Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto">Campagne eseguibili: scopri come gli eseguibili possono aumentare l'efficienza e l'impatto</a>
                     </p>
-                    <p class="is-size-6">La sessione è personalizzata per gli amministratori di Marketo e i professionisti di operazioni delle campagne e si concentra sulla comprensione e l’implementazione di campagne eseguibili per aggiungere valore a queste e ai programmi, migliorare l’efficienza e stimolare la crescita.</p>
+                    <p class="is-size-6">Unisciti a Chris Willis, Courtny Edwards-Jones e Jane Musatova in questo approfondimento su Adobe Champion per scoprire come le campagne eseguibili in Marketo possono semplificare i processi, garantire l’accuratezza dei dati e automatizzare flussi di lavoro complessi, con esempi pratici e una particolare attenzione alla riduzione di errori e arretrati.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/it/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="executable-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -174,8 +197,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" title="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1731454105296" alt="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024"
+                    <a href="global-marketing.md" title="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1732319262224" alt="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,12 +206,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" title="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024">Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - Agosto 2024</a>
+                        <a href="global-marketing.md" target="_blank" rel="referrer" title="Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - agosto 2024">Sblocco del marketing globale con il Marketo Engage - Adobe Champion Deep Dive - Agosto 2024</a>
                     </p>
-                    <p class="is-size-6">La tua organizzazione è pronta a sfruttare il Marketo Engage per supportare più lingue, paesi, business unit e/o prodotti e desideri avviare questa trasformazione sulla strada giusta. Partecipa al Deep Dive di agosto per una guida completa sulle complessità di lancio, manutenzione e reporting delle iniziative di marketing globali. Scopriremo come strutturare i dati e le istanze utilizzando aree di lavoro e partizioni, come soddisfare i vari requisiti legali in tutto il mondo e come supportare le campagne con segmentazioni, snippet, contenuti dinamici e altro ancora.</p>
+                    <p class="is-size-6">Partecipa all’immersione approfondita di agosto per sbloccare il marketing globale con il Marketo Engage, che copre la strutturazione dei dati, la conformità legale, il supporto delle campagne con segmentazioni, snippet, contenuti dinamici e altro ancora, con informazioni approfondite sull’ottimizzazione di aree di lavoro e partizioni per più marchi e istanze.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/global-marketing" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="global-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -197,8 +220,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" title="Ereditarietà di un’istanza">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1731454105304" alt="Ereditarietà di un’istanza"
+                    <a href="inheriting-an-instance.md" title="Ereditarietà di un’istanza" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1732319262229" alt="Ereditarietà di un’istanza"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -206,12 +229,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" title="Ereditarietà di un’istanza">Ereditarietà di un'istanza</a>
+                        <a href="inheriting-an-instance.md" target="_blank" rel="referrer" title="Ereditarietà di un’istanza">Ereditarietà di un'istanza</a>
                     </p>
-                    <p class="is-size-6">Hai mai ottenuto le credenziali di accesso a Marketo nel tuo nuovo ruolo, hai avuto quella sensazione davvero calda e confusa durante l'accesso e poi...hai perso lo stomaco? Cosa sto guardando qui. nessuna convenzione di denominazione? NESSUN CICLO DI VITA? O forse hai effettuato l’accesso ed è la parte colorata del Mago di Oz, dove tutto è glamour e non vuoi far casino...beh, per fortuna abbiamo alcuni campioni di Marketo che hanno alcuni suggerimenti per te quando erediti un’istanza!</p>
+                    <p class="is-size-6">Ereditare un'istanza di Marketo può essere scoraggiante, che si tratti di un caos caotico o di una macchina ben oliata. Unisciti ai nostri campioni di Marketo perché condividono suggerimenti essenziali e best practice per aiutarti a navigare e ottimizzare la nuova istanza, garantendo una transizione fluida e una gestione efficace.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/inheriting-an-instance" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="inheriting-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -220,8 +243,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" title="Cicli di vita dei lead">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1731454105292" alt="Cicli di vita dei lead"
+                    <a href="lead-lifecycles.md" title="Cicli di vita dei lead" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1732319262227" alt="Cicli di vita dei lead"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,12 +252,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" title="Cicli di vita dei lead">Cicli di vita lead</a>
+                        <a href="lead-lifecycles.md" target="_blank" rel="referrer" title="Cicli di vita dei lead">Cicli di vita lead</a>
                     </p>
-                    <p class="is-size-6">Scopri in che modo un modello di ciclo di vita dei lead consente alle organizzazioni di coinvolgere e coltivare i lead in base alla loro capacità di acquisto. Marketo offre strumenti potenti, ma possono facilmente sorgere problemi durante l’ereditarietà, l’ottimizzazione o la progettazione di un nuovo modello. Partecipa a questo approfondimento per consigli sullo sviluppo strategico del ciclo di vita dei lead che evidenzia insidie comuni da evitare, direttamente da un campione!</p>
+                    <p class="is-size-6">Scopri come coinvolgere e coltivare in modo efficace i lead con un modello di ciclo di vita del lead strategico in questa sessione di approfondimento, con i consigli di un promotore Marketo per evitare problemi comuni durante l’ereditarietà, l’ottimizzazione o la progettazione di un nuovo modello.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/lead-lifecycles" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="lead-lifecycles.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -243,8 +266,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" title="Utilizzo dei campi PMCF per la scalabilità">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1731454105305" alt="Utilizzo dei campi PMCF per la scalabilità"
+                    <a href="pmcf-fields.md" title="Utilizzo dei campi PMCF per la scalabilità" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1732319262235" alt="Utilizzo dei campi PMCF per la scalabilità"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -252,22 +275,22 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" title="Utilizzo dei campi PMCF per la scalabilità">Utilizzo dei campi PMCF per la scalabilità</a>
+                        <a href="pmcf-fields.md" target="_blank" rel="referrer" title="Utilizzo dei campi PMCF per la scalabilità">Utilizzo dei campi PMCF per la scalabilità</a>
                     </p>
-                    <p class="is-size-6">Viene descritto l'utilizzo dei campi personalizzati dei membri del programma (PMCF) in Marketo per la scalabilità. La sessione tratta definizioni, finalità, regole e casi di utilizzo per i PMCF. Best practice per l’utilizzo di PMCF per modificare i dati, fare riferimento a informazioni e tenere traccia di dati evento univoci come i parametri UTM per i webinar. Nel complesso, i PMCF sono uno strumento utile per gli esperti di marketing che desiderano gestire e scalare programmi di marketing complessi in Marketo.</p>
+                    <p class="is-size-6">Scopri come sfruttare i campi personalizzati dei membri del programma (PMCF) in Marketo per la scalabilità, incluse le best practice per la gestione dei dati, la comunicazione personalizzata e la generazione di rapporti accurati, come descritto nel video di approfondimento sui campioni di Adobe Marketo Engage.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/pmcf-fields" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="pmcf-fields.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how a small team maximizes their Adobe Marketo Engage instance">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how a small team maximizes their Adobe [!DNL Marketo Engage] instance">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" title="Scopri in che modo un piccolo team massimizza la propria istanza Adobe Marketo Engage">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?quality=12&format=jpeg&nocache=1731454105292" alt="Scopri in che modo un piccolo team massimizza la propria istanza Adobe Marketo Engage"
+                    <a href="small-team-instance.md" title="Scopri in che modo un piccolo team massimizza la propria istanza di [!DNL Marketo Engage] Adobe" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1732319262237" alt="Scopri in che modo un piccolo team massimizza la propria istanza di [!DNL Marketo Engage] Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -275,12 +298,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" title="Scopri in che modo un piccolo team massimizza la propria istanza Adobe Marketo Engage">Scopri come un piccolo team massimizza la propria istanza Adobe Marketo Engage</a>
+                        <a href="small-team-instance.md" target="_blank" rel="referrer" title="Scopri in che modo un piccolo team massimizza la propria istanza di [!DNL Marketo Engage] Adobe">Scopri in che modo un piccolo team massimizza la propria istanza di [!DNL Marketo Engage]</a> di Adobe
                     </p>
-                    <p class="is-size-6">Scopri come supportare le istanze di Adobe Marketo Engage con un piccolo team o un team di uno di essi.</p>
+                    <p class="is-size-6">Discutere di come supportare le istanze di Adobe [!DNL Marketo Engage] con un piccolo team o un team di uno di essi.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/small-team-instance" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="small-team-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
@@ -289,8 +312,8 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" title="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1731454105306" alt="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati"
+                    <a href="webhooks.md" title="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1732319262240" alt="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,12 +321,12 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" title="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati">Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati</a>
+                        <a href="webhooks.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati">Adobe Marketo Engage Champion Deep Dive - Utilizzo dei webhook per trasferire i dati</a>
                     </p>
-                    <p class="is-size-6">A volte non è necessario seguire l’intero processo di creazione, test e implementazione di un’API. Puoi invece eseguire in autonomia le operazioni con un webhook per eseguire diversi trasferimenti di dati nel tuo sistema CRM o in altri sistemi integrati. Unisciti a Darshil Shah e Josh Arrington per imparare a utilizzare questa funzione e spingerti rapidamente verso l'efficienza! Moderato da John Grundy.</p>
+                    <p class="is-size-6">Scopri come trasferire in modo efficiente i dati utilizzando i webhook in Marketo con Darshil Shah e Josh Arrington, inclusi la gestione strutturata dei dati, la gestione degli errori, i metodi di autenticazione e casi d’uso pratici come l’integrazione della gestione delle relazioni con i clienti e l’e-commerce, moderati da John Grundy.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/webhooks" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="webhooks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>

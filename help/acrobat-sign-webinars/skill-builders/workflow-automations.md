@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Sfrutta tutte le funzionalità di automazione con la soluzione Microsoft low-cod
 
 ## Ulteriori dettagli su Power Automate
 
-* Lo scopo di Power Automate è fornire una soluzione low-code/no-code che consenta agli sviluppatori di creare flussi di lavoro o flussi complessi in termini di Microsoft.
+* Lo scopo di Power Automate è quello di fornire una soluzione low-code/no-code che consenta agli sviluppatori di creare flussi di lavoro complessi o flussi in termini di Microsoft.
 * Consente agli utenti di automatizzare attività e processi sfruttando i connettori predefiniti per lavorare con centinaia di altri sistemi e applicazioni. Power Automate consente agli utenti di leggere e scrivere dati, avviare processi ed eseguire azioni utilizzando questi connettori, il tutto mediante una configurazione grafica di trascinamento. I dati vengono esposti automaticamente e sono disponibili per l’utilizzo in trigger e azioni successivi.
 * &#x200B;Inoltre, Power Automate consente agli utenti di creare e utilizzare flussi di lavoro automatizzati all&#39;interno di Adobe Acrobat Sign senza la necessità di coinvolgere il personale IT.
 * Questi flussi di lavoro automatizzati possono aumentare l&#39;efficienza, la produttività e ridurre gli errori.

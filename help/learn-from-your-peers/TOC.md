@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Raccolta di registrazioni da  [!DNL Experience Makers Learn from your peers]"
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '302'
 ht-degree: 4%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 4%
    + Maggio {#may2023}
       + [Masterizzazione di contenuti e frammenti di esperienza](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Novembre 2024 {#nov2024}
+      + [Audit di segmentazione avanzati](marketo/nov2024/advanced-segmentation.md)
    + Settembre 2024 {#sept2024}
       + [Programmi di coinvolgimento multi-stream](marketo/sept2024/multi-stream-engagement-programs.md)
    + Luglio 2024 {#july2024}
@@ -105,4 +107,4 @@ ht-degree: 4%
          + [COS’È la governance di Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + Febbraio {#february}
          + [Informazioni sulla gestione utente](workfront/2022/02/understanding-user-management.md)
-+ [Scopri come inviare un’applicazione campione di Adobi in evidenza](./adobe-champion-application.md)
++ [Scopri come inviare un’applicazione di Adobe eccezionale](./adobe-champion-application.md)
