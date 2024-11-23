@@ -4,10 +4,10 @@ description: Una raccolta di registrazioni di eventi incentrate sull'utilizzo de
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: d6829a4d4b1fc096dd0cf5e01d75001f649c189b
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '1134'
-ht-degree: 2%
+source-wordcount: '1090'
+ht-degree: 3%
 
 ---
 
@@ -25,90 +25,112 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html
   {title = Adobe Campaign Insider Series}
   {description = Tips &amp; tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html
   {title = Adobe Content Management Forum}
   {description = Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html
   {title = AEM Champion Office Hours}
   {description = If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html
   {title = APAC Adobe Commerce Webinars}
   {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}Commerce and Coffee>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
+{cta  = View recordings}Commerce and Coffee>
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html 
   {title = Deep Dives}
   {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}Deep Dives>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
+{cta  = View recordings}Deep Dives>
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html
   {title = Experience Manager GEMS}
   {description = Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}Experience Manager GEMS>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}
+{cta  = View recordings}Experience Manager GEMS>
 * https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html
   {title = Experience Manager Release Overview}
   {description = Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html
   {title = Learn from your Peers}  
   {description = Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips &amp; tricks.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview
   {title = GenStudio for Performance Marketing Events}  
   {description = Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html
   {title = Marketo and Mochas}  
   {description = Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html
   {title = Adobe Commerce Intelligence}  
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html
   {title = Skill Builders}  
   {description = Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png}Skill Builder>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png}
+{cta  = View recordings}Skill Builder>
 * https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html
   {title = Skill Exchange}  
   {description = Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png}Marketo and Mochas>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png}
+{cta  = View recordings}Marketo and Mochas>
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html
   {title = Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}Workfront>
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+{cta  = View recordings}Workfront>
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -117,7 +139,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinar su Acrobat Sign">
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinar su Acrobat Sign" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Webinar su Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -126,12 +148,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinar su Acrobat Sign">Webinar Acrobat Sign</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" target="_blank" rel="referrer" title="Webinar su Acrobat Sign">Webinar Acrobat Sign</a>
                     </p>
                     <p class="is-size-6">Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di firma elettronica in Acrobat Sign.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -140,7 +162,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Serie Adobe Campaign Insider">
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Serie Adobe Campaign Insider" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png" alt="Serie Adobe Campaign Insider"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,12 +171,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Serie Adobe Campaign Insider">Adobe Campaign Insider Series</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" target="_blank" rel="referrer" title="Serie Adobe Campaign Insider">Adobe Campaign Insider Series</a>
                     </p>
                     <p class="is-size-6">Suggerimenti e trucchi per i clienti di Adobe Campaign al fine di contribuire a sviluppare strategie di marketing cross-channel, migliorare le competenze dei professionisti di marketing di team e aiutare le organizzazioni a lanciare strategie di marketing cross-channel più avanzate.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -163,7 +185,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Forum sulla gestione dei contenuti Adobe">
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Forum sulla gestione dei contenuti Adobe" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png" alt="Forum sulla gestione dei contenuti Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -172,12 +194,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Forum sulla gestione dei contenuti Adobe">Forum sulla gestione dei contenuti di Adobe</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" target="_blank" rel="referrer" title="Forum sulla gestione dei contenuti Adobe">Forum sulla gestione dei contenuti di Adobe</a>
                     </p>
                     <p class="is-size-6">Scopri dagli esperti di Adobe lo stato attuale e futuro della strategia di content management, i risultati finali, le sfide e i requisiti tecnici.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -186,7 +208,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Aggiornamenti dei prodotti Adobe Commerce">
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Aggiornamenti dei prodotti Adobe Commerce" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Aggiornamenti dei prodotti Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -195,12 +217,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Aggiornamenti dei prodotti Adobe Commerce">Aggiornamenti dei prodotti Adobe Commerce</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" title="Aggiornamenti dei prodotti Adobe Commerce">Aggiornamenti dei prodotti Adobe Commerce</a>
                     </p>
                     <p class="is-size-6">Ultime innovazioni di prodotto in Adobe Commerce, presentate dal team di prodotto Adobe Commerce.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -209,7 +231,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live">
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -218,12 +240,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live">Adobe Developers Live</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Developers Live">Adobe Developers Live</a>
                     </p>
                     <p class="is-size-6">Adobe Developers Live riunisce sviluppatori Adobe e creatori di esperienze con background diversi e uno stesso scopo: creare esperienze end-to-end incredibili.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -232,7 +254,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Ore ufficio campioni AEM">
+                    <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Ore ufficio campioni AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="Ore ufficio campioni AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -241,12 +263,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Ore ufficio campioni AEM">Ore ufficio campioni AEM</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" target="_blank" rel="referrer" title="Ore ufficio campioni AEM">Ore ufficio campioni AEM</a>
                     </p>
                     <p class="is-size-6">Se sei interessato a far progredire la tua conoscenza e l'uso di Adobe Experience Manager, interagire con i leader del pensiero Experience Manager e guadagnare uno swag esclusivo - allora unisciti al AEM Champion Office Hours User Group oggi stesso!</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -255,7 +277,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinar APAC Adobe Commerce">
+                    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinar APAC Adobe Commerce" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="Webinar APAC Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -264,12 +286,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinar APAC Adobe Commerce">Webinar APAC su Adobe Commerce</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" title="Webinar APAC Adobe Commerce">Webinar APAC su Adobe Commerce</a>
                     </p>
                     <p class="is-size-6">La serie di webinar APAC Commerce è una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze del settore.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -278,7 +300,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Webinar Adobe Customer Success">
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Webinar Adobe Customer Success" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Webinar Adobe Customer Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -287,12 +309,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Webinar Adobe Customer Success">Webinar Adobe Customer Success</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" target="_blank" rel="referrer" title="Webinar Adobe Customer Success">Webinar Adobe Customer Success</a>
                     </p>
                     <p class="is-size-6">Webinar di successo su Adobe progettati per aiutarti a ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -301,7 +323,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce e caffè">
+                    <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce e caffè" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce e caffè"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -310,12 +332,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce e caffè">Commerce e caffè</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" target="_blank" rel="referrer" title="Commerce e caffè">Commerce e caffè</a>
                     </p>
                     <p class="is-size-6">La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti di tutti i livelli di competenza e le caratteristiche Sr. Commerce Strategy Consultant, Corey Gelato. La serie si concentra sulle strategie e tattiche di Commerce, supportate da statistiche che riflettono l'argomento dell'evento.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -324,7 +346,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" title="Customer Data Management Voices">
+                    <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" title="Customer Data Management Voices" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Customer Data Management Voices"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -333,12 +355,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" title="Customer Data Management Voices">Voci di gestione dati cliente</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" target="_blank" rel="referrer" title="Customer Data Management Voices">Voci di gestione dati cliente</a>
                     </p>
                     <p class="is-size-6">La tua destinazione come responsabile tecnico e specialista della gestione dei dati dei clienti. Uno sportello unico per ascoltare i tuoi colleghi, trarre ispirazione e scoprire gli sviluppi in Martech.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -347,7 +369,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Approfondimenti">
+                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Approfondimenti" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Approfondimenti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -356,12 +378,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Approfondimenti">Unità profonde</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" title="Approfondimenti">Unità profonde</a>
                     </p>
                     <p class="is-size-6">Le registrazioni di eventi deep dive on-demand consentono di comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -370,7 +392,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -379,12 +401,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">Experience League LIVE</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" target="_blank" rel="referrer" title="Experience League LIVE">Experience League LIVE</a>
                     </p>
                     <p class="is-size-6">Experience League LIVE è un evento in diretta in streaming prodotto dal team di Experienci League. Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -393,7 +415,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMME EXPERIENCI MANAGER">
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMME EXPERIENCI MANAGER" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="GEMME EXPERIENCI MANAGER"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -402,12 +424,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMME EXPERIENCI MANAGER">GEMME Experienci Manager</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" target="_blank" rel="referrer" title="GEMME EXPERIENCI MANAGER">GEMME Experienci Manager</a>
                     </p>
                     <p class="is-size-6">Approfondimenti tecnici su Adobe Experience Manager forniti dagli esperti Adobe. Questa serie è un complemento della documentazione del prodotto e di tutti gli altri canali tecnici relativi a Adobe Experience Manager, consentendo agli sviluppatori di entrare in contatto e approfondire un argomento specifico.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -416,7 +438,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" title="Panoramica sulla versione di Experience Manager">
+                    <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" title="Panoramica sulla versione di Experience Manager" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Panoramica sulla versione di Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -425,12 +447,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" title="Panoramica sulla versione di Experience Manager">Panoramica sulla versione di Experience Manager</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" target="_blank" rel="referrer" title="Panoramica sulla versione di Experience Manager">Panoramica sulla versione di Experience Manager</a>
                     </p>
                     <p class="is-size-6">Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a Cloud Service. Si tratta di brevi video di circa 10 minuti forniti dal team di prodotto dell’AEM che presentano gli aspetti salienti dell’ultima versione.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -439,7 +461,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Impara dai tuoi colleghi">
+                    <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Impara dai tuoi colleghi" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="Impara dai tuoi colleghi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -448,12 +470,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Impara dai tuoi colleghi">Scopri dai tuoi colleghi</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" target="_blank" rel="referrer" title="Impara dai tuoi colleghi">Scopri dai tuoi colleghi</a>
                     </p>
                     <p class="is-size-6">Scopri dagli esperti e dai colleghi di Adobe come ottenere il massimo dalle soluzioni Adobe. Con gli argomenti selezionati per i professionisti, dai professionisti, queste sessioni interattive condividono parti dei possibili casi d’uso, best practice e suggerimenti.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -462,7 +484,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="Eventi GenStudio for Performance Marketing">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="Eventi GenStudio for Performance Marketing" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="Eventi GenStudio for Performance Marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -471,12 +493,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="Eventi GenStudio for Performance Marketing">Eventi GenStudio for Performance Marketing</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" title="Eventi GenStudio for Performance Marketing">Eventi GenStudio for Performance Marketing</a>
                     </p>
                     <p class="is-size-6">Scopri i webinar e gli eventi futuri e passati progettati per aiutarti a padroneggiare GenStudio for Performance Marketing.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -485,7 +507,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo e Mochas">
+                    <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo e Mochas" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketo e Mochas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -494,12 +516,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo e Mochas">Marketo e Mochas</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" target="_blank" rel="referrer" title="Marketo e Mochas">Marketo e Mochas</a>
                     </p>
                     <p class="is-size-6">Marketo Adobe e Mochas ti aiuteranno a comprendere meglio come utilizzare Marketo per supportare la tua attività.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -508,7 +530,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Sessioni tecniche Experience Cloud">
+                    <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Sessioni tecniche Experience Cloud" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Sessioni tecniche Experience Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -517,12 +539,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Sessioni tecniche Experience Cloud">Sessioni tecniche Experience Cloud</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" target="_blank" rel="referrer" title="Sessioni tecniche Experience Cloud">Sessioni tecniche Experience Cloud</a>
                     </p>
                     <p class="is-size-6">Sblocca Adobe Experience Cloud con sessioni tecniche condotte da esperti Adobe, disponibili in tempo reale e on-demand per un apprendimento senza soluzione di continuità.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -531,7 +553,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">
+                    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -540,12 +562,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
                     </p>
                     <p class="is-size-6">La serie di webinar Adobe Commerce Intelligence (o MBI) è un evento periodico per i clienti Adobe Commerce Intelligence. I webinar trattano un’ampia gamma di argomenti e best practice per utilizzare al massimo le potenzialità di Adobe Commerce Intelligence.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -554,7 +576,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">
+                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="Skill Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -563,12 +585,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">Generatori di abilità</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" title="Skill Builder">Generatori di abilità</a>
                     </p>
                     <p class="is-size-6">Skill Builder è una serie di webinar progettati per creare la knowledge base e massimizzare l’investimento in Adobe Experience Cloud.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -577,7 +599,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Scambio di competenze">
+                    <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Scambio di competenze" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Scambio di competenze"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -586,12 +608,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Scambio di competenze">Scambio abilità</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" target="_blank" rel="referrer" title="Scambio di competenze">Scambio abilità</a>
                     </p>
                     <p class="is-size-6">Experience Makers The Skill Exchange è una serie globale di eventi di apprendimento virtuale per i clienti, incentrati sull'approfondimento delle soluzioni Adobe Experience Cloud. Questo programma offre l’opportunità di imparare dagli esperti dei prodotti Adobe e da colleghi esperti attraverso la condivisione di best practice e suggerimenti.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>
@@ -600,7 +622,7 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront">
+                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -609,12 +631,12 @@ Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront">Workfront</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" title="Workfront">Workfront</a>
                     </p>
                     <p class="is-size-6">Una libreria di eventi Workfront registrati in cui esperti e colleghi condividono opinioni su come utilizzare Workfront.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda la registrazione dell'evento</span>
+                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Visualizza registrazioni</span>
                 </a>
             </div>
         </div>

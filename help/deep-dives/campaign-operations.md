@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive - Automazione e semplificazione delle operazioni delle campagne tramite l’API Marketo
+title: Automazione e semplificazione delle operazioni delle campagne tramite l’API Marketo
 description: Scopri come semplificare le operazioni di marketing con l’API di Marketo in questo approfondimento, dove dimostreremo come automatizzare attività ripetitive come la creazione di newsletter e-mail, il tracciamento di programmi, l’unione di duplicati, l’aggiornamento dei costi dei programmi e la clonazione di programmi, consentendoti di concentrarsi su iniziative strategiche.
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---
