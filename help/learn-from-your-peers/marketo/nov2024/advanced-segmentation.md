@@ -9,7 +9,7 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: 015cad4b20df989ef5ed11aed060e3dd57944afe
+source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -75,6 +75,6 @@ In questo webinar scoprirai:
 * Partecipa alla discussione [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} sulla community di nazioni marketing
 * [Crea segmentazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
 * [Modifica segmentazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* Serie di successo Marketo Engage - [segmentazione](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* [aggiornamenti del controllo di integrità della segmentazione](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Suggerimenti per mantenere aggiornata la segmentazione
+* Serie di successo Marketo Engage - [Segmentazione](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* [Aggiornamenti del controllo di integrità della segmentazione](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Suggerimenti per mantenere aggiornata la segmentazione
 * [Rapporto prestazioni e-mail](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
