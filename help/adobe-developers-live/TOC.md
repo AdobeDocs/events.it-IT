@@ -2,9 +2,9 @@
 user-guide-title: Eventi Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Raccolta di registrazioni dall’evento Adobe Developer Live Content
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 4%
 # Eventi Adobe Developers Live {#adobe-developers-live-recordings}
 
 + [Panoramica](overview.md)
++ 2024 {#2024}
+   + Novembre {#nov2024}
+      + [Introduzione a AI e Personalization nei sistemi EDS dell’AEM](2024/nov/ai-and-personalization.md)
+      + [Extension Manager per AEM Sites](2024/nov/extension-manager.md)
+      + [HTML con componenti Web](2024/nov/html-and-web-components.md)
+      + [Orchestrazione delle API Commerce per le implementazioni headless](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + Novembre {#nov2023}
       + [Apertura di una nota chiave](2023/november/keynote.md)
