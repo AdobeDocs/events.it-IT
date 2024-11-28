@@ -2,9 +2,9 @@
 user-guide-title: Eventi APAC Commerce
 breadcrumb-title: Eventi APAC Commerce
 user-guide-description: Adobe Commerce Events è una libreria video in cui esperti e colleghi hanno condiviso le loro opinioni e idee su come utilizzare Adobe Commerce.
-source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
+source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '150'
 ht-degree: 4%
 
 ---
@@ -28,13 +28,14 @@ ht-degree: 4%
       + [Nascosto: l&#39;arte di Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Commerce e componibilità](2024/commerce-and-composability.md)
    + [Edge Delivery Services](2024/edge-delivery-services.md)
-   + [Webinar Innovation Spotlight](2024/innovation-spotlight.md)
+   + [Esperienze GenAI e Commerce personalizzate](2024/personalised-commerce-experiences.md)
    + [Come il pensiero visionario sta trasformando Commerce](2024/visionary-thinking.md)
+   + [Webinar Innovation Spotlight](2024/innovation-spotlight.md)
    + [Sicurezza in Adobe Commerce](2024/security-overview.md)
    + [7 modi per far crescere un&#39;azienda di eCommerce in modo organico](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [Personalizzazione basata sull’intelligenza artificiale](2023/ai-personalisation.md)
-   + [Adobe PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
+   + [Commerce cloud PaaS di Adobe](2023/adobes-paas-cloud-commerce.md)
    + [Aumento delle conversioni tramite e-commerce](2023/ecommerce-conversions.md)
    + [Strategie di e-commerce componibili](2023/composable-commerce.md)
    + [I mercati come fattore di crescita](2023/marketplaces.md)
