@@ -2,9 +2,9 @@
 user-guide-title: Webinar Adobe Customer Success
 breadcrumb-title: Webinar Adobe Customer Success
 user-guide-description: Webinar di successo su Adobe progettati per aiutarti a ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Guida introduttiva a Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Sfruttare l’intelligenza artificiale per l’esperienza del cliente](2024/ai-customer-experience.md)
    + [Squadre e Customer Journey Analytics snelli](2024/lean-teams-cja.md)
+   + [Padroneggiare il Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookie di masterizzazione e privacy dei dati](2024/mastering-cookies-data-privacy.md)
    + [Personalization di destinazione](2024/target-personalization.md)
    + [Iperpersonalizzazione](2024/hyperpersonalization.md)
@@ -39,6 +40,9 @@ ht-degree: 0%
    + [Integrazione di Real-time Customer Data Platform e Marketo](2024/aep-marketo-integration.md)
    + [Preparazione alla migrazione di Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Leadership strategica](2024/strategic-leadership.md)
+   + [Autenticazione semplificata](2024/streamline-authentication.md)
+   + [Trasformazione dei dati in azione](2024/turning-data-into-action.md)
+   + [Sbloccare la potenza dei servizi Edge](2024/edge-delivery-services.md)
    + [Mappatura dei casi d’uso alle funzionalità della soluzione](2024/use-case-mapping.md)
    + [Nozioni di base sulla migrazione all’SDK per web](2024/web-sdk-migration.md)
 
