@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # La potenza strategica della misurazione: trasformare i dati in azioni
 
@@ -29,7 +29,7 @@ Scopri gli elementi essenziali per la creazione di una strategia di misurazione 
 * Coinvolgere regolarmente le parti interessate affinché forniscano i loro input garantisce una certa familiarità con i dati acquisiti.
 * Dare alle parti interessate la possibilità di sentirsi sicure di condurre relazioni e di prendere decisioni autonomamente riduce le esitazioni.
 
-**Trust
+**Attendibilità**
 
 * La fiducia si costruisce attraverso il coinvolgimento proattivo, la trasparenza, la governance dei dati e il controllo della qualità.
 * L&#39;allineamento e il coinvolgimento delle parti interessate nella pianificazione strategica sono fondamentali.
@@ -52,4 +52,3 @@ Scopri gli elementi essenziali per la creazione di una strategia di misurazione 
 * Cura delle risorse per nuovi utenti e utenti tipo non analisti.
 * Sessioni di suggerimento rapide e sessioni di condivisione delle conoscenze.
 * Utilizzo di newsletter e comunicazioni interne per condividere informazioni approfondite e aggiornamenti.
-
