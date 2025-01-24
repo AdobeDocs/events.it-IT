@@ -2,9 +2,9 @@
 user-guide-title: Registrazioni di eventi Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Raccolta di registrazioni di eventi utilizzati per l'utilizzo di prodotti Adobe Enterprise
-source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
+source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '438'
 ht-degree: 10%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 10%
    + [Eventi GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [Scopri dai tuoi colleghi](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo e Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+   + [Ore Marketo Champion Office](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
    + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Sveglia con Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
@@ -96,6 +97,7 @@ ht-degree: 10%
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Scopri dai tuoi colleghi](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Marketo e Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+      + [Ore Marketo Champion Office](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
