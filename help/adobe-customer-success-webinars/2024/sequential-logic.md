@@ -1,23 +1,23 @@
 ---
-title: Mastering della logica sequenziale in Adobe Analytics e Customer Journey Analytics
-description: Padroneggia la logica sequenziale e le analisi in Customer Journey Analytics (CJA) con aspetti fondamentali, esempi pratici e applicazioni aziendali, come descritto nella sessione di Andy Powers.
+title: Mastering della logica sequenziale in Adobe Analytics e Customer Journey Analytics - Nozioni di base
+description: Padroneggia la segmentazione sequenziale e i filtri in AA e CJA con aspetti fondamentali, esempi pratici e applicazioni aziendali, come descritto nella sessione di Andy Powers.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Padroneggiare la logica sequenziale in AA e CJA: concetti fondamentali
 
-Acquisisci una conoscenza di base degli operatori logici sequenziali THEN e correlati in Adobe Analytics e Customer Journey Analytics. La logica sequenziale consente l’analisi di alto valore in Adobe Analytics e Customer Journey Analytics, ma è sottoutilizzata e spesso fraintesa. Questo webinar stabilirà le basi del modo in cui questi operatori vengono valutati in Analysis Workspace.
+Acquisisci una conoscenza di base degli operatori logici sequenziali THEN e correlati in Adobe Analytics (segmenti sequenziali) e Customer Journey Analytics (filtri sequenziali). La logica sequenziale consente l’analisi di alto valore in Adobe Analytics e Customer Journey Analytics, ma è sottoutilizzata e spesso fraintesa. Questo webinar stabilirà le basi del modo in cui questi operatori vengono valutati in Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
