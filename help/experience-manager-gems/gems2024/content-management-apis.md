@@ -1,6 +1,6 @@
 ---
 title: 'AEM GEM: sbloccare la potenza di AEM Sites: padroneggiare le API di gestione dei contenuti'
-description: Il webinar sulle API di contenuto di Adobe Experience Manager (AEM) ha introdotto nuove API modernizzate per una gestione e distribuzione migliorate dei contenuti. ​Gli oratori principali, tra cui Matthias, Catalina, Leonard e Prashant, hanno illustrato le funzionalità di queste API, come la gestione strutturata dei contenuti, la distribuzione ottimizzata dei contenuti e i processi di traduzione automatizzata. ​Tra gli aspetti salienti sono state incluse la nuova funzione dello schema dell’interfaccia utente, una migliore gestione dei riferimenti, funzionalità di richiesta batch e un’API di distribuzione dei contenuti più veloce. ​I partecipanti sono stati incoraggiati ad esplorare queste API tramite la documentazione per gli sviluppatori di Adobe e ad aderire al programma early adopter per l’accesso anticipato e il supporto diretto di progettazione.
+description: Il webinar sulle API di contenuto di Adobe Experience Manager (AEM) ha introdotto nuove API modernizzate per una gestione e distribuzione migliorate dei contenuti. ​Gli oratori principali, tra cui Matthias, Catalina, Leonard e Prashant, hanno illustrato le funzionalità di queste API, come la gestione strutturata dei contenuti, la distribuzione ottimizzata dei contenuti e i processi di traduzione automatizzata. ​Tra gli aspetti salienti sono state incluse la nuova funzione dello schema dell’interfaccia utente, una migliore gestione dei riferimenti, funzionalità di richiesta batch e un’API di distribuzione dei contenuti più veloce. ​I partecipanti sono stati incoraggiati a esplorare queste API tramite la documentazione per gli sviluppatori di Adobe e ad aderire al programma early adopter per l’accesso anticipato e il supporto diretto di progettazione.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -11,27 +11,28 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM: sbloccare la potenza di AEM Sites: padroneggiare le API di gestione dei contenuti
 
 Le modalità di utilizzo di AEM Sites si stanno evolvendo rapidamente, aggiungendo modelli API-first alle interazioni utente tradizionali. Per semplificare le operazioni o migliorare l&#39;automazione, è fondamentale essere sempre all&#39;avanguardia rispetto a queste tendenze. Partecipa a una sessione approfondita per scoprire gli aggiornamenti all’avanguardia correlati disponibili in AEM Sites e scoprire come questi possono potenziare la tua strategia di gestione dei contenuti.
 
 In questa sessione scoprirai:
+
 * **Standard OpenAPI avanzati** Scopri le implementazioni OpenAPI più recenti per operazioni CRUD senza soluzione di continuità su contenuti strutturati AEM.
 * **Evento e webhook** Scopri come le funzionalità di evento e webhook di Adobe I/O possono automatizzare i processi in base al contenuto e alle modifiche dello stato nell&#39;AEM.
 * **Nuove API REST per l&#39;automazione della traduzione** Scopri le nuove API REST che semplificano e semplificano i flussi di lavoro per la traduzione dei contenuti in AEM.
 
 ## Presentatori
 
-* Mathias Siegel, Principal Product Manager, Adobe
-* Catalina Dumitru, Ingegnere di Sviluppo Software, Adobe
+* Mathias Siegel, Product Manager Principal, Adobe
+* Catalina Dumitru, ingegnere dello sviluppo software, Adobe
 * Lénárd Palkó, Senior Software Development Engineer, Adobe
 * Prashant Kumar Singh, informatico, Adobe
 

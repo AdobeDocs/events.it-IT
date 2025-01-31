@@ -2,9 +2,9 @@
 user-guide-title: Webinar Adobe Customer Success
 breadcrumb-title: Webinar Adobe Customer Success
 user-guide-description: Webinar di successo su Adobe progettati per aiutarti a ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Webinar Adobe Customer Success {#adobe-customer-success-webinar-recordings}
 
 + [Webinar Adobe Customer Success](overview.md)
++ 2025 {#2025}
+   + [Miglioramento dei programmi fedeltà tramite Personalization e i dati](2025/enhance-loyalty-programs.md)
+   + [Logica sequenziale di masterizzazione](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization basato sull’intelligenza artificiale di Adobe Target](2024/ai-personalization.md)

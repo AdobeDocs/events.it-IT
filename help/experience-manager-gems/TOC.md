@@ -2,9 +2,9 @@
 user-guide-title: Eventi Adobe Experience Manager GEMS
 user-guide-description: Scopri AEM Gems, una serie di approfondimenti tecnici proposti da esperti Adobe Experience Manager.
 breadcrumb-title: Eventi AEM GEM
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Experience Manager di eventi GEMS {#experience-manager-gems-recordings}
 
 + [Panoramica](overview.md)
++ 2025 {#gems2025}
+   + [Guida introduttiva ad Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Sbloccare la potenza di AEM Sites: padroneggiare le API di gestione dei contenuti](gems2024/content-management-apis.md)
    + [Quali sono le novità in Rapid Development Environments per AEM?](gems2024/rapid-development-environment-news.md)
@@ -25,7 +27,7 @@ ht-degree: 1%
 + 2023 {#gems2023}
    + [New Relic APM per AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certificazione AEM - tecnica](gems2023/aem-certification-technical.md)
-   + [Accelerazione dello sviluppo Experience Manager as a Cloud Service con ambienti di sviluppo rapido](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [Accelerazione dello sviluppo Experienci Manager as a Cloud Service con ambienti di sviluppo rapido](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [Best Practices Analyzer dell’AEM per gli ambienti locali e AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Caso di utilizzo di un cliente e implementazione di AEM Headless in uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 {#gems2018}
    + [Approfondisci Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Il cuore dell’Experience Cloud](gems2018/aem-acp.md)
-   + [Real-time and lightweight: crea integrazioni basate su eventi con l’AEM utilizzando gli eventi Adobe I/O](gems2018/aem-adobe-io.md)
+   + [Real-time and lightweight: integrazioni basate su eventi con l’AEM tramite Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Eventi Adobe Developer (IO) - Trigger di Analytics](gems2018/aem-analytics-triggers.md)
    + [Esperimenti sulla scalabilità dell’istanza di authoring dell’AEM](gems2018/aem-author-scalability1.md)
    + [Componenti core AEM](gems2018/aem-core-components.md)
@@ -56,14 +58,14 @@ ht-degree: 1%
    + [Risoluzione dei problemi relativi a query e indici AEM (continua)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [Editor SPA AEM](gems2018/aem-spa-editor.md)
    + [Solr come indice Oak per l’AEM](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [Approfondimento dell’SDK dell’editor dell’SPA - parte 1 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [Approfondimento dell’SDK dell’editor dell’SPA - Parte 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [Approfondimento sul SDK dell’editor dell’SPA - parte 1 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [Approfondimento sul SDK dell’editor dell’SPA - Parte 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [Utilizzo di OSGi R7 nell’AEM](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [Versione principale di Brand Portal e nuova implementazione di riferimento per Asset Share](gems2017/aem-brand-portal.md)
    + [Creare controlli di integrità per l’AEM](gems2017/aem-building-health-checks-for-aem.md)
    + [Sviluppare bundle e servizi OSGi per AEM](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
-   + [Architettura AEM Dynamic Medie 6.3](gems2017/aem-dynamic-media-architecture.md)
+   + [Architettura AEM Dynamic Media 6.3](gems2017/aem-dynamic-media-architecture.md)
    + [Esperienze con fluidi AEM per casi d’uso headless](gems2017/aem-headless-usecases.md)
    + [Indicizzazione AEM e query JCR](gems2017/aem-indexing-jcr-query.md)
    + [Integrazioni AEM](gems2017/aem-integrations.md)
@@ -81,7 +83,7 @@ ht-degree: 1%
    + [Gestire i contenuti con l’editor modelli di Adobe Experience Manager](gems2016/aem-managing-content-with-template-editor.md)
    + [Indici Oak Lucene](gems2016/aem-oak-lucene-indexes.md)
    + [Eseguire AEM su MongoDB](gems2016/aem-running-aem-on-mongodb.md)
-   + [Configurare AEM Dynamic Medie](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
+   + [Configurare AEM Dynamic Media](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
    + [Sneak peek tecnico](gems2016/aem-technical-sneak-peek.md)
    + [Strumenti da utilizzare per testare le applicazioni Adobe Experience Manager](gems2016/aem-testing-tools-for-aem-apps.md)
    + [Utilizzare SAML nelle distribuzioni Adobe Experience Manager](gems2016/aem-utilizing-saml-in-aem-deployments.md)
