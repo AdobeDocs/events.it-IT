@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,16 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team di
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    Torna presto a questa pagina per altri prossimi episodi di Experience League LIVE!
-    </br>
-    Scegli gli episodi precedenti dal sommario sul lato sinistro di questa pagina.
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience League LIVE 27 febbraio" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>Sblocco di approfondimenti operativi con l'Assistente all'intelligenza artificiale in Adobe Experience Platform</strong>
+      </a>
+      <br/><em>con Rudi Shumpert, Namita Krishnan e Huong Vu</em>
+      <br/><em>27 febbraio 2025</em>
+    </div>
   </td>
 </tr>
 </table>

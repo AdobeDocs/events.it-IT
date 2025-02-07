@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 44: Sblocco di informazioni operative con AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Introduzione di AI Assistant per i tipi di pubblico per gli addetti al marketing in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Svelare le schede di contenuto per Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Armonizzare i tipi di pubblico utilizzando la Composizione federata dei tipi di pubblico in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
@@ -28,7 +29,7 @@ ht-degree: 4%
    + [Ep. 39: Sei pronto a livellare l’app di analisi per dispositivi mobili?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: Riflettori puntati su estate - Le funzionalità di Adobe Journey Optimizer da provare sono tre](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37: In che modo le ultime versioni di Adobe Real-Time CDP possono spostare l’ago per la tua azienda](episodes/exl-live-episode-06-26-24.md)
-   + [Ep. 36: ecco come...migrare Analytics a Web SDK](episodes/exl-live-episode-05-16-24.md)
+   + [Ep. 36: Questo è il modo...per migrare Analytics a Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Nuovo canale di esperienza basato su codice in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34: nuove dashboard di Marketo Measure per l’individuazione](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33: Fare un salto in avanti con la nuova interfaccia utente di Adobe Campaign v8](episodes/exl-live-episode-02-29-24.md)
@@ -48,10 +49,10 @@ ht-degree: 4%
    + [Ep. 19: Fornire l’offerta giusta al momento giusto con la gestione delle decisioni](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18: Eseguire le campagne in Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17: fornire ai clienti un’esperienza più personalizzata in tempo reale](episodes/exl-live-episode-09-20-22.md)
-   + [Ep. 16: Domande agli esperti: estensioni utili in Tag (Launch) per contribuire a sovrascrivere l’SDK per web](episodes/exl-live-episode-08-23-22.md)
+   + [Ep. 16: Domande agli esperti: estensioni utili in Tag (Launch) per contribuire a sovrascrivere il Web SDK](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: Domande agli esperti: flussi di dati e preparazione dei dati](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14: Domande agli esperti - Connessioni RTCDP](episodes/exl-live-episode-06-23-22.md)
-   + [Ep. 13: Ask the experts - The basics of Web SDK (Domande agli esperti: nozioni di base di Web SDK)](episodes/exl-live-episode-05-26-22.md)
+   + [Ep. 13: Domande agli esperti - Nozioni di base di Web SDK](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12: Notifiche push con Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11: AAM e Real-time CDP - Come posso gestire tutti questi tipi di pubblico?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: AEM da Headful a Headless (e molto altro ancora)](episodes/exl-live-episode-04-21-22.md)
