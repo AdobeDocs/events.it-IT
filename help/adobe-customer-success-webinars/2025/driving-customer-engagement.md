@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
+source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Favorire il coinvolgimento dei clienti nello spazio dei fornitori
 
@@ -26,9 +26,9 @@ Esplora una sessione approfondita che mostra come AEM Forms trasforma il coinvol
 
 * **Sfide e opportunità nello spazio del payer** Il settore sanitario deve affrontare sfide per gestire la crescita esponenziale delle informazioni e dei moduli digitali, con conseguenti inefficienze e costi elevati. È necessario semplificare i processi, ridurre i costi e migliorare il coinvolgimento dei clienti.
 
-* **Funzionalità di Aim Forms** I moduli Aim consentono di migliorare l&#39;efficienza operativa e di offrire esperienze utente eccezionali, consentendo alle organizzazioni di creare moduli su larga scala, automatizzare i flussi di lavoro e fornire esperienze omnicanale. Ciò comporta tassi di conversione e di iscrizione più elevati, una riduzione dell’abbandono dei moduli e un aumento della produttività del team.
+* **Le funzionalità dei moduli AEM di AEM Forms** aumentano l&#39;efficienza operativa e consentono alle organizzazioni di creare moduli su larga scala, automatizzare i flussi di lavoro e fornire esperienze omnicanale. Ciò comporta tassi di conversione e di iscrizione più elevati, una riduzione dell’abbandono dei moduli e un aumento della produttività del team.
 
-* **Soluzione end-to-end** I moduli Aim forniscono una soluzione end-to-end che include moduli omnicanale, flussi di lavoro automatizzati e comunicazioni interattive con i clienti. La soluzione è integrata con Adobe Experience Cloud per migliorare l&#39;esperienza utente complessiva e l&#39;efficienza operativa.
+* **Soluzione end-to-end** AEM Forms fornisce una soluzione end-to-end che include moduli omnicanale, flussi di lavoro automatizzati e comunicazioni interattive con i clienti. La soluzione è integrata con Adobe Experience Cloud per migliorare l&#39;esperienza utente complessiva e l&#39;efficienza operativa.
 
 * **Innovazioni e integrazioni** Le innovazioni recenti includono servizi di consegna per prestazioni migliori, moduli adattivi headless per la distribuzione omnicanale e nuovi connettori per l&#39;integrazione con sistemi come OneDrive, Power Automate, Salesforce e Workfront. Le funzioni di accesso anticipato includono l’assistente Gen AI, il connettore Marketo e i moduli conversazionali.
 
