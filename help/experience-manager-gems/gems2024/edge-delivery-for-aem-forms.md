@@ -1,6 +1,6 @@
 ---
-title: Guida introduttiva ai Edge Delivery Services per AEM Forms
-description: 'Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e distribuirli come esperienze eccezionali Edge di. Verranno descritti due modi per creare questi moduli: mediante l’authoring basato sui documenti e l’authoring basato su AEM. Scoprirai come impostare un progetto di Edge Delivery Services AEM Forms per personalizzare blocchi e componenti Forms e per utilizzare le estensioni lato server. Scoprirai anche come sfruttare AEM Forms as a Cloud Service per l’elaborazione back-end di Forms dopo l’invio.'
+title: Guida introduttiva di Edge Delivery Services per AEM Forms
+description: Scopri come creare e pubblicare AEM Forms utilizzando Edge Delivery Services, con informazioni sull’authoring basato su documenti e su AEM, la configurazione del progetto per la personalizzazione e l’utilizzo di AEM Forms as a Cloud Service per l’elaborazione back-end.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 Questo webinar è stato completato. Guarda la registrazione di seguito.
 
-## Guida introduttiva ai Edge Delivery Services per AEM Forms
+## Guida introduttiva di Edge Delivery Services per AEM Forms
 
-Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e distribuirli come esperienze eccezionali Edge di. Verranno descritti due modi per creare questi moduli: utilizzando l’authoring basato su documenti e l’authoring basato su AEM. Scoprirai come impostare un progetto di Edge Delivery Services AEM Forms per personalizzare blocchi e componenti Forms e per utilizzare le estensioni lato server. Scoprirai anche come sfruttare AEM Forms as a Cloud Service per l’elaborazione back-end di Forms dopo l’invio.
+Scopri come creare e pubblicare AEM Forms utilizzando Edge Delivery Services e distribuirli come esperienze eccezionali Edge di. Verranno descritti due modi per creare questi moduli: utilizzando l’authoring basato su documenti e l’authoring basato su AEM. Scoprirai come impostare un progetto AEM Forms Edge Delivery Services per personalizzare blocchi e componenti Forms e per utilizzare le estensioni lato server. Scoprirai anche come sfruttare AEM Forms as a Cloud Service per l’elaborazione back-end di Forms dopo l’invio.
 
 ## Presentatori
 
-* Arun Taneja, Director per la gestione dei prodotti, Adobe
+* Arun Taneja, Direttore Product Management di Adobe
 * Vijay Kumar Jalagari, Sr. Engineering Manager, Adobe
 
 ## Registrazione webinar
@@ -38,6 +38,6 @@ Scopri come creare e pubblicare AEM Forms utilizzando i Edge Delivery Services e
 
 >[!NOTE]
 > 
->* Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4aCz0OE).
+>* Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [thread contestuale](https://adobe.ly/4aCz0OE).
 >
->* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
+>* Per ricevere notifiche sui prossimi webinar, registrati al [gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

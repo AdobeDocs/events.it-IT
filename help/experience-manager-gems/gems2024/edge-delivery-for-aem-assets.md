@@ -1,6 +1,6 @@
 ---
 title: Integrazione di AEM Assets con Edge Delivery Services
-description: Durante questo webinar AEM GEMs, ti mostreremo come utilizzare AEM Assets nel tuo sito basato su Edge Delivery Services AEM.  Inizieremo con i passaggi di integrazione, che consentiranno agli sviluppatori di integrare l’archivio AEM Assets nel flusso di authoring dei siti. Poi mostriamo come gli sviluppatori possono personalizzare l’integrazione in base ai requisiti di authoring specifici per il sito. Mostreremo anche come distribuire le risorse utilizzando AEM Dynamic Medie con API aperte, consentendoti di sfruttare le funzioni API aperte di Dynamic Medie. Inoltre, esamineremo alcuni casi d’uso pratici e le best practice, fornendo una comprensione completa di come questa integrazione consente di sfruttare la soluzione di gestione delle risorse nei flussi di authoring dei siti.
+description: Il webinar AEM GEMs mostrerà come integrare AEM Assets in siti basati su AEM Edge Delivery Services, personalizzare l’integrazione, distribuire risorse utilizzando AEM Dynamic Media con Open API ed esplorare casi d’uso pratici e best practice.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 866d6e9338d485ee48f526ec035574454090378e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,13 @@ Questo webinar è stato completato - consulta la registrazione qui sotto.
 
 **Presentatori**
 
-* Satya Deep Maheshwari, Principal Scientist, Adobe
-* Ashutosh Shroti, Sr. Informatico, Adobe
+* Satya Deep Maheshwari, Principal Scientist di Adobe
+* Ashutosh Shroti, Sr. Scienziato Informatico, Adobe
 
 ## Integrazione di AEM Assets con Edge Delivery Services
 
-Durante questo webinar AEM GEMs, ti mostreremo come utilizzare AEM Assets nel tuo sito basato su Edge Delivery Services AEM.  Inizieremo con i passaggi di integrazione, che consentiranno agli sviluppatori di integrare l’archivio AEM Assets nel flusso di authoring dei siti. Poi mostriamo come gli sviluppatori possono personalizzare l’integrazione in base ai requisiti di authoring specifici per il sito. Mostreremo anche come distribuire le risorse utilizzando AEM Dynamic Medie con API aperte, consentendoti di sfruttare le funzioni API aperte di Dynamic Medie. Inoltre, esamineremo alcuni casi d’uso pratici e le best practice, fornendo una comprensione completa di come questa integrazione consente di sfruttare la soluzione di gestione delle risorse nei flussi di authoring dei siti.
+Durante questo webinar AEM GEMs, ti mostreremo come utilizzare AEM Assets nel tuo sito basato su AEM Edge Delivery Services.  Inizieremo con i passaggi di integrazione, che consentiranno agli sviluppatori di integrare l’archivio AEM Assets nel flusso di authoring dei siti. Poi mostriamo come gli sviluppatori possono personalizzare l’integrazione in base ai requisiti di authoring specifici per il sito. Mostreremo anche come distribuire le risorse utilizzando AEM Dynamic Media con Open API, consentendoti di sfruttare le funzioni di Dynamic Media Open API. Inoltre, esamineremo alcuni casi d’uso pratici e le best practice, fornendo una comprensione completa di come questa integrazione consente di sfruttare la soluzione di gestione delle risorse nei flussi di authoring dei siti.
 
-Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/3LSCVfX).
+Per le interazioni community specifiche della sessione su Experience League, visita il rispettivo [thread contestuale](https://adobe.ly/3LSCVfX).
 
-Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
+Per ricevere notifiche sui prossimi webinar, registrati al [gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

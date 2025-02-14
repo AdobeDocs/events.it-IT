@@ -1,6 +1,6 @@
 ---
 title: Ottimizzazione della distribuzione dei contenuti - Sfruttare la potenza dei servizi Edge
-description: I Edge Delivery Services ATM (EDS) migliorano le funzionalità ATM con servizi componibili, cicli di sviluppo rapidi e punteggi di faro elevati, supporto di authoring basato su documenti e WYSIWYG, architettura senza server, creazione rapida di siti e opzioni di personalizzazione estese.
+description: La sessione su Edge Delivery Services (EDS) ha trattato l’architettura, l’integrazione con l’authoring basato su documenti e su AEM, la creazione rapida di siti, le opzioni di personalizzazione e le best practice per mantenere prestazioni elevate.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # Ottimizzazione della distribuzione dei contenuti: sbloccare la potenza dei servizi Edge
 
-In questa sessione verrà fornita una panoramica dei Edge Delivery Services (EDS) e della relativa architettura. Verranno approfonditi i modi in cui EDS si integra con l’authoring basato su documenti e l’authoring basato su AEM tramite l’editor universale. Una demo live mostrerà l&#39;EDS in azione, seguita da risorse per ulteriori esplorazioni e una sessione Q&amp;A.
+In questa sessione verrà fornita una panoramica di Edge Delivery Services (EDS) e della relativa architettura. Verranno approfonditi i modi in cui EDS si integra con l’authoring basato su documenti e l’authoring basato su AEM tramite l’editor universale. Una demo live mostrerà l&#39;EDS in azione, seguita da risorse per ulteriori esplorazioni e una sessione Q&amp;A.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -27,17 +27,17 @@ In questa sessione verrà fornita una panoramica dei Edge Delivery Services (EDS
 
 ### Introduzione a EDS
 
-* L&#39;EDS è un insieme di servizi componibili concepiti per migliorare le capacità dell&#39;ATM. &#x200B;
+* EDS è un insieme di servizi componibili progettati per migliorare le funzionalità di ATM. &#x200B;
 * Mira a fornire esperienze eccezionali che guidano coinvolgimento e conversioni con cicli di sviluppo rapidi e un punteggio del faro del 100%. &#x200B;
 
 ### Opzioni di authoring
 
-* **Authoring basato su documenti** Utilizza strumenti familiari come Microsoft Word o Google Docs per la creazione di contenuti, consentendo la creazione rapida di contenuti senza formazione approfondita. &#x200B;
+* **Authoring basato su documenti** Utilizza strumenti familiari come Microsoft Word o Google Docs per la creazione di contenuti, consentendo una creazione rapida dei contenuti senza formazione approfondita. &#x200B;
 * **Universal Editor** Fornisce un&#39;interfaccia WYSIWYG simile ai siti ATM tradizionali, consentendo la creazione di contenuti più dettagliati e visivi. &#x200B;
 
 ### Architettura
 
-* EDS si integra all’interno del framework di Cloud Service Amazon. &#x200B;
+* EDS si integra all’interno del framework Amazon Cloud Service. &#x200B;
 * Supporta l’implementazione senza server e può funzionare senza un’istanza Autore o Autore tradizionale. &#x200B;
 * È possibile implementare due livelli di caching: a livello di infrastruttura del cliente e a livello di EDS. &#x200B;
 
@@ -65,4 +65,4 @@ In questa sessione verrà fornita una panoramica dei Edge Delivery Services (EDS
 ### Supporto e documentazione
 
 * È disponibile una documentazione completa per guidare gli utenti durante il processo di configurazione e personalizzazione. &#x200B;
-* Gli utenti sono invitati a contattare il supporto di Adobe per eventuali problemi non risolti. &#x200B;
+* Gli utenti sono invitati a contattare il supporto Adobe per eventuali problemi non risolti. &#x200B;

@@ -1,6 +1,6 @@
 ---
 title: Guida introduttiva di Adobe Analytics e CJA per funzionalità di analisi di base e intermedie
-description: La sessione "Quickstart for Basic Intermediate Analysis Capabilities" (Quickstart per le funzionalità di analisi intermedie di base), condotta dal dott. Kirsten Schaffer, ha trattato la creazione di solide funzionalità analitiche, governance e percorsi di analisi, confrontando Adobe Analytics e Customer Journey Analytics, discutendo i tipi di analisi e sottolineando l’importanza di una singola fonte di verità per il reporting dei dati.
+description: La sessione ha riguardato la configurazione delle funzionalità analitiche, il confronto tra Adobe Analytics e Customer Journey Analytics e le funzioni chiave per i rapporti di marketing.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,17 +8,17 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analytics e CJA: Guida introduttiva alle funzionalità di analisi di base e intermedia
 
-Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey Analytics (CJA) per supportare le attività di marketing con decisioni basate sui dati: scopri come configurare la tua organizzazione per solide funzionalità di analisi, capire quando utilizzare al meglio quale soluzione di analisi e mappare le funzionalità di Analytics e CJA ai livelli di maturità di Analytics per creare rapporti di marketing chiave.
+Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey Analytics (CJA) per supportare le attività di marketing con decisioni basate sui dati: scopri come configurare la tua organizzazione per offrire solide funzionalità di analisi, capire quando utilizzare al meglio quale soluzione di analisi e mappare le funzionalità di Analytics e CJA ai livelli di maturità di Analytics per creare rapporti di marketing chiave.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey
 
 * **Introduzione di altoparlanti**
    * Frederick, Senior Customer Success Manager di Adobe, ha introdotto la sessione.
-   * La dottoressa Kirsten Schaffer, Principal Customer Success Manager di Adobe, è la presentatrice.
+   * Il presentatore è la dott.ssa Kirsten Schaffer, Principal Customer Success Manager di Adobe.
 
 * **Contenuto sessione**
    * La sessione tratta la configurazione di un’organizzazione per solide funzionalità analitiche, aspetti di governance e percorsi di esecuzione per analisi e analisi del percorso del cliente.
@@ -40,7 +40,7 @@ Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey
    * **Forze esterne e interne** che influiscono sull&#39;analisi digitale, inclusi i cambiamenti del mercato, la privacy e la governance, la democrazia dei dati e la complessità dei dati.
    * **Creazione di una solida base analitica** Strategia di misurazione, raccolta dati, analisi e insight, apprendimento, governance dei dati.
    * **Configurazione di un team di analisi digitale** Ruoli e responsabilità, creazione di un team ibrido e gestione efficiente delle richieste di analisi.
-   * **Opzioni di abilitazione di Adobe** Experience League, corsi on-demand, classi basate su istruttore, supporto della community.
+   * **Opzioni di abilitazione di Adobe** Experience League, corsi on-demand, corsi basati su istruttori, supporto della community.
 
 * **Confronto tra Adobe Analytics e Customer Journey Analytics (CGA)**
    * Adobe Analytics è fondamentale per l’analisi digitale.
@@ -61,5 +61,5 @@ Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey
 * **Elementi di rilievo domande e risposte**
    * Spiegazione dei componenti e degli schemi di dati statici.
    * Descrizione dei dati offline.
-   * Recommendations per la migrazione da Adobe Analytics a CGA.
+   * Consigli per la migrazione da Adobe Analytics a CGA.
    * Importanza di definire un’unica fonte di verità per la generazione rapporti sui dati.

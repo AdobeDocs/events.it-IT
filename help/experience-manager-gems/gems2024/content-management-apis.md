@@ -1,6 +1,6 @@
 ---
-title: 'AEM GEM: sbloccare la potenza di AEM Sites: padroneggiare le API di gestione dei contenuti'
-description: Il webinar sulle API di contenuto di Adobe Experience Manager (AEM) ha introdotto nuove API modernizzate per una gestione e distribuzione migliorate dei contenuti. ​Gli oratori principali, tra cui Matthias, Catalina, Leonard e Prashant, hanno illustrato le funzionalità di queste API, come la gestione strutturata dei contenuti, la distribuzione ottimizzata dei contenuti e i processi di traduzione automatizzata. ​Tra gli aspetti salienti sono state incluse la nuova funzione dello schema dell’interfaccia utente, una migliore gestione dei riferimenti, funzionalità di richiesta batch e un’API di distribuzione dei contenuti più veloce. ​I partecipanti sono stati incoraggiati a esplorare queste API tramite la documentazione per gli sviluppatori di Adobe e ad aderire al programma early adopter per l’accesso anticipato e il supporto diretto di progettazione.
+title: 'AEM GEM: sbloccare la potenza di AEM Sites - Padroneggiare le API di gestione dei contenuti'
+description: La sessione AEM GEMs esplora i pattern API-first in AEM Sites, inclusi gli standard OpenAPI avanzati, gli eventi e i webhook, e le nuove API REST per l’automazione della traduzione, con informazioni provenienti dagli esperti di Adobe.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,9 +12,9 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -25,24 +25,24 @@ Le modalità di utilizzo di AEM Sites si stanno evolvendo rapidamente, aggiungen
 
 In questa sessione scoprirai:
 
-* **Standard OpenAPI avanzati** Scopri le implementazioni OpenAPI più recenti per operazioni CRUD senza soluzione di continuità su contenuti strutturati AEM.
-* **Evento e webhook** Scopri come le funzionalità di evento e webhook di Adobe I/O possono automatizzare i processi in base al contenuto e alle modifiche dello stato nell&#39;AEM.
-* **Nuove API REST per l&#39;automazione della traduzione** Scopri le nuove API REST che semplificano e semplificano i flussi di lavoro per la traduzione dei contenuti in AEM.
+* **Standard OpenAPI avanzati** Scopri le implementazioni OpenAPI più recenti per operazioni CRUD senza soluzione di continuità sui contenuti strutturati AEM.
+* **Evento e webhook** Scopri come le funzionalità di eventi e webhook di Adobe I/O possono automatizzare i processi in base al contenuto e alle modifiche dello stato in AEM.
+* **Nuove API REST per l&#39;automazione della traduzione** Scopri le nuove API REST che semplificano e semplificano i flussi di lavoro di traduzione dei contenuti in AEM.
 
 ## Presentatori
 
 * Mathias Siegel, Product Manager Principal, Adobe
 * Catalina Dumitru, ingegnere dello sviluppo software, Adobe
-* Lénárd Palkó, Senior Software Development Engineer, Adobe
+* Lénárd Palkó, Senior Software Development Engineer presso Adobe
 * Prashant Kumar Singh, informatico, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
 
-Hai una domanda, forse un commento?  Partecipa alla discussione in [Community Experienci League](https://adobe.ly/4e34grR)!
+Hai una domanda, forse un commento?  Partecipa alla discussione in [Experience League Communities](https://adobe.ly/4e34grR)!
 
 ## Punti chiave da eliminare
 
-* **Introduzione di API modernizzate** Sono state introdotte nuove API per la gestione e la distribuzione dei contenuti AEM per migliorare i flussi di lavoro di sviluppo e le funzionalità di integrazione.
+* **Introduzione di API modernizzate** Sono state introdotte nuove API per la gestione e la distribuzione dei contenuti di AEM per migliorare i flussi di lavoro di sviluppo e le funzionalità di integrazione.
 
 * **Gestione strutturata dei contenuti** Le nuove API supportano la gestione strutturata dei contenuti, incluse funzionalità come lo schema dell&#39;interfaccia utente per una migliore rappresentazione dei contenuti, una migliore gestione dei riferimenti e funzionalità di richiesta batch.
 
@@ -64,4 +64,4 @@ Hai una domanda, forse un commento?  Partecipa alla discussione in [Community Ex
 
 ## Rimanete al corrente!
 
-Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
+Per ricevere notifiche sui prossimi webinar, registrati al [gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).

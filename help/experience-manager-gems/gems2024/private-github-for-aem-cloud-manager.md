@@ -1,6 +1,6 @@
 ---
 title: Integrazione di archivi GitHub privati in AEM Cloud Manager
-description: Durante questo webinar AEM GEMs, mostreremo come ottenere il massimo dall’aggiunta di un archivio GitHub privato in Cloud Manager. Inizieremo con l’onboarding dell’archivio, che ora consente di collegare direttamente l’archivio GitHub alle pipeline Cloud Manager, eliminando la necessità di sincronizzare in modo coerente il codice con l’archivio Adobe. Vogliamo quindi mostrare come questa funzione ti consenta di spostare a sinistra il processo di test, portando i controlli di qualità del codice Cloud Manager a livello di richiesta pull prima che il codice venga unito. In questo modo, in qualità di sviluppatore di AEM, sarai in grado di identificare i problemi che avrebbero causato errori nella build di Cloud Manager prima nel ciclo di sviluppo.
+description: Il webinar AEM GEMs illustra come aggiungere un archivio GitHub privato in Cloud Manager, collegarlo direttamente alle pipeline e testare a sinistra per identificare i problemi a livello di richiesta di pull prima di unire il codice.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Questo webinar è stato completato - consulta la registrazione qui sotto.
 
 ## Integrazione di archivi GitHub privati in AEM Cloud Manager
 
-Durante questo webinar AEM GEMs, mostreremo come ottenere il massimo dall’aggiunta di un archivio GitHub privato in Cloud Manager. Inizieremo con l’onboarding dell’archivio, che ora consente di collegare direttamente l’archivio GitHub alle pipeline Cloud Manager, eliminando la necessità di sincronizzare in modo coerente il codice con l’archivio Adobe. Vogliamo quindi mostrare come questa funzione ti consenta di spostare a sinistra il processo di test, portando i controlli di qualità del codice Cloud Manager a livello di richiesta pull prima che il codice venga unito. In questo modo, in qualità di sviluppatore di AEM, sarai in grado di identificare i problemi che avrebbero causato errori nella build di Cloud Manager prima nel ciclo di sviluppo.
+Durante questo webinar AEM GEMs, mostreremo come ottenere il massimo dall’aggiunta di un archivio GitHub privato in Cloud Manager. Inizieremo con l’onboarding dell’archivio, che ora consente di collegare direttamente l’archivio GitHub alle pipeline Cloud Manager, eliminando la necessità di sincronizzare in modo coerente il codice con l’archivio Adobe. Vogliamo quindi mostrare come questa funzione ti consenta di spostare a sinistra il processo di test, portando i controlli di qualità del codice Cloud Manager a livello di richiesta pull prima che il codice venga unito. In questo modo, in qualità di sviluppatore di AEM, potrai identificare i problemi che avrebbero causato errori nella generazione di Cloud Manager prima nel ciclo di sviluppo.
 
 ## Presentatori
 
-* Dragos Calin, ingegnere dello sviluppo software, Adobe
+* Dragos Calin, Software Development Engineer, Adobe
 
 ## Esperti di chat
 
-* Dan Balescu, Direttore tecnico senior, Adobe
+* Dan Balescu, Senior Engineering Manager, Adobe
 * Shankari Panchapakesan, Responsabile Prodotto Principale, Adobe
 * Florin Stancu, ingegnere dello sviluppo software, Adobe
 
@@ -43,6 +43,6 @@ Durante questo webinar AEM GEMs, mostreremo come ottenere il massimo dall’aggi
 
 >[!NOTE]
 >
->* Per le interazioni della community con webinar o argomenti specifici su questo webinar sull&#39;Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4f1jhMo).
+>* Per le interazioni della community con webinar o argomenti specifici su questo webinar su Experience League, visita il rispettivo [Thread contestuale](https://adobe.ly/4f1jhMo).
 >
->* Per ricevere notifiche sui prossimi webinar, registrati al [Gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
+>* Per ricevere notifiche sui prossimi webinar, registrati al [gruppo di utenti AEM di Adobe](https://aem-augs.adobe.com/).
