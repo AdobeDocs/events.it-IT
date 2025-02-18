@@ -1,6 +1,6 @@
 ---
-title: Experience League di eventi LIVE
-description: Una raccolta di collegamenti agli eventi LIVE dell'Experience League precedente
+title: Eventi Experience League LIVE
+description: Raccolta di collegamenti agli eventi Experience League LIVE precedenti
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,31 +8,31 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE è un evento in diretta in streaming prodotto dal team di Experienci League.  Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.
+Experience League LIVE è un evento in diretta in streaming prodotto dal team Experience League.  Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
-## Prossimi Experienci League di eventi LIVE
+## Prossimi eventi Experience League LIVE
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE 27 febbraio" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 27 febbraio" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Sblocco di approfondimenti operativi con l'Assistente all'intelligenza artificiale in Adobe Experience Platform</strong>
       </a>
-      <br/><em>con Rudi Shumpert, Namita Krishnan e Huong Vu</em>
+      <br/><em>con Daniel Wright, Namita Krishnan e Huong Vu</em>
       <br/><em>27 febbraio 2025</em>
     </div>
   </td>
