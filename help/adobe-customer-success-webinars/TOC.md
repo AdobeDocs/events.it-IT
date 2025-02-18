@@ -1,19 +1,21 @@
 ---
-user-guide-title: Webinar Adobe Customer Success
-breadcrumb-title: Webinar Adobe Customer Success
-user-guide-description: Webinar di successo su Adobe progettati per aiutarti a ottimizzare il tuo investimento nell’Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione di soluzioni Adobe.
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-title: Webinar Customer Success di Adobe
+breadcrumb-title: Webinar Customer Success di Adobe
+user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 
-# Webinar Adobe Customer Success {#adobe-customer-success-webinar-recordings}
+# Webinar Customer Success di Adobe {#adobe-customer-success-webinar-recordings}
 
-+ [Webinar Adobe Customer Success](overview.md)
++ [Webinar Customer Success di Adobe](overview.md)
 + 2025 {#2025}
+   + [Nozioni di base sulla catena di fornitura dei contenuti](2025/content-supply-chain-basics.md)
+   + [Strategie di Crafting per una misurazione efficace](2025/impactful-insights.md)
    + [Favorire il coinvolgimento dei clienti](2025/driving-customer-engagement.md)
    + [Miglioramento dei programmi fedeltà tramite Personalization e i dati](2025/enhance-loyalty-programs.md)
    + [Logica sequenziale di masterizzazione](2025/mastering-sequential-logic.md)
@@ -22,29 +24,29 @@ ht-degree: 0%
    + [Personalization basato sull’intelligenza artificiale di Adobe Target](2024/ai-personalization.md)
    + [Adobe Workfront - Team esperti](2024/workfront-lean-teams.md)
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
-   + [Concetti chiave per la creazione di contenuti AEM](2024/aem-authoring-concepts.md)
+   + [Concetti chiave per l’authoring di AEM](2024/aem-authoring-concepts.md)
    + [Efficienza di AEM Sites](2024/aem-sites-efficiencies.md)
    + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
    + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
    + [Copywriting basata sull’intelligenza artificiale](2024/ai-copywriting.md)
    + [Funzionalità di analisi di base e intermedie](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
-   + [Edge Network e Personalization per dispositivi mobili](2024/edge-network-mobile-personalization.md)
+   + [Edge Network e Mobile Personalization](2024/edge-network-mobile-personalization.md)
    + [Gestione modifiche effettiva](2024/effective-change-management.md)
    + [Potenziare i team snelli](2024/empowering-lean-teams.md)
-   + [Expedia si sposta da Adobe Analytics al Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Expedia si sposta da Adobe Analytics a Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Nozioni di base sulla tutela dell’amministratore di sistema e di gruppo di Workfront](2024/workfront-admin-guardianship.md)
    + [Guida introduttiva di Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
-   + [Guida introduttiva a Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Guida introduttiva a Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Sfruttare l’intelligenza artificiale per l’esperienza del cliente](2024/ai-customer-experience.md)
    + [Iperpersonalizzazione](2024/hyperpersonalization.md)
    + [Funzionalità mobili di Journey Optimizer](2024/journey-optimizer-mobile-capabilities.md)
-   + [Squadre e Customer Journey Analytics snelli](2024/lean-teams-cja.md)
+   + [Squadre snelle e Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Padroneggiare il Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookie di masterizzazione e privacy dei dati](2024/mastering-cookies-data-privacy.md)
    + [Logica sequenziale di masterizzazione](2024/sequential-logic.md)
    + [Preparazione organizzativa per la catena di fornitura dei contenuti](2024/organizational-readiness-content-supply-chain.md)
-   + [Integrazione di Real-time Customer Data Platform e Marketo](2024/aep-marketo-integration.md)
+   + [Integrazione di Real-Time Customer Data Platform e Marketo](2024/aep-marketo-integration.md)
    + [Preparazione alla migrazione di Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Leadership strategica](2024/strategic-leadership.md)
    + [Autenticazione semplificata](2024/streamline-authentication.md)
@@ -58,8 +60,8 @@ ht-degree: 0%
    + [Creazione delle basi per Personalization su larga scala](2023/personalization-at-scale.md)
    + [Gestione delle modifiche](2023/change-management.md)
    + [Contenuti ed esperienze - Personalization](2023/content-experiences-personalization.md)
-   + [Preparazione alla migrazione del Customer Journey Analytics](2023/cja-migration-readiness.md)
-   + [Nozioni di base sull’integrazione dei Customer Journey Analytics](2023/cja-integration-essentials.md)
+   + [Preparazione alla migrazione di Customer Journey Analytics](2023/cja-migration-readiness.md)
+   + [Integrazione di Customer Journey Analytics Essentials](2023/cja-integration-essentials.md)
    + [Sviluppo di una strategia di raccolta e attivazione dei dati in tempo reale](2023/data-collection-activation-strategy.md)
    + [Strategia di misurazione efficace](2023/measurement-strategy.md)
    + [Strategia fondamentale per l’orchestrazione delle campagne](2023/foundational-strategy-campaign.md)
