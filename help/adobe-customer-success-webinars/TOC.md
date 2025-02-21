@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
+source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,19 @@ ht-degree: 0%
 + [Webinar Customer Success di Adobe](overview.md)
 + 2025 {#2025}
    + [Approfondimenti digitali Adobe](2025/adobe-digital-insights.md)
+   + [Integrazione tra AEM e Workfront](2025/aem-workfront-integration.md)
    + [Creazione di pagine Web efficaci](2025/build-effective-web-pages.md)
    + [Nozioni di base sulla catena di fornitura dei contenuti](2025/content-supply-chain-basics.md)
    + [Strategie di Crafting per una misurazione efficace](2025/impactful-insights.md)
+   + [Coltivazione di un’organizzazione di marketing agile](2025/agile-marketing-organization.md)
+   + [Data Distiller 101](2025/data-distiller-101.md)
    + [Favorire il coinvolgimento dei clienti](2025/driving-customer-engagement.md)
    + [Miglioramento dei programmi fedeltà tramite Personalization e i dati](2025/enhance-loyalty-programs.md)
    + [Miglioramento di Personalization](2025/enhancing-personalization.md)
+   + [Sperimentazione GenAI](2025/gen-ai-experimentation.md)
    + [Modello operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Logica sequenziale di masterizzazione](2025/mastering-sequential-logic.md)
+   + [Ottimizzazione delle prestazioni di AEM](2025/optimize-aem-performance.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization basato sull’intelligenza artificiale di Adobe Target](2024/ai-personalization.md)
