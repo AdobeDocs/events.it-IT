@@ -1,18 +1,23 @@
 ---
-user-guide-title: Sessioni tecniche Experience Cloud
+user-guide-title: Sessioni tecniche di Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions è un approccio proattivo alla deviazione dei casi, che offre ai clienti webinar specifici sulle soluzioni.
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 15%
+source-wordcount: '140'
+ht-degree: 14%
 
 ---
 
 
-# Sessioni tecniche Experience Cloud {#tech-sessions}
+# Sessioni tecniche di Experience Cloud {#tech-sessions}
 
-+ [Sessioni tecniche Experience Cloud](overview.md)
++ [Sessioni tecniche di Experience Cloud](overview.md)
++ 2025 {#2025}
+   + [Ottenere il massimo da Marketo Measure](2025/getting-most-marketo-measure.md)
+   + Migrazione di Marketo a Adobe Admin Console {#marketo-admin-console}
+      + [Pre-migrazione](2025/marketo-pre-migration.md)
+      + [Post-migrazione](2025/marketo-post-migration.md)
 + 2024 {#2024}
    + Piattaforma dati contenuti in tempo reale {#rtcdp-office-hours-2024}
       + [Risoluzione dei problemi di AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
