@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Ep. 45: Non aspettate... Collaborate! Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44: Sblocco di informazioni operative con AI Assistant in Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Introduzione di AI Assistant per i tipi di pubblico per gli addetti al marketing in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Svelare le schede di contenuto per Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
@@ -34,7 +35,7 @@ ht-degree: 4%
    + [Ep. 34: nuove dashboard di Marketo Measure per l’individuazione](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33: Fare un salto in avanti con la nuova interfaccia utente di Adobe Campaign v8](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32: Playbook di casi d’uso, modelli self-service per distribuire i casi d’uso in pochi clic](episodes/exl-live-episode-02-08-24.md)
-   + [Ep. 31: portare al Customer Journey Analytics i dati e le analisi di Adobe Analytics](episodes/exl-live-episode-01-17-24.md)
+   + [Ep. 31: trasferire dati e analisi da Adobe Analytics a Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: Conto alla rovescia per il 2024 con le prime 5 nuove funzioni di Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29: Sfrutta al massimo i dati degli eventi comportamentali in Real-Time CDP e AJO](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28: Approfondimento sulla versione di Workfront - nuova Home di Workfront](episodes/exl-live-episode-10-26-23.md)
@@ -56,13 +57,13 @@ ht-degree: 4%
    + [Ep. 12: Notifiche push con Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11: AAM e Real-time CDP - Come posso gestire tutti questi tipi di pubblico?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: AEM da Headful a Headless (e molto altro ancora)](episodes/exl-live-episode-04-21-22.md)
-   + [Ep. 9: Presentazione di demo di riferimento completamente nuove per l&#39;AEM](episodes/exl-live-episode-02-03-22.md)
-   + [Ep. 8: Il Customer Journey Analytics: Il Dentro Scoop](episodes/exl-live-episode-08.md)
-   + [Ep. 7: Estendere l’AEM con Adobe App Builder](episodes/exl-live-episode-07.md)
+   + [Ep. 9: Presentazione di demo di riferimento completamente nuove su AEM](episodes/exl-live-episode-02-03-22.md)
+   + [Ep. 8: Customer Journey Analytics: lo scoop interno](episodes/exl-live-episode-08.md)
+   + [Ep. 7: Estendere AEM con Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Ep. 6: Misurare le persone invece dei dispositivi](episodes/exl-live-episode-06.md)
    + [Ep. 5: Vai subito in produzione con la creazione rapida dei siti](episodes/exl-live-episode-05.md)
    + [Ep. 4: Chi l’ha cliccato? E poi cosa hanno fatto?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Suggerimenti degli esperti per dare risalto alle campagne per le vacanze](episodes/exl-live-episode-03.md)
    + [Ep. 2: Rendi il tuo prossimo segmento di pubblico più smart che mai](episodes/exl-live-episode-02.md)
-   + [Ep. 1: I miei tre Adobe preferiti [!DNL Analytics] Suggerimenti per l&#39;implementazione](episodes/exl-live-episode-01.md)
+   + [Ep. 1: I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
