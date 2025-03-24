@@ -9,12 +9,12 @@ feature: Brand Portal
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7340
 exl-id: 89f30cda-c166-4c61-9840-f104b8e62ac4
 duration: 3095
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 # Brand Portal - Serie di risorse Adobe Experience Manager
 
-Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento in Adobe Experience Manager Assets. Se sei un professionista che non ha mai utilizzato Adobe Experience Manager Assets o che utilizza Adobe Experience Manager Assets da un po’ e desideri acquisire nuove competenze, questo è il modo ideale per immergerti in cinque delle aree più importanti della soluzione. Gli Adobi esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
+Utilizza questa serie di webinar in cinque parti per creare la tua knowledge base e massimizzare il tuo investimento in Adobe Experience Manager Assets. Se sei un professionista che non ha mai utilizzato Adobe Experience Manager Assets o che utilizza Adobe Experience Manager Assets da un po’ e desideri acquisire nuove competenze, questo è il modo ideale per immergerti in cinque delle aree più importanti della soluzione. Gli esperti Adobe esamineranno le nozioni di base e forniranno informazioni avanzate che consentiranno di definire i passaggi successivi da mettere in pratica immediatamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 

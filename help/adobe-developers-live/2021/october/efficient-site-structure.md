@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9182
 type: Event
 exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
 duration: 1165
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 14%
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 Panoramica dettagliata di alcune delle best practice per gli sviluppatori relative a copie in lingua, Live Copy e operazioni di spostamento o copia complesse.
 
-Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/39DoIQT)**.
+Continua la conversazione in **[Experience League Communities](https://adobe.ly/39DoIQT)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

@@ -1,15 +1,15 @@
 ---
 title: Novità di Adobe Experience Manager Assets as a Cloud Service
-description: Abbiamo aggiunto numerose funzioni ad Adobe Experience Manager Assets as a Cloud Service nel 2021 per risolvere casi d’uso chiave per sviluppatori e aziende. Mentre chiudiamo l'anno, unisciti a questa sessione per un corso intensivo sulle novità e magari una demo o due.
+description: Nel 2021 sono state aggiunte numerose funzioni ad Adobe Experience Manager Assets as a Cloud Service per risolvere casi d’uso chiave per sviluppatori e aziende. Mentre chiudiamo l'anno, unisciti a questa sessione per un corso intensivo sulle novità e magari una demo o due.
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9152
 type: Event
 exl-id: ce592a15-3ed9-4bff-bc3c-b655037e22b9
 duration: 1692
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 8%
@@ -18,9 +18,9 @@ ht-degree: 8%
 
 # Novità di Adobe Experience Manager Assets as a Cloud Service
 
-Abbiamo aggiunto numerose funzioni ad Adobe Experience Manager Assets as a Cloud Service nel 2021 per risolvere casi d’uso chiave per sviluppatori e aziende. Mentre chiudiamo l&#39;anno, unisciti a questa sessione per un corso intensivo sulle novità e magari una demo o due.
+Nel 2021 sono state aggiunte numerose funzioni ad Adobe Experience Manager Assets as a Cloud Service per risolvere casi d’uso chiave per sviluppatori e aziende. Mentre chiudiamo l&#39;anno, unisciti a questa sessione per un corso intensivo sulle novità e magari una demo o due.
 
-Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/2XSAcg)**.
+Continua la conversazione in **[Experience League Communities](https://adobe.ly/2XSAcg)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337574/?quality=12&learn=on&hidetitle=true)
 

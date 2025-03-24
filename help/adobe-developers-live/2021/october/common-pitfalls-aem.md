@@ -1,28 +1,28 @@
 ---
-title: Racconti dal fronte - come evitare le insidie comuni in Experience Manager CS
+title: Racconti in prima linea - come evitare le insidie comuni in Experience Manager CS
 description: Impara dagli errori più comuni che altri hanno fatto in modo da poterli evitare tu stesso! In questa sessione, esamineremo alcuni dei problemi comuni riscontrati dai nostri tecnici addetti alle chiamate e al supporto e discuteremo le best practice per garantire che tu possa evitarli nell’implementazione di Adobe Experience Manager as a Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
 duration: 1889
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 7%
 
 ---
 
-# Racconti dal fronte - come evitare le insidie comuni in Experience Manager CS
+# Racconti in prima linea - come evitare le insidie comuni in Experience Manager CS
 
 Impara dagli errori più comuni che altri hanno fatto in modo da poterli evitare tu stesso! In questa sessione, esamineremo alcuni dei problemi comuni riscontrati dai nostri tecnici addetti alle chiamate e al supporto e discuteremo le best practice per garantire che tu possa evitarli nell’implementazione di Adobe Experience Manager as a Cloud Service.
 
-Continua la conversazione in **[Comunità Experienci League](https://adobe.ly/3kLQK3j)**.
+Continua la conversazione in **[Experience League Communities](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

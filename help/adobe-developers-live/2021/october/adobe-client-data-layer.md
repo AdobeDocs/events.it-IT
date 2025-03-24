@@ -6,12 +6,12 @@ feature: Tags
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9134
 type: Event
 exl-id: a38f67cd-3eb5-4590-a9be-484d0074508f
 duration: 2359
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 6%
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Adobe Client Data Layer - Gestione dei dati basata su eventi
 
-Hai mai desiderato conoscere i segreti e i dettagli di Adobe Client Data Layer? Come è progettata, come si presenta l’architettura e come sfruttarla al massimo? Partecipa a questa sessione e scopri tutto su di essa. Inoltre, un esempio di e-commerce mostrerà come i Componenti core idratano l’ACDL e successivamente l’estensione Launch interagisce con altre applicazioni, come l’Adobe [!DNL Analytics] o Adobe Target.
+Hai mai desiderato conoscere i segreti e i dettagli di Adobe Client Data Layer? Come è progettata, come si presenta l’architettura e come sfruttarla al massimo? Partecipa a questa sessione e scopri tutto su di essa. Inoltre, un esempio di e-commerce mostrerà come i Componenti core idratano l’ACDL e successivamente l’estensione Launch interagisce con altre applicazioni, come Adobe [!DNL Analytics] o Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 
