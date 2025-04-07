@@ -1,11 +1,11 @@
 ---
 user-guide-title: Registrazioni di eventi Adobe Experience League
 user-guide-breadcrumb: Event Recordings
-user-guide-description: Raccolta di registrazioni di eventi utilizzati per l'utilizzo di prodotti Adobe Enterprise
-source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
+user-guide-description: Raccolta di registrazioni di eventi utilizzati per l'utilizzo dei prodotti Adobe Enterprise
+source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 10%
+source-wordcount: '444'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 10%
    + [Forum sulla gestione dei contenuti di Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Webinar Adobe Customer Success](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-   + [Ore ufficio campioni AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+   + [Ore AEM Champion Office](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [Eventi APAC Commerce](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Dietro la birra](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
    + [Commerce e caffè](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
@@ -31,7 +31,7 @@ ht-degree: 10%
    + [Espressos e Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + [GEMME Experienci Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Panoramica sulla versione di Experience Manager](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it)
    + [Eventi GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [Scopri dai tuoi colleghi](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -47,12 +47,12 @@ ht-degree: 10%
    + Servizi Adobe Acrobat {#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + Adobe Audience Manager {#aam}
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Analytics {#aa}
       + [Webinar Adobe Customer Success](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
       + [Eliminazione dati](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Scopri dai tuoi colleghi](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
@@ -76,11 +76,11 @@ ht-degree: 10%
    + Adobe Experience Manager {#aem}
       + [Forum sulla gestione dei contenuti di Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [Ore ufficio campioni AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+      + [Ore AEM Champion Office](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Espressos e Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [GEMME Experienci Manager](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Panoramica sulla versione di Experience Manager](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=it)
       + [Scopri dai tuoi colleghi](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -88,7 +88,7 @@ ht-degree: 10%
    + Adobe Experience Platform {#aep}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Voci di gestione dati cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it)
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + Adobe GenStudio for Performance Marketing {#agspm}
       + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
@@ -101,14 +101,14 @@ ht-degree: 10%
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Real-time CDP {#rtcdp}
       + [Voci di gestione dati cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=it)
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Target {#at}
-      + [Experience League live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Sessioni tecniche Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Generatore di abilità](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Workfront {#aw}
@@ -118,3 +118,5 @@ ht-degree: 10%
       + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Sveglia con Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
+   + {#hidden} nascosto
+      + [API REST di Adobe Pass v2](../single-events/adobe-pass-rest-api-v2.md)
