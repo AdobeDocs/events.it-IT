@@ -24,4 +24,4 @@ ht-degree: 0%
 
 L’Editor universale è la nuova generazione di editor di pagine contestuali AEM e risolve le limitazioni attuali dell’Editor pagina AEM o dell’Editor SPA. È indipendente dai framework, dai motori di rendering e dalle fonti di dati, fornendo così tutta la libertà che gli sviluppatori stanno cercando e rendendola davvero universale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456476/?learn=on&captions=ita)

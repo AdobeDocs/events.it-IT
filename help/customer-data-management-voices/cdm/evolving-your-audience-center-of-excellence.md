@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Devono evolversi anche le piattaforme che facilitano la gestione dei dati dei clienti, i tipi di pubblico e i programmi di attivazione. Lo stesso vale per le persone e i processi che supportano queste piattaforme. Il modello di Audience Center of Excellence (COE) è stato a lungo stabilito come il modo ottimale per supportare le piattaforme di gestione dei dati (DMP, Data Management Platforms).
 
->[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457364/?quality=12&learn=on&captions=ita)
 
 Per completare questo video, puoi anche [scaricare un white paper](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

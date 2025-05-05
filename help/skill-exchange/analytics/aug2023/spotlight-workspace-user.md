@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Livellamento - Istruzioni per gli utenti Workspace occasionali
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456692/?learn=on&captions=ita)

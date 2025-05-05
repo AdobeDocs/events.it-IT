@@ -20,4 +20,4 @@ ht-degree: 0%
 
 La navigazione è fondamentale per consentire ai visitatori di spostarsi all’interno del sito e di accedere ai funnel di conversione. Scopri come tenere traccia dell’efficacia della navigazione e come migliorarla con Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457375/?learn=on&captions=ita)

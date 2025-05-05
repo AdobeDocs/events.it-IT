@@ -31,4 +31,4 @@ Come hanno evoluto nel tempo i processi e l&#39;infrastruttura
 Consigli pratici per l’integrazione di Workfront nello stack tecnologico più ampio e per la maturazione dei flussi di lavoro chiave
 Come IPG sta gettando le basi per la catena di fornitura dei contenuti
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456670/?learn=on&captions=ita)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Nel mondo digitale e cross-channel di oggi, i consumatori sono in grado di interagire ovunque, quando e come desiderano. E l’addetto al marketing deve essere pronto, altrimenti rischia di avere un’esperienza cliente scadente o, peggio, un’attrazione. La risposta non è solo una piattaforma di marketing che supporta l’orchestrazione dei messaggi tra i canali, ma anche l’esistenza di un’organizzazione di marketing che supporta la pianificazione, l’esecuzione e la misurazione delle campagne di marketing su tutti i canali.
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457056/?quality=12&learn=on&captions=ita)

@@ -26,7 +26,7 @@ Strategie approfondite e approcci pratici per le organizzazioni che intendono se
 * Utilizzo di Workfront per supportare la gestione snella dei progetti
 * Apprendimento continuo e adattamento
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456716/?learn=on&captions=ita)
 
 ## Panoramica della riunione
 

@@ -28,4 +28,4 @@ Scopri come gestire l’assegnazione di priorità al flusso di dati per l’orch
 - Importanza delle procedure consigliate e della definizione delle priorità dei flussi di dati
 - Ottimizzare le campagne di marketing in tempo reale
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456813/?learn=on&captions=ita)

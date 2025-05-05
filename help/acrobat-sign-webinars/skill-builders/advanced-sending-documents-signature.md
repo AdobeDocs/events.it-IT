@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Approfondisci tutte le opzioni disponibili durante l’invio di contratti per la firma. In questa sessione scoprirai: Invio a più destinatari Ruoli destinatari disponibili (firmatario, compilatore di moduli, delegato e altri) Aggiunta di un campo CC Protezione tramite password e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454888/?learn=on&captions=ita)
 
 Il webinar fornisce informazioni approfondite sulle funzioni avanzate di Acrobat Sign per l’impostazione di flussi di lavoro con più partecipanti, la configurazione dei ruoli dei destinatari e l’utilizzo di gruppi di destinatari e messaggi privati. Questo apprendimento può contribuire a semplificare il processo di invio dei documenti per la firma e a migliorare la collaborazione tra i partecipanti che firmano.
 

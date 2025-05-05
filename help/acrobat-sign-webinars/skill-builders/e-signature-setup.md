@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri tre semplici modi per impostare i documenti per la firma elettronica. Che siano PDF, file Microsoft 365 o anche un semplice file di immagine, questa sessione ti fornirà gli strumenti necessari per firmare quel documento. Verranno illustrati tre metodi: Ambiente di authoring con trascinamento semplice e intuitivo di Adobe Acrobat Sign Configurare un modulo per PDF in Adobe Acrobat Utilizzare i tag di testo per creare documenti in modo rapido.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455956/?learn=on&captions=ita)
 
 ## Quali vantaggi offre l&#39;utilizzo di tag di testo in combinazione con Microsoft Word?
 

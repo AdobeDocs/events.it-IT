@@ -33,4 +33,4 @@ Vedrai anche una demo live della piattaforma per dare vita a questi concetti.
 
 MBI semplifica la generazione di rapporti con dashboard che visualizzano qualsiasi cosa, dal valore medio dell’ordine al valore del ciclo di vita del cliente e alle percentuali di fidelizzazione. Grazie a queste potenti informazioni, potrai intraprendere azioni e incrementare il valore del tuo business online.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413904/?quality=12&learn=on&captions=ita)

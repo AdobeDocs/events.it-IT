@@ -24,6 +24,6 @@ Panoramica e dimostrazioni dell’intelligenza artificiale in Commerce, l’inte
 
 + Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456492/?learn=on&captions=ita)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)

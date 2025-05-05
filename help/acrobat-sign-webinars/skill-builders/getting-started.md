@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri le nozioni di base di Acrobat Sign per iniziare a ottenere rapidamente la firma dei documenti. Ti mostreremo come: preparare e inviare i tuoi documenti per la firma elettronica Visualizzare ciò che i firmatari vedono Gestire e tenere traccia dell’avanzamento degli accordi Creare la tua firma e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455473/?learn=on&captions=ita)
 
 ## Punti chiave
 

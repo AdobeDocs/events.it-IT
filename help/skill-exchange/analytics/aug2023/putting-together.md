@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Questa sessione completerà il lavoro comprendendo in che modo Adobe Analytics tiene traccia dei dati del sito web e utilizza le visualizzazioni per ottenere ulteriori informazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456728/?learn=on&captions=ita)

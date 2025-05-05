@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Scopri i servizi di Ricerca e catalogo per migliorare e ottimizzare le esperienze della vetrina.  Questa dimostrazione spiega il connettore di servizi commerce e come sfruttarlo nella vetrina utilizzando GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454744/?learn=on&captions=ita)

@@ -26,4 +26,4 @@ In questa sessione imparerai:,
 * Best practice per l’utilizzo di Audit Trail, tra cui cosa verificare, con quale frequenza e perché è importante, oltre agli ulteriori vantaggi dell’ultima versione di giugno 2024.
 * Come utilizzare Campaign Inspector per rivedere regolarmente le campagne avanzate, tra cui cosa cercare (volume, batch vs. trigger, campagne ad alta latenza trigger che potrebbero rallentare l’istanza, ecc.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456959/?learn=on&captions=ita)

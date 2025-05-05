@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront: apertura di Keynote
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454490/?learn=on&captions=ita)

@@ -28,6 +28,6 @@ Altoparlanti:
 + Carolina de Figuerido - Krispy Kreme
 + Hussein Moustafa
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457239/?learn=on&captions=ita)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)

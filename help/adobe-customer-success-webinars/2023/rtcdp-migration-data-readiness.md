@@ -25,4 +25,4 @@ Scopri la strategia alla base della preparazione organizzativa dal punto di vist
 * Scopri come allinearsi ai casi d’uso aziendali come organizzazione
 * Risorse e azioni chiave per la preparazione a CDP in tempo reale
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457071/?learn=on&captions=ita)

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Sfrutta il futuro di Adobe Commerce. Esplora la nostra presentazione all’avanguardia sui miglioramenti più recenti della piattaforma Commerce, basata su tecnologie AI e 3D generative. Scopri come queste innovazioni ridefiniscono il coinvolgimento dei clienti e guidano il successo aziendale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456464/?learn=on&captions=ita)

@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Headless Adaptive Forms è una soluzione per la creazione e la gestione di moduli web headless all’interno della piattaforma Adobe Experience Manager. Questa funzione consente alle organizzazioni di creare, pubblicare e gestire moduli interattivi a cui è possibile accedere e con cui interagire tramite API, anziché tramite un’interfaccia utente grafica tradizionale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454976/?learn=on&captions=ita)

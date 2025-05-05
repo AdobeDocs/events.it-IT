@@ -37,7 +37,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/advanced-reporting" title="Reporting avanzato per Acrobat Sign">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1731453823479" alt="Reporting avanzato per Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454413/?format=jpeg&nocache=1731453823479&captions=ita" alt="Reporting avanzato per Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -60,7 +60,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/advanced-sending-documents-signature" title="Suggerimenti avanzati per l&apos;invio di documenti per la firma">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1731453823460" alt="Suggerimenti avanzati per l&apos;invio di documenti per la firma"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454888/?format=jpeg&nocache=1731453823460&captions=ita" alt="Suggerimenti avanzati per l&apos;invio di documenti per la firma"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -83,7 +83,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/agreement-status" title="Gestire gli accordi - Ottenere visibilità in tempo reale nello stato dell’accordo">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1731453823516" alt="Gestire gli accordi - Ottenere visibilità in tempo reale nello stato dell’accordo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455009/?format=jpeg&nocache=1731453823516&captions=ita" alt="Gestire gli accordi - Ottenere visibilità in tempo reale nello stato dell’accordo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -106,7 +106,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/authoring-environment" title="Formazione avanzata sull’ambiente di authoring">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1731453823517" alt="Formazione avanzata sull’ambiente di authoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455912/?format=jpeg&nocache=1731453823517&captions=ita" alt="Formazione avanzata sull’ambiente di authoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -129,7 +129,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/collect-signatures" title="Raccogli più firme con un clic">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1731453823488" alt="Raccogli più firme con un clic"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454900/?format=jpeg&nocache=1731453823488&captions=ita" alt="Raccogli più firme con un clic"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +152,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/create-use-workflows" title="Creazione e utilizzo dei flussi di lavoro dall’inizio alla fine">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1731453823485" alt="Creazione e utilizzo dei flussi di lavoro dall’inizio alla fine"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454910/?format=jpeg&nocache=1731453823485&captions=ita" alt="Creazione e utilizzo dei flussi di lavoro dall’inizio alla fine"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/document-builder" title="Document Builder per Adobe Acrobat Sign">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1731453823516" alt="Document Builder per Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454921/?format=jpeg&nocache=1731453823516&captions=ita" alt="Document Builder per Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +198,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/e-signature-microsoft" title="Utilizzare le firme elettroniche nelle app Microsoft">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1731453823517" alt="Utilizzare le firme elettroniche nelle app Microsoft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455058/?format=jpeg&nocache=1731453823517&captions=ita" alt="Utilizzare le firme elettroniche nelle app Microsoft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +221,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/e-signature-setup" title="Preparare i contratti per la firma elettronica">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1731453823483" alt="Preparare i contratti per la firma elettronica"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455956/?format=jpeg&nocache=1731453823483&captions=ita" alt="Preparare i contratti per la firma elettronica"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/fillable-signable-web-form" title="Pubblica un modulo Web compilabile e firmabile">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1731453823488" alt="Pubblica un modulo Web compilabile e firmabile"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455456/?format=jpeg&nocache=1731453823488&captions=ita" alt="Pubblica un modulo Web compilabile e firmabile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,7 +267,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/getting-started" title="Acrobat Sign 101 - Guida introduttiva">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1731453823457" alt="Acrobat Sign 101 - Guida introduttiva"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455473/?format=jpeg&nocache=1731453823457&captions=ita" alt="Acrobat Sign 101 - Guida introduttiva"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/notarize" title="Integrazione Notarize">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1731453823489" alt="Integrazione Notarize"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454380/?format=jpeg&nocache=1731453823489&captions=ita" alt="Integrazione Notarize"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,7 +313,7 @@ Scopri dagli esperti di Adobe come padroneggiare i nuovi flussi di lavoro di fir
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/it/docs/events/acrobat-sign-webinars/workflow-automations" title="Automazioni dei flussi di lavoro con tecnologia Microsoft Power Automate">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1731453823611" alt="Automazioni dei flussi di lavoro con tecnologia Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454932/?format=jpeg&nocache=1731453823611&captions=ita" alt="Automazioni dei flussi di lavoro con tecnologia Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Scopri Adobe App Builder, Adobe IO, webhook, Admin UI SDK.  Questa è un’introduzione a ogni nuova funzione per aiutarti a comprendere i casi d’uso comuni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456681/?learn=on&captions=ita)

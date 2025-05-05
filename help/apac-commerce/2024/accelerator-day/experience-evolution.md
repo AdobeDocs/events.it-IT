@@ -25,6 +25,6 @@ Panoramica e dimostrazione della personalizzazione per Commerce con Real-Time CD
 
 + Presentato da Mike Lynch, specialista Commerce Enterprise - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454446/?learn=on&captions=ita)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)

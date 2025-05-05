@@ -26,4 +26,4 @@ In questa sessione imparerai:
 * Best practice per sfruttare la segmentazione e i contenuti dinamici in Adobe Commerce
 * Strategie per un&#39;efficace gestione dei contenuti che favoriscano il coinvolgimento dei clienti
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456948/?learn=on&captions=ita)

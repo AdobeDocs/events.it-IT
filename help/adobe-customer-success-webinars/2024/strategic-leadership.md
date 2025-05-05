@@ -24,4 +24,4 @@ Acquisisci le tattiche per raggiungere in modo efficace gli obiettivi organizzat
 - Stabilire il corso per il successo a lungo termine
 - Guidare efficacemente le iniziative strategiche
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456791/?learn=on&captions=ita)

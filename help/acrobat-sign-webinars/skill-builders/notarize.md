@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Integrazione Notarize: il modo più rapido e semplice per notarizzare i documenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454380/?learn=on&captions=ita)
 
 ## Argomenti principali trattati
 

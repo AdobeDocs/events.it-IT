@@ -30,4 +30,4 @@ In questa sessione, Tia Calvert, Product Manager, e Erin Kuchera, Creative Opera
 * Come incorporare il tracciamento del tempo libero
 * Esempi di come Mayo Clinic utilizza Analytics e Resource Manager per fornire trasparenza ai team e pianificare nuovi lavori
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457104/?learn=on&captions=ita)

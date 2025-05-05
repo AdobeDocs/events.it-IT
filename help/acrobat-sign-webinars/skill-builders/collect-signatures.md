@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri in che modo la funzione Send in Bulk di Acrobat Sign può farti risparmiare tempo. Se hai bisogno di più persone per firmare copie univoche di un aggiornamento della policy a livello aziendale, un NDA o qualsiasi altro documento, Send in Bulk ti consente di preparare il file una volta, inviare a più firmatari con un clic e tenere traccia facilmente delle risposte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454900/?learn=on&captions=ita)
 
 ## Punti chiave
 

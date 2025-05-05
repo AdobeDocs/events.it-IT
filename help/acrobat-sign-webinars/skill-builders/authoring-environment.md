@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Approfondisci le opzioni disponibili nell’ambiente di authoring di Acrobat Sign. Gli argomenti trattati includono: Panoramica della preparazione dei modelli di documento Acrobat Sign tramite Acrobat, assegnazione di tag di testo e Ambiente di authoring Acrobat Sign. Approfondisci l’ambiente di authoring, con informazioni sulla duplicazione e la copia dei campi, l’aggiunta di campi speciali, l’assegnazione di campi e la configurazione di campi condizionali e di calcolo. Come inviare i modelli per la firma, confrontando il modello di documento con il modello di campo modulo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455912/?learn=on&captions=ita)
 
 ## Punti chiave
 

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Monitora gli eventi di distribuzione del progetto Commerce in New Relic creando un’integrazione script. Abilita facilmente la funzione New Relic Track changes per monitorare gli eventi di distribuzione nel progetto di infrastruttura cloud Commerce. La raccolta dati sulle distribuzioni consente di analizzare l’impatto delle modifiche apportate alle prestazioni complessive, ad esempio CPU, memoria, tempi di risposta delle transazioni e altro ancora.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456453/?learn=on&captions=ita)

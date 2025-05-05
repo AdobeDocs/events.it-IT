@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri come creare un modulo web che consenta a chiunque di completare e firmare — senza dover avviare la transazione o anche conoscere l’indirizzo e-mail del firmatario. Scoprirai anche come preparare un modello di documento che può essere utilizzato per singole transazioni di firma e per la registrazione in un URL univoco per la condivisione ampia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455456/?learn=on&captions=ita)
 
 ## Punti chiave
 

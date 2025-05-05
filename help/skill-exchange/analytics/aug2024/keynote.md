@@ -26,4 +26,4 @@ Potenziare i team con i dati è essenziale per promuovere l’innovazione e aume
 * Scopri le best practice per fornire il contesto giusto e garantire un utilizzo efficace dei dati.
 * Scopri in che modo Adobe Analytics e Customer Journey Analytics possono aiutare i tuoi team a utilizzare i dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453595/?learn=on&captions=ita)

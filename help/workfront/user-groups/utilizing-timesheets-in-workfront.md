@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Nicholas Twillie e Alma Martinez di Walgreens parlano del tempo di tracciamento, attraverso le schede orario, in Workfront. Guarda come Christian Barnes ti mostra il lato tecnico delle schede orario.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457341/?quality=12&learn=on&captions=ita)

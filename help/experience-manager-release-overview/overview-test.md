@@ -31,8 +31,8 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="Panoramica sulla versione 2024.11.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="Panoramica sulla versione 2024.11.0 di AEM"
+                    <a href="https://video.tv.adobe.com/v/3440928/?learn=on&enablevpops&autoplay=true&captions=ita" title="Panoramica sulla versione 2024.11.0 di AEM" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456082/?format=jpeg&captions=ita" alt="Panoramica sulla versione 2024.11.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="Panoramica sulla versione 2024.7.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="Panoramica sulla versione 2024.7.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432542/?format=jpeg&nocache=1733938196066&captions=ita" alt="Panoramica sulla versione 2024.7.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +191,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="Panoramica sulla versione 2024.5.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="Panoramica sulla versione 2024.5.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448070/?format=jpeg&nocache=1733938196089&captions=ita" alt="Panoramica sulla versione 2024.5.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +214,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="Panoramica sulla versione 2024.4.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="Panoramica sulla versione 2024.4.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446317/?format=jpeg&nocache=1733938196102&captions=ita" alt="Panoramica sulla versione 2024.4.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="Panoramica sulla versione 2024.3.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="Panoramica sulla versione 2024.3.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450615/?format=jpeg&nocache=1733938196095&captions=ita" alt="Panoramica sulla versione 2024.3.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +260,7 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="Panoramica sulla versione 2024.1.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="Panoramica sulla versione 2024.1.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448937/?format=jpeg&nocache=1733938196099&captions=ita" alt="Panoramica sulla versione 2024.1.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

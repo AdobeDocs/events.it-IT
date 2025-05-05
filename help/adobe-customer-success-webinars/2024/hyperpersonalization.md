@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Informa sulla nuova era dell’iperpersonalizzazione. Costruiremo una base su un modello di maturità della personalizzazione, discuteremo i blocchi comuni e forniremo suggerimenti tattici per iniziare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457353/?learn=on&captions=ita)
 
 ## Punti principali della discussione
 

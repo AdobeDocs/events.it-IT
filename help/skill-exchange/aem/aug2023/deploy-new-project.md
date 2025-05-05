@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Questo scambio di competenze si concentra su come un nuovo sviluppatore AEM può avviare e implementare un nuovo progetto. Si concentrerà su argomenti come l’archetipo del progetto AEM, la configurazione di Cloud Manager e gli strumenti di sviluppo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457282/?learn=on&captions=ita)

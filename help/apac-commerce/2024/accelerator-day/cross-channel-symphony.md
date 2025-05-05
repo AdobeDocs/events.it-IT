@@ -28,6 +28,6 @@ Altoparlanti:
 + Matt Palmer, Senior Partner Sales Manager - Adobe
 + Graham Bell, responsabile vendite ANZ - DotDigital
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455519/?learn=on&captions=ita)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)
