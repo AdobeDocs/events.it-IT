@@ -118,5 +118,5 @@ ht-degree: 9%
       + [Scambio abilità](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Sveglia con Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
-   + {#hidden} nascosto
+   + nascosto{#hidden}
       + [API REST di Adobe Pass v2](../single-events/adobe-pass-rest-api-v2.md)

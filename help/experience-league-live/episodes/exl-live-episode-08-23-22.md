@@ -56,7 +56,7 @@ Stai pensando di migrare l’implementazione al nuovo Adobe Web SDK?  Eseguiremo
 
 <br> 
 
-**Commento:** una delle cose che mi interessano davvero delle estensioni è il loro aspetto che consente di risparmiare tempo. Molte di queste operazioni possono essere eseguite da *1} con un codice personalizzato, ma con un&#39;estensione non è necessario scrivere tale codice.*
+**Commento:** una delle cose che mi interessano davvero delle estensioni è il loro aspetto che consente di risparmiare tempo. Molte di queste operazioni possono essere eseguite da *1&rbrace; con un codice personalizzato, ma con un&#39;estensione non è necessario scrivere tale codice.*
 
 **Risposta:** a destra il. Ed è ripetibile senza dover ricreare ogni volta la ruota.
 
