@@ -33,5 +33,5 @@ Per ottimizzare la tua esperienza con l’AEM, è importante ottimizzare la cach
 
 [Ottieni file](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -30,23 +30,23 @@ Guarda la nostra prima sessione Marketo &amp; Mochas dell&#39;anno con i nostri 
    * [5 funzioni da conoscere nel 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Gestione account di destinazione**
-   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Domande frequenti](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Video Suggerimenti](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Casi d&#39;uso](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Analisi avanzata Percorso**
-   * [Panoramica reportistica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Panoramica del ciclo di vita di Modeler](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Panoramica reportistica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Panoramica del ciclo di vita di Modeler](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Aree di lavoro e partizioni**
-   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Punti chiave da eliminare
 

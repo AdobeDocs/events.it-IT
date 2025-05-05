@@ -31,4 +31,4 @@ Per ulteriori informazioni sulle best practice, consulta la documentazione di Ad
 
 * [Best practice per la gestione multisito](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Best practice per la traduzione](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Torna alla panoramica](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Torna alla panoramica](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -29,5 +29,5 @@ Il Feature Pack 1 dell&#39;AEM [!DNL Forms] è il percorso di aggiornamento per 
 
 [Ottieni file](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

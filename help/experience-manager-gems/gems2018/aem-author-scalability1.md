@@ -28,5 +28,5 @@ Matt Ryan, Sr., Ingegnere Software, Adobe
 
 [Ottieni file](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -32,9 +32,9 @@ Asset Link è la tua connessione nativa a Adobe Creative Cloud.
 ## Risorse
 
 * [Video su Adobe Asset Link](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=it)
-* [Asset Link per Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Configurazione di AEM Assets 6.5 e 6.4 per Adobe Asset Link](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Configura AEM as a Cloud Service per Adobe Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Asset Link per Adobe XD](https://helpx.adobe.com/it/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Configurazione di AEM Assets 6.5 e 6.4 per Adobe Asset Link](https://helpx.adobe.com/it/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Configura AEM as a Cloud Service per Adobe Asset Link](https://helpx.adobe.com/it/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## Registrazioni in serie
 

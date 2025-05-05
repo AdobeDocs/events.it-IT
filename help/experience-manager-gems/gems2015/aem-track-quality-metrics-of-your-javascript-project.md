@@ -36,5 +36,5 @@ Metodologia per integrare l&#39;analisi sonarqube in progetti JavaScript e quind
 
 [Ottieni file](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

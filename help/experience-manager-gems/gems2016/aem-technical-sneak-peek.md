@@ -29,5 +29,5 @@ Unisciti a Gabriel Walt e Justin Edelson per uno sguardo su ciò a cui stiamo la
 
 [Ottieni file](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

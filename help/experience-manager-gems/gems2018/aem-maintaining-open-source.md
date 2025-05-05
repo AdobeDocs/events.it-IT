@@ -29,5 +29,5 @@ Data: 09/12/2018
 [Ottieni file](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

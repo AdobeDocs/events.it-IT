@@ -33,5 +33,5 @@ Jan Exner, Mons. Consulente di gestione, Adobe
 [Web Analytics per sviluppatori](https://webanalyticsfordevelopers.com/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

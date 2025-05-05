@@ -34,5 +34,5 @@ In questa sessione, Justin Edelson, Global Evangelist per AEM e co-project lead 
 
 [Ottieni file](assets/08262015-commons-and-tools.pptx)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

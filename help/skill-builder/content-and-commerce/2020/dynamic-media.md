@@ -31,7 +31,7 @@ Con Dynamic Media, automatizza l’output delle risorse per tutti i canali e gli
 
 ## Risorse
 
-*[Video Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Video Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=it#dynamic-media)
 *[Guida introduttiva alla strategia per contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guida alle impostazioni predefinite per le immagini della strategia per contenuti multimediali avanzati](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[L&#39;immagine è tutta la serie di blog](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

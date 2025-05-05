@@ -31,12 +31,12 @@ Definire una strategia chiara per ottimizzare la reperibilità.
 
 ## Risorse
 
-*[Utilizzare gli schemi metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Utilizzare gli schemi metadati per gestire i metadati delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=it)
 *[Estendi schemi metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=it)
 *[Ottimizzare l&#39;authoring dei metadati con i metadati a catena](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=it)
 *[Applicare automaticamente i metadati alle risorse utilizzando i profili metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=it)
-*[Schemi metadati AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Gestione metadati risorse](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Schemi metadati AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=it#administer)
+*[Gestione metadati risorse](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=it#RegisteringacustomnamespacewithinAEM)
 
 ## Registrazioni in serie
 

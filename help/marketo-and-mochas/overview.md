@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo e Mochas
 
-Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in combinazione con la [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html) e le [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) di Adobe Marketo, potrai comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
+Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in combinazione con la [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=it) e le [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=it) di Adobe Marketo, potrai comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
 
 ## Registrazioni 2025
 

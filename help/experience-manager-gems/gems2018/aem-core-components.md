@@ -24,7 +24,7 @@ Scopri tutto ciò che riguarda i Componenti core e le relative funzioni, il loro
 
 Gabriel Walt, Product Manager, Adobe
 
-[Documentazione dei componenti core AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[Documentazione dei componenti core AEM](https://helpx.adobe.com/it/experience-manager/core-components/user-guide.html)
 
 AEM Gems - Componenti core AEM - Data: 12/05/2018
 

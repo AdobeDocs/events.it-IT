@@ -31,4 +31,4 @@ In questa sessione abbiamo esaminato:
 
 ## Risorse aggiuntive
 
-[Video Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Video Real-Time CDP Collaboration](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

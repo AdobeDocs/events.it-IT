@@ -31,13 +31,13 @@ Nozioni di base sull’impostazione e l’utilizzo di DAM.
 
 ## Risorse
 
-* [Guida utente di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configurazione della struttura di cartelle di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Guida utente di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=it)
+* [Configurazione della struttura di cartelle di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=it)
 * [Configurare le autorizzazioni della cartella AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=it)
-* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Trova risorse visivamente simili con apprendimento automatico](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Utilizzare le raccolte per organizzare e condividere le risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=it)
+* [Trova risorse visivamente simili con apprendimento automatico](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=it)
+* [Ottieni risultati di ricerca precisi e precisi con facet di ricerca dinamica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=it)
+* [Sintassi di ricerca full-text avanzata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=it#using)
 
 ## Registrazioni in serie
 

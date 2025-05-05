@@ -28,5 +28,5 @@ Dai un&#39;occhiata a ciò a cui abbiamo lavorato per la prossima generazione di
 
 [Ottieni file](assets/aem-technical-sneak-peek.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -31,5 +31,5 @@ Nella sessione verrà inoltre dimostrata la possibilità di configurare la super
 Varun Nagpal, informatico, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

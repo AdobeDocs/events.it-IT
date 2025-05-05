@@ -19,11 +19,11 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=it">
       <img alt="L&apos;unione fa la forza: Adobe [!DNL Marketo Engage] e Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=it">
         <strong>Migliore insieme - Adobe [!DNL Marketo Engage] e Real-Time CDP</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=it">
       <img alt="Sviluppare e personalizzare modelli di dati in Adobe [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=it">
         <strong>Sviluppare e personalizzare modelli di dati nell'Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ Sviluppa profili cliente in tempo reale estraendo dati da tutte le origini per c
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=it">
       <img alt="Suggerimenti e trucchi principali per Adobe Campaign Standard" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=it">
         <strong>Suggerimenti e trucchi principali per Adobe Campaign Standard</strong>
       </a>
     </div>

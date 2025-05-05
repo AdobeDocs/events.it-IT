@@ -36,5 +36,5 @@ Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, spiega come u
 
 [Ottieni file](assets/dynamicmedia83017.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

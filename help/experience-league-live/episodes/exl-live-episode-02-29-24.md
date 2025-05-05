@@ -49,6 +49,6 @@ La nuova interfaccia utente web di Campaign è importante perché offre un’esp
 * **[Interfaccia utente di Campaign Web - Funzionalità chiave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=it){target="_blank"}**
   *Documentazione dettagliata su ciò che è attualmente disponibile nell&#39;interfaccia utente di Adobe Campaign Web.*
 
-* **[Interfaccia utente Web Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Interfaccia utente Web Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it){target="_blank"}**
   *Video e tutorial sulle funzionalità dell&#39;interfaccia utente di Adobe Campaign Web.*
 

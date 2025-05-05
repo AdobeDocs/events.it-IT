@@ -28,6 +28,6 @@ Configuriamo un flusso di dati sul server Edge di e installiamo e configuriamo l
 
 Per porre domande o entrare in contatto con Adobi esperti e colleghi, visita la [discussione della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
 
-Per ulteriore documentazione, consulta [Implementare Adobe Analytics utilizzando Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Per ulteriore documentazione, consulta [Implementare Adobe Analytics utilizzando Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/it/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
 Per partecipare a un prossimo **webinar sui passaggi strategici per l&#39;implementazione di Web SDK**, registra [QUI](https://engage.adobe.com/step_by_step_guide_implement.html).

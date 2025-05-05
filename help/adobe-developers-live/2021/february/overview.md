@@ -74,12 +74,12 @@ Connettiti con altri sviluppatori e partecipa alle conversazioni di sessione in 
 
 ## Risorse aggiuntive
 
-* [Experience League - Esplora AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [Documentazione sull&#39;authoring di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [Documentazione sullo sviluppo per AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [Documentazione sull&#39;amministrazione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - Esplora AEM](https://experienceleague.adobe.com/it#recommended/solutions/experience-manager)
+* [Documentazione sull&#39;authoring di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=it)
+* [Documentazione sullo sviluppo per AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=it)
+* [Documentazione sull&#39;amministrazione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=it)
 * [Documentazione sulla distribuzione di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it)
 * [Tutorials AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it)
 * [Tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it)
-* [Tutorial su AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutorial su AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Tutorial su AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=it)
+* [Tutorial su AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=it)

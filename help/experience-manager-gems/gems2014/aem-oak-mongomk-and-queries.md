@@ -38,5 +38,5 @@ Scopri il motore di query di Oak e come si confronta con Jackrabbit 2.x. La sess
 [Documentazione di Oak](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

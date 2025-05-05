@@ -35,5 +35,5 @@ Fai una visita guidata ai quattro dashboard inclusi nella configurazione con ogn
 
 ## Risorse utili
 
-[Dashboard](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Esportazione dei dati del grafico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Dashboard](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=it)
+[Esportazione dei dati del grafico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=it)

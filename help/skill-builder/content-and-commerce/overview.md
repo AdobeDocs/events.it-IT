@@ -19,11 +19,11 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=it">
       <img alt="Fornire esperienze headless con Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=it">
         <strong>Distribuisci esperienze headless con Adobe Experience Manager</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=it">
       <img alt="Sfruttare i metadati per la tua attività in Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=it">
         <strong>Fai funzionare i metadati per la tua attività in Adobe Experience Manager Assets</strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ Crea e gestisci una serie di siti web, app mobili e moduli coinvolgenti. Inoltre
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=it">
       <img alt="Ottenere il massimo dalla gestione dei flussi di lavoro aziendali" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=it">
         <strong>Ottieni il massimo dalla gestione dei flussi di lavoro aziendali</strong>
       </a>
     </div>

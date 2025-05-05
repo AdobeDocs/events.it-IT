@@ -29,5 +29,5 @@ Unisciti a noi per scoprire le best practice per l’implementazione delle versi
 
 [Ottieni file](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

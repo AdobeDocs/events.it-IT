@@ -51,7 +51,7 @@ _Chiedi a un esperto_ è composto da due sessioni:
 
 >[!TIP]
 >
->Se sei un nuovo utente di Commerce Intelligence, la [serie di video introduttivi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fornisce una panoramica completa per ottenere informazioni e risultati aziendali migliori tramite aggregazione, analisi e visualizzazione dei dati.
+>Se sei un nuovo utente di Commerce Intelligence, la [serie di video introduttivi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=it) fornisce una panoramica completa per ottenere informazioni e risultati aziendali migliori tramite aggregazione, analisi e visualizzazione dei dati.
 
-- [Introduzione a Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Supporto Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Introduzione a Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=it)
+- [Supporto Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=it)

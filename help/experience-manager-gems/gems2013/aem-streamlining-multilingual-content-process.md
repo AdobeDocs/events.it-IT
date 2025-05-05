@@ -25,5 +25,5 @@ Stai cercando le best practice per semplificare il processo di creazione e local
 Keith Brazil, VP of Technology, Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/it/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -25,6 +25,6 @@ In questo webinar on-demand, Jace Newbold, Manager di Consulting presso Workfron
 * Cosa ogni amministratore deve fare oggi per preparare il proprio futuro io (e i futuri amministratori) al successo
 * Elenco di controllo scaricabile con domande, risorse e collegamenti per aiutarti nel processo di controllo e documentazione dell’istanza
 
-Assicurati anche di estrarre l’elenco di controllo delle istanze ereditate e la blueprint: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Assicurati anche di estrarre l’elenco di controllo delle istanze ereditate e la blueprint: https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)
