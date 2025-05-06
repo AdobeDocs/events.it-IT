@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [Modello operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Logica sequenziale di masterizzazione](2025/mastering-sequential-logic.md)
    + [Ottimizzazione delle prestazioni di AEM](2025/optimize-aem-performance.md)
+   + [Inizia qui un marketing più intelligente: integrazione di Google e Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization basato sull’intelligenza artificiale di Adobe Target](2024/ai-personalization.md)
@@ -35,8 +36,8 @@ ht-degree: 0%
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
    + [Concetti chiave per l’authoring di AEM](2024/aem-authoring-concepts.md)
    + [Efficienza di AEM Sites](2024/aem-sites-efficiencies.md)
-   + [Integrazioni di AEP App Services per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
-   + [Pianificazione dei casi d’uso AEP](2024/aep-use-case-planning.md)
+   + [Integrazioni dei servizi app AEP per i casi di utilizzo da parte del cliente](2024/aep-apps-services-integrations.md)
+   + [AEP Use Case Planning](2024/aep-use-case-planning.md)
    + [Copywriting basata sull’intelligenza artificiale](2024/ai-copywriting.md)
    + [Funzionalità di analisi di base e intermedie](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Priorità flusso di dati](2024/data-stream-prioritization.md)
