@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 4%
+source-wordcount: '326'
+ht-degree: 20%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 4%
    + Febbraio {#feb2024}
       + [Comunicazione, requisiti e test in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + Luglio {#jul2024}
+      + [Sblocco riuscito su scala](experience-manager/july2024/global-digital-presence.md)
    + Novembre {#nov2023}
       + [Eccellenza per gli sviluppatori con i componenti core di AEM](experience-manager/nov2023/core-components.md)
    + Settembre {#sept2023}
@@ -45,11 +47,13 @@ ht-degree: 4%
    + Maggio {#may2023}
       + [Masterizzazione di contenuti e frammenti di esperienza](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Maggio 2025 {#may2025}
+      + [Scopri l’impatto dei webinar interattivi](marketo/may2025/interactive-webinars.md)
    + Novembre 2024 {#nov2024}
       + [Audit di segmentazione avanzati](marketo/nov2024/advanced-segmentation.md)
    + Settembre 2024 {#sept2024}
       + [Programmi di coinvolgimento multi-stream](marketo/sept2024/multi-stream-engagement-programs.md)
-   + Luglio 2024 {#july2024}
+   + luglio 2024 {#july2024}
       + [La mappa dell’addetto al marketing: Strategizzazione, creazione e analisi delle campagne Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
    + Aprile 2024 {#april2024}
       + [Applicazioni pratiche dell’API REST di Marketo Engage](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
