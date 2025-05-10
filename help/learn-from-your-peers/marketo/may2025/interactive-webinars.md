@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Rivoluzionare la tua esperienza con i webinar: scopri l’impatto dei webinar interattivi
 
@@ -34,3 +34,10 @@ Maria Cruz, campionessa di Adobe Marketo Engage, ha sfruttato i webinar interatt
 * **Processi automatizzati Risparmio di tempo** Il passaggio ai webinar interattivi consente l&#39;automazione di processi quali il routing dei lead, gli avvisi di vendita e i follow-up, riducendo l&#39;impegno manuale e velocizzando i flussi di lavoro.
 
 * **Crea playbook ripetibili** La creazione di un playbook ripetibile basato su informazioni e insegnamenti tratti dai webinar può contribuire a scalare gli sforzi in modo affidabile e a migliorare le strategie future dei webinar.
+
+## Risorse aggiuntive
+
+* Partecipa al [thread di discussione](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) su Marketing Nation Community, dove vengono pubblicate le domande e le risposte.
+* [Ulteriori informazioni sulle funzionalità GenAI nei webinar interattivi](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Esplora i fondamenti dei webinar interattivi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Scopri come utilizzare i webinar interattivi (sondaggi, domande e risposte, CTA)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
