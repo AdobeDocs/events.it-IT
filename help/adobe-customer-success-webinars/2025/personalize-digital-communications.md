@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Scopri in che modo AEM Forms può aiutare le organizzazioni di servizi finanziar
    * L&#39;elaborazione di persona è 42 volte più costosa di quella digitale.
    * L’onboarding di un cliente di persona costa 55 dollari in più rispetto alla modalità online.
 
-* **Funzionalità di AEM Forms** AEM Forms è una soluzione end-to-end che consente di ottimizzare l&#39;efficienza operativa e di offrire esperienze utente eccezionali. Le funzioni chiave includono moduli omnicanale, flussi di lavoro automatizzati, comunicazioni personalizzate con i clienti e integrazione con Adobe Experience Cloud e AEM Sights. Queste funzionalità consentono alle organizzazioni di ridurre l&#39;abbandono dei moduli del 63%, aumentare il self-service del 113% e migliorare la velocità di completamento dei moduli del 58%.
+* **Funzionalità di AEM Forms** AEM Forms è una soluzione end-to-end che consente di ottimizzare l&#39;efficienza operativa e di offrire esperienze utente eccezionali. Le funzionalità principali includono moduli omnicanale, flussi di lavoro automatizzati, comunicazioni personalizzate con i clienti e integrazione con l’ecosistema Adobe Experience Cloud. Queste funzionalità consentono alle organizzazioni di ridurre l&#39;abbandono dei moduli del 63%, aumentare il self-service del 113% e migliorare la velocità di completamento dei moduli del 58%.
 
 * **Innovazioni nella progettazione di moduli** L&#39;introduzione di una finestra di progettazione basata su cloud semplifica la creazione di moduli con funzionalità di trascinamento, frammenti per contenuti riutilizzabili e integrazione con modelli di dati. Questo strumento modernizzato riduce la dipendenza dall&#39;IT e consente aggiornamenti più rapidi, affrontando il tempo di risposta di otto settimane per le modifiche dei moduli in alcune organizzazioni.
 
