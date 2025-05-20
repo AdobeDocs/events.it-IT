@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Webinar Customer Success di Adobe](overview.md)
 + 2025 {#2025}
-   + [Approfondimenti digitali Adobe](2025/adobe-digital-insights.md)
+   + [Stato dell&#39;adozione digitale e GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [Risultati delle vacanze 2024 e tendenze 2025](2025/adobe-digital-insights.md)
    + [AEM con GenAI](2025/aem-genai.md)
    + [Integrazione tra AEM e Workfront](2025/aem-workfront-integration.md)
    + [AI e ADOBE TARGET](2025/ai-adobe-target.md)
