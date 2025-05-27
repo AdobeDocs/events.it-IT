@@ -7,11 +7,10 @@ feature: Frequency Rules
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
-hidefromtoc: true
-hide: true
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
+source-git-commit: 2202e181d4adeb189bdda54c826b657b09de4522
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -24,6 +23,8 @@ Questa sessione è ideale per gli esperti di marketing, i team operativi e gli a
 
 Non perdere questa opportunità di trasformare le tue strategie di marketing e di coinvolgere il tuo pubblico come mai prima d&#39;ora.
 
-**Fare clic sull&#39;immagine seguente per impostare un promemoria YouTube!**
+[Imposta subito un promemoria su YouTube](https://www.youtube.com/live/awYa2dU6TDY).
 
-[![ExL LIVE 17 gennaio 2024](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
+![banner Web](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+
+Non ce la fai? Registrati comunque e ti invieremo la registrazione in seguito. Speriamo di vederti lì!
