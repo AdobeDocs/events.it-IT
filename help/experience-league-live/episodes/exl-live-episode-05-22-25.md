@@ -36,4 +36,4 @@ Continua la discussione sulla [discussione del Forum della community Experience 
 
 ## Risorse aggiuntive
 
-[Video Content Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Video Content Analytics](https://experienceleague.adobe.com/it/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
