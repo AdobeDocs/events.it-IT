@@ -36,8 +36,8 @@ Questa sessione Scopri dai tuoi colleghi ha discusso la configurazione e la gest
 
 ## Risorse a cui si fa riferimento in questa presentazione
 
-* [Informazioni sui programmi di coinvolgimento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Informazioni sul punteggio di coinvolgimento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Aggiunta di un programma a un flusso di programma di coinvolgimento](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Panoramica sulla libreria di importazione del programma](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Informazioni sui programmi di coinvolgimento](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Informazioni sul punteggio di coinvolgimento](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Aggiunta di un programma a un flusso di programma di coinvolgimento](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Panoramica sulla libreria di importazione del programma](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Thread di discussione per la community della nazione di marketing](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
