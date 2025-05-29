@@ -1,7 +1,7 @@
 ---
-title: 'Audit di segmentazione avanzati: garanzia di precisione e prestazioni nel Marketo Engage'
+title: Audit di segmentazione avanzati - Garanzia di precisione e prestazioni in Marketo Engage
 description: Darshil Shah, Champion Adobe Marketo Engage, è ora in grado di padroneggiare i controlli di segmentazione avanzati, imparare a ottimizzare le strategie di segmentazione, allinearsi ai comportamenti dei clienti, mantenere la conformità ai requisiti RGPD e migliorare le prestazioni di marketing attraverso best practice e aggiornamenti in tempo reale.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,14 +9,14 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-# Audit di segmentazione avanzati: garanzia di precisione e prestazioni nel Marketo Engage
+# Audit di segmentazione avanzati: garanzia di precisione e prestazioni in Marketo Engage
 
 Darshil Shah, Adobe Marketo Engage Champion, spiega come mantenere la segmentazione allineata con i comportamenti dei clienti, gli aggiornamenti dei dati e i cambiamenti di business.
 
@@ -72,9 +72,9 @@ In questo webinar scoprirai:
 ## Risorse aggiuntive
 
 * [Diapositive presentazione](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
-* Partecipa alla discussione [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} sulla community di nazioni marketing
-* [Crea segmentazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [Modifica segmentazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* Partecipa alla discussione [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} su Marketing Nation Community
+* [Crea una segmentazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [Modifica segmentazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Serie di successo Marketo Engage - [Segmentazione](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [Aggiornamenti del controllo di integrità della segmentazione](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Suggerimenti per mantenere aggiornata la segmentazione
-* [Rapporto prestazioni e-mail](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [Rapporto prestazioni e-mail](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

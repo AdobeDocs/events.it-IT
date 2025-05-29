@@ -1,7 +1,7 @@
 ---
 title: Marketo & Mochas - Maturity Part 2 - Ottimizzazione dell'utilizzo del Marketo
 description: Unisciti ai consulenti aziendali di Adobe, Cynthia Chang e Carly Gaver, per la parte 2 della serie Marketo Maturity, che si concentra sulla gestione dei dati, le integrazioni CRM e l’ottimizzazione delle campagne per migliorare l’utilizzo di Marketo, con domande e risposte live.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Si concentra sulle fasi di ricerca per indicizzazione, marcia ed esecuzione per 
 **Integrazioni CRM**
 Gestiva in modo efficiente le integrazioni CRM tramite le funzioni di integrazione native di Marketo, come chatbot e webinar.
 
-**Ottimizzazione Campaign Management**
+**Ottimizzazione gestione campagne**
 Sono stati forniti suggerimenti per ottimizzare la gestione delle campagne tramite modelli di programma, librerie di contenuti ed elenchi avanzati.
 
 **Elaborazione campagna avanzata**

@@ -1,7 +1,7 @@
 ---
 title: 'Marketo e Mochas: la crescita trainante con il reporting (scadenza: 3)'
 description: Unisciti ai consulenti aziendali di Adobe, Cynthia Chang e Carly Gaver, per la terza parte della serie di webinar Marketo Maturity, esplorando come sfruttare gli strumenti di reporting di Marketo per stimolare la crescita aziendale, monitorare le prestazioni e fornire metriche di impatto, con domande e risposte live.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -34,7 +34,7 @@ La parte 3 &quot;Scadenza&quot; è la parte 3 della serie Marketo &quot;Scadenza
 
 * Cynthia Chang e Carly Gaver erano i presentatori.
 * Cynthia lavora con Adobe da due anni, in precedenza come cliente di consulenza e Marketo.
-* Carly è stata con Adobe per tre anni, con una formazione nel marketing digitale e nell&#39;automazione del marketing.
+* Carly lavora con Adobe da tre anni ed ha una lunga esperienza nel marketing digitale e nell’automazione del marketing.
 
 ## Punti chiave da eliminare
 
@@ -53,7 +53,7 @@ La parte 3 &quot;Scadenza&quot; è la parte 3 della serie Marketo &quot;Scadenza
 ### Problemi comuni e soluzioni
 
 * **Backlog campagna** Causato dallo stacking di più processi, da troppe campagne di attivazione e da elenchi avanzati inefficienti.
-* **Problemi di sincronizzazione CRM** I problemi più comuni includono le autorizzazioni, la convalida dei campi, il limite CPU apex e le modifiche nei valori degli elenchi di selezione.
+* **Problemi di sincronizzazione CRM** I problemi più comuni includono autorizzazioni, convalida dei campi, limite di CPU apex e modifiche nei valori degli elenchi di selezione.
 * **User Access and Governance** controlla regolarmente l&#39;accesso degli utenti e garantisce il rispetto delle best practice di governance.
 
 ### Reporting avanzato e analisi
