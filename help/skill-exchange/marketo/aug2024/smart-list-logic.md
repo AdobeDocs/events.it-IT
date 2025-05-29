@@ -26,4 +26,4 @@ Le campagne intelligenti sono i potenti motori che guidano la magia dell’autom
 * Approfondisci i quattro livelli di logica per configurare e personalizzare i tipi di pubblico
 * Trucchi per risolvere i problemi logici e verificare di aver eseguito correttamente il targeting del pubblico a cui intendi rivolgerti
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457306/?learn=on&captions=ita)
