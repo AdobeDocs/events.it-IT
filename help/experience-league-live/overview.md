@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '172'
 ht-degree: 3%
 
 ---
@@ -25,17 +25,6 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE 5 giugno" src="assets/WebBannerExLLive-June05-2025.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-47-2025-06-05.md">
-                <strong>Flussi di lavoro Agile per contenuti personalizzati su larga scala</strong>
-              </a>
-              <br/><em>con Amarnath Vannarath, Chris Ivory e Rohan Bhatt</em>
-              <br/><em>5 giugno 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
               <img alt="Experience League LIVE 18 giugno" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
@@ -113,5 +102,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 

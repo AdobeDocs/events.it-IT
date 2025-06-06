@@ -7,13 +7,15 @@ feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
+last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
+
 
 # Flussi di lavoro agili per contenuti personalizzati su larga scala
 
@@ -23,8 +25,4 @@ Che si tratti di creare contenuti direttamente in AJO, brainstorming con GenStud
 
 Non perdere questa opportunità di trasformare le tue strategie di marketing e di coinvolgere il tuo pubblico come mai prima d&#39;ora.
 
-[Registrati ora](https://engage.adobe.com/ExpLeagueLive-250605.html) e partecipa alla rivoluzione del coinvolgimento dei clienti!
-
-![banner Web](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
-
-Non ce la fai? Registrati comunque e ti invieremo la registrazione in seguito. Speriamo di vederti lì!
+>[!VIDEO](https://video.tv.adobe.com/v/3463407/?quality=12&learn=on)
