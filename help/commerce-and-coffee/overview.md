@@ -336,11 +336,11 @@ La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=it">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=it">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -349,11 +349,11 @@ La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=it">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=it">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -362,11 +362,11 @@ La serie Commerce &amp; Coffee è destinata ai clienti Adobe Commerce esistenti 
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=it">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=it">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>
