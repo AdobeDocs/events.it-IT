@@ -26,4 +26,4 @@ Punti principali di discussione
 * Esamina i casi d’uso chiave, l’applicazione di funzionalità e suggerimenti e trucchi per la progressione della maturità.
 * Approfondisci le funzionalità e i miglioramenti futuri di
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463366/?learn=on&enablevpops&captions=ita)
