@@ -27,4 +27,4 @@ Questa sessione fornisce una conoscenza di base di tre aspetti critici della cre
 * Navigazione intuitiva per un’esperienza ottimale del sito
 * Porre le basi dell’ottimizzazione SEO in AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464323/?learn=on&enablevpops&captions=ita)
