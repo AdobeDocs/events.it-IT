@@ -3,10 +3,10 @@ title: Sessioni tecniche di Experience Cloud
 description: Migliora le tue competenze Adobe Experience Cloud con sessioni tecniche live e on-demand guidate da esperti Adobe. Ottieni suggerimenti e strategie fruibili in qualsiasi momento per un’esperienza di apprendimento fluida.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche live e on-demand. Questi webinar sono progettati in modo accurato per andare oltre il supporto tradizionale. Guidate da esperti Adobe esperti, le sessioni offrono suggerimenti preziosi, trucchi e strategie per aiutarti a navigare tra le soluzioni tecniche con sicurezza, evitando insidie comuni. Gli esperti Adobe sono tecnici del supporto che si occupano dei problemi più importanti e lavorano attivamente su casi quotidiani. Con le opzioni live e on-demand, è possibile accedere alle informazioni in qualsiasi momento, garantendo un&#39;esperienza di apprendimento fluida.
 
-## Sessioni 2054
+## Sessioni 2025
 
 <!-- CARDS
 {cta = Watch}
@@ -50,7 +50,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Scopri come migrare da appmeasurement.js e at.js ad AEP Web SDK (alloy.js) per prestazioni migliori, architettura semplificata e integrazioni Adobe pronte per il futuro.</p>
                 </div>
                 <a href="2025/migrate-analytics-to-aep-web-sdk.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -73,7 +73,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Questa sessione ha trattato strategie chiave per migliorare le prestazioni di consegna di e-mail e SMS tramite Adobe Campaign. Ha affrontato problematiche comuni quali ritardi di consegna, bassa velocità effettiva e lentezza delle transazioni, offrendo soluzioni quali l'ottimizzazione in batch, la registrazione SQL e il monitoraggio delle prestazioni dei server. Le best practice per la consegna dei messaggi includevano l’autenticazione e-mail corretta (SPF, DKIM, DMARC), il monitoraggio della blacklist e i controlli di posta indesiderata. Per migliorare le prestazioni, gli esperti hanno consigliato di pulire i flussi di lavoro, limitare le regole ed evitare contenitori condivisi. Suggerimenti per la consegna di SMS incentrati sulla corretta configurazione dell’account esterno e sull’analisi del registro. La sessione ha anche sottolineato la convalida del tracciamento, la manutenzione del database utilizzando rapporti gonfiati e l'applicazione di regole di pressione/affaticamento per aumentare il coinvolgimento. Una registrazione della sessione verrà condivisa tramite e-mail e pubblicata sul sito Adobe Experience.</p>
                 </div>
                 <a href="2025/acc-delivery-performance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -96,7 +96,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Esplora le best practice di AEM Dispatcher per il caching, la sicurezza e le prestazioni per massimizzare la scalabilità e l’efficienza di AEM as a Cloud Service.</p>
                 </div>
                 <a href="2025/dispatcher-configurations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -119,7 +119,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Ottimizza Marketo Measure con best practice per la mappatura dei canali, la segmentazione, la mappatura personalizzata degli ambienti di staging e la soppressione dei punti di contatto. Utilizza regole specifiche, categorizza i dati e assegna logicamente priorità agli stadi. Elimina i punti di contatto indesiderati per dati più puliti. Sfrutta strumenti come le fasi di boomerang e invia casi di supporto per configurazioni complesse. Accedi alla registrazione della sessione nella pagina Experience di Adobe.</p>
                 </div>
                 <a href="2025/getting-most-marketo-measure.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -142,7 +142,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Centralizzare la gestione degli utenti Marketo con Adobe Admin Console. Gestisci ruoli (sistema, prodotto, profilo, amministratori di supporto) e tipi di identità (Adobe, Enterprise, Federated ID). Imposta SSL per il Single Sign-On, gestisci la gestione degli utenti e rinnova i certificati ogni tre anni. Risolvi problemi comuni come problemi di accesso e utilizza l’attendibilità delle directory per un’esperienza unificata. Suddividi le conversioni di utenti di grandi dimensioni in batch da 500. Accedi alla registrazione della sessione sulla pagina Experience League di Adobe.</p>
                 </div>
                 <a href="2025/marketo-post-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -165,7 +165,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Adobe sta eseguendo la migrazione di Marketo Engage ad Admin Console per migliorare la gestione degli utenti. Scopri i tipi di migrazione automatica e automatica, i prerequisiti, le modifiche successive alla migrazione, le best practice, le insidie comuni e il supporto. Accedi alla registrazione della sessione sul sito web Experience League di Adobe.</p>
                 </div>
                 <a href="2025/marketo-pre-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -205,7 +205,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Partecipa a Garrett Hartley per una sessione completa sulla risoluzione dei problemi dei flussi di lavoro di AEP Web SDK, incentrata sulla raccolta di dati per RTCDP e Adobe Analytics e sulla risoluzione delle problematiche di implementazione comuni.</p>
                 </div>
                 <a href="2024/aep-web-sdk-troubleshooting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -228,7 +228,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Unisciti a Rachel Hanessian e Ariel Sultan per un webinar approfondito, dove imparerai a configurare, iniziare ed esplorare i casi d’uso con l’Assistente AI per aumentare la produttività in Real-Time CDP, Journey Optimizer e Customer Journey Analytics.</p>
                 </div>
                 <a href="2024/ai-assistant.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -251,7 +251,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Partecipa alle nostre sessioni di maggio sui campioni di Marketo, con il nostro gruppo di campioni Chris Kelley, Sarah Ryan, Jimmy Spencer e Briney Young, con il moderatore Courtny Edwards-Jones.Che tu sia nuovo per Marketo o cerchi solo di migliorare le tue abilità, i nostri campioni sono qui per condividere le loro competenze.</p>
                 </div>
                 <a href="2024/champion-office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -274,7 +274,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Un webinar approfondito con Seth Burke, Global Lead di Adobe, mentre approfondisce le best practice per la navigazione in Real-time Content Data Platform (RTCDP). Seth ti guida attraverso le complessità dell’acquisizione dei dati, della valutazione del pubblico e della tempistica di esportazione ed evidenzia le limitazioni chiave in ogni fase.</p>
                 </div>
                 <a href="2024/rtcdp-timings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -297,7 +297,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Partecipa a un webinar con Garrett Hartley, Senior Technical Support Engineer del team Customer Experience di Adobe. In questa sessione, Garrett condividerà le best practice per il tracciamento dei visitatori nel panorama odierno in evoluzione di cookie, browser e librerie. Esamineremo le precedenti strategie di implementazione ed esploreremo percorsi di migrazione efficaci per adottare metodi moderni di tracciamento dei visitatori. Aspettati di sfatare i miti obsoleti e di scoprire gli approcci all’avanguardia per migliorare i tuoi sistemi di tracciamento.</p>
                 </div>
                 <a href="2024/tracking-visitors.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -346,7 +346,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Include l’architettura SMS, la configurazione del canale SMS, la configurazione dell’account esterno SMPP, la creazione della consegna SMS e la risoluzione dei problemi.</p>
                 </div>
                 <a href="2023/ac-sms-channel-overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -369,7 +369,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Interni sull’implementazione di AEM as a Cloud Service e risoluzione dei problemi.</p>
                 </div>
                 <a href="2023/aem-deployment-failures-analysis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -392,7 +392,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Introduzione all’architettura headless, vantaggi di AEM Forms Headless e Live Demo.</p>
                 </div>
                 <a href="2023/aem-forms-headless-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -415,7 +415,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Admin Console e le modifiche apportate, i nuovi controlli di accesso nell’interfaccia utente di RTCDP, la console Adobe.io/developer e come impostare le autorizzazioni per l’integrazione con API RTCDP.</p>
                 </div>
                 <a href="2023/aep-admin-console-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -438,7 +438,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">In questa sessione, scoprirai: configurazioni, impostazioni e insidie, funzionalità inutilizzate e flussi di lavoro comuni per la risoluzione dei problemi.</p>
                 </div>
                 <a href="2023/launch-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -461,7 +461,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">panoramica della logica degli elenchi avanzati e complessi, ALL, ANY e Advanced Filters, più trigger, filtri negativi e vincoli negativi, problemi comuni e suggerimenti per la risoluzione dei problemi</p>
                 </div>
                 <a href="2023/marketo-common-pitfalls.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -484,7 +484,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Scopri le tecniche e gli strumenti disponibili per semplificare la migrazione ad AEM Cloud Service. Dallo strumento Content Transfer (Trasferimento contenuti) al nuovo Cloud Acceleration Manager, utilizzato in combinazione con Best Practice Analyzer per valutare l’ambiente.</p>
                 </div>
                 <a href="2023/migration-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -507,7 +507,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">L’indicizzazione AEM CS cambia e questo influisce su progetti diversi, sulle sfide che i clienti si trovano ad affrontare con gli indici su AEMaaCS e sulle best practice per ottimizzare questi indici</p>
                 </div>
                 <a href="2023/optimize-indexes-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -530,7 +530,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">In questa sessione, scoprirai la panoramica SWAT e la demo live (SWAT Cloud Sandbox)</p>
                 </div>
                 <a href="2023/site-wide-analysis-tool.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -553,7 +553,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Versioni e funzioni più recenti, come eseguire il debug di at.js, risolvere i problemi in diretta demo, risorse di supporto autonomo e come interagire con il supporto.</p>
                 </div>
                 <a href="2023/target-debugging-tips-and-tricks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -576,7 +576,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Come creare una bozza, Come identificare e risolvere i problemi di sincronizzazione dei contatti e Come risolvere gli errori di generazione della bozza.</p>
                 </div>
                 <a href="2023/workfront-fix-duplicate-contacts.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
@@ -599,7 +599,7 @@ Sfrutta appieno il potenziale di Adobe Experience Cloud con sessioni tecniche li
                     <p class="is-size-6">Scopri come creare rapporti sull’approvazione delle bozze.</p>
                 </div>
                 <a href="2023/workfront-proof-approval-reports.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Osserva</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
