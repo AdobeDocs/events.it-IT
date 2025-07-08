@@ -100,5 +100,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
