@@ -9,16 +9,16 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics e CJA: Guida introduttiva alle funzionalità di analisi di base e intermedia
+# Adobe Analytics e CJA: Guida rapida alle funzionalità di analisi di base e intermedie
 
-Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey Analytics (CJA) per supportare le attività di marketing con decisioni basate sui dati: scopri come configurare la tua organizzazione per offrire solide funzionalità di analisi, capire quando utilizzare al meglio quale soluzione di analisi e mappare le funzionalità di Analytics e CJA ai livelli di maturità di Analytics per creare rapporti di marketing chiave.
+Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey Analytics (CJA) per supportare le attività di marketing con decisioni basate sui dati: scopri come configurare la tua organizzazione per solide funzionalità analitiche, capire quando utilizzare al meglio quale soluzione di analisi e mappare le funzionalità di Analytics e CJA ai livelli di maturità di Analytics per creare rapporti di marketing chiave.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey
 
 * **Introduzione di altoparlanti**
    * Frederick, Senior Customer Success Manager di Adobe, ha introdotto la sessione.
-   * Il presentatore è la dott.ssa Kirsten Schaffer, Principal Customer Success Manager di Adobe.
+   * Il presentatore è il Dott. Kerstin Schäfer, Principal Customer Success Strategist di Adobe.
 
 * **Contenuto sessione**
    * La sessione tratta la configurazione di un’organizzazione per solide funzionalità analitiche, aspetti di governance e percorsi di esecuzione per analisi e analisi del percorso del cliente.
@@ -38,7 +38,7 @@ Scopri come iniziare rapidamente a utilizzare Adobe Analytics e Customer Journey
 
 * **Argomenti chiave discussi**
    * **Forze esterne e interne** che influiscono sull&#39;analisi digitale, inclusi i cambiamenti del mercato, la privacy e la governance, la democrazia dei dati e la complessità dei dati.
-   * **Creazione di una solida base analitica** Strategia di misurazione, raccolta dati, analisi e insight, apprendimento, governance dei dati.
+   * **Creazione di una solida base analitica** Strategia di misurazione, raccolta dati, insight e analisi, apprendimento, governance dei dati.
    * **Configurazione di un team di analisi digitale** Ruoli e responsabilità, creazione di un team ibrido e gestione efficiente delle richieste di analisi.
    * **Opzioni di abilitazione di Adobe** Experience League, corsi on-demand, corsi basati su istruttori, supporto della community.
 
