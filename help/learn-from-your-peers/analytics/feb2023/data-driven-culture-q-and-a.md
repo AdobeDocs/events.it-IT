@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Durante il webinar sulla creazione di una cultura basata sui dati [!DNL Adobe Analytics], sono state poste più di 35 domande da [!DNL Adobe Analytics] utenti in tutto il mondo. Dal momento che il nostro [!DNL Adobe Analytics] Champion non è stato in grado di rispondere a tutte queste domande durante le sessioni di domande e risposte live, li abbiamo richiamati e abbiamo ospitato una sessione di domande e risposte per condividere conoscenze ancora più approfondite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455131/?quality=12&learn=on&captions=ita)
