@@ -2,18 +2,19 @@
 title: Webinar Tutto sulle code di richieste
 description: Scopri dai tuoi colleghi come massimizzare le code di richieste di Workfront. Scopri diversi utilizzi e best practice da Scarpe gialle Disney nel nostro webinar on-demand.
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
 
 ---
-
 
 # Informazioni sulle code di richieste
 

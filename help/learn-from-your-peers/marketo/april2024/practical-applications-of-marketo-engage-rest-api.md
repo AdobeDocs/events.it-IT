@@ -1,6 +1,7 @@
 ---
 title: Sblocco di una potente automazione dei flussi di lavoro - Applicazioni pratiche dell’API REST di Marketo Engage
 description: Sfrutta il potenziale dell’API REST di Marketo Engage per automatizzare i flussi di lavoro di marketing, integrare strumenti come Zapier, sfruttare Python per azioni in blocco e semplificare attività come l’unione di lead, il tracciamento UTM e l’estrazione dei dati di attività.
+solution: Marketo Engage
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,7 +10,7 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -29,4 +30,4 @@ In questo webinar:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Partecipa alla conversazione nel [thread del webinar della community di Marketing Nation](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+Partecipa alla conversazione sul [thread del webinar della community di Marketing Nation](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.

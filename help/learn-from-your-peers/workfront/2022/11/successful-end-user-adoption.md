@@ -4,22 +4,23 @@ description: Scopri dai tuoi colleghi il ruolo di amministratore di sistema di A
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
 # Adozione corretta da parte dell&#39;utente finale
 
 Essere amministratore di sistema di Adobe Workfront non significa soltanto comprendere il software e le funzioni di implementazione. Gli amministratori di sistema hanno la responsabilità di comunicare in modo chiaro con gli utenti finali il MOTIVO per cui la tua organizzazione utilizza Workfront, E ciò che ne deriva per loro.
 
-In questo webinar on-demand, Cynthia Boon e Leslie Spier, Customer Success Manager (e ex clienti!) insieme a Workfront, sarà affiancato da Karlton Harrison, VP, Data Platform Engineer di Truist. Insieme, hanno anni di esperienza in questo campo e riguarderanno:
+In questo webinar on-demand, Cynthia Boon e Leslie Spier, Customer Success Manager (e già clienti!) con Workfront, saranno raggiunti da Karlton Harrison, VP, Data Platform Engineer di Truist. Insieme, hanno anni di esperienza in questo campo e riguarderanno:
 
 * Come identificare i motivi di una scarsa adozione da parte degli utenti finali
 * Suggerimenti per documentare e comunicare le aspettative relative all’adozione

@@ -4,16 +4,17 @@ description: Scopri da professionisti esperti come acquisire un’istanza Workfr
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Suggerimenti per acquisire un’istanza Workfront esistente
 
@@ -25,6 +26,6 @@ In questo webinar on-demand, Jace Newbold, Manager di Consulting presso Workfron
 * Cosa ogni amministratore deve fare oggi per preparare il proprio futuro io (e i futuri amministratori) al successo
 * Elenco di controllo scaricabile con domande, risorse e collegamenti per aiutarti nel processo di controllo e documentazione dell’istanza
 
-Assicurati anche di estrarre l’elenco di controllo delle istanze ereditate e la blueprint: https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Assicurati anche di estrarre l’elenco di controllo delle istanze ereditate e la blueprint: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

@@ -1,8 +1,9 @@
 ---
-title: Rafforzare l’eccellenza degli sviluppatori con i componenti core AEM
+title: Rafforzare l’eccellenza degli sviluppatori con i componenti core di AEM
 description: Accelerazione dello sviluppo di siti web e riduzione dei costi di manutenzione con i componenti core WCM (Web Content Management). Una dimostrazione live che mostra come trasformare un componente teaser in un componente in stile scheda con più varianti di progettazione. Best practice per ottimizzare i sistemi di stile. Una dimostrazione dettagliata della distribuzione efficiente delle modifiche dell’interfaccia utente tramite la pipeline front-end.
 feature-set: Experience Manager Sites
 feature: Core Components, Developing, Style System
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -12,14 +13,14 @@ jira: KT-14590
 thumbnail: 3425841.jpeg
 exl-id: 5efcf8ea-8b80-40cb-a55f-bac4d5bdaf5e
 duration: 2826
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# Rafforzare l’eccellenza degli sviluppatori con i componenti core AEM
+# Rafforzare l’eccellenza degli sviluppatori con i componenti core di AEM
 
 Kartik Sharma, Adobe Experience Manager Customer Champion, offre informazioni preziose e best practice sui Componenti core.
 

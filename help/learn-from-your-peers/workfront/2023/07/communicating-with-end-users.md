@@ -2,18 +2,19 @@
 title: Webinar Comunicazione con gli utenti finali
 description: Esplora diverse strategie per comunicare con gli utenti di Workfront nel nostro webinar on-demand. Scopri dagli esperti IDEXX, Adobe e Adobe Workfront i canali efficaci, i tipi di comunicazione e l’evoluzione iterativa della tua strategia.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Impara dal webinar dei tuoi colleghi: comunicazione con gli utenti finali
 

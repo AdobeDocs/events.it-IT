@@ -1,6 +1,7 @@
 ---
 title: Espressos & Experience Manager - AEM Forms
 description: AEM Forms migliora le prestazioni con moduli omni-channel, personalizzazione basata su intelligenza artificiale e scalabilità nativa per il cloud, consentendo conversioni 2,5 volte più veloci, modifiche più veloci dell’85% ed errori in meno del 50%.
+solution: Experience Manager Forms
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +9,7 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
