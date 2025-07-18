@@ -1,6 +1,7 @@
 ---
-title: Applicazione di AI e Personalization ai Edge Delivery Services Adobe Experience Manager
-description: Scopri come integrare l’intelligenza artificiale e la personalizzazione nei Edge Delivery Services Adobe Experience Manager con l’architettura di base, la ricerca semantica e i casi d’uso avanzati dimostrati da Andreas Haller, Principal Solution Architect di Cognizant Netcentric.
+title: Introduzione di AI e Personalization in Adobe Experience Manager Edge Delivery Services
+description: Scopri come integrare l’intelligenza artificiale e la personalizzazione in Adobe Experience Manager Edge Delivery Services con l’architettura di base, la ricerca semantica e casi d’uso avanzati dimostrati da Andreas Haller, Principal Solution Architect di Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# Introduzione di AI e Personalization in Adobe Experience Manager Edge Delivery Services
 
-# Applicazione di AI e Personalization ai Edge Delivery Services Adobe Experience Manager
+Scopri l’architettura fondamentale per integrare personalizzazione e intelligenza artificiale in Adobe Experience Manager Edge Delivery Services. Andreas Haller, Principal Solution Architect di Cognizant Netcentric, illustra la ricerca semantica e i casi d’uso avanzati per migliorare i progetti.
 
-Scopri l’architettura fondamentale per integrare personalizzazione e intelligenza artificiale nei Edge Delivery Services Adobe Experience Manager. Andreas Haller, Principal Solution Architect di Cognizant Netcentric, presenta una serie di casi di utilizzo avanzati e di ricerca semantica per migliorare i progetti.
-
->[!VIDEO](https://video.tv.adobe.com/v/3440414/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Discussione community
 

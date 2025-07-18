@@ -1,6 +1,7 @@
 ---
 title: Ambienti di sviluppo rapido Adobe Experience Manager
-description: Semplifica lo sviluppo e la distribuzione rapidi in ambienti cloud con il nuovo SDK di Adobe, riducendo notevolmente i tempi di distribuzione e supportando aggiornamenti rapidi, registri live e opzioni di configurazione avanzate, come descritto in DevOps Life 2024.
+description: Semplifica lo sviluppo e l’implementazione rapidi in ambienti cloud con il nuovo SDK di Adobe, riducendo notevolmente i tempi di implementazione e supportando aggiornamenti rapidi, registri live e opzioni di configurazione avanzate, come descritto in DevOps Life 2024.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2427
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16570
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 330d8be1-14a0-488a-aae0-ee90e1f7621e
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
-
 
 # Ambienti di sviluppo rapido Adobe Experience Manager
 
@@ -30,7 +31,7 @@ Continua la conversazione nella [discussione](https://adobe.ly/3UJluDo) della co
 
 ## Punti chiave da eliminare
 
-* **Introduzione a DevOps Life 2024** La sessione è ospitata da Natalia e Remo di Adobe, concentrandosi sugli ambienti di sviluppo rapido.
+* **Introduzione a DevOps Life 2024** La sessione è ospitata da Natalia e Remo di Adobe e si concentra sugli ambienti di sviluppo rapido.
 * **Istruzione del problema** La sfida degli ambienti di sviluppo locali che funzionano correttamente localmente ma non riescono quando vengono distribuiti nel cloud.
 * **Soluzione** Creazione di un nuovo SDK nel cloud per facilitare lo sviluppo e la distribuzione rapidi, riducendo il tempo da 30 minuti a secondi o alcuni minuti.
 * **Processo di distribuzione** Il nuovo ambiente consente di eseguire aggiornamenti e convalide rapidi tramite un nuovo plug-in API e CLI, consentendo un feedback e una distribuzione più rapidi.
