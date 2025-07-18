@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Scopri l’architettura fondamentale per integrare personalizzazione e intelligenza artificiale in Adobe Experience Manager Edge Delivery Services. Andreas Haller, Principal Solution Architect di Cognizant Netcentric, illustra la ricerca semantica e i casi d’uso avanzati per migliorare i progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440414/?learn=on&enablevpops&captions=ita)
 
 ## Discussione community
 

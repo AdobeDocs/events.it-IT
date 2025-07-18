@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Scopri come estendere le funzionalità Adobe Experience Manager per gli autori su superfici di editing headless e sull’editor universale con Iryna Lagno, Sr. Software Engineer presso Adobe. Abilita le estensioni dell&#39;interfaccia utente tra organizzazioni e persino pubblicarle per consentire ad altri di sfruttare tramite Extension Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440436/?learn=on&enablevpops&captions=ita)
 
 ## Discussione community
 
