@@ -23,6 +23,6 @@ Il webinar che evidenzia gli ultimi miglioramenti delle funzioni di Workfront in
 * [Presentazione PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/010925+-+25.1+First+Quarter+2025+Release+Webinar.pdf)
 * [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-first-quarter-2025-release/td-p/729761)
 
-Per ulteriori informazioni sulle funzioni della versione, visita la pagina di panoramica sulla versione [Primo trimestre 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview#report-and-dashboard-enhancements).
+Per ulteriori informazioni sulle funzioni della versione, visita la pagina di panoramica sulla versione [Primo trimestre 2025](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview#report-and-dashboard-enhancements).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464380/?learn=on&enablevpops)
