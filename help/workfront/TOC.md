@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Eventi Workfront {#workfront-recordings}
 
-+ [Gruppi di utenti e webinar di Workfront](overview.md)
++ [Workshop on-demand su Workfront](overview.md)
 
++ Webinar sulla versione {#releases}
+   + [Versione 25.7](releases/25-7-release-webinar.md)
+   + [Versione 25.4](releases/25-4-release-webinar.md)
+   + [Versione 25.1](releases/25-1-release-webinar.md)
+   + [Versione 24.1](releases/24-1-release-webinar.md)
 + Primi 3 {#top3}
    + [Approcci di Creative con blueprint](top3/blueprints.md)
 + Contro! {#versus}
    + [Gruppi e team](versus/groups-vs-teams.md)
 + Approfondimenti esperti {#expert-insights}
-+[Code di richieste con Lyndsy Denk](expert-insights/request-queues.md)
+   + [Code di richieste con Lyndsy Denk](expert-insights/request-queues.md)
 + Riavvolgimento workshop {#workshop-rewind}
    + Flusso di lavoro {#workflow}
       + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + Code di richieste e accettazione {#request-queues-and-intake}
       + [Code di richieste e Forms di acquisizione](user-groups/request-queues-and-intake-forms.md)
 
-+ Versioni {#releases}
-   + [Versione 25.7](releases/25-7-release-webinar.md)
-   + [Versione 25.4](releases/25-4-release-webinar.md)
-   + [Versione 25.1](releases/25-1-release-webinar.md)
-   + [Versione 24.1](releases/24-1-release-webinar.md)
+
 
