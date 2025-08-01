@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '334'
 ht-degree: 20%
 
 ---
@@ -114,4 +114,5 @@ ht-degree: 20%
          + [COS’È la governance di Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + Febbraio {#february}
          + [Informazioni sulla gestione utente](workfront/2022/02/understanding-user-management.md)
++ [Esplorare i gruppi di utenti di Adobe in Experience Cloud](./adobe-user-groups.md)
 + [Scopri come candidarti e distinguerti come campione](./adobe-champion-application.md)
