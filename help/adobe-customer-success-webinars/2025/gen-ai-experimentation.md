@@ -28,7 +28,7 @@ Questo webinar fornisce una comprensione più approfondita di come l’AI Assist
 * Esperimenti e ottimizzazione dei contenuti
 * IA generativa
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444467/?learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

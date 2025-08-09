@@ -33,7 +33,7 @@ Rimarrai stupito da tutte le fantastiche idee che condivide, tra cui: 
 * Avvio di Creative Brief review per soddisfare le esigenze degli utenti e dei progetti. 
 * *BONUS!* condivide anche un esempio di uno dei suoi casi d&#39;uso preferiti di Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469947/?learn=on&enablevpops&captions=ita)
 
 ## Risorse
 
