@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights - Scopri i risultati delle vacanze 2024 e le tendenze degli inizi del 2025
 description: Partecipa al webinar di Adobe per ottenere informazioni sulle tendenze di acquisto per le vacanze 2024 e sulle previsioni di mercato per i primi mesi del 2025, esplorare categorie di prodotti a crescita elevata e scoprire le best practice per creare esperienze di acquisto personalizzate utilizzando l’intelligenza artificiale e tecnologie avanzate.
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Approfondimenti digitali di Adobe: descrizione dei risultati delle vacanze 2024 e delle tendenze degli inizi del 2025
 

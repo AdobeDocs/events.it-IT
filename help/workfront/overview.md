@@ -3,9 +3,9 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Webinar sulla versione di Adobe Workfront 25.7" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1752859088580" alt="Webinar sulla versione di Adobe Workfront 25.7"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Webinar sulla versione di Adobe Workfront 25.7"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,6 +64,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
 <!-- CARDS
 
 * top3/blueprints.md
+* top3/office-hours.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -73,7 +74,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?format=jpeg&nocache=1752859088922&captions=ita" alt="Primi 3 - Approcci Creative con blueprint"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="Primi 3 - Approcci Creative con blueprint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,6 +87,29 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
                     <p class="is-size-6">Scopri come configurare rapidamente Workfront Blueprint con nuovi modelli, dashboard e suggerimenti per i test delle sandbox.</p>
                 </div>
                 <a href="top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 Approaches to Office Hours">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="Primi 3 approcci alle ore ufficio"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="top3/office-hours.md" target="_blank" rel="referrer" title="Primi 3 approcci alle ore ufficio">Primi 3 approcci alle ore ufficio</a>
+                    </p>
+                    <p class="is-size-6">Scopri suggerimenti, risorse e best practice per la community su come utilizzare Adobe Workfront Office Hours in modo efficace per promuovere l’adozione e il coinvolgimento.</p>
+                </div>
+                <a href="top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -112,7 +136,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente quotid
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?format=jpeg&nocache=1752859089086&captions=ita" alt="Contro! - Gruppi e team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="Contro! - Gruppi e team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,17 +164,42 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
 
 <!-- CARDS 
 
+* expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
+* expert-insights/sla-reporting.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/non-traditional-workfront-workflows.md" title="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" title="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins">Approfondimenti esperti - Flussi di lavoro Workfront non tradizionali con Kiersten Kollins</a>
+                    </p>
+                    <p class="is-size-6">Kiersten Kollins di DSW utilizza flussi di lavoro non tradizionali di Adobe Workfront, rapporti personalizzati e automazioni Fusion per ottimizzare le operazioni di marketing e aumentare l’efficienza del team.</p>
+                </div>
+                <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Code di richieste con Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1752859089318" alt="Expert Insights - Code di richieste con Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Code di richieste con Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,6 +212,29 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
                     <p class="is-size-6">Suggerimenti degli esperti di Workfront sulla creazione di code di helpdesk, richieste di routing e informazioni sul dashboard con Lyndsy Denk.</p>
                 </div>
                 <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/sla-reporting.md" title="SLA in Workfront con Madalyn Destafney" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="SLA in Workfront con Madalyn Destafney"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="SLA in Workfront con Madalyn Destafney">Generazione rapporti SLA in Workfront con Madalyn Destafney</a>
+                    </p>
+                    <p class="is-size-6">Scopri come implementare e misurare gli accordi sui livelli di servizio (SLA) in Adobe Workfront con i suggerimenti degli esperti di Madalyn Destafney, incluse indicazioni dettagliate, esempi di campi calcolati e best practice per i moduli personalizzati.</p>
+                </div>
+                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>

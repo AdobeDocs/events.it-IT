@@ -4,17 +4,20 @@ description: Suggerimenti degli esperti di Workfront sulla creazione di code di 
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Code di richieste con Lyndsy Denk
 
@@ -33,9 +36,9 @@ Durante la nostra chat, Lyndsy ha condiviso,
 
 Come promesso, queste sono le risorse discusse insieme a un paio di collegamenti aggiuntivi per Code di richieste e Argomenti coda:
 
-* Risorse su come [gestire un&#39;istanza ereditata](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), include il collegamento al webinar e dettagli nell&#39;[esercitazione su blueprint](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Risorse su come [gestire un&#39;istanza ereditata](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), include il collegamento al webinar e dettagli nell&#39;[esercitazione su blueprint](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Documentazione sulle code di richieste: [Crea argomenti coda](https://experienceleague.adobe.com/it/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Documentazione sulle code di richieste: [Crea argomenti coda](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Presentazione del webinar di Lyndsy per [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): comunicazione con gli utenti finali (in questa pagina è incluso anche un collegamento al [Manuale delle comunicazioni per gli utenti finali](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
@@ -43,7 +46,7 @@ Come promesso, queste sono le risorse discusse insieme a un paio di collegamenti
 
 * E non dimenticare di controllare il [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Ask Me NOTHING about Workfront Proof dove Lyndsy insieme a Monique Evans e Richard Carlson ha risposto alle tue domande su Proofing!
 
-### Informazioni su Lyndsy
+## Informazioni sul diffusore 
 
 Lyndsy è il Marketing Training and Enablement Manager presso IDEXX. Oltre a Workfront, gestisce il DAM e gestisce le comunicazioni interne per il reparto marketing. Ha una preparazione nella scrittura tecnica, nella progettazione didattica, nell&#39;istruzione superiore, e nell&#39;allenare il discorso competitivo della scuola superiore e il dibattito.
 
@@ -54,5 +57,3 @@ Non sai mai quali idee fantastiche condivideranno i clienti durante gli eventi, 
 ## Hai qualcosa da condividere?
 
 Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
-

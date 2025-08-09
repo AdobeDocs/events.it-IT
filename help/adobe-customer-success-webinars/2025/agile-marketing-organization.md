@@ -1,19 +1,20 @@
 ---
 title: Coltivazione di un’organizzazione di marketing agile
 description: La sessione sulla coltivazione di un’organizzazione di marketing agile ha evidenziato i principi del marketing agile, i suoi vantaggi, le sfide con il tradizionale approccio a cascata, la necessità di un cambiamento culturale e di gestione del cambiamento, e i ruoli e la struttura essenziali per un marketing agile di successo.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # Coltivazione di un’organizzazione di marketing agile
 
