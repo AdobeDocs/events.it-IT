@@ -39,4 +39,4 @@ Oltre alla registrazione on-demand, abbiamo incluso la presentazione e i suggeri
 
 Uno dei temi più importanti che abbiamo visto nella chat è stata la sfida di cercare di mantenere i modelli di progetto semplici, ma allo stesso tempo monitorare lo sforzo e garantire che i team stiano realizzando tutti i passaggi necessari per completare il progetto.  
 
- Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.
+ Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

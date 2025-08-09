@@ -36,4 +36,4 @@ Ecco un breve riepilogo dei suggerimenti condivisi nella chat: 
 * Se gli utenti non ricevono le notifiche (e-mail), puoi sempre effettuare l’accesso in quanto possono confermare che la notifica è attivata nel loro profilo. Contatta anche l’Assistenza clienti se ti blocchi!   
 * Prova a disattivare le e-mail associate ai cambiamenti di stato: questi causano più rumore che azioni informative?  
 
-Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.
+Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

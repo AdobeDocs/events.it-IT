@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # Padroneggiare gli elementi multimediali dinamici con Open API
 
-Questo webinar è progettato per professionisti che hanno familiarità con gli elementi multimediali dinamici tradizionali e desiderano comprendere e implementare [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) con API aperte.  Esploreremo il funzionamento ad alto livello di Dynamic Media Ultimate con Open API e lo confronteremo con la versione tradizionale di Dynamic Media. Il nostro obiettivo è quello di fornire una comprensione completa delle differenze tra questi due approcci, consentendo ai partecipanti che hanno familiarità con Dynamic Media di adattarsi facilmente al modello Open API.
+Questo webinar è progettato per professionisti che hanno familiarità con gli elementi multimediali dinamici tradizionali e desiderano comprendere e implementare [Dynamic Media Ultimate](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) con API aperte.  Esploreremo il funzionamento ad alto livello di Dynamic Media Ultimate con Open API e lo confronteremo con la versione tradizionale di Dynamic Media. Il nostro obiettivo è quello di fornire una comprensione completa delle differenze tra questi due approcci, consentendo ai partecipanti che hanno familiarità con Dynamic Media di adattarsi facilmente al modello Open API.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

@@ -44,9 +44,9 @@ Di seguito sono riportati alcuni collegamenti rapidi aggiuntivi alle risorse per
 * [Creazione di un Workspace (Guida introduttiva di Planning)](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [Crea e gestisci un tipo di record](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [Crea e gestisci visualizzazioni tabella](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Documentazione: panoramica di Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Attività sulla versione di Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Documentazione: panoramica di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Attività sulla versione di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Presto ci saranno altri eventi in arrivo per Workfront Planning, quindi assicurati di controllare regolarmente la pagina [Eventi su Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)in modo da non perderti!
+Presto ci saranno altri eventi in arrivo per Workfront Planning, quindi assicurati di controllare regolarmente la pagina [Eventi su Experience League](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront)in modo da non perderti!
 
 

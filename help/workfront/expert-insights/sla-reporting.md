@@ -33,11 +33,11 @@ Come promesso nel video, la presentazione di Madalyn è collegata ai suoi passag
 
 Durante la presentazione, Madalyn ha condiviso i suoi moduli personalizzati e campi calcolati, quindi se stai iniziando a usare queste funzioni, ecco alcuni collegamenti per indirizzarti nella direzione giusta. 
 
-* Playlist del tutorial - [Crea e condividi un Forms personalizzato](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Playlist del tutorial - [Crea e condividi un Forms personalizzato](https://experienceleague.adobe.com/it/playlists/workfront-create-and-manage-custom-forms)
 
-* Articolo - [Introduzione ai campi calcolati e alle espressioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Articolo - [Introduzione ai campi calcolati e alle espressioni](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Suggerimenti - [Campi calcolati che tutti dovrebbero conoscere - e come creare rapporti su di essi!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Suggerimenti - [Campi calcolati che tutti dovrebbero conoscere - e come creare rapporti su di essi!](https://experienceleague.adobe.com/it/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Ti interessano altri suggerimenti da Madalyn? Guarda la sua serie di suggerimenti e trucchi nella community di Workfront! 
 
