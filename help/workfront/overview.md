@@ -74,7 +74,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755644849276" alt="Primi 3 - Approcci Creative con blueprint"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?format=jpeg&nocache=1755644849276&captions=ita" alt="Primi 3 - Approcci Creative con blueprint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755644849259" alt="Primi 3 approcci alle ore ufficio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470150/?format=jpeg&nocache=1755644849259&captions=ita" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente quotid
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755644849574" alt="Contro! - Gruppi e team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?format=jpeg&nocache=1755644849574&captions=ita" alt="Contro! - Gruppi e team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470002/?format=jpeg&nocache=1755644850018&captions=ita" alt="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +201,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755644850008" alt="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469947/?format=jpeg&nocache=1755644850008&captions=ita" alt="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Durante la quarta sessione, esaminiamo in che modo la mancanza di una forte sponsorizzazione da parte dell&#39;esecutivo ritarderà il processo decisionale, l&#39;allocazione del budget e la gestione dei cambiamenti. In questo webinar esploriamo il ruolo fondamentale svolto dai leader esecutivi nel sostenere i programmi Adobe Customer Journey Analytics, allineando team cross-functional e guidando risultati di business misurabili. Scopri strategie pratiche per coinvolgere le parti interessate più esperte, comunicare il valore in modo efficace e creare una cultura del processo decisionale basato sui dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470862/?learn=on&enablevpops&captions=ita)
 
 ## Casi aziendali di Crafting
 

@@ -31,7 +31,7 @@ Corre è un CSM davvero strategico che ci definisce il passo su come utilizzare 
 * Iniziate identificando i vostri punti di disegno di processo e andate da lì. Non lasciare che la tecnologia superi l’obiettivo.
 * Entra in contatto con altri clienti che si trovano in un percorso simile nella Community o agli Eventi! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470002/?learn=on&enablevpops&captions=ita)
 
 ## Risorse
 
