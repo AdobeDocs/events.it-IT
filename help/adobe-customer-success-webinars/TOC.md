@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '484'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [Trasformazione di Commerce B2B e B2B2C](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [Creazione di una sponsorizzazione esecutiva](2025/cja-success.md)
+      + [Strategie di gestione delle modifiche](2025/cja-adoption.md)
       + [Progettazione di un modello operativo per il successo CJA](2025/cja-operating-model.md)
       + [Architettura fondamentale](2025/cja-vision.md)
       + [Migrazione a CJA da Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [New Relic Essentials per AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
       + [Ottimizzazione delle prestazioni di AEM](2025/optimize-aem-performance.md)
       + [Personalizzazione delle comunicazioni digitali](2025/personalize-digital-communications.md)
+      + [Panoramica dell’editor universale](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [AI - Oltre le basi](2025/ai-beyond-basics.md)
       + [Best practice e informazioni approfondite per la modellazione di schemi XDM](2025/model-xdm-schemas.md)

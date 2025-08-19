@@ -1,7 +1,6 @@
 ---
 title: Prestazioni consegna Adobe Campaign Classic - Risoluzione dei problemi
 description: Questa sessione ha trattato strategie chiave per migliorare le prestazioni di consegna di e-mail e SMS tramite Adobe Campaign. Ha affrontato problematiche comuni quali ritardi di consegna, bassa velocità effettiva e lentezza delle transazioni, offrendo soluzioni quali l'ottimizzazione in batch, la registrazione SQL e il monitoraggio delle prestazioni dei server. Le best practice per la consegna dei messaggi includevano l’autenticazione e-mail corretta (SPF, DKIM, DMARC), il monitoraggio della blacklist e i controlli di posta indesiderata. Per migliorare le prestazioni, gli esperti hanno consigliato di pulire i flussi di lavoro, limitare le regole ed evitare contenitori condivisi. Suggerimenti per la consegna di SMS incentrati sulla corretta configurazione dell’account esterno e sull’analisi del registro. La sessione ha anche sottolineato la convalida del tracciamento, la manutenzione del database utilizzando rapporti gonfiati e l'applicazione di regole di pressione/affaticamento per aumentare il coinvolgimento. Una registrazione della sessione verrà condivisa tramite e-mail e pubblicata sul sito Adobe Experience.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # Sessioni tecniche: prestazioni di consegna Adobe Campaign Classic - Risoluzione dei problemi
 

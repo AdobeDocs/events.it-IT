@@ -3,9 +3,9 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Webinar sulla versione di Adobe Workfront 25.7" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Webinar sulla versione di Adobe Workfront 25.7"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755644848870" alt="Webinar sulla versione di Adobe Workfront 25.7"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,7 +74,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?format=jpeg&nocache=1754697926485&captions=ita" alt="Primi 3 - Approcci Creative con blueprint"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755644849276" alt="Primi 3 - Approcci Creative con blueprint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Cerchi informazioni rapide e fruibili per migliorare il tuo gioco Adobe Workfron
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470150/?format=jpeg&nocache=1754697926468&captions=ita" alt="Primi 3 approcci alle ore ufficio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755644849259" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente quotid
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?format=jpeg&nocache=1754697926685&captions=ita" alt="Contro! - Gruppi e team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755644849574" alt="Contro! - Gruppi e team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,19 +164,44 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
 
 <!-- CARDS 
 
+* expert-insights/content-supply-chain.md
 * expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
 * expert-insights/sla-reporting.md
+* expert-insights/enterprise-work-management.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" title="Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol">Approfondimenti esperti - Catena di fornitura dei contenuti con Corre Kombol</a>
+                    </p>
+                    <p class="is-size-6">Scopri le strategie degli esperti di Corre Kombol per ottimizzare la supply chain dei contenuti con le soluzioni Adobe. Aumentare l'efficienza, la collaborazione e i risultati.</p>
+                </div>
+                <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469947/?format=jpeg&nocache=1754697926938&captions=ita" alt="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755644850008" alt="Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -199,7 +224,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Code di richieste con Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Code di richieste con Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755644850056" alt="Expert Insights - Code di richieste con Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +247,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA in Workfront con Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="SLA in Workfront con Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755644850045" alt="SLA in Workfront con Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -235,6 +260,29 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
                     <p class="is-size-6">Scopri come implementare e misurare gli accordi sui livelli di servizio (SLA) in Adobe Workfront con i suggerimenti degli esperti di Madalyn Destafney, incluse indicazioni dettagliate, esempi di campi calcolati e best practice per i moduli personalizzati.</p>
                 </div>
                 <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Enterprise Work Management with Daniel Clarke">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/enterprise-work-management.md" title="Expert Insights - Enterprise Work Management con Daniel Clarke" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755644850032" alt="Expert Insights - Enterprise Work Management con Daniel Clarke"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" title="Expert Insights - Enterprise Work Management con Daniel Clarke">Approfondimenti esperti - Gestione del lavoro aziendale con Daniel Clarke</a>
+                    </p>
+                    <p class="is-size-6">Daniel Clarke condivide le best practice di Workfront in materia di gestione del lavoro aziendale, adozione, metriche di leadership e strategie di Fusion per il successo.</p>
+                </div>
+                <a href="expert-insights/enterprise-work-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
