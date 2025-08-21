@@ -3,10 +3,10 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 1%
+source-wordcount: '227'
+ht-degree: 2%
 
 ---
 
@@ -28,11 +28,13 @@ ht-degree: 1%
 + Approfondimenti esperti {#expert-insights}
    + [Adozione](expert-insights/adoption.md)
    + [Sondaggi sull’adozione](expert-insights/adoption-surveys.md)
+   + [Agile](expert-insights/agile.md)
    + [Catena di fornitura contenuto](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Governance e centri di eccellenza](expert-insights/centers-of-excellence.md)
    + [Flussi di lavoro Workfront non tradizionali](expert-insights/non-traditional-workfront-workflows.md)
    + [Tecniche di reporting](expert-insights/reporting-practices.md)
+   + [Gestione risorse](expert-insights/resource-management.md)
    + [Code di richieste con Lyndsy Denk](expert-insights/request-queues.md)
    + [Generazione di rapporti SLA in Workfront](expert-insights/sla-reporting.md)
    + [Gestione aziendale del lavoro](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 1%
       + [Sblocco dei costi evento effettivi](workshop-rewind/integrations/event-costs.md)
    + Pianificazione {#planning}
       + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Più recente in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
    + Flusso di lavoro {#workflow}
       + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
       + [Masterizzazione delle notifiche e-mail](workshop-rewind/workflow/email-notifications.md)
