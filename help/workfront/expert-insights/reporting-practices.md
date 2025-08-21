@@ -27,7 +27,7 @@ Per la cronaca, lei è altrettanto impressionante, intelligente e generoso di la
 
 Unisciti a me, al tuo CSM on-demand per Workfront, mentre parlo con Nichole di come è diventata la nostra Reporting Guru, delle sue caratteristiche e dei suoi suggerimenti preferiti e di come tutti noi possiamo essere &quot;più come Nichole&quot;! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469973/?learn=on&enablevpops&captions=ita)
 
 ## Suggerimenti
 

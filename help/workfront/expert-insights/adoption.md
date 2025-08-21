@@ -25,7 +25,7 @@ L’adozione è un argomento al quale torniamo regolarmente, e in questa edizion
 
 Unisciti a me, il tuo CSM on-demand di Workfront, mentre parlo con Leslie del motivo per cui l’adozione è un argomento così importante, insieme ad alcune delle nostre strategie preferite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469935/?learn=on&enablevpops&captions=ita)
 
 ## Suggerimenti, consigli e altro ancora
 
