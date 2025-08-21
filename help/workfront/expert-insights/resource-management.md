@@ -35,13 +35,13 @@ Cerchi modi per analizzare meglio i dati e assicurarti di essere pronto? Consult
 
 Cerchi la differenza tra la pianificazione delle risorse e il bilanciatore dei carichi di lavoro? Ecco alcuni brevi video:
 
-* [Cos&#39;è la Programmazione delle risorse?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Assegna lavoro nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [Cos&#39;è la Programmazione delle risorse?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=it)
+* [Assegna lavoro nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=it)
 
 Poiché la pianificazione delle risorse e il bilanciatore dei carichi di lavoro sono due strumenti diversi all’interno della funzione di gestione delle risorse, comprendere il filtro all’interno di entrambi è fondamentale. Per ulteriori informazioni, consulta:
 
-* [Filtra le informazioni nella Programmazione delle risorse](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Filtrare le informazioni nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtra le informazioni nella Programmazione delle risorse](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=it)
+* [Filtrare le informazioni nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=it)
 
 ## Informazioni sul diffusore
 

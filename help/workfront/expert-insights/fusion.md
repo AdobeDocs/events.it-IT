@@ -38,8 +38,8 @@ Come menzionato nel video, Ewan sta lavorando a una guida sulle best practice pe
 
 ## Risorse
 
-* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Panoramica video di Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=it)
+* [Panoramica video di Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=it)
 
 ## Informazioni sul diffusore
 

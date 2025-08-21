@@ -34,9 +34,9 @@ Natalie ha condiviso le sue risorse preferite di Agile durante l’intervista, q
 
 Cerchi modi semplici per iniziare? Consulta questi articoli e brevi video dimostrativi:
 
-* [Consenso anticipato alle funzioni per le schede madri Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Crea o modifica una bacheca - include le descrizioni di ciascun modello di bacheche](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Schede madri Adobe Workfront - brevi dimostrazioni video](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Consenso anticipato alle funzioni per le schede madri Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=it)
+* [Crea o modifica una bacheca - include le descrizioni di ciascun modello di bacheche](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=it)
+* [Schede madri Adobe Workfront - brevi dimostrazioni video](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=it)
 
 ## Informazioni sul diffusore
 
