@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights: reportistica di SLA in Workfront con Madalyn Destafney
 
@@ -33,11 +33,11 @@ Come promesso nel video, la presentazione di Madalyn è collegata ai suoi passag
 
 Durante la presentazione, Madalyn ha condiviso i suoi moduli personalizzati e campi calcolati, quindi se stai iniziando a usare queste funzioni, ecco alcuni collegamenti per indirizzarti nella direzione giusta. 
 
-* Playlist del tutorial - [Crea e condividi un Forms personalizzato](https://experienceleague.adobe.com/it/playlists/workfront-create-and-manage-custom-forms)
+* Playlist del tutorial - [Crea e condividi un Forms personalizzato](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Articolo - [Introduzione ai campi calcolati e alle espressioni](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Articolo - [Introduzione ai campi calcolati e alle espressioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Suggerimenti - [Campi calcolati che tutti dovrebbero conoscere - e come creare rapporti su di essi!](https://experienceleague.adobe.com/it/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Suggerimenti - [Campi calcolati che tutti dovrebbero conoscere - e come creare rapporti su di essi!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Ti interessano altri suggerimenti da Madalyn? Guarda la sua serie di suggerimenti e trucchi nella community di Workfront! 
 

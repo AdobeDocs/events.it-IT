@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 1%
 
 ---
-
 
 # Avvio rapido, scalabilità intelligente: attivazione del successo a livello di team con Workfront Planning
 
@@ -44,9 +44,7 @@ Di seguito sono riportati alcuni collegamenti rapidi aggiuntivi alle risorse per
 * [Creazione di un Workspace (Guida introduttiva di Planning)](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [Crea e gestisci un tipo di record](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [Crea e gestisci visualizzazioni tabella](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Documentazione: panoramica di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Attività sulla versione di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Documentazione: panoramica di Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Attività sulla versione di Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Presto ci saranno altri eventi in arrivo per Workfront Planning, quindi assicurati di controllare regolarmente la pagina [Eventi su Experience League](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront)in modo da non perderti!
-
-
+Presto ci saranno altri eventi in arrivo per Workfront Planning, quindi assicurati di controllare regolarmente la pagina [Eventi su Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)in modo da non perderti!

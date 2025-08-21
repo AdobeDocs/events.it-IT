@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins
 
@@ -33,7 +33,7 @@ Rimarrai stupito da tutte le fantastiche idee che condivide, tra cui: 
 * Avvio di Creative Brief review per soddisfare le esigenze degli utenti e dei progetti. 
 * *BONUS!* condivide anche un esempio di uno dei suoi casi d&#39;uso preferiti di Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469947/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Risorse
 
@@ -49,6 +49,4 @@ Con oltre un decennio di esperienza nel marketing creativo e team operativi, Kie
 
 ## Hai qualcosa da condividere?
 
-Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

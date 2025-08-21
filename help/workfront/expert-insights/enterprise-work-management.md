@@ -11,13 +11,13 @@ doc-type: Event
 duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: db16e693-cd95-4e67-858b-b57829d1e704
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Enterprise Work Management con Daniel Clarke
 
@@ -44,6 +44,4 @@ Ho il piacere di guidare un team di designer, consulenti e analisti presso Sysco
 
 ## Hai qualcosa da condividere?
 
-Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

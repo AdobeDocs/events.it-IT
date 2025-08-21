@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Approfondimenti esperti - Catena di fornitura di contenuti con Corre Kombol
 
@@ -31,7 +31,7 @@ Corre è un CSM davvero strategico che ci definisce il passo su come utilizzare 
 * Iniziate identificando i vostri punti di disegno di processo e andate da lì. Non lasciare che la tecnologia superi l’obiettivo.
 * Entra in contatto con altri clienti che si trovano in un percorso simile nella Community o agli Eventi! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470002/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Risorse
 
@@ -53,4 +53,4 @@ Corre Kombol è Principal Customer Success Manager orientato ai risultati con ol
 
 ## Hai qualcosa da condividere?
 
-Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Hai una grande storia da condividere, durante un evento o in un video di Expert Insights? Contatta il nostro team all&#39;indirizzo [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '220'
 ht-degree: 1%
 
 ---
@@ -26,8 +26,13 @@ ht-degree: 1%
 + Contro! {#versus}
    + [Gruppi e team](versus/groups-vs-teams.md)
 + Approfondimenti esperti {#expert-insights}
+   + [Adozione](expert-insights/adoption.md)
+   + [Sondaggi sull’adozione](expert-insights/adoption-surveys.md)
    + [Catena di fornitura contenuto](expert-insights/content-supply-chain.md)
+   + [Fusion](expert-insights/fusion.md)
+   + [Governance e centri di eccellenza](expert-insights/centers-of-excellence.md)
    + [Flussi di lavoro Workfront non tradizionali](expert-insights/non-traditional-workfront-workflows.md)
+   + [Tecniche di reporting](expert-insights/reporting-practices.md)
    + [Code di richieste con Lyndsy Denk](expert-insights/request-queues.md)
    + [Generazione di rapporti SLA in Workfront](expert-insights/sla-reporting.md)
    + [Gestione aziendale del lavoro](expert-insights/enterprise-work-management.md)
