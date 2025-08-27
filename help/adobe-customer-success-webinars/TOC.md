@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 4%
       + [Coltivazione di un’organizzazione di marketing agile](2025/agile-marketing-organization.md)
       + [Tendenze digitali e preparazione al futuro](2025/digital-trends-preparing-future.md)
       + [Architettura Northstar](2025/northstar-architecture.md)
+      + [Crescita guidata dall’intelligenza artificiale e playbook dalle prestazioni migliori](2025/ai-driven-growth.md)
       + [Stato dell&#39;adozione digitale e GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [Automazione basata su IA in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
