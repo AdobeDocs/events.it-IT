@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -20,11 +20,12 @@ ht-degree: 2%
    + [Versione 25.4](releases/25-4-release-webinar.md)
    + [Versione 25.1](releases/25-1-release-webinar.md)
    + [Versione 24.1](releases/24-1-release-webinar.md)
-+ Primi 3 {#top3}
-   + [Approcci di Creative con blueprint](top3/blueprints.md)
-   + [Primi 3 approcci alle ore ufficio](top3/office-hours.md)
-+ Contro! {#versus}
-   + [Gruppi e team](versus/groups-vs-teams.md)
++ Riprese rapide {#quicktakes}
+   + Primi 3 {#top3}
+      + [Approcci di Creative con blueprint](top3/blueprints.md)
+      + [Primi 3 approcci alle ore ufficio](top3/office-hours.md)
+   + Contro! {#versus}
+      + [Gruppi e team](versus/groups-vs-teams.md)
 + Approfondimenti esperti {#expert-insights}
    + [Adozione](expert-insights/adoption.md)
    + [Sondaggi sull’adozione](expert-insights/adoption-surveys.md)

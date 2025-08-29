@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Suggerimenti per affrontare Percorsi complessi in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Percorsi oltre l&#39;e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Agosto 2025 {#aug2025}
+      + [Miglioramento della categorizzazione dei dati](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Semplificazione dei follow-up](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Agosto 2024 {#aug2024}
       + [Apertura di una nota chiave](marketo/aug2024/keynote.md)
       + [Applicazioni avanzate dei programmi di coinvolgimento](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [Generazione di rapporti in  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Suggerimenti e trucchi di Ultimate per il tuo Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto 2025 {#aug2025}
+      + [Apertura di una nota chiave](workfront/2025/aug/keynote.md)
+      + [Modalità testo avanzata](workfront/2025/aug/advanced-text-mode.md)
+      + [Creazione automatizzata degli account utente con Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Centro di eccellenza](workfront/2025/aug/center-of-excellence.md)
+      + [Padroneggiare gli strumenti AI di Workfront](workfront/2025/aug/workfront-ai-tools.md)
    + Agosto 2024 {#aug2024}
       + [Apertura di una nota chiave](workfront/aug2024/keynote.md)
       + [Personalizzazione del Bilanciatore dei carichi di lavoro](workfront/aug2024/workload-balancer.md)
