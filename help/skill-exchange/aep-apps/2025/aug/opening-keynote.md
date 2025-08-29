@@ -31,4 +31,4 @@ Scopri come Adobe Experience Platform e l’IA per gli agenti stanno rimodelland
 Sfrutta queste informazioni per semplificare i flussi di lavoro, migliorare la personalizzazione e garantire l’esperienza futura nella gestione delle esperienze digitali.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471363/?learn=on&enablevpops&captions=ita)

@@ -50,7 +50,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756421492411" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471363/?format=jpeg&nocache=1756421492411&captions=ita" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

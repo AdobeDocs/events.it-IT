@@ -304,7 +304,7 @@ Scopri dagli esperti e dai colleghi di Adobe come ottenere il massimo dalle solu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Padronanza del punteggio della persona con Marketo Engage - Sfumature localizzate in un framework globale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1756413992875" alt="Padronanza del punteggio della persona con Marketo Engage - Sfumature localizzate in un framework globale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457447/?format=jpeg&nocache=1756413992875&captions=ita" alt="Padronanza del punteggio della persona con Marketo Engage - Sfumature localizzate in un framework globale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
