@@ -34,7 +34,7 @@ Con le tecniche avanzate di modalità testo, puoi portare la generazione rapport
 
 Sfrutta la potenza della reportistica di Workfront combinando competenze tecniche e narrazione.
 
-* **Modalità testo avanzata **abilita rapporti flessibili e personalizzati che vanno oltre le limitazioni predefinite dell’interfaccia utente.
+* **Modalità testo avanzata &#x200B;** abilita rapporti flessibili e personalizzati che vanno oltre le limitazioni predefinite dell’interfaccia utente.
 * **Unione di colonne** Riduce l&#39;ingombro e migliora la leggibilità, consentendo di presentare i dettagli chiave del progetto in un&#39;unica vista.
 * **Espressioni di valore** Fornisci informazioni in tempo reale, ad esempio i calcoli dello stato e della pianificazione del progetto, direttamente all&#39;interno dei rapporti.
 * **Prompt personalizzati** consente agli utenti di filtrare e interagire dinamicamente con i rapporti, in base alle diverse esigenze del team.
