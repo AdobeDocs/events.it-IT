@@ -1,6 +1,7 @@
 ---
 title: Migliorare la creazione di rapporti di Workfront con la modalità testo avanzata
 description: Scopri come padroneggiare la modalità testo di Adobe Workfront per unire le colonne, creare espressioni di valore personalizzate e creare prompt dinamici per un reporting più intelligente.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Migliorare la creazione di rapporti di Workfront con la modalità testo avanzata
 
@@ -33,7 +34,7 @@ Con le tecniche avanzate di modalità testo, puoi portare la generazione rapport
 
 Sfrutta la potenza della reportistica di Workfront combinando competenze tecniche e narrazione.
 
-* **Modalità testo avanzata &#x200B;** abilita rapporti flessibili e personalizzati che vanno oltre le limitazioni predefinite dell’interfaccia utente.
+* **Modalità testo avanzata **abilita rapporti flessibili e personalizzati che vanno oltre le limitazioni predefinite dell’interfaccia utente.
 * **Unione di colonne** Riduce l&#39;ingombro e migliora la leggibilità, consentendo di presentare i dettagli chiave del progetto in un&#39;unica vista.
 * **Espressioni di valore** Fornisci informazioni in tempo reale, ad esempio i calcoli dello stato e della pianificazione del progetto, direttamente all&#39;interno dei rapporti.
 * **Prompt personalizzati** consente agli utenti di filtrare e interagire dinamicamente con i rapporti, in base alle diverse esigenze del team.

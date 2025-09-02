@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [Percorsi oltre l&#39;e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Agosto 2025 {#aug2025}
+      + [Apertura di una nota chiave](marketo/2025/aug/opening-keynote.md)
+      + [Motore del ciclo di vita basato sull’intelligenza artificiale](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio per operazioni di marketing globali](marketo/2025/aug/design-studio.md)
       + [Miglioramento della categorizzazione dei dati](marketo/2025/aug/data-categorization-with-ai.md)
       + [Semplificazione dei follow-up](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Agosto 2024 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [Modalità testo avanzata](workfront/2025/aug/advanced-text-mode.md)
       + [Creazione automatizzata degli account utente con Fusion](workfront/2025/aug/fusion-user-account-creation.md)
       + [Centro di eccellenza](workfront/2025/aug/center-of-excellence.md)
+      + [Abilitazione degli utenti alle nuove funzioni](workfront/2025/aug/enable-users-new-features.md)
+      + [Guida introduttiva alla revisione e alle approvazioni](workfront/2025/aug/review-approval.md)
       + [Padroneggiare gli strumenti AI di Workfront](workfront/2025/aug/workfront-ai-tools.md)
+      + [Semplificazione dei flussi di lavoro di Creative con Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + Agosto 2024 {#aug2024}
       + [Apertura di una nota chiave](workfront/aug2024/keynote.md)
       + [Personalizzazione del Bilanciatore dei carichi di lavoro](workfront/aug2024/workload-balancer.md)
