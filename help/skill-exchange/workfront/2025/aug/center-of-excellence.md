@@ -27,7 +27,7 @@ La creazione di un centro di eccellenza (CdE) è fondamentale per stimolare l&#3
 * **Considerazioni sull&#39;assegnazione del personale** Esplora gli aspetti critici dell&#39;assegnazione del personale al tuo CoE identificando ruoli e responsabilità chiave per la tua pratica amministrativa. Scopri come creare un team in grado di supportare e guidare efficacemente le iniziative del tuo CoE.
 * **Suggerimenti** Ottieni informazioni pratiche e best practice per la gestione e il supporto del tuo CoE. Scopri le strategie per superare le sfide comuni, promuovere la collaborazione e garantire un miglioramento continuo. Unisciti a noi per fornirti le conoscenze e gli strumenti necessari per creare un fiorente centro di eccellenza all’interno della tua organizzazione Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471592/?learn=on&enablevpops&captions=ita)
 
 ## Passaggi chiave per avviare il tuo COE
 
