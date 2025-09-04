@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Raccolta di registrazioni da Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 9%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 9%
       + [Canali Di Marketing, Utilizzati Responsabilmente](analytics/jun2021/marketing-channels.md)
       + [Tutti gli elementi insieme](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Agosto 2025 {#aug2025}
+      + [Apertura di una nota chiave](aem/2025/aug/opening-keynote.md)
+      + [Framework dei contenuti predisposto per il futuro](aem/2025/aug/content-framework.md)
+      + [Gestione scalabile delle risorse](aem/2025/aug/scalable-asset-management.md)
    + Agosto 2024 {#aug2024}
       + [Apertura di una nota chiave](aem/aug2024/keynote.md)
       + [AEM Sites con editor universale](aem/aug2024/universal-editor.md)
