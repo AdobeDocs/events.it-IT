@@ -29,7 +29,7 @@ Haresh Kumar, Head of Strategy and Product for Adobe Experience Manager (AEM), s
 * Nuovi strumenti di ottimizzazione come Sites Optimizer e Content Advisor per migliorare il coinvolgimento e la conversione.
 * Come scalare la personalizzazione uno-a-uno in modo sicuro ed efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471404/?learn=on&enablevpops&captions=ita)
 
 
 ## Sbloccare il futuro delle esperienze di contenuto

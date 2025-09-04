@@ -48,7 +48,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Keynote di apertura Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1756943155218" alt="Keynote di apertura Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471404/?format=jpeg&nocache=1756943155218&captions=ita" alt="Keynote di apertura Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,7 +135,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756943156021" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471363/?format=jpeg&nocache=1756943156021&captions=ita" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +268,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Apertura di una nota chiave" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756943156421" alt="Apertura di una nota chiave"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471483/?format=jpeg&nocache=1756943156421&captions=ita" alt="Apertura di una nota chiave"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +450,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparare la vostra organizzazione Workfront per un centro di eccellenza" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756943157009" alt="Preparare la vostra organizzazione Workfront per un centro di eccellenza"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471592/?format=jpeg&nocache=1756943157009&captions=ita" alt="Preparare la vostra organizzazione Workfront per un centro di eccellenza"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Creazione automatizzata degli account utente di Workfront con Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756943157030" alt="Creazione automatizzata degli account utente di Workfront con Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471579/?format=jpeg&nocache=1756943157030&captions=ita" alt="Creazione automatizzata degli account utente di Workfront con Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +519,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Guida introduttiva alla revisione e alle approvazioni" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756943157047" alt="Guida introduttiva alla revisione e alle approvazioni"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471568/?format=jpeg&nocache=1756943157047&captions=ita" alt="Guida introduttiva alla revisione e alle approvazioni"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
