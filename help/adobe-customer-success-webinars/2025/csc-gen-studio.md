@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Questo webinar offre una panoramica di alto livello della moderna supply chain dei contenuti, illustrando come le organizzazioni possono accelerare, semplificare e gestire la creazione e la distribuzione dei contenuti in ogni canale e pubblico. I visualizzatori potranno scoprire la potenza integrata di Adobe GenStudio as a product suite, con AEM Sites, AEM Assets, Workfront e Creative Cloud, per avviare una collaborazione in tempo reale, automatizzare i flussi di lavoro e consentire un’esecuzione scalabile e creativa sul marchio. La sessione è progettata per educare i leader aziendali e IT su come una piattaforma unificata della supply chain dei contenuti può stimolare l&#39;agilità di marketing, l&#39;impatto creativo e la crescita del business misurabile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472987/?learn=on&enablevpops&captions=ita)
 
 ## Sblocco della creazione di contenuti senza soluzione di continuità con Adobe
 
