@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri le funzioni potenti ma spesso trascurate di Adobe Analytics Workspace che possono migliorare la tua analisi e generare un impatto reale. In questa sessione, esploreremo casi d’uso pratici e tecniche semplici che trasformano gli strumenti quotidiani in motori di insight, consentendoti di scoprire cosa è veramente importante per la tua azienda. Che tu sia un analista esperto o un principiante, ti verranno idee fruibili per massimizzare il valore dei tuoi dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471259/?learn=on&enablevpops&captions=ita)
 
 ## Sblocco delle tecniche di analisi avanzate
 

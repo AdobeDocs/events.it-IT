@@ -24,7 +24,7 @@ I partecipanti impareranno a utilizzare l’analisi a livello di percorso per in
 
 Infine, approfondiremo le strategie per scalare queste informazioni in tutta l’organizzazione collegando i risultati di Percorsi Canvas a dashboard granulari, consentendo un’ottimizzazione continua in ogni punto di contatto. Che tu sia un nuovo utente di CJA o un professionista esperto, questa sessione ti fornirà una chiara metodologia per l’utilizzo di Percorsi Canvas per migliorare i programmi CX e ottenere risultati tangibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471222/?learn=on&enablevpops&captions=ita)
 
 ## Area di lavoro percorso: dall’analisi all’attivazione
 

@@ -25,7 +25,7 @@ Sei pronto a chiudere il tuo vecchio grembiule di Adobe Analytics e entrare in u
 Che tu non abbia rispettato le Regole di elaborazione o cerchi di trovare la panoramica perfetta (visualizzazione dati) per la tua prossima analisi, questa sessione ti guiderà attraverso la cucina di analisi moderne, passo dopo passo.
 Affascinatevi di approfondimenti e lasciate con un menu completo di tecniche pronte per CJA
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471248/?learn=on&enablevpops&captions=ita)
 
 ## Trasformazione di Analytics con CJA: soluzioni chiave
 

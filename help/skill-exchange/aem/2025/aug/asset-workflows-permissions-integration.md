@@ -26,7 +26,7 @@ In questa sessione, gli amministratori e gli utenti delle librerie DAM apprender
 * Informazioni e applicazione delle autorizzazioni e del controllo degli accessi in DAM
 * Funzionalità di DAM, best practice e strategie di integrazione con DAM
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471460/?learn=on&enablevpops&captions=ita)
 
 ## Gestione efficiente delle risorse digitali
 

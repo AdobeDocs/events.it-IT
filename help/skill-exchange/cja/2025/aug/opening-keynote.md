@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Apertura di una nota chiave
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471132/?learn=on&enablevpops&captions=ita)
 
 ## Eccellenza degli analisti: abilità essenziali
 

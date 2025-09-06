@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Ioana Maftei, Champion Adobe Senior Analytics Manager di IBM, spiega come creare flussi di lavoro di analisi scalabili e gestiti che consentano di misurare la supply chain dei contenuti. Scopri come fornire le informazioni giuste alle persone giuste al momento giusto, abilitare la collaborazione tra i team e personalizzare i progetti Analysis Workspace in base a ruoli e esigenze diversi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471237/?learn=on&enablevpops&captions=ita)
 
 ## Mappatura dei ruoli sugli stadi di Analytics
 

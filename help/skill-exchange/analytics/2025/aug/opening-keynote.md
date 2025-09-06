@@ -23,7 +23,7 @@ Acumen aziendale e ragionamento etico: prendi decisioni intelligenti ed etiche c
 Research Methodology &amp; Storytelling Craft: trasforma i risultati dei dati in narrazioni avvincenti per le parti interessate.
 Competenza tecnica e intelligenza emotiva: fornisci supporto e soluzioni con empatia, non solo competenze tecniche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471200/?learn=on&enablevpops&captions=ita)
 
 ## Sblocco di Analytics per l’impatto umano
 
