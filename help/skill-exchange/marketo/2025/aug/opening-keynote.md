@@ -9,9 +9,9 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Apertura di una nota chiave
 
-L’evento Adobe Experience Makers: The Skill Exchange (Marketo Engage track) ha visto Bhatstra Mukherjee, product manager di Adobe, parlare dell’evoluzione del marketing B2B in &quot;B2B 3.0&quot;. Questa nuova fase si concentra sulle esperienze cliente basate sull’intelligenza artificiale, enfatizzando il coinvolgimento personalizzato e il targeting dei gruppi di acquisto all’interno degli account. Mukherjee ha sottolineato il ruolo trasformativo degli agenti di intelligenza artificiale nell’automatizzare le attività, migliorare l’efficienza e consentire agli addetti al marketing di concentrarsi su ruoli strategici. È stata sottolineata l’importanza della collaborazione tra uomo e intelligenza artificiale, con l’intelligenza artificiale che amplifica la creatività anziché sostituirla. Le competenze chiave per il successo in questo scenario includono progettazione rapida, fluenza dei dati e configurazione degli agenti. Adobe sta integrando gli agenti di intelligenza artificiale in strumenti come Marketo Engage per automatizzare l’orchestrazione del ciclo di vita dei clienti, garantendo agli addetti al marketing che abbracciano l’intelligenza artificiale la possibilità di prosperare nel futuro del marketing B2B.
+L’evento Adobe Experience Makers: The Skill Exchange (Marketo Engage track) ha visto Badsah Mukherji, Senior Group Product Manager di Adobe, parlare dell’evoluzione del marketing B2B in &quot;B2B 3.0&quot;. Questa nuova fase si concentra sulle esperienze cliente basate sull’intelligenza artificiale, enfatizzando il coinvolgimento personalizzato e il targeting dei gruppi di acquisto all’interno degli account. Mukherjee ha sottolineato il ruolo trasformativo degli agenti di intelligenza artificiale nell’automatizzare le attività, migliorare l’efficienza e consentire agli addetti al marketing di concentrarsi su ruoli strategici. È stata sottolineata l’importanza della collaborazione tra uomo e intelligenza artificiale, con l’intelligenza artificiale che amplifica la creatività anziché sostituirla. Le competenze chiave per il successo in questo scenario includono progettazione rapida, fluenza dei dati e configurazione degli agenti. Adobe sta integrando gli agenti di intelligenza artificiale in strumenti come Marketo Engage per automatizzare l’orchestrazione del ciclo di vita dei clienti, garantendo agli addetti al marketing che abbracciano l’intelligenza artificiale la possibilità di prosperare nel futuro del marketing B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471483/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## Navigare nel futuro del marketing B2B
 
