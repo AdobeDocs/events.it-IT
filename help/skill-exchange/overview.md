@@ -412,7 +412,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Keynote di apertura Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Keynote di apertura Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471404/?format=jpeg&nocache=1757465010566&captions=ita" alt="Keynote di apertura Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Experience Makers The Skill Exchange è una serie globale di eventi di apprendim
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473966/?format=jpeg&nocache=1757465013296&captions=ita" alt="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

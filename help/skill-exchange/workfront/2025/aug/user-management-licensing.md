@@ -22,4 +22,4 @@ Le licenze Workfront funzionano come te? Unisciti a Monique Evans di Stanley Bla
 
 Scopri in che modo Monique garantisce il giusto accesso alle persone giuste, utilizzando ruoli, gruppi, team e moduli personalizzati per semplificare la scalabilità e ridurre il sovraccarico di amministrazione. Questa sessione ti offrirà modi pratici per ripulire l’istanza, migliorare la governance e ottimizzare la configurazione di Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473966/?learn=on&enablevpops&captions=ita)
