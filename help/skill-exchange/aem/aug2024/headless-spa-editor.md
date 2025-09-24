@@ -1,6 +1,6 @@
 ---
 title: 'Sfrutta la potenza delle applicazioni a pagina singola moderne in AEM: approcci principali headless e editor SPA'
-description: Informazioni sulle nozioni di base delle applicazioni a pagina singola Esplorazione di AEM headless e della sua integrazione con i framework front-end Utilizzo dell’editor SPA di AEM per un processo di sviluppo semplificato Best practice per la creazione, l’implementazione e la gestione delle SPA in AEMDon perdi questa opportunità di ottenere informazioni da un esperto e migliorare la tua strategia digitale con le moderne tecniche SPA in AEM."
+description: Informazioni sulle nozioni di base delle applicazioni a pagina singola Esplorazione di AEM headless e della sua integrazione con i framework front-end Utilizzo dell’Editor SPA di AEM per un processo di sviluppo semplificato Best practice per la creazione, l’implementazione e la gestione di SPA in AEMDon perdete questa opportunità di ottenere informazioni approfondite da un esperto e migliorare la vostra strategia digitale con le moderne tecniche SPA in AEM.
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
