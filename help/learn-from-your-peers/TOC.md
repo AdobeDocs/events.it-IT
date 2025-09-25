@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
+source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -48,6 +48,9 @@ ht-degree: 20%
       + [Strategie di sicurezza efficaci in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Maggio {#may2023}
       + [Masterizzazione di contenuti e frammenti di esperienza](experience-manager/may2023/mastering-content-and-experience-fragments.md)
++ GenAI {#genai}
+   + Settembre 2025 {#sept2025}
+      + [Scala adozione IA - Playbook per le approvazioni](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
    + Maggio 2025 {#may2025}
       + [Scopri l’impatto dei webinar interattivi](marketo/may2025/interactive-webinars.md)
