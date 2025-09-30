@@ -8,19 +8,21 @@ event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: 8b4b83630e23a9deeaef97c12a5e0850b2347c3e
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 # Espandi la tua portata mobile con RCS e WhatsApp in Journey Optimizer
 
-In questo Experience League Live Show, Travis Jordan e Nikhil Sharma mostreranno come Adobe Journey Optimizer ha recentemente ampliato il coinvolgimento mobile con nuove potenti aggiunte e funzionalità per il canale, tra cui WhatsApp, RCS e provider di SMS personalizzati.
+Travis Jordan e Nikhil Sharma hanno mostrato come Adobe Journey Optimizer ha recentemente ampliato il coinvolgimento mobile con nuove potenti aggiunte e funzionalità per il canale, tra cui WhatsApp, RCS e provider di SMS personalizzati.
 
-Scopri come offrire esperienze mobili ricche e personalizzate che vanno oltre il testo normale, con funzioni come pulsanti interattivi, caroselli, risposte rapide e altro ancora, orchestrate direttamente in Journey Optimizer con questi nuovi canali. Passeremo in rassegna i vantaggi e le differenze tra RCS e WhatsApp, vedremo come impostare questi nuovi canali, incluse le credenziali API e i webhook, e come incorporare questi canali nella tua strategia di coinvolgimento omni-channel esistente.
+Hanno mostrato come offrire esperienze mobili ricche e personalizzate che vanno oltre il testo normale, con pulsanti interattivi, caroselli, risposte rapide e altro ancora. Il tutto orchestrato direttamente all’interno di Journey Optimizer con questi nuovi canali. Hanno descritto i vantaggi e le differenze tra RCS e WhatsApp, hanno descritto come impostare questi nuovi canali, incluse le credenziali API e i webhook, e hanno mostrato come incorporare questi canali nella tua strategia di coinvolgimento omni-channel esistente.
 
-> ![Mostra banner](../assets/30Sept2025_WebBanner.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Registrati ora!](https://engage.adobe.com/ExpLeagueLive-250930.html)
+Unisciti a noi per la community di [Adobe Journey Optimizer Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) il **mercoledì 15 ottobre dalle 8.00 alle 9.00 PT** A noi si uniranno gli esperti Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager e Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
+
+Risponderemo alle tue domande durante questa chat in diretta.
