@@ -76,7 +76,7 @@ ht-degree: 20%
    + Maggio 2023 {#may2023}
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo 2023 {#mar2023}
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + Febbraio {#february2025}
