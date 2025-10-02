@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 13%
+source-wordcount: '203'
+ht-degree: 15%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
-              <img alt="Experience League LIVE 30 settembre 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-09-30-25.md">
-                <strong>Espandi la tua portata mobile con RCS e WhatsApp in Journey Optimizer</strong>
-              </a>
-              <br/><em>con Sandra Hausmann, Travis Jordan e Nikhil Sharma</em>
-              <br/><em>30 settembre 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
               <img alt="Experience League LIVE 16 ottobre 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
             </a>
@@ -124,5 +113,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
