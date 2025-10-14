@@ -30,7 +30,7 @@ La maggior parte degli sviluppatori si è imbattuta nel querybuilder dell’AEM 
 
 Demo
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), fornito da Alexander Klimetschek
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), fornito da Alexander Klimetschek
 
 Documentazione AEM
 
