@@ -26,4 +26,4 @@ Con tutto il rumore sul mercato dei CDP, è difficile sapere dove concentrarsi e
 
 *[Procedure consigliate per persone e processi per la gestione dei dati dei clienti](people-and-process.md)
 *[Crea esperienze eccellenti con i tuoi dati di prime parti](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=it)
-*[Caso di studio: TSB punta sulla personalizzazione dei dati in tempo reale per ogni cliente.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Caso di studio: TSB punta sulla personalizzazione dei dati in tempo reale per ogni cliente.](https://business.adobe.com/it/customer-success-stories/tsb-case-study.html)

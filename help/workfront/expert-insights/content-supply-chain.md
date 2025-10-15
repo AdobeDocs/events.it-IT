@@ -37,13 +37,13 @@ Corre è un CSM davvero strategico che ci definisce il passo su come utilizzare 
 
 ### Sessioni del Summit
 
-* [Come Adobe ha ottimizzato la catena di fornitura dei contenuti - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html): scopri l’approccio di Adobe alla distribuzione della catena di fornitura dei contenuti nella propria organizzazione di marketing 
-* [Produzione rivoluzionaria dei contenuti con Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html): scopri come Adobe può massimizzare la supply chain dei contenuti e accelerare il flusso di lavoro creativo 
+* [Come Adobe ha ottimizzato la catena di fornitura dei contenuti - S316](https://business.adobe.com/it/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html): scopri l’approccio di Adobe alla distribuzione della catena di fornitura dei contenuti nella propria organizzazione di marketing 
+* [Produzione rivoluzionaria dei contenuti con Adobe - S305](https://business.adobe.com/it/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html): scopri come Adobe può massimizzare la supply chain dei contenuti e accelerare il flusso di lavoro creativo 
 
 ### Demo prodotti
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - perché è necessaria una demo interattiva del [prodotto] per illustrare l&#39;ambito di ciò che può esistere all&#39;interno della soluzione enterprise work management.  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Mi piace la completezza con cui i nostri clienti iniziano a collegare le loro esigenze alle soluzioni attualmente disponibili in Adobe.
+* [Workfront](https://business.adobe.com/it/product-demos/workfront/interactive-tour.html) - perché è necessaria una demo interattiva del [prodotto] per illustrare l&#39;ambito di ciò che può esistere all&#39;interno della soluzione enterprise work management.  
+* [GenStudio](https://business.adobe.com/it/resources/sdk/getting-started-with-adobe-genstudio.html) - Mi piace la completezza con cui i nostri clienti iniziano a collegare le loro esigenze alle soluzioni attualmente disponibili in Adobe.
 
 ## Informazioni sul diffusore 
 
