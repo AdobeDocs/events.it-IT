@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 20%
 
 ---
@@ -73,11 +73,13 @@ ht-degree: 20%
    + Maggio 2023 {#may2023}
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo 2023 {#mar2023}
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + Febbraio {#february2025}
          + [Impatto sull’articolazione - Come misurare e condividere il valore di Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
+      + Ottobre {#october2025}
+         + [Semplificare la pianificazione delle risorse con l&#39;automazione](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
       + Aprile {#april2024}
          + [Assegnazione del personale all&#39;amministratore di sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
