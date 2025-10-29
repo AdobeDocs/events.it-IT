@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 20%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 20%
    + Settembre 2025 {#sept2025}
       + [Scala adozione IA - Playbook per le approvazioni](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + Ottobre 2025 {#oct2025}
+      + [Creazione di una strategia di igiene dei dati](marketo/oct2025/data-hygiene-strategy.md)
    + Maggio 2025 {#may2025}
       + [Scopri l’impatto dei webinar interattivi](marketo/may2025/interactive-webinars.md)
    + Novembre 2024 {#nov2024}
@@ -73,7 +75,7 @@ ht-degree: 20%
    + Maggio 2023 {#may2023}
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo 2023 {#mar2023}
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + Febbraio {#february2025}
