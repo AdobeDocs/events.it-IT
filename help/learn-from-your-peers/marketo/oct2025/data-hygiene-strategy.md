@@ -34,6 +34,6 @@ Miray Vu, Adobe Marketo Engage Champion, spiega il ruolo fondamentale dell’igi
 ## Risorse aggiuntive
 
 * Partecipa alla [discussione](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) su Marketing Nation Community, dove sono pubblicate le domande e risposte.
-* [Igiene dei dati di Marketo Engage tramite le campagne eseguibili](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Masterizzazione dell&#39;igiene dei dati per la sincronizzazione di Salesforce CRM con Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Igiene dei dati di Marketo Engage tramite le campagne eseguibili](https://business.adobe.com/it/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Masterizzazione dell&#39;igiene dei dati per la sincronizzazione di Salesforce CRM con Marketo Engage](https://experienceleague.adobe.com/it/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Come eseguire la deduplicazione utilizzando l&#39;API REST di Marketo Engage](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
