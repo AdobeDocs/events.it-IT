@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: a2880622b706440262b91279a69eadda493cbe81
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '376'
 ht-degree: 19%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 19%
       + [Adobe Commerce e App Builder Essentials: dalle nozioni di base all’impatto](commerce/2025/commerce-and-app-builder.md)
       + [Comunicazione, requisiti e test in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + Novembre {#nov2025}
+      + [Metadati da maestria a maestria](experience-manager/nov2025/metadata-mayhem.md)
    + Agosto {#aug2025}
       + [Tag avanzati di AEM](experience-manager/aug2025/smart-tags.md)
    + Luglio {#jul2024}
@@ -76,7 +78,7 @@ ht-degree: 19%
    + Maggio 2023 {#may2023}
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo 2023 {#mar2023}
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
       + Febbraio {#february2025}
