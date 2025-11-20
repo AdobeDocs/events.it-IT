@@ -74,5 +74,5 @@ ht-degree: 3%
    + [Ep. 4: Chi l’ha cliccato? E poi cosa hanno fatto?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Suggerimenti degli esperti per dare risalto alle campagne per le vacanze](episodes/exl-live-episode-03.md)
    + [Ep. 2: Rendi il tuo prossimo segmento di pubblico più smart che mai](episodes/exl-live-episode-02.md)
-   + [Ep. 1: I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
+   + [Ep. 1: I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] &#x200B;](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
