@@ -39,5 +39,5 @@ Maria Cruz, campionessa di Adobe Marketo Engage, ha sfruttato i webinar interatt
 
 * Partecipa al [thread di discussione](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) su Marketing Nation Community, dove vengono pubblicate le domande e le risposte.
 * [Ulteriori informazioni sulle funzionalità GenAI nei webinar interattivi](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Esplora i fondamenti dei webinar interattivi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Scopri come utilizzare i webinar interattivi (sondaggi, domande e risposte, CTA)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Esplora i fondamenti dei webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Scopri come utilizzare i webinar interattivi (sondaggi, domande e risposte, CTA)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

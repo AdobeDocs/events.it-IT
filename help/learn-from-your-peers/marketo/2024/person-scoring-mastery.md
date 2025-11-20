@@ -37,6 +37,6 @@ In questo webinar imparerai:
 * Thread del webinar della community della nazione di marketing - [Discussione](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Punteggio persona/lead con esercizi di influenza locale - [Scarica foglio di lavoro](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * L&#39;elenco completo delle regole di punteggio lead - [Visualizza foglio di lavoro](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Libreria importazione programmi Marketo Engage - [Documentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* Punteggio di lead tutto da sapere sul processo prima, durante e dopo - [Webinar on-demand](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Libreria importazione programmi Marketo Engage - [Documentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=it){target="_blank"}
+* Punteggio di lead tutto da sapere sul processo prima, durante e dopo - [Webinar on-demand](https://business.adobe.com/it/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Punteggio del campione in testa - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
