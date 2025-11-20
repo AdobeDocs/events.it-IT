@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [EP. 54: Semplificare la risoluzione dei problemi e la gestione dei casi di supporto con l’agente di supporto del prodotto](episodes/exl-live-episode-12-16-25.md)
    + [EP. 53: La prossima era della sperimentazione: come l’intelligenza artificiale agentica alimenta test e crescita più intelligenti](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [EP. 51: Sbloccare la potenza di Customer Journey Analytics B2B edition](episodes/exl-live-episode-10-16-25.md)
@@ -73,5 +74,5 @@ ht-degree: 3%
    + [Ep. 4: Chi l’ha cliccato? E poi cosa hanno fatto?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Suggerimenti degli esperti per dare risalto alle campagne per le vacanze](episodes/exl-live-episode-03.md)
    + [Ep. 2: Rendi il tuo prossimo segmento di pubblico più smart che mai](episodes/exl-live-episode-02.md)
-   + [Ep. 1: I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] &#x200B;](episodes/exl-live-episode-01.md)
+   + [Ep. 1: I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
