@@ -30,7 +30,7 @@ In questo webinar imparerai:
 * Impostare un modello di punteggio persona trasparente e scalabile
 * Il modo migliore per implementarlo in Marketo Engage, consentendo la flessibilità del mercato locale e mantenendo il modello logico e coerente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457447/?captions=ita&learn=on)
 
 ## Risorse condivise nel webinar
 
