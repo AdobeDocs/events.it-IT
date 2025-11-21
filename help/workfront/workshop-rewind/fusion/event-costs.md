@@ -29,8 +29,8 @@ Oltre alla registrazione on-demand, abbiamo incluso le slidedeck e i suggeriment
 * [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
 
 Hai appena iniziato a utilizzare Fusion? Consulta queste risorse. 
-* [Formazione su Workfront Fusion in Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [Consulta l&#39;elenco dei modelli di Fusion disponibili qui](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- di recente sono stati pubblicati alcuni nuovi modelli.  
+* [Formazione su Workfront Fusion in Experience League](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [Consulta l&#39;elenco dei modelli di Fusion disponibili qui](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- di recente sono stati pubblicati alcuni nuovi modelli.  
 * **Suggerimento pro-dai clienti nella chat** Quando si impara Fusion, inizia da piccolo con le automazioni da Workfront a Workfront 
 
-Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.
+Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

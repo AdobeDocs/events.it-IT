@@ -24,14 +24,14 @@ Ehi Workfront, è il tuo &quot;Workfront CSM on demand&quot;! In questo versus! 
 
 Vuoi saperne di più su Gruppi e Team?
 
-* Confronto tra le funzionalità di [gruppi e team](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
-* [Panoramica dei gruppi](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
-* [Panoramica dei team](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
+* Confronto tra le funzionalità di [gruppi e team](https://experienceleague.adobe.com/it/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
+* [Panoramica dei gruppi](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
+* [Panoramica dei team](https://experienceleague.adobe.com/it/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
 
 Di seguito sono riportati alcuni articoli aggiuntivi sulla condivisione di oggetti, sui livelli di accesso e sulle autorizzazioni:
 
-* [Visualizza autorizzazioni ereditate per gli oggetti](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [Funzionamento congiunto dei livelli di accesso e delle autorizzazioni](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [Imposta restrizioni aggiuntive al livello di accesso](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [Visualizza autorizzazioni ereditate per gli oggetti](https://experienceleague.adobe.com/it/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
+* [Funzionamento congiunto dei livelli di accesso e delle autorizzazioni](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [Imposta restrizioni aggiuntive al livello di accesso](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-Interessati a nuove idee e nuovi approcci? Registrati ai prossimi workshop: [Pagina eventi Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront). Speriamo di vederti presto!
+Interessati a nuove idee e nuovi approcci? Registrati ai prossimi workshop: [Pagina eventi Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront). Speriamo di vederti presto!
