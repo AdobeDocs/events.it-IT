@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ehi Workfront, è il tuo &quot;Workfront CSM on demand&quot;! In questo versus! Tuttavia, condivido alcune idee e raccomandazioni per l’utilizzo di Gruppi e team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467361/?captions=ita&learn=on&enablevpops)
 
 Vuoi saperne di più su Gruppi e Team?
 

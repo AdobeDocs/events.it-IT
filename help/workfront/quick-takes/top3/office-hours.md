@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Sono di nuovo io, il tuo &quot;CSM Workfront on demand&quot; Cynthia Boon e ho un argomento per te che viene fuori tutte le volte durante gli eventi.  Se hai appena iniziato a stabilire gli orari di lavoro o desideri solo aggiornarli, guarda il video seguente! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470150/?captions=ita&learn=on&enablevpops)
 
 Office Hours è solo un&#39;altra parte importante del vostro piano di comunicazione Workfront. Cerchi altre idee sulla comunicazione con i tuoi utenti? Consulta il [Manuale per le comunicazioni con gli utenti finali](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439).
 
