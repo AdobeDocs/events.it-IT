@@ -3,10 +3,10 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 2%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -20,12 +20,27 @@ ht-degree: 2%
    + [Versione 25.4](releases/25-4-release-webinar.md)
    + [Versione 25.1](releases/25-1-release-webinar.md)
    + [Versione 24.1](releases/24-1-release-webinar.md)
++ Riavvolgimento workshop {#workshop-rewind}
+   + Fusion {#fusion}
+      + [Automazione delle convenzioni di denominazione](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Accesso facilitato alle modifiche per i campi a selezione multipla](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Sblocco dei costi evento effettivi](workshop-rewind/fusion/event-costs.md)
+   + Pianificazione {#planning}
+      + [Più recente in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Versione e roadmap di Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
+   + Flusso di lavoro {#workflow}
+      + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
+      + [Masterizzazione delle notifiche e-mail](workshop-rewind/workflow/email-notifications.md)
+      + [Modelli di progetto](workshop-rewind/workflow/project-templates.md)
+      + [Autoapprendimento per il successo](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Sblocca la potenza di Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
 + Riprese rapide {#quicktakes}
    + Primi 3 {#top3}
-      + [Approcci di Creative con blueprint](top3/blueprints.md)
-      + [Primi 3 approcci alle ore ufficio](top3/office-hours.md)
+      + [Approcci di Creative con blueprint](quick-takes/top3/blueprints.md)
+      + [Primi 3 approcci alle ore ufficio](quick-takes/top3/office-hours.md)
    + Contro! {#versus}
-      + [Gruppi e team](versus/groups-vs-teams.md)
+      + [Gruppi e team](quick-takes/versus/groups-vs-teams.md)
 + Approfondimenti esperti {#expert-insights}
    + [Adozione](expert-insights/adoption.md)
    + [Sondaggi sull’adozione](expert-insights/adoption-surveys.md)
@@ -39,19 +54,6 @@ ht-degree: 2%
    + [Code di richieste con Lyndsy Denk](expert-insights/request-queues.md)
    + [Generazione di rapporti SLA in Workfront](expert-insights/sla-reporting.md)
    + [Gestione aziendale del lavoro](expert-insights/enterprise-work-management.md)
-+ Riavvolgimento workshop {#workshop-rewind}
-   + Integrazioni {#integrations}
-      + [Accesso facilitato alle modifiche per i campi a selezione multipla](workshop-rewind/integrations/mulit-select-fields.md)
-      + [Sblocco dei costi evento effettivi](workshop-rewind/integrations/event-costs.md)
-   + Pianificazione {#planning}
-      + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Più recente in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
-   + Flusso di lavoro {#workflow}
-      + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
-      + [Masterizzazione delle notifiche e-mail](workshop-rewind/workflow/email-notifications.md)
-      + [Modelli di progetto](workshop-rewind/workflow/project-templates.md)
-      + [Sblocca la potenza di Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
-
 + Classici {#classics}
    + Amministrazione {#administration}
       + [Audit trail e conformità](user-groups/audit-trails-and-compliance.md)

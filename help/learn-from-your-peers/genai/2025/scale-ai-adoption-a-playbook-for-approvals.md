@@ -7,7 +7,7 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2025-09-25T00:00:00Z
 jira: KT-19299
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 0b30b0e24ec582efcd79bde3c1d7fedeef01f312
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Scala adozione IA: un playbook per le approvazioni
 
-Partecipa a **Anish Raul**, vincitore del premio Adobe Experience Maker, per una conversazione sincera sull&#39;introduzione dell&#39;intelligenza artificiale in aziende grandi e altamente regolamentate senza rallentare o compromettere la conformità. Invece di mostrare solo i risultati, Anish rivela il suo comprovato playbook per spostare le idee di intelligenza artificiale dal concetto all&#39;approvazione a livello aziendale. Attingendo ad anni di importanti iniziative di personalizzazione e intelligenza artificiale, suddividerà il processo ripetibile: come dare priorità a casi d’uso ad alto impatto, creare fiducia con legali e sicurezza e incorporare principi per una sperimentazione sicura su larga scala.Anish fornirà i propri casi d’uso con Adobe Target e l’Assistente all’intelligenza artificiale di Adobe Experience Platform come esempi; le strategie e le lezioni saranno rilevanti per qualsiasi organizzazione che lottano con l’allineamento legale sull’intelligenza artificiale. 
+Partecipa a **Anish Raul**, vincitore del premio Adobe Experience Maker, per una conversazione sincera sull&#39;introduzione dell&#39;intelligenza artificiale in aziende grandi e altamente regolamentate senza rallentare o compromettere la conformità. Invece di mostrare solo i risultati, Anish rivela il suo comprovato playbook per spostare le idee di intelligenza artificiale dal concetto all&#39;approvazione a livello aziendale. Attingendo ad anni di importanti iniziative di personalizzazione e intelligenza artificiale, suddividerà il processo ripetibile: come assegnare la priorità ai casi d’uso ad alto impatto, creare fiducia con le questioni legali e di sicurezza e incorporare principi per una sperimentazione sicura su larga scala.Anish fornirà i propri casi d’uso con Adobe Target e l’Assistente all’intelligenza artificiale di Adobe Experience Platform come esempi; le strategie e le lezioni saranno rilevanti per qualsiasi organizzazione che lottano con l’allineamento legale sull’intelligenza artificiale. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475270/?learn=on&enablevpops)
 
