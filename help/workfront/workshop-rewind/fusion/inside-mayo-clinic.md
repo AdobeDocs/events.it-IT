@@ -23,7 +23,7 @@ Ospitata in partnership con Tia Calvert e Matt Lien della Mayo Clinic, questa se
 
 Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) e guarda la registrazione on-demand per seguirla.
 
-Fusion richiede tempo e pratica, quindi se stai iniziando, scopri di più sul [corso di formazione Fusion su Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) (gratuito) e non esitare a chiedere aiuto ad altri clienti della [community Workfront Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2).
+Fusion richiede tempo e pratica, quindi se stai iniziando, scopri di più sul [corso di formazione Fusion su Experience League](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) (gratuito) e non esitare a chiedere aiuto ad altri clienti della [community Workfront Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2).
 
 Per ulteriori risorse e un&#39;analisi approfondita dei relativi casi d&#39;uso, consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981).
 

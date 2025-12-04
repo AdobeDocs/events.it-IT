@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Veloce e funzionale: blueprint in Adobe Workfront
 
-La libreria [Blueprint](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) in Adobe Workfront è in continua crescita con nuovi modelli e dashboard pronti all&#39;uso. Con un processo di installazione rapido, è possibile dedicare meno tempo alla configurazione e più tempo al lavoro.
+La libreria [Blueprint](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) in Adobe Workfront è in continua crescita con nuovi modelli e dashboard pronti all&#39;uso. Con un processo di installazione rapido, è possibile dedicare meno tempo alla configurazione e più tempo al lavoro.
 
-Il team Customer Success di Workfront ha condiviso tutto ciò che devi sapere sui [blueprint](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview): cosa sono, come funzionano e come puoi iniziare a utilizzarli oggi per massimizzare il valore in tutta l&#39;organizzazione.
+Il team Customer Success di Workfront ha condiviso tutto ciò che devi sapere sui [blueprint](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview): cosa sono, come funzionano e come puoi iniziare a utilizzarli oggi per massimizzare il valore in tutta l&#39;organizzazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477130/?learn=on&enablevpops)
 

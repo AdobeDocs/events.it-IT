@@ -24,7 +24,7 @@ Heather MacDonald, Associate Vice President, Marketing Operations, Southern New 
 Se hai saltato la sessione live, controlla le diapositive SNHU di [HMac](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf) e guarda la registrazione on-demand per continuare.
 * (Nota: tutti i progetti nel mazzo sono solo esempi)
 
-Per ulteriori informazioni sulle prossime attività di Workfront Planning, assicurarsi di inserire un segnalibro nella [pagina Attività di Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) in Experience League.
+Per ulteriori informazioni sulle prossime attività di Workfront Planning, assicurarsi di inserire un segnalibro nella [pagina Attività di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) in Experience League.
 
 Hai idee da condividere o domande successive sull’evento? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019).
 
