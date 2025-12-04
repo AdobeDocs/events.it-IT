@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workshop on-demand su Workfront](overview.md)
 
 + Webinar sulla versione {#releases}
+   + [Webinar sulla versione del quarto trimestre 2025](releases/25-q4-release-webinar.md)
    + [Versione 25.7](releases/25-7-release-webinar.md)
    + [Versione 25.4](releases/25-4-release-webinar.md)
    + [Versione 25.1](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + Riavvolgimento workshop {#workshop-rewind}
    + Fusion {#fusion}
       + [Automazione delle convenzioni di denominazione](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Importazioni dati](workshop-rewind/fusion/data-imports.md)
+      + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
+      + [Come Workfront Fusion aiuta gli esseri umani](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Accesso facilitato alle modifiche per i campi a selezione multipla](workshop-rewind/fusion/mulit-select-fields.md)
       + [Sblocco dei costi evento effettivi](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Pianificazione {#planning}
       + [Più recente in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Casi d&#39;uso di SNHU per Creative](workshop-rewind/planning/planning-reimagined.md)
       + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versione e roadmap di Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
    + Flusso di lavoro {#workflow}
-      + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
+      + [Blueprint](workshop-rewind/workflow/blueprints.md)
+      + [Definizione e comunicazione del valore di Workfront](workshop-rewind/workflow/workfront-value.md)
+      + [Suggerimenti su governance, esecuzione e adozione](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Masterizzazione delle notifiche e-mail](workshop-rewind/workflow/email-notifications.md)
+      + [Master delle istruzioni EXISTS](workshop-rewind/workflow/master-exists-statements.md)
+      + [Modelli di alimentazione](workshop-rewind/workflow/power-templates.md)
       + [Modelli di progetto](workshop-rewind/workflow/project-templates.md)
       + [Autoapprendimento per il successo](workshop-rewind/workflow/self-taught-to-success.md)
       + [Sblocca la potenza di Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+      + [Integrazione nativa Workfront + AEM](workshop-rewind/workflow/aem-native-integration.md)
 + Riprese rapide {#quicktakes}
    + Primi 3 {#top3}
       + [Approcci di Creative con blueprint](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [Generazione di rapporti in modalità testo di base con sovrapposizione tramite API Explorer](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Comprensione della combinazione e della capacità](classics/understanding-mix-and-capacity.md)
    + Gestione risorse {#resource-management}
+      + [Modalità di gestione delle risorse Creative](classics/creative-ways-of-managing-resources.md)
       + [Pianificazione risorse e capacità](user-groups/resource-and-capacity-planning.md)
       + [Gestione risorse](user-groups/resource-management.md)
    + Rivedi e approva lavoro {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Utilizzo di Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + Code di richieste e accettazione {#request-queues-and-intake}
       + [Code di richieste e Forms di acquisizione](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
