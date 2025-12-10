@@ -21,7 +21,7 @@ Consulta questa edizione video Top 3 che illustra i motivi per cui includere imm
 
 Ciò include suggerimenti divertenti e funzionali per migliorare la comunicazione e rendere più interessanti le richieste di compilazione per gli utenti finali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477060/?captions=ita&learn=on&enablevpops)
 
 Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
 

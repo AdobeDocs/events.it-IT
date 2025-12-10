@@ -21,7 +21,7 @@ Sono ancora io, il tuo &quot;On-Demand Workfront CSM&quot; Cynthia Boon con un a
 
 Questa volta condivido i miei modi preferiti per ottenere il massimo dalla pianificazione dei rapporti. Nel video mostro esempi di come utilizzare questa funzione per ottenere di più da tutti i fantastici rapporti che crei.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477083/?captions=ita&learn=on&enablevpops)
 
 Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
 

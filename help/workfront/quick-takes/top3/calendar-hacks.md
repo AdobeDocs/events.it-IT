@@ -24,7 +24,7 @@ ht-degree: 1%
 * Richieste visualizzate direttamente in un calendario (esempio di onboarding di un nuovo dipendente)
 * E un Suggerimento!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477071/?captions=ita&learn=on&enablevpops)
 
 Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
 

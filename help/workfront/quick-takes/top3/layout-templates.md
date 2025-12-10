@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Non c’è da sorprendersi se i modelli di layout rendono le istanze di Adobe Workfront più personalizzate in base alle tue esigenze specifiche in qualità di amministratore di sistema. Consulta quindi i miei 3 principali motivi per cui dovresti utilizzare i modelli di layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477048/?captions=ita&learn=on&enablevpops)
 
 Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
 
