@@ -85,7 +85,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="IA nei progetti Adobe - Storie pratiche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765410870539" alt="IA nei progetti Adobe - Storie pratiche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477633/?captions=ita&format=jpeg&nocache=1765410870539" alt="IA nei progetti Adobe - Storie pratiche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,7 +108,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="Showdown di codifica AI - Il buono, cattivo e brutto" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765410870512" alt="Showdown di codifica AI - Il buono, cattivo e brutto"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477656/?captions=ita&format=jpeg&nocache=1765410870512" alt="Showdown di codifica AI - Il buono, cattivo e brutto"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Esplora agenti Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765410870551" alt="Esplora agenti Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477668/?captions=ita&format=jpeg&nocache=1765410870551" alt="Esplora agenti Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri come l’intelligenza artificiale trasforma le esperienze digitali nei progetti Adobe tramite applicazioni reali. Scopri come l’intelligenza artificiale migliora la creazione di contenuti, la convalida dei siti e la pianificazione dei progetti, aumentando l’efficienza e riducendo i costi. Approfondisci le storie che mostrano gli utilizzi innovativi degli strumenti di intelligenza artificiale in Adobe Experience Manager, Adobe Commerce e Edge Delivery Services.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477633/?captions=ita&learn=on&enablevpops)
