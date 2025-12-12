@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Scopri come l’intelligenza artificiale trasforma le esperienze digitali nei progetti Adobe tramite applicazioni reali. Scopri come l’intelligenza artificiale migliora la creazione di contenuti, la convalida dei siti e la pianificazione dei progetti, aumentando l’efficienza e riducendo i costi. Approfondisci le storie che mostrano gli utilizzi innovativi degli strumenti di intelligenza artificiale in Adobe Experience Manager, Adobe Commerce e Edge Delivery Services.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477633/?captions=ita&learn=on&enablevpops)
 
 Questa sessione - Love Actual: Three Practical Stories of Using AI in Adobe Projects - presenta Mark McConnell (Ensemble) che condivide tre applicazioni reali: accelerazione dei prototipi e della catena di fornitura dei contenuti con i servizi di intelligenza artificiale generativa, un validatore della migrazione basato sull’intelligenza artificiale per AEM Edge Delivery Services e un approccio agenterico alla valutazione e al reporting automatizzati dei siti. Registrato dal vivo da San Jose.
 
