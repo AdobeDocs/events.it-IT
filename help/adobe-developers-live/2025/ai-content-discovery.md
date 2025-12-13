@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Scopri come l’intelligenza artificiale trasforma l’individuazione dei contenuti con Adobe Experience Manager. Scopri come utilizzare Contenuto verificato per la ricerca semantica e i consigli sulle risorse basati sull’intelligenza artificiale. Questa sessione descrive l’individuazione basata su brevi campagne e il rapido accesso alle rappresentazioni Dynamic Media, semplificando il riutilizzo e la distribuzione dei contenuti tramite uno stack OpenAPI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477748/?captions=ita&learn=on&enablevpops)
 
 Questa sessione, Discovery basato su IA con rappresentazioni pronte per il canale, presenta Matt Briscoe, Deepa Gupta e Mathias Siegel che mostrano come gli sviluppatori possono utilizzare Content Advisor per individuare risorse e frammenti di contenuto con consigli basati su ricerca semantica e intelligenza artificiale. Scopri come l’individuazione basata su brevi campagne e il rapido accesso alle rappresentazioni Dynamic Media in Scene7 e DM semplificano il riutilizzo e la distribuzione dei contenuti tramite uno stack OpenAPI. Registrato dal vivo da San Jose.
 

@@ -19,7 +19,7 @@ ht-degree: 1%
 
 IA per la gestione dei contenuti di Adobe Experience Manager trasforma le esperienze digitali utilizzando i contenuti esistenti per la ricerca semantica, l’individuazione generativa e le varianti di contenuto automatiche. Scopri come l’architettura di IA per l’analisi dei contenuti e le pipeline di arricchimento offrono esperienze digitali intelligenti. Scopri le funzionalità di per gestire in modo efficiente i contenuti e sbloccare le opportunità di intelligenza artificiale, migliorando la trasformazione digitale della tua azienda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477729/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477827/?captions=ita&learn=on&enablevpops)
 
 Questa sessione, &quot;Bringing Intelligence on Content in Adobe Experience Manager with Content AI&quot;, presenta Fabrizio Fortino, Senior Cloud Software Engineer e Julia Daurer, Manager of Software Development di Adobe. Registrata in diretta da Basilea, questa presentazione esplora il modo in cui Adobe Experience Manager Content AI utilizza i contenuti dei clienti esistenti per potenziare la ricerca semantica, l’individuazione generativa e le varianti automatiche di contenuto attraverso flussi di lavoro agentici. Scopri l’architettura di IA per l’analisi dei contenuti, le pipeline di arricchimento e le funzionalità di test A/B progettate per fornire esperienze digitali intelligenti.
 

@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Scopri come Adobe Commerce sfrutta l’intelligenza artificiale per trasformare lo sviluppo di app e semplificare le personalizzazioni. Scopri l’analisi automatizzata del codice, i rapporti di migrazione intelligente e i prompt in linguaggio naturale che generano il codice JavaScript rapidamente. Questa sessione evidenzia le innovazioni nell’ecosistema di strumenti di Adobe Commerce, aiutando i team a modernizzare i sistemi legacy in modo efficiente e a ridurre il debito tecnico. Partecipa alla conversazione ed esplora i prossimi eventi per rimanere aggiornato sugli ultimi progressi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477689/?captions=ita&learn=on&enablevpops)
 
 Questa sessione - Sviluppo basato sull’intelligenza artificiale per le estensioni App Builder di Adobe in Commerce - presenta Matt Johnson, Senior Product Manager per Commerce Cloud, che mostra come Adobe Commerce sta creando un ecosistema di strumenti basato sull’intelligenza artificiale per aiutare i team a identificare e modernizzare più rapidamente le personalizzazioni legacy. Scopri in pochi minuti come l’analisi automatizzata del codice, i rapporti di migrazione intelligente e i prompt in linguaggio naturale generano codice JavaScript compatibile con App Builder per semplificare la modernizzazione e ridurre il debito tecnico. Registrato dal vivo da San Jose.
 

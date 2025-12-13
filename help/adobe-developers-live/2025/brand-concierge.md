@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Esplora la Brand Concierge di Adobe per trasformare le esperienze digitali con interazioni personalizzate basate sull’intelligenza artificiale. Scopri in che modo questa soluzione innovativa aumenta il coinvolgimento e guida le conversioni integrando perfettamente le esperienze di conversazione nel tuo sito web. Scopri come connetterti con i visitatori del sito tramite funzioni di concierge intelligenti, arricchendo i percorsi di utenti e migliorando la connessione dei clienti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477772/?captions=ita&learn=on&enablevpops)
 
 Questa sessione - Migliorare l’esperienza in loco con Brand Concierge - presenta Nina Ciocanu alla scoperta dell’innovativa soluzione di integrazione web di Adobe che aiuta le aziende a connettersi con i visitatori del sito attraverso funzioni di concierge intelligenti. Scopri come aggiungere esperienze personalizzate basate sull’intelligenza artificiale direttamente al sito web per aumentare il coinvolgimento e la connessione dei clienti. Registrato dal vivo da San Jose.
 
