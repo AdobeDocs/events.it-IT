@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 17%
+source-wordcount: '165'
+ht-degree: 18%
 
 ---
 
@@ -25,16 +25,8 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 dicembre 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Semplificare la risoluzione dei problemi e la gestione dei casi di supporto con l'agente di supporto del prodotto</strong>
-              </a>
-              <br/><em>con Daniel Wright, Huong Vu e Shreya Anantha Raman</em>
-              <br/><em>16 dicembre 2025</em>
-            </div>
+         <td style="vertical-align: top;">
+            Nuovi spettacoli in arrivo. Torna a questa pagina per visualizzare gli spettacoli disponibili.
         </td>
     </tr>
 
@@ -101,5 +93,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
