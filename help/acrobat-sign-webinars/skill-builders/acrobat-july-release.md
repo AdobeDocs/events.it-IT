@@ -1,5 +1,5 @@
 ---
-title: Webinar - Scopri tutti gli ultimi miglioramenti - Versione di luglio 2025 di Adobe Acrobat Sign
+title: Scopri tutti gli ultimi miglioramenti - Acrobat Sign, versione di luglio 2025
 description: 'Scopri gli aggiornamenti di Acrobat Sign di luglio 2025: conformità PDF/A, notifiche WhatsApp e maggiore sicurezza degli accordi per leader e amministratori.'
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# Webinar: Scopri tutti gli ultimi miglioramenti: Adobe Acrobat Sign, versione di luglio 2025
+# Scopri tutti gli ultimi miglioramenti - Acrobat Sign, versione di luglio 2025
 
 Esplora le nuove funzioni e funzionalità create per chi guida, gestisce e guida il successo con Acrobat Sign.
 
@@ -28,7 +28,7 @@ In questa sessione, imparerai tutto sulle nostre ultime innovazioni, che ti aiut
 * Inviare notifiche di contratto tramite WhatsApp
 * Proteggi accordi riservati: Condivisione account e Accesso ai contratti con restrizioni
 
-Che tu sia un nuovo utente di Acrobat Sign o desideri ottimizzarne il potenziale, questo webinar fornirà informazioni pratiche e dimostrazioni per aiutarti a digitalizzare facilmente i processi dei documenti.
+Che tu sia un nuovo utente di Acrobat Sign o desideri ottimizzarne il potenziale, questo webinar ti fornirà informazioni pratiche e dimostrazioni per aiutarti a digitalizzare facilmente i processi dei documenti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473003/?learn=on&enablevpops)
 
