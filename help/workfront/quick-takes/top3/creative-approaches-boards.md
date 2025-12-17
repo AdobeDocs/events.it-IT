@@ -23,6 +23,6 @@ Sono ancora io, il tuo &quot;On-Demand Workfront CSM&quot; Cynthia Boon e spero 
 
 Cerchi un esempio di come un cliente utilizza le bacheche? Guarda solo la presentazione delle Bacheche dal team Mattel all’Adobe Summit 2024!  
 
-[Sessione Summit 2024: Come Mattel Sfrutta Le Schede Workfront](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[Sessione Summit 2024: Come Mattel Sfrutta Le Schede Workfront](https://business.adobe.com/it/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 

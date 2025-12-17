@@ -23,7 +23,7 @@ Ciao dal tuo &quot;On-Demand Workfront CSM&quot; Cynthia Boon! Ti interessa util
 
 Ecco un articolo che fornisce istruzioni dettagliate.
 
-[Crea una nuova bacheca con un modello](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[Crea una nuova bacheca con un modello](https://experienceleague.adobe.com/it/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
 Hai idee da condividere o domande successive sul video? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307).
 

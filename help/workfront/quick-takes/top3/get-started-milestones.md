@@ -29,8 +29,8 @@ L’inclusione di un rapporto Milestone (Milestone Report) nel dashboard del pro
 
 Per ulteriori informazioni sulle milestone, consulta queste risorse gratuite:
 
-* [Creare un percorso milestone e i passaggi milestone](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Utilizza la vista Milestone](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Creare un percorso milestone e i passaggi milestone](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Utilizza la vista Milestone](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [Inviare e condividere i rapporti](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

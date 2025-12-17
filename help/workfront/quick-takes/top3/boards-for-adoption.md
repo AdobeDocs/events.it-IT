@@ -29,9 +29,9 @@ Se non hai avuto la possibilità di sperimentare con la funzione Bacheche, non p
 
 Come promesso nel video, abbiamo un sacco di risorse da condividere, inclusi articoli e brevi video dimostrativi:
 
-* [Introduzione alle bacheche in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Consenso anticipato alle funzioni per le schede madri Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Crea o modifica una bacheca - include le descrizioni di ciascun modello di bacheche](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Schede madri Adobe Workfront - brevi dimostrazioni video](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Introduzione alle bacheche in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=it)
+* [Consenso anticipato alle funzioni per le schede madri Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=it)
+* [Crea o modifica una bacheca - include le descrizioni di ciascun modello di bacheche](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=it)
+* [Schede madri Adobe Workfront - brevi dimostrazioni video](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=it)
 
 
