@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Sono ancora io, il tuo &quot;On-Demand Workfront CSM&quot; Cynthia Boon e spero di ispirarti con idee creative per l&#39;utilizzo delle schede madri Workfront.  Ora, lo menziono nel video, ma nel caso in cui, ecco un rapido promemoria che non è necessario lavorare su un team agile per utilizzare la funzione Bacheche.  Se l&#39;Elenco attività del progetto non funziona per il team, prova in Bacheche.  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470173/?captions=ita&learn=on&enablevpops)
 
 Cerchi un esempio di come un cliente utilizza le bacheche? Guarda solo la presentazione delle Bacheche dal team Mattel all’Adobe Summit 2024!  
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Scopri le strategie e gli strumenti essenziali per una gestione efficace delle risorse in Adobe Workfront. Scopri come ottimizzare la pianificazione delle risorse e il bilanciamento del carico di lavoro per soddisfare gli obiettivi aziendali. Questa presentazione ti guida attraverso la configurazione e la preparazione necessarie per garantire dati accurati, aiutandoti a prevedere le esigenze di risorse e a gestire in modo efficiente la capacità del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477153/?captions=ita&learn=on&enablevpops)

@@ -23,7 +23,7 @@ Parliamo di adozione! Siamo tutti alla ricerca di nuove idee su come entusiasmar
 
 Se non hai avuto la possibilità di sperimentare con la funzione Bacheche, non preoccuparti! Nel video, condivido come fornire agli utenti l’accesso e un paio di modi in cui possono iniziare rapidamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470106/?captions=ita&learn=on&enablevpops)
 
 ## Risorse aggiuntive
 

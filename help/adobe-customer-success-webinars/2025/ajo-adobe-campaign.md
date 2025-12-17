@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Scopri come Adobe Journey Optimizer e Adobe Campaign collaborano per trasformare l’esecuzione della campagna. Questa sessione illustra la sinergia tra le funzionalità di coinvolgimento in tempo reale di Journey Optimizer e la solida gestione di Campaign. Strategie pratiche per semplificare i flussi di lavoro, aumentare l’agilità e approfondire le conoscenze dei clienti, garantendo interazioni significative. Scopri come armonizzare questi strumenti per esperienze dirette e cross-channel, migliorando la personalizzazione e la tempistica per ogni interazione con il cliente. Questa integrazione consente di fornire campagne di impatto in modo più rapido e preciso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477901/?captions=ita&learn=on&enablevpops)
 
 ## Conclusioni principali
 

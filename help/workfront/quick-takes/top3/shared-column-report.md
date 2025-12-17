@@ -23,7 +23,7 @@ Cerchi nuovi modi efficienti per presentare le informazioni in un rapporto? Prov
 
 Abbiamo molte domande su come utilizzare la modalità Testo per combinare le informazioni in un rapporto, quindi abbiamo un video dettagliato e alcune risorse di seguito per iniziare. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470128/?captions=ita&learn=on&enablevpops)
 
 Vuoi saperne di più? Abbiamo **Tre suggerimenti bonus** nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
 

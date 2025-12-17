@@ -23,7 +23,7 @@ Questo è un ottimo rapporto per la tua leadership di livello superiore e anche 
 
 L’inclusione di un rapporto Milestone (Milestone Report) nel dashboard del progetto o la condivisione di questo rapporto (ancora meglio, pianificandolo automaticamente per la consegna regolare) è un ottimo modo per mantenere le parti interessate, anche gli utenti non Workfront, coinvolti con l’avanzamento dei progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470162/?captions=ita&learn=on&enablevpops)
 
 ## Risorse aggiuntive
 

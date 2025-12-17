@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 edizione speciale! Guarda come lavoro - [3o video] in tre modi
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470210/?captions=ita&learn=on&enablevpops)
 
 Esplora le tre funzioni principali che consentono a lavoratori e richiedenti di ottimizzare il flusso di lavoro in Workfront. Scopri come le bozze di richieste, le visualizzazioni di moduli personalizzati e le bacheche possono migliorare la produttività e semplificare i processi. Questi strumenti sono essenziali per gestire le attività in modo efficiente, collaborare visivamente e tracciare gli obiettivi all’interno di progetti di grandi dimensioni. Scopri come queste funzioni possono supportare il tuo lavoro e migliorare la tua esperienza in Workfront.
 

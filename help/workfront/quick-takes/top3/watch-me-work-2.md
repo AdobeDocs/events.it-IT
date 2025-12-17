@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 edizione speciale! Guarda come lavoro - [Secondo video] in tre modi
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470196/?captions=ita&learn=on&enablevpops)
 
 Esplora le funzioni principali utilizzate dai project manager in Adobe Workfront. Scopri come le schede, i pannelli di riepilogo e i filtri rapidi possono migliorare il flusso di lavoro e l’efficienza. Ottieni informazioni approfondite sulla gestione efficace di più attività e progetti, garantendo operazioni senza problemi e una maggiore produttività. Guarda il video per vedere queste funzioni in azione e migliorare le tue competenze di gestione dei progetti.
