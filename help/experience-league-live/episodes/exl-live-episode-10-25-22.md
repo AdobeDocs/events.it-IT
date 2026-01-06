@@ -2,7 +2,7 @@
 title: Fornire l’offerta giusta al momento giusto con la gestione delle decisioni
 description: Adobe Target e Adobe Real-time Customer Data Platform possono essere integrati per fornire un’esperienza del cliente più personalizzata. In questo evento in diretta streaming, scopri come l’integrazione di queste due piattaforme può aiutare le aziende a raccogliere dati in tempo reale e quindi a creare e testare esperienze mirate. Guarda il processo end-to-end di questa potente funzionalità in una dimostrazione live.
 solution: Journey Optimizer
-kt: 11028
+kt: 11308
 feature: Offers
 role: User
 event-cta-text: Set Reminder
@@ -11,10 +11,10 @@ event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
 duration: 3666
-source-git-commit: a47449aa7716236520bcd66c10db2bff7150fc12
+source-git-commit: 1dec49906e5964da928fcce8ab173dce3f2fac14
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
@@ -26,6 +26,6 @@ Dato che la maggior parte dei percorsi di clienti sono oggi multi-superficie e m
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 
-In questo evento live in streaming, gli esperti di prodotto di Adobe hanno introdotto le funzionalità più recenti di classificazione intelligente delle offerte e mostrato come aggiungere offerte a percorsi e campagne in Adobe Journey Optimizer.  Hanno anche mostrato come posizionare le offerte nei canali Journey Optimizer nativi come e-mail, SMS e app mobili, nonché in sistemi esterni e applicazioni integrate come Adobe Target.
+In questo evento live in streaming, gli esperti dei prodotti Adobe hanno introdotto le funzionalità più recenti di classificazione intelligente delle offerte e mostrato come aggiungere offerte a percorsi e campagne in Adobe Journey Optimizer.  Hanno anche mostrato come posizionare le offerte nei canali Journey Optimizer nativi come e-mail, SMS e app mobili, nonché in sistemi esterni e applicazioni integrate come Adobe Target.
 
 Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) di Adobe Experience League.
