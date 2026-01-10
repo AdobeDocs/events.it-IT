@@ -25,7 +25,7 @@ Sia che si tratti di ottimizzare le esperienze dei clienti, di espandere le prop
 
 >[!TIP]
 >
-> Prova tu stesso - [Registrati per accedere a un ambiente demo](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
+> Prova tu stesso - [Registrati per accedere a un ambiente demo](https://business.adobe.com/it/resources/customer-journey-analytics-b2b-edition-sandbox.html).
 > &#x200B;> Puoi continuare la conversazione e porre domande agli esperti di Adobe nel **[forum della community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
