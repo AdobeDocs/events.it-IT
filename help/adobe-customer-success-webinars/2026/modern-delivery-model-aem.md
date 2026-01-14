@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Nel mondo digitale odierno è fondamentale offrire esperienze dalle prestazioni elevate su tutti i canali e le regioni. Scopri perché le organizzazioni adottano modelli di consegna moderni per migliorare la velocità e la flessibilità. Scopri le differenze tra i servizi di consegna headful, headless, ibrido e edge. Scopri in che modo i componenti core e i framework di localizzazione supportano le strategie per più marchi e aree geografiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478783/?captions=ita&learn=on&enablevpops)
