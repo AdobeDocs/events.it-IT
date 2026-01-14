@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 16%
 
 ---
@@ -32,7 +32,7 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Consulta Audience Agent per scoprire approfondimenti sul pubblico e creare tipi di pubblico pronti in pochi minuti. </strong></a>
       <br/><em>con Shelby Mansuri, Keara Fausett e Alyssa Espiritu</em>
       <br/><em>28 gennaio 2026 alle 08:30 PT</em>
-      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Imposta un promemoria</a>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">Registrati oggi stesso!</a></b>
     </div>
   </td>
 </tr>
@@ -97,5 +97,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
