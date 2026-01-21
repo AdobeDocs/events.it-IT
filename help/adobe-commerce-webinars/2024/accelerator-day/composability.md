@@ -25,6 +25,6 @@ Panoramica degli ultimi sviluppi sulla piattaforma Adobe Commerce e App Builder 
 
 + Presentato da Jason Ford, Responsabile del team ingegneristico di ANZ Solution Engineering di Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455462/?captions=ita&learn=on)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)

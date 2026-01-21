@@ -28,6 +28,6 @@ Presentatori:
 + Omaya Robinson, PowerBoard Founding Crew Lead, Head of Product - CBA
 + Luke Jericho, capo dell’equipaggio, responsabile dell’e-commerce - CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455484/?captions=ita&learn=on)
 
 [&lt; Torna ad Adobe Commerce Accelerator Day](./overview.md)
