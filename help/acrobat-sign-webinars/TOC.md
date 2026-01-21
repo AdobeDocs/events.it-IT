@@ -1,9 +1,9 @@
 ---
 user-guide-title: Webinar su Acrobat Sign
 user-guide-description: Scopri dagli esperti di Adobe come gestire i nuovi flussi di lavoro di firma elettronica in Acrobat Sign.
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [Suggerimenti avanzati per l&#39;invio di documenti per la firma](./skill-builders/advanced-sending-documents-signature.md)
    + [Raccogli più firme con un clic](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [Integrazione Notarize](./skill-builders/notarize.md)
    + [Pubblica un modulo Web compilabile e firmabile](./skill-builders/fillable-signable-web-form.md)
    + [Automazioni flusso di lavoro](./skill-builders/workflow-automations.md)

@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '326'
 ht-degree: 7%
 
 ---
@@ -61,10 +61,10 @@ ht-degree: 7%
       + [Aumentare il recapito messaggi e-mail con Marketo Engage](marketo/2023/email-deliverability.md)
       + [Tracciare, analizzare e ottimizzare le campagne di marketing](marketo/2023/marketing-campaigns.md)
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/2023/personalization-at-scale.md)
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Mali metadati](https://experienceleague.adobe.com/it/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Mali metadati](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Impatto sull’articolazione - Come misurare e condividere il valore di Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Semplificare la pianificazione delle risorse con l&#39;automazione](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -86,8 +86,6 @@ ht-degree: 7%
       + [Informazioni sulle code di richieste](workfront/2022/all-about-request-queues.md)
       + [Nozioni di base per la generazione di rapporti operativi](workfront/2022/foundations-of-operational-reporting.md)
       + [Utilizzo dell’amministratore di gruppo](workfront/2022/leveraging-the-group-admin.md)
-      + [Progettazione di un’esperienza utente ideale](workfront/2022/designing-an-ideal-user-experience.md)
       + [COS’È la governance di Workfront?](workfront/2022/what-is-workfront-governance.md)
-      + [Informazioni sulla gestione utente](workfront/2022/understanding-user-management.md)
 + [Esplorare i gruppi di utenti di Adobe in Experience Cloud](./adobe-user-groups.md)
 + [Scopri come candidarti e distinguerti come campione](./adobe-champion-application.md)
