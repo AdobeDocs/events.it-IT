@@ -30,4 +30,4 @@ Scopri come la sperimentazione di percorso può aiutarti a perfezionare le inter
 
 Questo evento estivo migliorerà le strategie di marketing omni-channel e sfrutterà al meglio le opportunità di coinvolgimento della stagione. Non perdere questa opportunità di migliorare i percorsi dei tuoi clienti e le campagne per promuovere il successo con Adobe Journey Optimizer.
 
-**Continua la discussione alla [sessione Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931) nel Forum della community Journey Optimizer.**
+**Continua la discussione alla [sessione Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=it[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931) nel Forum della community Journey Optimizer.**

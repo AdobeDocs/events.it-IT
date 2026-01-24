@@ -37,7 +37,7 @@ Rimarrai stupito da tutte le fantastiche idee che condivide, tra cui: 
 
 ## Risorse
 
-Durante l&#39;evento, Kiersten ha menzionato due risorse che abbiamo allegato al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
+Durante l&#39;evento, Kiersten ha menzionato due risorse che abbiamo allegato al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=it).
 * **Report di esempio** - Report attività dopo l&#39;orario di lavoro 
 * **Guardrail di routing del feedback DSW** Questo è un esempio fantastico di come insegnare agli utenti come fornire aggiornamenti in Workfront! 
 

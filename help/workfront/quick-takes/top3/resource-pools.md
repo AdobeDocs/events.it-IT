@@ -30,6 +30,6 @@ Hai appena iniziato a usare i gruppi di risorse? Prima di tutto, cosa sono?
 ## Risorse aggiuntive
 
 * Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei pool di risorse](https://experienceleague.adobe.com/it/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Vuoi saperne di più? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866).
+* Vuoi saperne di più? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=it).
 
 

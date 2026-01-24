@@ -26,7 +26,7 @@ Partecipa a questa sessione Experience League Live, dove gli esperti dei prodott
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} di Adobe Experience League.
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=it#M2671){target="_blank"} di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 

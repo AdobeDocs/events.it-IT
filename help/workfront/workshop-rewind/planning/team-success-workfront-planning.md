@@ -35,7 +35,7 @@ Di seguito sono riportati alcuni collegamenti rapidi aggiuntivi alle risorse per
 
 ### Scopri
 
-* [Crea un grafico del tuo corso con Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Crea un grafico del tuo corso con Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=it)
 * [Guida - GPS di Workfront Planning](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Video di formazione sulla pianificazione

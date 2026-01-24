@@ -21,7 +21,7 @@ Non c’è da sorprendersi se i modelli di layout rendono le istanze di Adobe Wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477048/?captions=ita&learn=on&enablevpops)
 
-Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
+Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=it#M313)!
 
 Se ti piace conoscere nuove idee e approcci creativi, non dimenticare di registrarti ai prossimi workshop nella [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events).
 

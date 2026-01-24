@@ -27,5 +27,5 @@ Se hai poca dimestichezza con gli strumenti moderni di raccolta dati di Adobe e 
 
 Avvia il video qui sopra per visualizzare una ripetizione di questo evento in diretta streaming.
 
-Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476) di Adobe Experience League.
+Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=it#M476) di Adobe Experience League.
 

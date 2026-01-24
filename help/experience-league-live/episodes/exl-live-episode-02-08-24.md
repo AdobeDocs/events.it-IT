@@ -24,7 +24,7 @@ Presentazione di Use Case Playbook: un catalogo utilizzabile di playbook per cas
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) di Adobe Experience League.
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=it#M488) di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 

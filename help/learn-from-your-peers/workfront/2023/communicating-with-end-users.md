@@ -26,6 +26,6 @@ In questo webinar on-demand, Lyndsy Denk, Marketing Training and Enablement Mana
 * Suggerimenti per decidere quali canali utilizzare per le comunicazioni
 * Pensare alla propria strategia di comunicazione in modo iterativo, partendo da dove ci si trova e maturando man mano che si va
 
-È inoltre possibile scaricare il &quot;Manuale delle comunicazioni&quot; con idee ed esempi di comunicazioni reali che i colleghi condividono con gli utenti, qui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+È inoltre possibile scaricare il &quot;Manuale delle comunicazioni&quot; con idee ed esempi di comunicazioni reali che i colleghi condividono con gli utenti, qui: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=it
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

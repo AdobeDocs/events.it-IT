@@ -27,5 +27,5 @@ Con un numero così elevato di richieste di tempo e attenzione, devi essere in g
 
 Guarda il video precedente per visualizzare questo evento in diretta streaming, in cui gli esperti di Adobe [!DNL Analytics] hanno fornito alcuni suggerimenti utili per personalizzare e accedere alle informazioni in Analysis Workspace e nell’app delle dashboard [!DNL Analytics].
 
-Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) di Adobe Experience League.
+Hai delle domande a riguardo? Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=it#M3037) di Adobe Experience League.
 

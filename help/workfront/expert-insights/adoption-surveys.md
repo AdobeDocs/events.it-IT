@@ -36,7 +36,7 @@ Durante la presentazione, Jaime e Danielle hanno discusso alcune risorse supplem
 * [Chat con l&#39;amministratore di Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Sondaggio sull&#39;adozione degli utenti di Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Desideri ulteriori informazioni sull’adozione e l’onboarding generale? Guarda il nostro blog! - [Nuovi clienti Workfront! Benvenuto/a nel blog Customer Success Onboarding di Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Desideri ulteriori informazioni sull’adozione e l’onboarding generale? Guarda il nostro blog! - [Nuovi clienti Workfront! Benvenuto/a nel blog Customer Success Onboarding di Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=it)
 
 ## Informazioni sul diffusore
 

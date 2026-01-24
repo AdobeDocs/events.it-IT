@@ -30,5 +30,5 @@ In questo Experience League Sessione live, gli esperti di prodotto di Adobe spie
 
 **Fai clic sull&#39;immagine qui sopra per guardare lo spettacolo!**
 
-Continua la discussione sul [post della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continua la discussione sul [post della community di Experienci League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=it#M132).
 

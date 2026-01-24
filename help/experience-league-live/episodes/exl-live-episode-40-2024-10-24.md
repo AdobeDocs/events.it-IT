@@ -21,7 +21,7 @@ Scopri come Federated Audience Composition offre un approccio completo alla cura
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**Per continuare la discussione, visita la [discussione sulla community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
+**Per continuare la discussione, visita la [discussione sulla community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=it#M636){target="_blank"}.**
 
 **Mostra dettagli**:
 Accesso esteso ai data warehouse aziendali per comporre tipi di pubblico e migliorare le esperienze istantanee e avviate dal marchio.

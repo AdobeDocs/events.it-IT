@@ -41,11 +41,11 @@ Unisciti a me, al tuo CSM on-demand per Workfront, mentre parlo con Nichole di c
 
 ## Risorse
 
-* **Blog** - [Risparmia Tempo Utilizzando I Campi Personalizzati Calcolati](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Blog** - [Risparmia Tempo Utilizzando I Campi Personalizzati Calcolati](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=it)
 * **Articolo** - [Espressioni dati calcolate]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=it#:~:text=È possibile utilizzare espressioni dati che generano un nuovo campo.&amp;text=Per ulteriori informazioni sulla creazione, visualizza i dati in un modulo personalizzato.)
-* **Follow-up evento** - [Workshop sui campi personalizzati calcolati](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **Community** - [Manuale per il reporting](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **Blog** - [Utilizza i blueprint di Workfront per ottimizzare il tuo ambiente di gestione del lavoro!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **Follow-up evento** - [Workshop sui campi personalizzati calcolati](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=it)
+* **Community** - [Manuale per il reporting](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=it#M1406)
+* **Blog** - [Utilizza i blueprint di Workfront per ottimizzare il tuo ambiente di gestione del lavoro!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=it)
    * *Guida introduttiva* - In questo blog puoi trovare ulteriori informazioni sul dashboard di manutenzione del sistema e sui bundle dei report nel dashboard di utilizzo. 
    * *Suggerimento bonus!* - Iscriviti al blog per ricevere notifiche quando vengono rilasciati nuovi blueprint. 
 * **Articolo** - [Variabili Di Filtro Con Caratteri Jolly](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=it)

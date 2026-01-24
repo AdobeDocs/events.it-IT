@@ -26,7 +26,7 @@ Questo workshop è stato registrato il 12 giugno 2025 e ha visto la partecipazio
 Oltre alla registrazione on-demand, abbiamo incluso le slidedeck e i suggerimenti condivisi nella chat:  
 * [Diapositive di Workfront con risorse](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson’s+Smarter+Way+to+Unlocking+True+Event+Costs.pdf)
 * [Diapositive presentazione Lucas](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=it)
 
 Hai appena iniziato a utilizzare Fusion? Consulta queste risorse. 
 * [Formazione su Workfront Fusion in Experience League](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)

@@ -24,7 +24,7 @@ Questa sessione è ideale per gli esperti di marketing, i team operativi e gli a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-Partecipa alla [Community Adobe Journey Optimizer Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-percorsi-optimizer-product-experts/ev-p/757473), mercoledì 25 giugno dalle 8.00 alle 9.00 PT, per continuare la conversazione.
+Partecipa alla [Community Adobe Journey Optimizer Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=it[...]with-percorsi-optimizer-product-experts/ev-p/757473), mercoledì 25 giugno dalle 8.00 alle 9.00 PT, per continuare la conversazione.
 
 ## Vuoi saperne di più?
 

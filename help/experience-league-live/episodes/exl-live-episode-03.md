@@ -24,5 +24,5 @@ Unisciti a noi per un incontro live con tre esperti Adobe con una vastissima esp
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Per discutere di questa sessione, visita la [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+Per discutere di questa sessione, visita la [discussione nella community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205?profile.language=it){target="_blank"}.
 

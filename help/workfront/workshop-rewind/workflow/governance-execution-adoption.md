@@ -25,7 +25,7 @@ Con particolare attenzione alla governance (convenzioni di denominazione), all�
 
 Se non sei riuscito a partecipare dal vivo, non preoccuparti. Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) e guarda la registrazione on-demand per seguirla.
 
-Cerchi un riepilogo dell’evento e delle risorse dalla chat? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766).
+Cerchi un riepilogo dell’evento e delle risorse dalla chat? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

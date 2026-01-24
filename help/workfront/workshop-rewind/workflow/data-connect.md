@@ -25,7 +25,7 @@ Questo workshop è stato registrato il 29 maggio 2025 e ha visto la partecipazio
 ## Risorse
 
 * [Presentazione diapositive PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=it)
 
 ## Riepilogo
 
@@ -36,7 +36,7 @@ Questo workshop è stato registrato il 29 maggio 2025 e ha visto la partecipazio
 * **Funzionalità correnti** Data Connect supporta attualmente oltre 110 oggetti Workfront (cresciuti rispetto ai 70 all&#39;avvio in ottobre), con dati aggiornati ogni 4 ore. Fornisce tre tipi di visualizzazioni: stato corrente, istantanee cronologiche giornaliere e dati evento transazionali per l’analisi cronologica.
 * **Casi di utilizzo cliente** I clienti utilizzano Data Connect per monitorare l&#39;attività degli utenti, identificare i colli di bottiglia dei processi, il tracciamento dello stato, i controlli di conformità, il tracciamento di SLA, la pianificazione della capacità e l&#39;unione di dati Workfront con set di dati esterni nei data warehouse esistenti. 
 
-Se hai altre domande per Matt o vuoi condividere il modo in cui utilizzi Data Connect, rispondi a questo [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725).
+Se hai altre domande per Matt o vuoi condividere il modo in cui utilizzi Data Connect, rispondi a questo [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=it).
 
 
 Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

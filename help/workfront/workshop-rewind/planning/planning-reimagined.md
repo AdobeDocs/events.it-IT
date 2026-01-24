@@ -26,7 +26,7 @@ Se hai saltato la sessione live, controlla le diapositive SNHU di [HMac](https:/
 
 Per ulteriori informazioni sulle prossime attività di Workfront Planning, assicurarsi di inserire un segnalibro nella [pagina Attività di Adobe Workfront Planning](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) in Experience League.
 
-Hai idee da condividere o domande successive sull’evento? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019).
+Hai idee da condividere o domande successive sull’evento? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

@@ -25,7 +25,7 @@ Questo workshop è stato registrato il 26 giugno 2025 e ha visto la partecipazio
 Se hai saltato la sessione, sono presenti collegamenti alla presentazione e all’articolo della community Experience League con risorse aggiuntive.
 
 * [Presentazione PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/062625+Summoning+Success+-+Unlocking+the+Latest+in+Workfront+Planning.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676?profile.language=it)
 
 Stai solo iniziando?  Consulta la [Guida - Il tuo GPS Workfront Planning!](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 

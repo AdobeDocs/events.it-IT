@@ -25,7 +25,7 @@ Questo workshop interattivo di 1 ora è stato registrato il 7 maggio 2025 e ha p
 Oltre alla registrazione on-demand, abbiamo incluso la presentazione e i suggerimenti condivisi nella chat: 
 
 * [Presentazione PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=it)
 
 Ecco un breve riepilogo dei suggerimenti condivisi nella chat: 
 

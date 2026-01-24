@@ -25,7 +25,7 @@ Questo workshop è stato registrato l’8 aprile 2025 e ha visto Ross Barton e L
 Oltre alla registrazione on-demand, abbiamo incluso la presentazione e i suggerimenti condivisi nella chat:  
 
 * [Presentazione PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=it)
 
 ## Suggerimenti
 

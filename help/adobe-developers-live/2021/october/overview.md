@@ -20,8 +20,8 @@ Dal 4 al 5 ottobre 2021, Adobe Developers Live ha riunito sviluppatori di Adobi 
 I team di Adobi di prodotti di Adobe Experience Cloud, Document Cloud e Creative Cloud hanno mostrato i progressi tecnologici e gli strumenti per sviluppatori più recenti che supportano la progettazione, i flussi di lavoro per la creazione di contenuti, i servizi di documentazione e la gestione dell’esperienza dei clienti nei diversi settori.
 
 Entra in contatto con altri sviluppatori e partecipa alle conversazioni della sessione in Community Experienci League.
-* [Elenco sessioni completate Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [Elenco sessioni completato AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Elenco sessioni completate Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=it)
+* [Elenco sessioni completato AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=it#M120517)
 
 ## In evidenza
 

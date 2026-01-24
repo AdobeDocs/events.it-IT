@@ -52,7 +52,7 @@ Unisciti a me, il tuo CSM on-demand di Workfront, mentre parlo con Leslie del mo
 
 ## Risorse
 
-* Vuoi ulteriori esempi? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) per ulteriori idee condivise nei commenti.
+* Vuoi ulteriori esempi? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=it) per ulteriori idee condivise nei commenti.
 * [Informazioni sui blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=it)
 * [Report Ultimo Nota](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=it)
 * [Aggiungere formattazione condizionale di base a una visualizzazione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=it)

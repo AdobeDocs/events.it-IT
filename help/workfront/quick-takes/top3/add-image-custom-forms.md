@@ -23,6 +23,6 @@ Ciò include suggerimenti divertenti e funzionali per migliorare la comunicazion
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477060/?captions=ita&learn=on&enablevpops)
 
-Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
+Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=it#M374)!
 
 Se ti piace conoscere nuove idee e approcci creativi, non dimenticare di registrarti ai prossimi workshop nella [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events).

@@ -25,7 +25,7 @@ Unisciti a Bryan, Eric e Doug mentre discutono su come muoversi rapidamente con 
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione sulla [discussione del Forum della community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Continua la discussione sulla [discussione del Forum della community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=it#M3582).
 
 >[!ENDSHADEBOX]
 

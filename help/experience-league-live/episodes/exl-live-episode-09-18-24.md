@@ -22,7 +22,7 @@ Scopri come utilizzare l’estensione Edge Bridge per colmare il divario per la 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Per continuare la discussione, visita la [discussione sulla community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
+**Per continuare la discussione, visita la [discussione sulla community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=it#M550){target="_blank"}.**
 
 
 **Mostra dettagli**:

@@ -23,6 +23,6 @@ Mostrano come offrire esperienze mobili ricche e personalizzate che vanno oltre 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-Unisciti a noi per la community di [Adobe Journey Optimizer Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) il **mercoledì 15 ottobre dalle 8.00 alle 9.00 PT** A noi si uniranno gli esperti Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager e Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
+Unisciti a noi per la community di [Adobe Journey Optimizer Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=it) il **mercoledì 15 ottobre dalle 8.00 alle 9.00 PT** A noi si uniranno gli esperti Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager e Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
 
 Risponderemo alle tue domande durante questa chat in diretta.

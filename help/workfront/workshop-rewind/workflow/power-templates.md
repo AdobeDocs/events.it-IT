@@ -23,7 +23,7 @@ Guarda la registrazione on-demand e osserva &quot;sotto il cofano&quot; i suoi p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981).
+Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

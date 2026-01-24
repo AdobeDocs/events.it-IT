@@ -25,7 +25,7 @@ Il team Customer Success di Workfront ha condiviso tutto ciò che devi sapere su
 
 Rivedi [le diapositive](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Blueprints.pdf) e guarda la registrazione on-demand da seguire.
 
-Hai idee da condividere o domande successive sull’evento? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939).
+Hai idee da condividere o domande successive sull’evento? Puoi lasciarli nei commenti del [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

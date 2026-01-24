@@ -27,5 +27,5 @@ Il webinar che evidenzia gli ultimi miglioramenti delle funzioni di Workfront in
 Di seguito sono riportati i collegamenti alla presentazione e all&#39;articolo della community Experience League con le domande e le risposte,
 
 * [Presentazione PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
+* [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=it)
 * Per ulteriori informazioni sulle funzioni della versione, visita la [pagina di panoramica sulla versione &#x200B;](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview) del terzo trimestre 2025.

@@ -27,6 +27,6 @@ e guarda la registrazione on-demand mentre Jen offre una panoramica di Workfront
 
 Consulta i [modelli di Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) di Adobe Workfront attualmente disponibili.
 
-Altri collegamenti alle risorse sono disponibili nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958).
+Altri collegamenti alle risorse sono disponibili nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.

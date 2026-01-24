@@ -25,6 +25,6 @@ Abbiamo molte domande su come utilizzare la modalità Testo per combinare le inf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470128/?captions=ita&learn=on&enablevpops)
 
-Vuoi saperne di più? Abbiamo **Tre suggerimenti bonus** nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
+Vuoi saperne di più? Abbiamo **Tre suggerimenti bonus** nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=it)!
 
 

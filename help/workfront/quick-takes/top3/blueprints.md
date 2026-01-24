@@ -26,8 +26,8 @@ Se vuoi sperimentare prima di installare qualcosa in Produzione, non preoccupart
 
 Ti interessano le blueprint più recenti?
 
-* [Blueprint rilasciato: formazione Workfront per nuovi utenti](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [Blueprint Rilasciato: Dashboard Di Gestione Persone](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [Blueprint rilasciato: formazione Workfront per nuovi utenti](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=it)
+* [Blueprint Rilasciato: Dashboard Di Gestione Persone](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=it#M3247)
 * [Elenco completo dei blueprint disponibili](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
 Se ti piace conoscere nuove idee e approcci creativi, non dimenticare di registrarti ai nostri prossimi workshop sulla [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront). Speriamo di vederti presto!

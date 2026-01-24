@@ -27,7 +27,7 @@ Questo workshop è stato registrato il 25 giugno 2025 e ha visto la partecipazio
 
 Oltre alla registrazione on-demand, abbiamo incluso la presentazione e risorse aggiuntive:
 * [Presentazione diapositive PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Navigating+the+API+and+Fusion+Changes+for+Multi-Select+Fields+with+Ease+062425.pdf)
-* Un evento ospitato in partnership con il team di sviluppo software Adobe è stato consegnato all&#39;inizio di maggio sulle modifiche apportate alle sottoscrizioni di eventi per ulteriori informazioni su quell&#39;area specifica, [[Follow-up evento] Preservare gli scenari di fusione durante l&#39;aggiornamento V2 delle sottoscrizioni di eventi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182#M4041)
+* Un evento ospitato in partnership con il team di sviluppo software Adobe è stato consegnato all&#39;inizio di maggio sulle modifiche apportate alle sottoscrizioni di eventi per ulteriori informazioni su quell&#39;area specifica, [[Follow-up evento] Preservare gli scenari di fusione durante l&#39;aggiornamento V2 delle sottoscrizioni di eventi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182?profile.language=it#M4041)
 
 ## Principali soluzioni e risorse
 
@@ -37,8 +37,8 @@ Oltre alla registrazione on-demand, abbiamo incluso la presentazione e risorse a
 * Nel corso dell’anno verrà rilasciata una nuova versione del connettore Workfront con processo di aggiornamento manuale per mantenere la mappatura del modulo ed evitare modifiche che causino interruzioni
 * L’assistente di Fusion AI è attualmente disponibile, ma richiede un accordo di IA firmato e una configurazione di licenza appropriata. Per maggiori informazioni, contatta il tuo Account Manager. [Ulteriori informazioni sull&#39;utilizzo di IA in Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/manage-scenarios/fusion-ai-assistant)
 * [Modelli di Workfront Fusion attualmente disponibili](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Richiama modelli Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/call-for-fusion-template-ideas/m-p/732085#M3686)- se hai suggerimenti per nuovi modelli Fusion, aggiungili qui. Da qui il team riceve le idee  
+* [Richiama modelli Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/call-for-fusion-template-ideas/m-p/732085?profile.language=it#M3686)- se hai suggerimenti per nuovi modelli Fusion, aggiungili qui. Da qui il team riceve le idee  
 
-Se hai altre domande, rispondi a questo [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-navigating-the-workfront-api-and-fusion-changes/td-p/761253). 
+Se hai altre domande, rispondi a questo [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-navigating-the-workfront-api-and-fusion-changes/td-p/761253?profile.language=it). 
 
 Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

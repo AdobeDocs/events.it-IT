@@ -30,7 +30,7 @@ In questa sessione abbiamo esaminato:
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione sulla [discussione del Forum della community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Continua la discussione sulla [discussione del Forum della community Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=it#M4712).
 
 >[!ENDSHADEBOX]
 

@@ -41,7 +41,7 @@ Durante la presentazione, Madalyn ha condiviso i suoi moduli personalizzati e ca
 
 Ti interessano altri suggerimenti da Madalyn? Guarda la sua serie di suggerimenti e trucchi nella community di Workfront! 
 
-* [Byte tecnici martedì](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Byte tecnici martedì](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=it#M2742)
 
 ## Informazioni sul diffusore 
 

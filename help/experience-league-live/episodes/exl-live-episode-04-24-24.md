@@ -28,6 +28,6 @@ In questo Experience League episodio live, unisciti agli esperti di prodotto Rob
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-**Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"} di Adobe Experience League.**
+**Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=it#M205){target="_blank"} di Adobe Experience League.**
 
 >[!ENDSHADEBOX]

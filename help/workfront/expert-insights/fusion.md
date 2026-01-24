@@ -27,13 +27,13 @@ Bentornato a Expert Insights.  Sono Cynthia Boon, il tuo CSM Workfront &quot;on-
 
 ## Hai bisogno del tuo aiuto!
 
-Come menzionato nel video, Ewan sta lavorando a una guida sulle best practice per la fusione e sarebbe felice di ricevere le tue notizie!  Se utilizzi Fusion per supportare i tuoi processi, condividi i tuoi consigli, consigli e suggerimenti nel [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114), in cui tenterà di includerne il maggior numero possibile.
+Come menzionato nel video, Ewan sta lavorando a una guida sulle best practice per la fusione e sarebbe felice di ricevere le tue notizie!  Se utilizzi Fusion per supportare i tuoi processi, condividi i tuoi consigli, consigli e suggerimenti nel [Post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=it), in cui tenterà di includerne il maggior numero possibile.
 
 ## Consigli
 
 * Fusion è la rappresentazione visiva dei processi. La documentazione è tua amica! Per quanto riguarda la documentazione, salva i dettagli sulla creazione dei processi.  Ancora meglio, video te stesso passeggiando attraverso di loro!
 * Misura lo sforzo e le ore del lavoro ripetitivo
-* Il calcolatore del ROI di Adobe Workfront menzionato da Ewan è collegato al [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
+* Il calcolatore del ROI di Adobe Workfront menzionato da Ewan è collegato al [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=it).
 * Utilizzare Fusion per risolvere le problematiche interfunzionali, risparmiare tempo (e denaro) e prevenire errori.
 
 ## Risorse

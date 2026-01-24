@@ -23,6 +23,6 @@ Questa volta condivido i miei modi preferiti per ottenere il massimo dalla piani
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477083/?captions=ita&learn=on&enablevpops)
 
-Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
+Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=it)!
 
 Se ti piace conoscere nuove idee e approcci creativi, non dimenticare di registrarti ai prossimi workshop nella [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events).
