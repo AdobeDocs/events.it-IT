@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Scopri un piano pratico per ottimizzare le catene di fornitura dei contenuti. Scopri come l’integrazione di Flusso di lavoro e pianificazione, Creazione e produzione, Gestione delle risorse, Consegna e attivazione e Reporting e approfondimenti porta a risultati misurabili. Esplora i pattern di settore comuni, mappa gli obiettivi sulle soluzioni Adobe e utilizza la roadmap per guidare i tuoi passaggi successivi e misurare l’impatto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479094/?captions=ita&learn=on&enablevpops)
