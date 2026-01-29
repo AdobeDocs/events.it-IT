@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 14%
+source-wordcount: '343'
+ht-degree: 13%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 14%
 
 + [Panoramica](overview.md)
 + Episodi {#episodes}
+   + [Agenti Adobe Experience Platform per migliorare l&#39;efficienza del marketing e i risultati aziendali](episodes/exl-live-episode-03-03-26.md)
    + [Agenti al lavoro: creazione e attivazione di tipi di pubblico e percorsi](episodes/exl-live-episode-01-28-26.md)
    + [Semplificare la risoluzione dei problemi e la gestione dei casi di supporto con l&#39;agente di supporto del prodotto](episodes/exl-live-episode-12-16-25.md)
    + [La prossima era della sperimentazione: come l’intelligenza artificiale agentica alimenta test e crescita più intelligenti](episodes/exl-live-episode-10-30-25.md)
@@ -54,5 +55,5 @@ ht-degree: 14%
    + [Estendere AEM con Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Chi l’ha cliccato? E poi cosa hanno fatto?](episodes/exl-live-episode-04.md)
    + [Suggerimenti degli esperti per dare risalto alle campagne per le vacanze](episodes/exl-live-episode-03.md)
-   + [I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] &#x200B;](episodes/exl-live-episode-01.md)
+   + [I miei tre suggerimenti preferiti per l&#39;implementazione di Adobe [!DNL Analytics] ](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
