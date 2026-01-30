@@ -23,4 +23,4 @@ Consulta Audience Agent: scoprire informazioni sul pubblico e creare tipi di pub
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Hai domande su questo programma? Continua la discussione nella [conversazione Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Hai domande su questo programma? Continua la discussione nella [conversazione Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=it&postid=745171#post745171){target="_blank"}
