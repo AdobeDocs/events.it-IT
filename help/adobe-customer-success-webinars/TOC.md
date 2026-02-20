@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 5%
    + Generale {#general2026}
       + [Strategie basate sull’intelligenza artificiale per il successo delle vacanze](2026/2025-holiday-results.md)
       + [Strategie di gestione delle modifiche al Supply chain dei contenuti](2026/csc-change-management.md)
+      + [Sponsorizzazione dei dirigenti di Content Supply chain](2026/csc-executive-sponsorship.md)
       + [Architettura fondamentale per la supply chain dei contenuti](2026/csc-architecture.md)
       + [Modello operativo per Content Supply chain](2026/csc-operating-model.md)
 + 2025 {#2025}
