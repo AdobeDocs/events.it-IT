@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Scopri come guidare la tua organizzazione in un Content Supply chain basato sui dati utilizzando un’ottica di gestione delle modifiche collaudata. Questa sessione mostrerà come allineare leader, equipaggiare i team e creare nuovi modi di lavorare in modo che i team, l’automazione e i dati condivisi si traducano effettivamente in tempi di commercializzazione più rapidi, un maggiore riutilizzo delle risorse e una governance più solida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479825/?captions=ita&learn=on&enablevpops)
 
 * **Lead the Shift, Not Just the Tools** Scopri come inquadrare il passaggio a un Supply chain di contenuti automatizzato in termini aziendali che creano un reale consenso, chiarendo il &quot;perché ora&quot;, allineando i dirigenti e trasformando i primi progetti pilota in uno slancio per l&#39;organizzazione più ampia.
 
