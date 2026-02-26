@@ -70,7 +70,7 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Preparazione per Marketo Engage su Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="Preparazione per Marketo Engage su Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432364/?captions=ita&format=jpeg&nocache=1772063850796" alt="Preparazione per Marketo Engage su Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,7 +93,7 @@ Benvenuti alle registrazioni di eventi on-demand Deep Dives. Utilizzando queste 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430736/?captions=ita&format=jpeg&nocache=1772063850782" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
