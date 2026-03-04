@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 25%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE è un evento in diretta in streaming prodotto dal team Experience League.  Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.
+Experience League LIVE è un evento in live streaming prodotto dal team di Experience League.  Offre l’opportunità di entrare in contatto con gli esperti dei prodotti Adobe e imparare suggerimenti, trucchi e strategie da mettere in pratica nelle applicazioni Adobe Experience Cloud.
 
 
 
@@ -25,26 +25,11 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 3 marzo 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Partecipa a una sessione di domande e risposte approfondita con Anjul Bhambhri, Sr. VP di Adobe Experience Cloud, per scoprire la visione audace di Adobe per le funzionalità innovative di IA dinamica.</strong></a>
-      <br/><em>con Anjul Bhambhri, Gina Casagrande e Daniel Wright</em>
-      <br/><em>3 marzo 2026 alle 9:00 PT</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Ulteriori informazioni su questa sessione!</a></b>
-    </div>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
       <img alt="Experience League LIVE 3 marzo 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Scopri come Campaign Orchestration in Journey Optimizer gestisce i tuoi programmi di marketing multicanale uno a molti di grandi dimensioni, dalla creazione di tipi di pubblico all’avvio.</strong></a>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Scopri come l’orchestrazione di Campaign in Journey Optimizer gestisce i tuoi programmi di marketing multicanale uno a molti di grandi dimensioni, dalla creazione di tipi di pubblico all’avvio.</strong></a>
       <br/><em>con Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva e Lee Henderson</em>
       <br/><em>12 marzo 2026 alle 08:30 PT</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">Ulteriori informazioni su questa sessione!</a></b>
@@ -102,5 +87,5 @@ Experience League LIVE è un evento in diretta in streaming prodotto dal team Ex
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
