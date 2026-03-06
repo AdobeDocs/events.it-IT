@@ -7,7 +7,7 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2026-03-06T00:00:00Z
 jira: KT-20491
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Unisciti a noi per un’introduzione ad Adobe Acrobat Analyzer: una nuova funzionalità GenAI con Acrobat Sign progettata per estrarre informazioni strutturate e verificabili da grandi volumi di documenti, aiutando i team aziendali ad automatizzare i flussi di lavoro, ridurre i rischi e prendere decisioni più rapide su larga scala.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480894/?learn=on&enablevpops)
 
 Questo webinar mostrerà come Adobe Acrobat Analyzer rende l’intelligenza dei documenti accessibile a tutte le funzioni all’interno dell’azienda. In questo webinar imparerai:
 
