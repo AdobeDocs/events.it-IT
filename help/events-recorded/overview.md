@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Registrazioni di eventi Adobe Experience League {#events}
 
-## Con Experience League, l’apprendimento è un evento.****
+## Con Experience League, l’apprendimento è un evento.**&#x200B;**
 
 Resta aggiornato sugli eventi e i webinar esclusivi per ampliare il tuo percorso di apprendimento. Visita spesso questo spazio per visualizzare le registrazioni di eventi passati come Experience League LIVE, Skill Builders, Developers Live e altro ancora. Se desideri registrarti per un evento in programma, dai un&#39;occhiata ai [prossimi eventi](https://%65xperienceleague.adobe.com/events/?lang=en) su Experience League.
 
