@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Il segmento &quot;Guida introduttiva&quot; di The Skill Exchange è destinato a coloro che stanno iniziando a utilizzare Adobe Analytics. Entro la fine della sessione, i visualizzatori dovrebbero comprendere meglio la terminologia e gli strumenti di Adobe Analytics, nonché un’introduzione a livello di principianti alle funzioni principali di Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480570/?captions=ita&learn=on)
