@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
+source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Scopri dai tuoi colleghi webinar: Consigli di prodotto Adobe Commerce - Dalla configurazione alla crescita strategica
 
@@ -25,15 +25,15 @@ Riconosciuti come professionisti di alto livello che promuovono l’innovazione 
 
 ## Cosa imparerai
 
-+ Incentivare i consigli strategici: allinea il tipo di consigli ai KPI reali (clearance, AOV, conservazione)
-+ Inventario chiaro: come aumentare l&#39;esposizione e cross-selling lento-move stock
-+ Aumenta AOV: coppia &quot;acquistata di frequente insieme&quot; con un&#39;interfaccia utente di ritocco per aumentare le percentuali di allegati
-+ Miglioramento della customer retention: personalizza i moduli con dati comportamentali per coinvolgere i clienti fidelizzati
-+ Combina IA con strategia umana: sfrutta le regole manuali di relazione del prodotto per i lanci e le campagne branded
-+ Passa dalla configurazione all’ottimizzazione: scopri le nozioni di base per la configurazione (configurazione, inclusioni/esclusioni e posizionamento di CMS/Page Builder), evita le insidie comuni e utilizza i controlli e le analisi di amministrazione per migliorare continuamente.
+* Promuovere i consigli strategici: allinea il tipo di consigli ai KPI reali (clearance, AOV, conservazione)
+* Inventario chiaro: come aumentare l&#39;esposizione e vendere azioni lente
+* Aumenta AOV: coppia &quot;acquistata di frequente insieme&quot; con un’interfaccia utente ottimizzata per aumentare le percentuali di allegati
+* Migliorare la fidelizzazione dei clienti: personalizza i moduli con dati comportamentali per coinvolgere i clienti fidelizzati
+* Combinare IA con strategia umana: sfrutta le regole manuali di relazione del prodotto per i lanci e le campagne branded
+* Passa dalla configurazione all’ottimizzazione: scopri le nozioni di base per la configurazione (configurazione, inclusioni/esclusioni e posizionamento di CMS/Page Builder), evita le insidie comuni e utilizza i controlli e le analisi di amministrazione per migliorare continuamente.
 
 Che tu stia iniziando o punti a ottimizzare con le funzionalità native per l’intelligenza artificiale, questa sessione è progettata per fornirti indicazioni pratiche e concrete su come generare risultati tangibili in termini di ricavi e customer experience da applicare immediatamente.
 
 ## Risorse aggiuntive
 
-+ [Diapositive presentazione](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
+* [Presentazione diapositive](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
