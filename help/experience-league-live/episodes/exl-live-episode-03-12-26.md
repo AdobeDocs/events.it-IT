@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Scopri come l’orchestrazione delle campagne in Journey Optimizer gestisce i programmi di marketing multicanale uno-a-molti di grandi dimensioni, dalla creazione del pubblico al lancio.
 
-Copriremo l’area di lavoro dell’orchestrazione delle campagne e gli schemi relazionali alla base della gestione di campagne complesse e delle relazioni con i clienti, della segmentazione di più entità per indirizzare i tipi di pubblico giusti tra dati complessi, dell’ottimizzazione del pubblico on-demand e dei conteggi pre-invio per garantire precisione e come funziona perfettamente oggi all’interno di Journey Optimizer.
+Abbiamo trattato l’area di lavoro per l’orchestrazione delle campagne e gli schemi relazionali come base per la gestione di campagne complesse e relazioni con i clienti, la segmentazione di più entità per indirizzare i tipi di pubblico giusti tra dati complessi, l’ottimizzazione del pubblico on-demand e i conteggi pre-invio per garantirne l’accuratezza e il funzionamento ottimale in Journey Optimizer.
 
-<img alt="Experience League LIVE 3 marzo 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Registrati oggi stesso!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+Per continuare la conversazione su questo argomento, visita la [discussione della community Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
