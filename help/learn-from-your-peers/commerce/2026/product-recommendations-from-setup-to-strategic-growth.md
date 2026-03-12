@@ -8,14 +8,14 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
+source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-# Scopri dai tuoi colleghi webinar: Consigli di prodotto Adobe Commerce - Dalla configurazione alla crescita strategica
+# Scopri dai tuoi colleghi webinar: Consigli di prodotto di Adobe Commerce - Dalla configurazione alla crescita strategica
 
 Unisciti ai campioni Adobe Commerce Manav Padhariya e Michael Schenck per una sessione educativa sulla trasformazione dei consigli di prodotto di Adobe Commerce da funzionalità di base in un potente driver strategico nativo per l’intelligenza artificiale per la crescita del business.
 
@@ -37,3 +37,6 @@ Che tu stia iniziando o punti a ottimizzare con le funzionalità native per l’
 ## Risorse aggiuntive
 
 * [Presentazione diapositive](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
+* [Post-webinar Office Hours con Manav Padhariya e Michael Schenck](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-product-recommendations-from-setup-to-strategic-growth-webinar-office-hours/)
+* [Gruppi di utenti di Adobe Commerce](https://commerce-augs.adobe.com/)
+* [Adobe Summit Skill Exchange per Adobe Commerce](https://reg.adobe.com/flow/adobe/as26/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search.sessiontype=option_1672965503153&search.product=1615933990427001wslv)
