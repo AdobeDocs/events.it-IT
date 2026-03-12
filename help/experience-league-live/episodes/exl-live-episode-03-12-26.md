@@ -23,4 +23,4 @@ Abbiamo trattato l’area di lavoro per l’orchestrazione delle campagne e gli 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-Per continuare la conversazione su questo argomento, visita la [discussione della community Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+Per continuare la conversazione su questo argomento, visita la [discussione della community Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=it){target="_blank"}
