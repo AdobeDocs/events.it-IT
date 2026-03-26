@@ -21,7 +21,7 @@ Le organizzazioni di successo non trattano la pianificazione, l’esecuzione e i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Cerchi altre risorse dall’evento, inclusa la presentazione condivisa durante la sessione? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160).
+Cerchi altre risorse dall’evento, inclusa la presentazione condivisa durante la sessione? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

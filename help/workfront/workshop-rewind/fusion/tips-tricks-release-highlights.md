@@ -24,7 +24,7 @@ Sam Taylor, Senior Product Manager, presenta nuove funzioni, aggiornamenti e pia
 
 Se hai saltato la sessione, non preoccuparti! Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) e guarda la registrazione on-demand per seguirla.
 
-Cerchi altre risorse o domande e risposte dall’evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111).
+Cerchi altre risorse o domande e risposte dall’evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 
