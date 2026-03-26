@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Workshop on-demand su Workfront](overview.md)
 
 + Webinar sulla versione {#releases}
+   + [Webinar sulla versione del secondo trimestre 2026](releases/26-q2-release-webinar.md)
+   + [Webinar sulla versione del primo trimestre 2026](releases/26-q1-release-webinar.md)
    + [Webinar sulla versione del quarto trimestre 2025](releases/25-q4-release-webinar.md)
    + [Versione 25.7](releases/25-7-release-webinar.md)
    + [Versione 25.4](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [Versione 24.1](releases/24-1-release-webinar.md)
 + Riavvolgimento workshop {#workshop-rewind}
    + Fusion {#fusion}
+      + [Automazione dei PDF con marchio con Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Automazione delle convenzioni di denominazione](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Automatizzare i processi di lavoro](workshop-rewind/fusion/automate-work-processes.md)
       + [Vantaggi e best practice di Fusion](workshop-rewind/fusion/benefits-best-practices.md)
       + [Importazioni dati](workshop-rewind/fusion/data-imports.md)
       + [Vantaggi e casi di utilizzo di Fusion](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion Decoded Part 2 - Inizia la generazione](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Come Workfront Fusion aiuta gli esseri umani](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Accesso facilitato alle modifiche per i campi a selezione multipla](workshop-rewind/fusion/mulit-select-fields.md)
       + [Gestione proattiva delle eccezioni](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Schneider Efficienza Workfront delle unità elettriche](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [Semplificare i flussi di lavoro](workshop-rewind/fusion/automate-workflows.md)
+      + [Suggerimenti, trucchi ed elementi di rilievo sulla versione](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [Sblocco dei costi evento effettivi](workshop-rewind/fusion/event-costs.md)
       + [Effettua l’aggiornamento a Event Subscriptions V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Pianificazione {#planning}
       + [Più recente in Workfront Planning](workshop-rewind/planning/workfront-planning.md)
       + [Demo di Adobe Workfront Planning](workshop-rewind/planning/planning-demo.md)
+      + [Creazione dell’implementazione di base](workshop-rewind/planning/base-implementation.md)
+      + [Collegamento dei dashboard di Planning, Workflow e Canvas](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Utilizzo di Planning da parte di Syracuse](workshop-rewind/planning/syracuse-planning.md)
       + [Casi d&#39;uso di SNHU per Creative](workshop-rewind/planning/planning-reimagined.md)
       + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versione e roadmap di Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
@@ -46,7 +55,8 @@ ht-degree: 1%
       + [Blueprint](workshop-rewind/workflow/blueprints.md)
       + [Maggiore efficienza](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Gestione delle modifiche in Workfront](workshop-rewind/workflow/change-management.md)
-      + [Integrazione della supply chain dei contenuti](workshop-rewind/workflow/content-supply-chain.md)
+      + [Integrazione di Content Supply chain](workshop-rewind/workflow/content-supply-chain.md)
+      + [Raccolta dati](workshop-rewind/workflow/data-collection.md)
       + [Definizione e comunicazione del valore di Workfront](workshop-rewind/workflow/workfront-value.md)
       + [Suggerimenti per una comunicazione efficace in Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Suggerimenti su governance, esecuzione e adozione](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [Modelli di progetto](workshop-rewind/workflow/project-templates.md)
       + [Reimmaginare le descrizioni di Creative](workshop-rewind/workflow/creative-briefs.md)
       + [Nozioni di base sulla gestione delle risorse](workshop-rewind/workflow/resource-management.md)
+      + [Risorse per accelerare l&#39;adozione e il valore](workshop-rewind/workflow/accelerate-adoption.md)
+      + [Ripensare Gestione Risorse](workshop-rewind/workflow/rethink-resource-management.md)
       + [Sponsorizzazione esecutiva sicura](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Autoapprendimento per il successo](workshop-rewind/workflow/self-taught-to-success.md)
       + [Pulizia primaverile con i rapporti di Workfront](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 suggerimenti di comunicazione](workshop-rewind/workflow/10-communication-tips.md)
       + [10 suggerimenti modalità testo](workshop-rewind/workflow/text-mode-tips.md)
       + [Altri 10 suggerimenti modalità testo](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [Trasforma la fiducia degli utenti in affidabilità](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Risoluzione dei problemi dei campi calcolati di Workfront](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Trasformazione dei blueprint in programmi di formazione](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [Informazioni sulle approvazioni unificate](workshop-rewind/workflow/unified-approvals.md)
       + [Sblocca bacheche Workfront](workshop-rewind/workflow/unlock-boards.md)
       + [Sblocca la potenza di Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
       + [Utilizzo di Workfront per registrazioni efficaci](workshop-rewind/workflow/effective-reorgs.md)
@@ -98,7 +113,7 @@ ht-degree: 1%
    + [Adozione](expert-insights/adoption.md)
    + [Sondaggi sull’adozione](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
-   + [Catena di fornitura contenuto](expert-insights/content-supply-chain.md)
+   + [Supply chain dei contenuti](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Governance e centri di eccellenza](expert-insights/centers-of-excellence.md)
    + [Modalità testo mastro](expert-insights/text-mode.md)
