@@ -22,6 +22,6 @@ ht-degree: 3%
 
 Approfondisci la Fusion Decoded Part 2 per comprendere le strategie di base per la creazione di flussi di lavoro e sistemi Fusion. Questa sessione è progettata per amministratori, sviluppatori e leader che desiderano migliorare le proprie conoscenze e implementazioni di Fusion. Guarda il riavvolgimento del workshop per ottenere informazioni e tecniche fruibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481846/?captions=ita&learn=on&enablevpops)
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
