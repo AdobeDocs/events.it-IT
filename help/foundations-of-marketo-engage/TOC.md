@@ -3,10 +3,10 @@ user-guide-title: Nozioni di base di Marketo Engage
 breadcrumb-title: Nozioni di base di Marketo Engage
 user-guide-description: Unisciti al gruppo di utenti Marketo fondamentale per rafforzare la fiducia e le competenze di base in Adobe Marketo Engage attraverso sessioni di supporto per principianti.
 solution: Marketo Engage
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 1%
 # Nozioni di base dei webinar su Marketo Engage {#foundations-of-marketo-engage-webinars}
 
 + [Nozioni di base dei webinar su Marketo Engage](overview.md)
++ 2026 {#2026}
+   + [Nozioni di base di Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
    + [Creare la ricetta per lo sviluppo](2025/nurture-recipe.md)
    + [Preparazione esame professionale](2025/professional-exam-preparation.md)
