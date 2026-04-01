@@ -51,7 +51,7 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
 
 ## Riavvolgimento workshop
 
-Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi selezionati. Ogni mese vengono organizzate sessioni live gratuite su una vasta gamma di argomenti per aiutarti a ottenere il massimo da Workfront. Ti sei perso un evento live? Nessun problema! Registrazioni on-demand per presentare le storie dei clienti, le best practice consolidate e le preziose lezioni apprese. Vuoi connetterti in tempo reale? Partecipa ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri utenti. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
+Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi selezionati. Ogni mese vengono organizzate sessioni live gratuite su una vasta gamma di argomenti per aiutarti a ottenere il massimo da Workfront. Ti sei perso un evento live? Nessun problema! Registrazioni on-demand per presentare le storie dei clienti, le best practice consolidate e le preziose lezioni apprese. Vuoi connetterti in tempo reale? Partecipa ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri utenti. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- CARDS 
 
