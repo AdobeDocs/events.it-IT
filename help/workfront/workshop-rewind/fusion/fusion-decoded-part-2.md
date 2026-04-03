@@ -18,12 +18,12 @@ ht-degree: 1%
 
 # Fusion Decoded Part 2 - Iniziamo a creare
 
-Nella [Parte 1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), Jen Desmond ci ha mostrato la potenza di Fusion e ciò che può fare per qualsiasi organizzazione. Guarda, nella Parte 2 di questa serie, mentre si immerge in modelli pronti per l’uso per mostrarti come utilizzarli per avviare rapidamente il tuo percorso di automazione. Scopri in che modo i modelli eliminano ogni ipotesi, riducono i tempi di configurazione e aiutano ad avviare vere e proprie automazioni senza partire da zero.
+Nella [Parte 1](https://experienceleague.adobe.com/it/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), Jen Desmond ci ha mostrato la potenza di Fusion e ciò che può fare per qualsiasi organizzazione. Guarda, nella Parte 2 di questa serie, mentre si immerge in modelli pronti per l’uso per mostrarti come utilizzarli per avviare rapidamente il tuo percorso di automazione. Scopri in che modo i modelli eliminano ogni ipotesi, riducono i tempi di configurazione e aiutano ad avviare vere e proprie automazioni senza partire da zero.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
 Se hai saltato la sessione, non preoccuparti! Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf) e guarda la registrazione on-demand per seguirla.
 
-Cerchi altre risorse o domande e risposte dall’evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622).
+Cerchi altre risorse o domande e risposte dall’evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
