@@ -34,9 +34,9 @@ Ti allontanerai con informazioni approfondite, tra cui:
 ## Risorse
 
 Jen condivide anche alcune delle sue risorse preferite, tra cui il motivo per cui i modelli di Fusion, i blueprint e le best practice condivise possono fare la differenza. Fai clic qui per ulteriori informazioni:
-* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Elenco di blueprint disponibili](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Community Workfront di Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Elenco di blueprint disponibili](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Community Workfront di Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=it)
 
 Ma aspetta!  Lei ha più consigli da condividere!
 
