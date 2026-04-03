@@ -8,25 +8,27 @@ doc-type: Event
 duration: 3199
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19788
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 17044e9c-9a18-4873-9368-accb7351734d
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
-
 
 # Fusion Decoded: Cos’È E Perché Ogni Organizzazione Può Usarlo
 
 Guarda come Jen Desmond suddivide Workfront Fusion e illustra alcuni esempi in tempo reale per aiutarci a demistificare Fusion.
 
-Se l&#39;evento live non è stato visualizzato, esaminare la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
+Se l&#39;evento live non è stato visualizzato, esaminare la presentazione di [](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
 e guarda la registrazione on-demand mentre Jen offre una panoramica di Workfront Fusion, cosa può fare, e poi dimostra come creare un paio di scenari.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Consulta i [modelli di Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) di Adobe Workfront attualmente disponibili.
+Ti è piaciuta questa sessione e vuoi saperne di più da Jen? Assicurati di guardare la seconda sessione della serie, [Fusion Decoded Part 2 - Iniziamo a generare](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Altri collegamenti alle risorse sono disponibili nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=it).
+E non dimenticare di rivedere l&#39;elenco dei [modelli di Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) di Adobe Workfront attualmente disponibili.
+
+Altri collegamenti alle risorse sono disponibili nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
