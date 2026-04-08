@@ -65,7 +65,7 @@ ht-degree: 7%
       + [Aumentare il recapito messaggi e-mail con Marketo Engage](marketo/2023/email-deliverability.md)
       + [Tracciare, analizzare e ottimizzare le campagne di marketing](marketo/2023/marketing-campaigns.md)
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/2023/personalization-at-scale.md)
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2026 {#2026}
       + [Adozione sostenibile di Workfront](workfront/2026/workfront-adoption.md)
