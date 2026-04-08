@@ -8,7 +8,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Scopri dai tuoi colleghi webinar: Consigli di prodotto di Adobe Commerce - Dalla configurazione alla crescita strategica
 
-Unisciti ai campioni Adobe Commerce Manav Padhariya e Michael Schenck per una sessione educativa sulla trasformazione dei consigli di prodotto di Adobe Commerce da funzionalità di base in un potente driver strategico nativo per l’intelligenza artificiale per la crescita del business.
+Unisciti ai campioni Adobe Commerce Manav Padhariya e Michael Schenck per una sessione educativa sulla trasformazione dei consigli di prodotto Adobe Commerce da funzionalità di base a un potente driver strategico nativo per l’intelligenza artificiale per la crescita del business.
 
 Riconosciuti come professionisti di alto livello che promuovono l’innovazione in tutto l’ecosistema commerciale, Michael e Manav dimostrano come l’orchestrazione strategica delle raccomandazioni sui prodotti, allineandole con gli obiettivi aziendali, possa migliorare direttamente la vendita dell’inventario tramite, AOV e la fidelizzazione dei clienti.
 
