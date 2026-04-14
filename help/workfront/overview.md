@@ -3,9 +3,9 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 0cd9d63a55aad1456f83c8b35293ea1705029954
+source-git-commit: 3363513b545097376ce0b915c3cf9fe74ca3df45
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,17 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
 
 <!-- CARDS 
 
-* releases/26-q1-release-webinar.md
+* releases/26-q2-release-webinar.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront First Quarter 2026 Release Webinar">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront Second Quarter 2026 Release Webinar">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="releases/26-q1-release-webinar.md" title="Webinar sulla versione del primo trimestre 2026 di Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775228743435" alt="Webinar sulla versione del primo trimestre 2026 di Adobe Workfront"
+                    <a href="releases/26-q2-release-webinar.md" title="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483385/?format=jpeg&nocache=1776187709343" alt="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -36,11 +36,11 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" title="Webinar sulla versione del primo trimestre 2026 di Adobe Workfront">Webinar sulla versione del primo trimestre 2026 di Adobe Workfront</a>
+                        <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" title="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront">Webinar sulla versione di Adobe Workfront del secondo trimestre 2026</a>
                     </p>
-                    <p class="is-size-6">Scopri le funzioni e gli aggiornamenti più recenti nella versione di Adobe Workfront del primo trimestre 2026 per migliorare i flussi di lavoro e la produttività.</p>
+                    <p class="is-size-6">Scopri gli ultimi aggiornamenti della versione del secondo trimestre 2026 di Adobe Workfront, inclusi miglioramenti a livello di pianificazione, flusso di lavoro e altro ancora.</p>
                 </div>
-                <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -49,9 +49,10 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 ## Riavvolgimento workshop
 
-Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi selezionati. Ogni mese vengono organizzate sessioni live gratuite su una vasta gamma di argomenti per aiutarti a ottenere il massimo da Workfront. Ti sei perso un evento live? Nessun problema! Registrazioni on-demand per presentare le storie dei clienti, le best practice consolidate e le preziose lezioni apprese. Vuoi connetterti in tempo reale? Partecipa ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri utenti. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
+Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi selezionati. Ogni mese vengono organizzate sessioni live gratuite su una vasta gamma di argomenti per aiutarti a ottenere il massimo da Workfront. Ti sei perso un evento live? Nessun problema! Registrazioni on-demand per presentare le storie dei clienti, le best practice consolidate e le preziose lezioni apprese. Vuoi connetterti in tempo reale? Partecipa ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri utenti. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- CARDS 
 
@@ -67,7 +68,7 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775228743880" alt="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1776187709981" alt="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +91,7 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Ripensare la gestione delle risorse nel modo agile in Advisor Excel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775228743890" alt="Ripensare la gestione delle risorse nel modo agile in Advisor Excel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1776187709989" alt="Ripensare la gestione delle risorse nel modo agile in Advisor Excel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +114,7 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775228743875" alt="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1776187709976" alt="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +156,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?captions=ita&format=jpeg&nocache=1775228744320" alt="Primi 3 - Approcci Creative con blueprint"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="Primi 3 - Approcci Creative con blueprint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +179,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?captions=ita&format=jpeg&nocache=1775228744326" alt="Contro! - Gruppi e team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="Contro! - Gruppi e team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +220,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/text-mode.md" title="Master Text Mode con Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1775228744510" alt="Master Text Mode con Katherine Lanning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1776187710857" alt="Master Text Mode con Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +243,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA in Workfront con Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1775228744500" alt="SLA in Workfront con Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="SLA in Workfront con Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +266,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Approfondimenti esperti con Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483119/?captions=ita&format=jpeg&nocache=1775228744495" alt="Approfondimenti esperti con Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Approfondimenti esperti con Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
