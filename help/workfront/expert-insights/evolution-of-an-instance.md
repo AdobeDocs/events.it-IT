@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
+source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights - Evoluzione di un’istanza con Jen Desmond
 
@@ -21,7 +21,7 @@ Benvenuto all’ultimo episodio di Expert Insights! Sono Cynthia Boon, il tuo CS
 
 A noi si unisce l&#39;incredibile Jen Desmond, Technical Success Advisor di Adobe, che condivide con un esperto di fiducia il suo percorso di utenti Workfront per la prima volta, oltre a consigli pratici per la gestione dei cambiamenti e per l&#39;espansione dell&#39;istanza con l&#39;intenzione di farlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483119/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 Ti allontanerai con informazioni approfondite, tra cui:
 
@@ -34,9 +34,9 @@ Ti allontanerai con informazioni approfondite, tra cui:
 ## Risorse
 
 Jen condivide anche alcune delle sue risorse preferite, tra cui il motivo per cui i modelli di Fusion, i blueprint e le best practice condivise possono fare la differenza. Fai clic qui per ulteriori informazioni:
-* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Elenco di blueprint disponibili](https://experienceleague.adobe.com/it/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Community Workfront di Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=it)
+* [Elenco dei modelli di Fusion disponibili](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Elenco di blueprint disponibili](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Community Workfront di Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Ma aspetta!  Lei ha più consigli da condividere!
 
