@@ -156,7 +156,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="Primi 3 - Approcci Creative con blueprint"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?captions=ita&format=jpeg&nocache=1776187710590" alt="Primi 3 - Approcci Creative con blueprint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="Contro! - Gruppi e team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?captions=ita&format=jpeg&nocache=1776187710595" alt="Contro! - Gruppi e team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +266,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Approfondimenti esperti con Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Approfondimenti esperti con Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483119/?captions=ita&format=jpeg&nocache=1776187710852" alt="Approfondimenti esperti con Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
