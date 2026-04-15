@@ -23,4 +23,4 @@ Partecipa a questa sessione per scoprire i concetti fondamentali delle funzional
 
 *Matthias Kolitsch* Senior Multi Solution Trainer EMEA/Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457386/?captions=ita&quality=12&learn=on)

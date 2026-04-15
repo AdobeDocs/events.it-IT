@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Prestazioni eccellenti sono fondamentali per il successo dell’esperienza. In questa sessione, condivideremo con te le nostre migliori 10 best practice per aiutare i tuoi sviluppatori a rendere più veloci i siti web di Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457183/?captions=ita&quality=12&learn=on)

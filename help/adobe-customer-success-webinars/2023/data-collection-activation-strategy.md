@@ -27,4 +27,4 @@ Sfrutta e attiva la tua strategia di raccolta dati per fornire un’interazione 
 * Panoramica dell&#39;architettura di alto livello
 * Considerazioni per la strategia di raccolta e attivazione dei dati
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456232/?captions=ita&learn=on)

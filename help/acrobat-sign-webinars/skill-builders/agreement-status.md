@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Vieni a scoprire i pro e i contro degli strumenti di gestione degli accordi e le best practice per conoscere lo stato dei tuoi accordi in qualsiasi momento. Questa sessione illustra: quali azioni è possibile eseguire sui documenti dalla scheda Gestione, come elaborare e utilizzare i dati dei moduli web e degli invii in blocco e come cercare e filtrare i documenti necessari.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455009/?captions=ita&learn=on)
 
 In questa sessione, l&#39;oratore illustra come gestire e tenere traccia degli accordi utilizzando Adobe Acrobat Sign. &#x200B; Spiegano i diversi stati degli accordi, mostrano le azioni che possono essere intraprese sugli accordi in corso e forniscono risorse per ulteriori approfondimenti.

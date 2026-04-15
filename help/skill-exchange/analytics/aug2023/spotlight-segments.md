@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Informazioni sui segmenti: come suddividere in porzioni e suddividere i dati per approfondimenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456615/?captions=ita&learn=on)

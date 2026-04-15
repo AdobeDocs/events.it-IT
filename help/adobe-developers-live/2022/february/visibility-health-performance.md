@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In questa sessione scoprirai gli strumenti disponibili per monitorare lo stato, la sicurezza e la qualità della piattaforma Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456870/?captions=ita&quality=12&learn=on)

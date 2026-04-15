@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Il webinar dimostrerà come l’integrazione di questi concetti possa promuovere l’efficienza, migliorare le esperienze dei clienti e supportare processi decisionali basati sui dati all’interno delle organizzazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457016/?captions=ita&learn=on)
 
 ## Concetti chiave
 

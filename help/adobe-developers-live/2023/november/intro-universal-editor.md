@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Universal Editor è la nuova generazione di editor di pagine contestuali di AEM e risolve le limitazioni attuali dell’editor di pagine o dell’editor di applicazioni a pagina singola di AEM. È indipendente dai framework, dai motori di rendering e dalle fonti di dati, fornendo così tutta la libertà che gli sviluppatori stanno cercando e rendendola davvero universale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456476/?captions=ita&learn=on)
