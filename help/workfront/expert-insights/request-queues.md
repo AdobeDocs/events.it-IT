@@ -22,7 +22,7 @@ ht-degree: 3%
 
 # Expert Insights - Code di richieste con Lyndsy Denk
 
-Benvenuto in Expert Insights.  Sono Cynthia Boon, il tuo CSM Workfront &quot;on demand&quot;, e per questo episodio abbiamo Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167)! Parliamo della storia di Workfront di Lyndsy e poi entriamo nel suo Help Desk Request Queue.
+Benvenuto in Expert Insights.  Sono Cynthia Boon, il tuo CSM Workfront &quot;on demand&quot;, e per questo episodio abbiamo Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=it)! Parliamo della storia di Workfront di Lyndsy e poi entriamo nel suo Help Desk Request Queue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -37,15 +37,15 @@ Durante la nostra chat, Lyndsy ha condiviso,
 
 Come promesso, queste sono le risorse discusse insieme a un paio di collegamenti aggiuntivi per Code di richieste e Argomenti coda:
 
-* Risorse su come [gestire un&#39;istanza ereditata](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), include il collegamento al webinar e dettagli nell&#39;[esercitazione su blueprint](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Risorse su come [gestire un&#39;istanza ereditata](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), include il collegamento al webinar e dettagli nell&#39;[esercitazione su blueprint](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Documentazione sulle code di richieste: [Crea argomenti coda](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Documentazione sulle code di richieste: [Crea argomenti coda](https://experienceleague.adobe.com/it/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Presentazione del webinar di Lyndsy per [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): comunicazione con gli utenti finali (in questa pagina è incluso anche un collegamento al [Manuale delle comunicazioni per gli utenti finali](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Presentazione del webinar di Lyndsy per [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=it): comunicazione con gli utenti finali (in questa pagina è incluso anche un collegamento al [Manuale delle comunicazioni per gli utenti finali](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=it))
 
-* [Risorse di presentazione di Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642) di Lyndsy
+* [Risorse di presentazione di Skill Exchange](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=it#M3642) di Lyndsy
 
-* E non dimenticare di controllare il [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Ask Me NOTHING about Workfront Proof dove Lyndsy insieme a Monique Evans e Richard Carlson ha risposto alle tue domande su Proofing!
+* E non dimenticare di controllare il [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=it) Ask Me NOTHING about Workfront Proof dove Lyndsy insieme a Monique Evans e Richard Carlson ha risposto alle tue domande su Proofing!
 
 ## Informazioni sul diffusore 
 

@@ -23,6 +23,6 @@ Scopri gli ultimi aggiornamenti e funzionalità introdotti nella versione del se
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
 
-Cerchi ulteriori informazioni? Consulta le [note sulla versione](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) in Experience League e controlla [il post della community](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769) con collegamenti alla presentazione diapositive, video dimostrativi individuali e altro ancora.
+Cerchi ulteriori informazioni? Consulta le [note sulla versione](https://experienceleague.adobe.com/it/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) in Experience League e controlla [il post della community](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?profile.language=it&fid=23&tid=249769) con collegamenti alla presentazione diapositive, video dimostrativi individuali e altro ancora.
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.

@@ -27,5 +27,5 @@ Le notifiche push ti aiutano a raggiungere gli utenti dell’app mobile in quals
 
 [Scarica Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Per continuare la conversazione su questa sessione, visita il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Per continuare la conversazione su questa sessione, visita il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869?profile.language=it).
 

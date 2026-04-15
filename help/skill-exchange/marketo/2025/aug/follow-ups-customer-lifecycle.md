@@ -30,7 +30,7 @@ Reazione a catena: quando richiedere una campagna e quando eseguirla: le campagn
 
 ## Risorse aggiuntive
 
-* [Campagne eseguibili](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Campagne eseguibili](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Tutto ciò che devi sapere sul nuovo tipo di campagna eseguibile in Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -42,6 +42,6 @@ Padroneggiare l’impegno del ciclo di vita multicanale oltre l’e-mail: esplor
 
 * [Approfondimento delle e-mail: marketing multicanale con notifiche di app, Dynamic Chat e app di messaggistica](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Coinvolgimento omni-channel](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Come creare un messaggio in-app](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Come creare notifiche push](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Come creare un messaggio in-app](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Come creare notifiche push](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [Come creare un modello WhatsApp](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

@@ -25,7 +25,7 @@ Presentazione di Use Case Playbook: un catalogo utilizzabile di playbook per cas
 
 >[!BEGINSHADEBOX &quot;Domande?&quot;]
 
-Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) di Adobe Experience League.
+Continua la discussione su questo argomento nel [post della community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=it#M488) di Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -52,7 +52,7 @@ Un esempio di un caso d’uso discusso in questa sessione è un caso d’uso abb
 
 ## Risorse aggiuntive
 
-* **[Panoramica sui playbook di casi d&#39;uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Panoramica sui playbook di casi d&#39;uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=it){target="_blank"}**
   *I playbook di casi d&#39;uso consentono di superare il problema quando si inizia a utilizzare Real-Time CDP o Adobe Journey Optimizer quando non si sa esattamente con cosa iniziare o come creare le risorse corrette per ottenere i casi d&#39;uso desiderati.*
 
 * **[Guida introduttiva ai playbook basati su casi d&#39;uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=it){target="_blank"}**

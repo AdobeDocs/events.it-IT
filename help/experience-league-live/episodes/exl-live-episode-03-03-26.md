@@ -24,7 +24,7 @@ Questa sessione esclusiva presenta una sessione di domande e risposte approfondi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-Per continuare la discussione su questo programma/argomento, visita la [discussione della community Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+Per continuare la discussione su questo programma/argomento, visita la [discussione della community Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926?profile.language=it){target="_blank"}
 
 ## Domande del programma
 
@@ -68,7 +68,7 @@ Come ha detto Anjul, il prima possibile! Puoi imparare le funzioni e le best pra
 
 ### Avremmo dei modelli GPT negli agenti, come ha detto Anjul?
 
-Consulta questa documentazione: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulta questa documentazione: https://experienceleague.adobe.com/it/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### L’utilizzo del server MCP di AEM sta combinando il valore di questi agenti. Sono opzioni della community di server MCP che offrono una copertura specifica (come la gestione della configurazione OSGi o l’analisi del registro)?
 
@@ -76,7 +76,7 @@ Adobe sta esplorando le competenze degli agenti e un server MCP locale per la ge
 
 ### Puoi mostrare come utilizzare gli agenti dalle risorse appena menzionate, Anjul?
 
-Consulta questa documentazione: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulta questa documentazione: https://experienceleague.adobe.com/it/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Ad esempio, posso utilizzare gli agenti in CJA per spiegare i risultati delle offerte?
 
@@ -84,7 +84,7 @@ Data Insights Agent può aiutare gli utenti a spiegare i risultati in CJA per ri
 
 ### In un altro episodio puoi mostrarci come ci si integrerebbe con ChatGPT, Perplessità, Claude, Gemini, ecc.?
 
-Consulta questa documentazione: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulta questa documentazione: https://experienceleague.adobe.com/it/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### I nostri set di dati back-end di 4 anni seguono standard di formattazione puliti e supportano le operazioni BAU in modo efficace, ma non funzionano con l’agente di intelligenza artificiale. Cosa dovremmo fare? Dobbiamo riprogettare i nostri set di dati?
 

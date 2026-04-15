@@ -25,6 +25,6 @@ Nichole Vargas offre suggerimenti su come migliorare l’allineamento e l’adoz
 
 Se hai saltato la sessione, non preoccuparti! Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) e guarda la registrazione on-demand per seguirla.
 
-Cerchi altre risorse dall&#39;evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874).
+Cerchi altre risorse dall&#39;evento? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.

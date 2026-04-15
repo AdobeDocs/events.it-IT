@@ -32,8 +32,8 @@ Mantenere la promessa dell’esperienza, con accesso a meno dati. Che tu sia un 
 
 ## Informazioni aggiuntive
 
-[Panoramica di Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Panoramica di Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=it)
 
-[Audience Marketplace per gli acquirenti di dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace per gli acquirenti di dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=it)
 
 [Destinazioni basate su persone](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=it)

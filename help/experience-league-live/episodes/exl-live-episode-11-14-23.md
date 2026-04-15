@@ -28,5 +28,5 @@ I dati comportamentali sono un ingrediente chiave per fornire esperienze cliente
 
 In questa sessione Experience League Live, gli esperti di prodotto mostreranno come gli &quot;attributi calcolati&quot; in Real-Time CDP e Journey Optimizer possono aiutarti a utilizzare una semplice interfaccia utente per creare aggregati comportamentali come attributi di profilo che possono essere utilizzati per migliorare la segmentazione e la personalizzazione.
 
-**Continua la discussione relativa a questo argomento nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}** della presentazione.
+**Continua la discussione relativa a questo argomento nel [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=it#M5){target="_blank"}** della presentazione.
 

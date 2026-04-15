@@ -28,6 +28,6 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
 
-Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
+Per altre risorse vedi il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=it)!
 
 Se ti piace conoscere nuove idee e approcci creativi, non dimenticare di registrarti ai prossimi workshop nella [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events).

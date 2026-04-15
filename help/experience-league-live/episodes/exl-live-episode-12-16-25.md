@@ -29,4 +29,4 @@ Visualizza questa sessione live in cui il team di prodotto dell’agente di supp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Continua la discussione nella discussione della community!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[Continua la discussione nella discussione della community!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=it#M1909){target="_blank"}

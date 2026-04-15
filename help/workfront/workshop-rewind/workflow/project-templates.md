@@ -26,7 +26,7 @@ Questo workshop è stato registrato l’8 aprile 2025 e ha visto Ross Barton e L
 Oltre alla registrazione on-demand, abbiamo incluso la presentazione e i suggerimenti condivisi nella chat:  
 
 * [PDF per deck scorrevole](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Post community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=it)
 
 ## Suggerimenti
 
@@ -40,4 +40,4 @@ Oltre alla registrazione on-demand, abbiamo incluso la presentazione e i suggeri
 
 Uno dei temi più importanti che abbiamo visto nella chat è stata la sfida di cercare di mantenere i modelli di progetto semplici, ma allo stesso tempo monitorare lo sforzo e garantire che i team stiano realizzando tutti i passaggi necessari per completare il progetto.  
 
- Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.
+ Ci auguriamo di incontrarti ai futuri workshop per il successo dei clienti.  Assicurati di estrarre l&#39;[Eventi Workfront](https://experienceleague.adobe.com/events/?lang=it&filters=Workfront) su Experience League per l&#39;elenco completo e per registrarti.

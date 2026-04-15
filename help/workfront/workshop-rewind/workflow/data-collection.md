@@ -23,7 +23,7 @@ In partnership con Steve Teitelbaum, Enterprise Architect Content Supply chain d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-Questa sessione approfondisce la discussione di un workshop precedente, [Suggerimenti di Workfront Pro per governance, esecuzione e adozione](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
+Questa sessione approfondisce la discussione di un workshop precedente, [Suggerimenti di Workfront Pro per governance, esecuzione e adozione](https://experienceleague.adobe.com/it/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
 
 Se hai saltato la sessione, non preoccuparti! Rivedi la [presentazione](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) e guarda la registrazione on-demand per seguirla.
 

@@ -28,21 +28,21 @@ Hai bisogno di consigli su come iniziare a gestire le risorse? Unisciti al tuo C
 
 ## Risorse
 
-Avviso sulla funzione.  Consulta i dettagli sul [nuovo campo orario di lavoro](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): ora puoi regolare la capacità utente E calcolare la disponibilità in base alla pianificazione dell&#39;utente.
+Avviso sulla funzione.  Consulta i dettagli sul [nuovo campo orario di lavoro](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=it#M519): ora puoi regolare la capacità utente E calcolare la disponibilità in base alla pianificazione dell&#39;utente.
 
 Cerchi modi per analizzare meglio i dati e assicurarti di essere pronto? Consulta il catalogo dei blueprint pronti per l’installazione.
 
-[Utilizza i blueprint di Workfront per ottimizzare il tuo ambiente di gestione del lavoro.](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Utilizza i blueprint di Workfront per ottimizzare il tuo ambiente di gestione del lavoro.](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=it)
 
 Cerchi la differenza tra la pianificazione delle risorse e il bilanciatore dei carichi di lavoro? Ecco alcuni brevi video:
 
-* [Cos&#39;è la Programmazione delle risorse?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Assegna lavoro nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [Cos&#39;è la Programmazione delle risorse?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=it)
+* [Assegna lavoro nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=it)
 
 Poiché la pianificazione delle risorse e il bilanciatore dei carichi di lavoro sono due strumenti diversi all’interno della funzione di gestione delle risorse, comprendere il filtro all’interno di entrambi è fondamentale. Per ulteriori informazioni, consulta:
 
-* [Filtrare le informazioni nella Programmazione delle risorse](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Filtrare le informazioni nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtrare le informazioni nella Programmazione delle risorse](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=it)
+* [Filtrare le informazioni nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=it)
 
 ## Informazioni sul diffusore
 

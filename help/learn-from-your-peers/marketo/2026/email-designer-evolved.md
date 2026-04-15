@@ -35,12 +35,12 @@ Unisciti a noi per un’analisi approfondita e reale della maturazione di E-mail
 
 ## Risorse aggiuntive
 
-* [Panoramica di E-mail Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [Assistente IA](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Frammenti personalizzabili](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Contenuto condizionale](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Panoramica di E-mail Designer](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [Assistente IA](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Frammenti personalizzabili](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Contenuto condizionale](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
 * [Temi del brand](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Confronto tra le funzioni vecchia e nuova e-mail Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Confronto tra le funzioni vecchia e nuova e-mail Designer](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Note sulla versione](https://experienceleague.adobe.com/it/docs/marketo/using/release-notes/current)
-* [Champion Deep Dive: scopri il nuovo Designer e-mail in Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion Deep Dive: scopri il nuovo Designer e-mail in Marketo Engage](https://experienceleague.adobe.com/it/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Partecipa alla conversazione sulla community con domande e risposte](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
