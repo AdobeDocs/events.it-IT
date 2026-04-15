@@ -2,9 +2,9 @@
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
 user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '661'
 ht-degree: 5%
 
 ---
@@ -28,8 +28,11 @@ ht-degree: 5%
       + [Strategie basate sull’intelligenza artificiale per il successo delle vacanze](2026/2025-holiday-results.md)
       + [Strategie di gestione delle modifiche al Supply chain dei contenuti](2026/csc-change-management.md)
       + [Sponsorizzazione dei dirigenti di Content Supply chain](2026/csc-executive-sponsorship.md)
-      + [Architettura fondamentale per la supply chain dei contenuti](2026/csc-architecture.md)
+      + [Architettura fondamentale per Content Supply chain](2026/csc-architecture.md)
+      + [Aggiornamento traffico GenAI](2026/gen-ai-traffic-update.md)
       + [Modello operativo per Content Supply chain](2026/csc-operating-model.md)
+   + Workfront {#workfront2026}
+      + [Workfront Proof per le approvazioni](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Arricchimento di Adobe Commerce con Adobe Experience Platform](2025/enriching-adobe-commerce.md)
@@ -68,7 +71,7 @@ ht-degree: 5%
       + [Casi d’uso e risoluzione dei problemi relativi al grafico delle identità](2025/identity-graph.md)
       + [Vincere la sponsorizzazione esecutiva per i progetti AEP](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [Supply chain dei contenuti e Adobe GenStudio](2025/csc-gen-studio.md)
+      + [Supply chain e Adobe GenStudio dei contenuti](2025/csc-gen-studio.md)
       + [Modello operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Creazione di una sponsorizzazione esecutiva](2025/build-executive-sponsorship-ajo.md)
@@ -81,7 +84,7 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [Nuovo editor e-mail](2025/marketo-new-email-editor.md)
    + Soluzioni multiple {#multisolution2025}
-      + [Nozioni di base sulla catena di fornitura dei contenuti](2025/content-supply-chain-basics.md)
+      + [Nozioni di base su Content Supply chain](2025/content-supply-chain-basics.md)
       + [Ottimizzazione delle esperienze digitali con approfondimenti sull’intelligenza artificiale](2025/accelerating-digital-experience-optimization.md)
       + [Miglioramento dei programmi fedeltà tramite Personalization e i dati](2025/enhance-loyalty-programs.md)
       + [Miglioramento di Personalization](2025/enhancing-personalization.md)
@@ -130,7 +133,7 @@ ht-degree: 5%
    + [Padroneggiare il Adobe Admin Console](2024/adobe-admin-console.md)
    + [Cookie di masterizzazione e privacy dei dati](2024/mastering-cookies-data-privacy.md)
    + [Logica sequenziale di masterizzazione](2024/sequential-logic.md)
-   + [Preparazione organizzativa per la catena di fornitura dei contenuti](2024/organizational-readiness-content-supply-chain.md)
+   + [Preparazione organizzativa per Content Supply chain](2024/organizational-readiness-content-supply-chain.md)
    + [Integrazione di Real-Time Customer Data Platform e Marketo](2024/aep-marketo-integration.md)
    + [Preparazione alla migrazione di Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Leadership strategica](2024/strategic-leadership.md)
