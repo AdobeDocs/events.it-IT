@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 22 NOVEMBRE - Forms che funziona - Utilizzo delle librerie client e dei Forms headless
-description: Forms che funziona - Utilizzo di librerie client e moduli headlessAdobe Experience Manager Forms ha rilasciato in Cloud Service molte nuove funzioni interessanti. Per gli sviluppatori di moduli, a volte è necessario sfruttare script personalizzati e librerie JavaScript di terze parti per migliorare l’esperienza utente di Adobe Experience Manager Forms.In questa sessione verrà illustrato come utilizzare le librerie client e rimuovere gli script dalle mani degli autori di moduli, consentendo loro di selezionare facilmente le funzioni necessarie per eseguire calcoli avanzati, manipolazione delle date e finestre modali personalizzate.Verranno inoltre illustrate le ultime innovazioni di Headless Adaptive Forms, dove è possibile creare un modulo una sola volta e utilizzarlo in più canali, tra cui web, app SPA tramite react e personalizzazione dell’app react.Gli esperti del prodotto illustreranno come utilizzare lo stesso modulo per esperienze di acquisizione dati in canali interattivi come WhatsApp è quindi possibile fare in modo che i moduli funzionino esattamente nel modo desiderato.
+description: Forms che funziona - Utilizzo di librerie client e moduli headlessAdobe Experience Manager Forms ha rilasciato molte nuove funzionalità su Cloud Service. Per gli sviluppatori di moduli, a volte è necessario sfruttare script personalizzati e librerie JavaScript di terze parti per migliorare l’esperienza utente di Adobe Experience Manager Forms.In questa sessione verrà illustrato come utilizzare le librerie client e rimuovere gli script dalle mani degli autori di moduli, consentendo loro di selezionare facilmente le funzioni necessarie per eseguire calcoli avanzati, manipolazione delle date e finestre modali personalizzate.Presenteremo inoltre le ultime innovazioni introdotte con Headless Adaptive Forms, dove è possibile creare un modulo una sola volta e utilizzarlo in più canali, tra cui web, app SPA tramite react e personalizzare l’app react.I nostri esperti di prodotto dimostreranno come utilizzare lo stesso modulo per le esperienze di acquisizione dati in canali interattivi come WhatsApp, in modo che i moduli funzionino esattamente nel modo desiderato.
 solution: Experience Manager,Experience Manager Sites
+feature: Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11481
 thumbnail: 3411301.jpeg
 exl-id: b221af94-831e-466f-9adf-f0be3b064485
 duration: 2877
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ Adobe Experience Manager Forms ha rilasciato molte nuove interessanti funzionali
 
 In questa sessione verrà illustrato come utilizzare le librerie client e rimuovere gli script dalle mani degli autori di moduli, consentendo loro di selezionare facilmente le funzioni necessarie per eseguire calcoli avanzati, manipolazione delle date e finestre modali personalizzate.
 
-Presenteremo inoltre le ultime innovazioni introdotte con Headless Adaptive Forms, dove è possibile creare un modulo una sola volta e utilizzarlo in più canali, tra cui web, app SPA tramite react e personalizzazione dell’app react.
+Presenteremo inoltre le ultime innovazioni introdotte con Headless Adaptive Forms, dove è possibile creare un modulo una sola volta e utilizzarlo in più canali, tra cui web, app SPA tramite react e personalizzare l’app react.
 
 I nostri esperti di prodotto dimostreranno come utilizzare lo stesso modulo per le esperienze di acquisizione dati in canali interattivi come WhatsApp, in modo che i moduli funzionino esattamente nel modo desiderato.
 

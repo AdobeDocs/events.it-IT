@@ -1,6 +1,7 @@
 ---
 title: Creare la ricetta per lo sviluppo
 description: 'Padroneggiare lo sviluppo in Marketo Engage: scopri strategia, automazione, personalizzazione e tracciamento delle prestazioni per aumentare coinvolgimento e risultati.'
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Creare la ricetta per lo sviluppo
 
@@ -42,5 +43,3 @@ Questa sessione ha trattato gli aspetti essenziali e oltre,
 * **Misurazione delle prestazioni** Ottieni informazioni su come monitorare, analizzare e ottimizzare le prestazioni delle campagne di sviluppo.
 
 Questa sessione è perfetta per gli esperti di marketing che desiderano creare solide basi in Marketo e ottenere risultati misurabili attraverso uno sviluppo più intelligente.
-
-

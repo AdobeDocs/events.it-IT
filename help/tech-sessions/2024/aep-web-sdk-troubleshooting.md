@@ -1,21 +1,22 @@
 ---
 title: Risoluzione dei problemi di AEP Web SDK, Assurance e suggerimenti
-description: Partecipa a Garrett Hartley per una sessione completa sulla risoluzione dei problemi dei flussi di lavoro di AEP Web SDK, incentrata sulla raccolta di dati per RTCDP, Adobe Analytics e sulla risoluzione delle problematiche di implementazione comuni.
+description: Partecipa a Garrett Hartley per una sessione completa sulla risoluzione dei problemi dei flussi di lavoro di AEP Web SDK, incentrata sulla raccolta di dati per RTCDP e Adobe Analytics e sulla risoluzione delle problematiche di implementazione comuni.
 solution: Experience Platform
 feature: Web SDK
+topic: Migration
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
 duration: 4188
 last-substantial-update: 2024-12-13T00:00:00Z
 jira: KT-16674
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+exl-id: f74dec54-2473-4d81-a6e5-9f6cf13748ba
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Risoluzione dei problemi di AEP Web SDK, Assurance e suggerimenti
 

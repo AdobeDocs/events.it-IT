@@ -2,13 +2,15 @@
 title: Roadmap di Marketo
 description: Marketo è così personalizzabile ed estensibile che ci sono così tante opportunità. Ma allo stesso tempo, una pianificazione inadeguata, o la mancanza di pianificazione, potrebbe lasciare con ... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
 duration: 2379
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

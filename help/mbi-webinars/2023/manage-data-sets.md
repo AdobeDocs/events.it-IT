@@ -5,15 +5,18 @@ landing-page-description: Guarda questo webinar per scoprire alcune delle potent
 short-description: Guarda questo webinar per scoprire alcune delle potenti funzioni di Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
 duration: 3410
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 21%
+source-wordcount: '180'
+ht-degree: 18%
 
 ---
 
@@ -33,5 +36,5 @@ Durante questo webinar registrato, scopri come calcolare il ritorno sull’inves
 
 ## Risorse utili
 
-[Presentazione di Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=it)
-[Connetti I Dati](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=it)
+[Presentazione di Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[Connetti i dati](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

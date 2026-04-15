@@ -2,6 +2,8 @@
 title: 'Sfrutta la potenza dei Percorsi multi-stream: applicazioni avanzate dei programmi di coinvolgimento'
 description: Definire le fasi di percorso del cliente con esempi provenienti da diversi modelli aziendali.  Traduci il blueprint del percorso di clienti in programmi di coinvolgimento multi-stream.  Sfrutta la funzionalità di reporting nativa per analizzare i programmi di coinvolgimento nei diversi cicli di vita dei clienti.
 solution: Marketo Engage
+feature: Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

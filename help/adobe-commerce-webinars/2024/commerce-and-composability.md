@@ -1,6 +1,8 @@
 ---
 title: Abilitazione di diversi modelli aziendali con Commerce e componibilità
 description: L’incontro si è concentrato principalmente sull’abilitazione di diversi modelli di business in Adobe Commerce, evidenziando le tendenze di crescita del commercio B2B, sottolineando l’importanza di semplificare le integrazioni per aggiornamenti senza soluzione di continuità, mostrando interazioni personalizzate da B2B a B2C tramite una demo, discutendo delle funzionalità di Adobe Commerce come il supporto omnicanale e l’integrazione mesh API, sottolineando i vantaggi dei servizi commerce componibili, introducendo App Builder per personalizzazioni scalabili e la gestione degli abbonamenti all’interno della piattaforma.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

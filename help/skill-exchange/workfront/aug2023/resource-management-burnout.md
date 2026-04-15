@@ -3,6 +3,7 @@ title: Affrontare il burnout con la gestione delle risorse
 description: Ci sono molti modi per affrontare il burnout, ma quando si tratta di gestione del lavoro, le organizzazioni hanno bisogno di visibilità sia sul lavoro in fase di pianificazione che sulle risorse disponibili per eseguire.
 solution: Workfront
 feature: Resource Management
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14572
 thumbnail: 3425811.jpeg
 exl-id: 84de9fed-07db-4c67-829a-dd770a710922
 duration: 2301
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -30,4 +31,4 @@ In questa sessione, Tia Calvert, Product Manager, e Erin Kuchera, Creative Opera
 * Come incorporare il tracciamento del tempo libero
 * Esempi di come Mayo Clinic utilizza Analytics e Resource Manager per fornire trasparenza ai team e pianificare nuovi lavori
 
->[!VIDEO](https://video.tv.adobe.com/v/3457104/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)

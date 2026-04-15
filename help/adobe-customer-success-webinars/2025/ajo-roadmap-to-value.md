@@ -2,23 +2,25 @@
 title: Serie Adobe Journey Optimizer Value Realization - Roadmap della prima sessione al valore con Adobe Journey Optimizer
 description: Scopri come progettare una strategia di rollout dei casi d’uso di Adobe Journey Optimizer che consenta di ottenere risultati misurabili. Scopri suggerimenti pratici ed esempi pratici per aumentare il valore aziendale.
 solution: Journey Optimizer
+feature: Journeys
+topic: Development
 role: Leader, User
 level: Beginner
 doc-type: Event
 duration: 2860
 last-substantial-update: 2025-10-22T00:00:00Z
 jira: KT-19457
-source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
+exl-id: dc476481-677b-4b60-ada9-9ca27212edea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-
 # Serie sulla realizzazione del valore di Adobe Journey Optimizer (AJO) - Roadmap della prima sessione verso il valore con AJO
 
-Nella sessione di apertura della serie, analizziamo i motivi per cui una strategia per distribuire i casi d’uso è così critica nella realizzazione di valore con Adobe Journey Optimizer (AJO). Questo webinar ti fornirà indicazioni pratiche ed esempi concreti per aiutarti a definire la roadmap dei tuoi casi d’uso di AJO.L’obiettivo è che tu e il tuo team possiate sbloccare risultati misurabili e garantire l’allineamento sulla distribuzione del valore. AJO offre un potenziale immenso e disporre di una roadmap chiara consentirà a te e al tuo team di identificare i rapidi successi, sviluppando casi d’uso significativi allineati con i tuoi KBO per ottenere il massimo dal tuo investimento.
+Nella sessione di apertura della serie, analizziamo i motivi per cui una strategia per distribuire i casi d’uso è così critica nella realizzazione di valore con Adobe Journey Optimizer (AJO). Questo webinar ti fornirà consigli pratici ed esempi pratici per aiutarti a definire la roadmap dei casi d’uso di AJO.L’obiettivo per te e il tuo team è quello di sbloccare risultati misurabili e garantire l’allineamento sulla distribuzione del valore. AJO offre un potenziale immenso e disporre di una roadmap chiara consentirà a te e al tuo team di identificare i rapidi successi, sviluppando casi d’uso significativi allineati con i tuoi KBO per ottenere il massimo dal tuo investimento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476067/?learn=on&enablevpops)
 
@@ -33,4 +35,3 @@ L’implementazione di Adobe Journey Optimizer (AJO) richiede in modo efficace u
 * **Miglioramento continuo** Monitora, ottimizza e adatta i casi d&#39;uso in base ai risultati e ai feedback.
 
 Seguendo questi passaggi, ogni iniziativa offre un valore commerciale tangibile e supporta il successo a lungo termine.
-

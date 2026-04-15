@@ -3,15 +3,16 @@ title: Fornire ai clienti un’esperienza più personalizzata in tempo reale
 description: Adobe Target e Adobe Real-time Customer Data Platform possono essere integrati per fornire un’esperienza del cliente più personalizzata. In questo evento in diretta streaming, scopri come l’integrazione di queste due piattaforme può aiutare le aziende a raccogliere dati in tempo reale e quindi a creare e testare esperienze mirate. Guarda il processo end-to-end di questa potente funzionalità in una dimostrazione live.
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
+topic: Personalization, Integrations
 kt: 11004
 event-start-time: 2022-09-20 09:00-7
 event-guests: Gina Casagrande,Brent Kostak
 exl-id: e14bea3f-e770-4780-9f51-8bd97456fb68
 duration: 3694
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '165'
+ht-degree: 27%
 
 ---
 

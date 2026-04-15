@@ -2,6 +2,8 @@
 title: Canali online e offline
 description: Unisciti ai consulenti aziendali di Adobe per l’automazione marketing, Kate Colbert ed Elizabeth Lundberg, per una sessione approfondita di 90 minuti sull’ottimizzazione dei canali online e offline con Marketo Measure Attribution, che presenta configurazioni strategiche, best practice e domande e risposte live.
 solution: Marketo Measure
+feature: Touchpoints, Channels
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---

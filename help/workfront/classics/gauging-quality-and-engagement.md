@@ -1,14 +1,16 @@
 ---
 title: Ask the Expert - Qualità e coinvolgimento della misurazione
 description: Scopri come creare rapporti che rispondono a domande su qualità e coinvolgimento. Questo webinar è stato registrato il 13 novembre 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
 exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
 duration: 3980
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1217'
 ht-degree: 0%
 
 ---
@@ -65,7 +67,7 @@ Salve! Sto creando un flusso di lavoro per il nostro team editoriale che tiene t
 
 **Risposta**
 
-Sì.  È possibile creare un report di attività che mostrerà le attività cardine su cui si sta lavorando e l&#39;attività a cui è associato. Puoi farlo in una tabella o in un rapporto elenco.
+Sì. È possibile creare un report di attività che mostrerà le attività cardine su cui si sta lavorando e l&#39;attività a cui è associato. Puoi farlo in una tabella o in un rapporto elenco.
 
 **Domanda**
 

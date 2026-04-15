@@ -1,6 +1,8 @@
 ---
 title: Formazione avanzata sull’ambiente di authoring
 description: Approfondisci le opzioni disponibili nell’ambiente di authoring di Acrobat Sign.
+feature: Sign
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
 exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Approfondisci le opzioni disponibili nell’ambiente di authoring di Acrobat Sign. Gli argomenti trattati includono: Panoramica della preparazione dei modelli di documento Acrobat Sign tramite Acrobat, assegnazione di tag di testo e Ambiente di authoring Acrobat Sign. Approfondisci l’ambiente di authoring, con informazioni sulla duplicazione e la copia dei campi, l’aggiunta di campi speciali, l’assegnazione di campi e la configurazione di campi condizionali e di calcolo. Come inviare i modelli per la firma, confrontando il modello di documento con il modello di campo modulo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455912/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
 
 ## Punti chiave
 

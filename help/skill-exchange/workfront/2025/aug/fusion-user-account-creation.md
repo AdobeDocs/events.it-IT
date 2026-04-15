@@ -3,6 +3,7 @@ title: Creazione automatizzata degli account utente di Workfront con Fusion
 description: Scopri come utilizzare Adobe Workfront Fusion e le API per automatizzare la creazione degli account utente, ridurre i tempi di configurazione da 22 minuti a meno di 60 secondi e aumentare l’efficienza.
 solution: Workfront
 feature: Workfront Fusion, Workfront API
+topic: Integrations, Development
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan
 speaker-title-1: Payments
@@ -13,10 +14,10 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18876
 exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +32,7 @@ Join Kurt Jones di J.P. Morgan Payments condivide approfondimenti di esperti su,
 * Automazione della creazione dell’account in Admin Console con Fusion
 * Aggiornamento di ulteriori dettagli al profilo Workfront con Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/3471579/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
 
 ## Best practice per amministratori e scalabilità
 

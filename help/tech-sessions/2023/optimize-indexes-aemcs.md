@@ -1,17 +1,18 @@
 ---
 title: Base per l’ottimizzazione degli indici con AEM Cloud Service
-description: Modifiche all’indicizzazione AEM CS e impatto sui diversi progetti, problemi che i clienti devono affrontare con gli indici su AEMaaCS e best practice per ottimizzare questi indici
+description: L’indicizzazione AEM CS cambia e questo influisce su progetti diversi, sulle sfide che i clienti si trovano ad affrontare con gli indici su AEMaaCS e sulle best practice per ottimizzare questi indici
 role: Admin, User
 level: Beginner
 doc-type: Event
 feature-set: Experience Manager
 feature: Cloud Manager, Projects
+topic: Development, Headless
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13811
 thumbnail: 3422534.jpeg
 exl-id: 49021cb6-660f-461f-86ff-85d36d7fa4a3
 duration: 2644
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

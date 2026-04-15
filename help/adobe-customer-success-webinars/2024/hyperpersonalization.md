@@ -1,6 +1,8 @@
 ---
 title: 'Maturità del Personalization: il percorso verso l’iperpersonalizzazione'
-description: 'Informa sulla nuova era dell’iperpersonalizzazione. Creeremo una base su un modello di maturità di personalizzazione, discuteremo dei blocchi comuni e forniremo suggerimenti tattici per iniziare. Punti di discussione chiave: il moderno Percorso del cliente​ il percorso verso l’iperpersonalizzazione​ come iniziare a lavorare presso la tua organizzazione'
+description: 'Informa sulla nuova era dell’iperpersonalizzazione. Costruiremo una base su un modello di maturità della personalizzazione, discuteremo i blocchi comuni e forniremo suggerimenti tattici per iniziare.Punti di discussione chiave: il moderno Percorso del cliente​ il percorso verso l’iperpersonalizzazione​ come iniziare nell’organizzazione'
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Informa sulla nuova era dell’iperpersonalizzazione. Costruiremo una base su un modello di maturità della personalizzazione, discuteremo i blocchi comuni e forniremo suggerimenti tattici per iniziare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457353/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## Punti principali della discussione
 

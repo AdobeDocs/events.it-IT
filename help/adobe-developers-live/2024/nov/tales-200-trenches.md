@@ -3,23 +3,24 @@ title: Racconti da 200 trincee
 description: Assicurati il successo del progetto web dando priorità alle prestazioni, utilizzando Google PageSpeed Insights, ottimizzando metriche chiave come LCP e TBT, gestendo le risorse in modo efficiente e seguendo le best practice per lo sviluppo e l’ottimizzazione delle immagini.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
-
 # Racconti da 200 trincee
 
-Con oltre 200 Edge Delivery Services di progetti completati, Kiran Murugulla, Senior Engineer presso Adobe, e Varun Mitra, Architetto per Adobe Experience Manager Cloud, condividono le principali lezioni apprese. Scopri i segreti che si nascondono dietro la distribuzione di esperienze veloci e ad alte prestazioni con core Web Vitals eccezionali.
+Con oltre 200 progetti Edge Delivery Services completati, Kiran Murugulla, Senior Engineer presso Adobe, e Varun Mitra, Architetto per Adobe Experience Manager Cloud, condividono le principali lezioni apprese. Scopri i segreti che si nascondono dietro la possibilità di offrire esperienze veloci e ad alte prestazioni con Core Web Vitals eccezionali.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ Con oltre 200 Edge Delivery Services di progetti completati, Kiran Murugulla, Se
 
 Continua la conversazione nella [discussione](https://adobe.ly/4fwWvvi) della community Adobe Developers Live.
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Le prestazioni sono critiche** Le prestazioni, in particolare la velocità delle pagine Web, sono un fattore chiave per il successo dei progetti Web. Garantire punteggi di prestazioni pari a 100 è un obiettivo primario.
 * **Procedure di sviluppo**
@@ -50,4 +51,3 @@ Continua la conversazione nella [discussione](https://adobe.ly/4fwWvvi) della co
    * Concentrati sullo sviluppo mobile-first.
    * Garantire agli autori una struttura dei contenuti intuitiva.
 * **Strumenti** Utilizza strumenti come Google Sheets e DSA per tenere traccia dei punteggi delle prestazioni del sito nel tempo.
-

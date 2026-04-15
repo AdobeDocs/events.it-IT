@@ -3,25 +3,26 @@ title: Funzionalità di Workspace che dovresti utilizzare
 description: Scopri le principali funzioni di Adobe Analytics Workspace (formattazione condizionale, elenchi a discesa, modelli di attribuzione e metriche calcolate) per ottenere informazioni più approfondite.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Funzionalità di Workspace che dovresti utilizzare
 
 Scopri le funzioni potenti ma spesso trascurate di Adobe Analytics Workspace che possono migliorare la tua analisi e generare un impatto reale. In questa sessione, esploreremo casi d’uso pratici e tecniche semplici che trasformano gli strumenti quotidiani in motori di insight, consentendoti di scoprire cosa è veramente importante per la tua azienda. Che tu sia un analista esperto o un principiante, ti verranno idee fruibili per massimizzare il valore dei tuoi dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471259/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## Sblocco delle tecniche di analisi avanzate
 

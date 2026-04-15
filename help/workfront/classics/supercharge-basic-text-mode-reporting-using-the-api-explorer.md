@@ -1,14 +1,16 @@
 ---
 title: 'Domande all’esperto: creazione di rapporti in modalità testo di base con ricarica avanzata tramite API Explorer'
 description: Scopri l’Explorer API, come utilizzarlo e come migliorare i rapporti sfruttando la modalità testo di base. Questo webinar è stato registrato il 22 gennaio 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---
@@ -276,7 +278,7 @@ Posso creare un rapporto su un campo casella di controllo che consente selezioni
 
 **Risposta**
 
-Sì.  Le scelte selezionate nel campo casella di controllo sono tutte in una stringa con ogni selezione separata da una virgola. Utilizzare l&#39;espressione SEARCH per trovare la posizione della prima virgola nel campo Casella di controllo, quindi utilizzare tale indice con l&#39;espressione LEFT per visualizzare il numero di caratteri dall&#39;inizio dell&#39;elenco. Ecco il codice:
+Sì. Le scelte selezionate nel campo casella di controllo sono tutte in una stringa con ogni selezione separata da una virgola. Utilizzare l&#39;espressione SEARCH per trovare la posizione della prima virgola nel campo Casella di controllo, quindi utilizzare tale indice con l&#39;espressione LEFT per visualizzare il numero di caratteri dall&#39;inizio dell&#39;elenco. Ecco il codice:
 
 ```
 valueexpression=IF(SEARCH(",",{DE:Checkbox Field},0)>0,LEFT({DE:Checkbox Field},SEARCH(",",{DE:Checkbox Field},0)),{DE:Checkbox Field})

@@ -2,6 +2,7 @@
 title: 'Approfondimenti sugli esperti: flussi di lavoro Workfront non tradizionali con Kiersten Kollins'
 description: Kiersten Kollins di DSW utilizza flussi di lavoro non tradizionali di Adobe Workfront, rapporti personalizzati e automazioni Fusion per ottimizzare le operazioni di marketing e aumentare l’efficienza del team.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ Rimarrai stupito da tutte le fantastiche idee che condivide, tra cui: 
 * Avvio di Creative Brief review per soddisfare le esigenze degli utenti e dei progetti. 
 * *BONUS!* condivide anche un esempio di uno dei suoi casi d&#39;uso preferiti di Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469947/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Risorse
 
-Durante l&#39;evento, Kiersten ha menzionato due risorse che abbiamo allegato al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=it).
+Durante l&#39;evento, Kiersten ha menzionato due risorse che abbiamo allegato al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Report di esempio** - Report attività dopo l&#39;orario di lavoro 
 * **Guardrail di routing del feedback DSW** Questo è un esempio fantastico di come insegnare agli utenti come fornire aggiornamenti in Workfront! 
 

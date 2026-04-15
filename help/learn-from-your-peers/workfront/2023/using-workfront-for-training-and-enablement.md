@@ -3,15 +3,17 @@ title: Utilizzo di Workfront per il webinar di formazione e abilitazione
 description: Scopri come Workfront migliora la formazione dei dipendenti nel nostro webinar on-demand. Ottieni informazioni dagli esperti di JPMorgan Chase, IBM e Adobe Workfront sulla creazione di percorsi personalizzati, l’organizzazione dei materiali e l’utilizzo di Workfront per un onboarding efficace e un’adozione a lungo termine.
 role: Admin
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
 exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

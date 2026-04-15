@@ -4,6 +4,7 @@ description: Esplora gli elementi essenziali dei programmi Marketo, tra cui la c
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
 # Marketo e Mochas - Best practice per la gestione dei programmi
 
-I programmi sono uno degli elementi più importanti di Marketo. Questo evento è adatto a te, sia che tu imposti cartelle, lavori sulle convenzioni di denominazione, cerchi membri, controlli lo stato del programma o semplicemente sia interessato a gestire le best practice. In questa occasione Marketo &amp; Mochas, Adobe Business Advisors, Cynthia Chang e Kate Colbert presentano gli ultimi aggiornamenti ai modelli della Libreria dei programmi e alle risorse creative, oltre a condividere le best practice per la gestione dei programmi e a una dimostrazione.
+I programmi sono uno degli elementi più importanti di Marketo. Questo evento è adatto a te, sia che tu imposti cartelle, lavori sulle convenzioni di denominazione, cerchi membri, controlli lo stato del programma o semplicemente sia interessato a gestire le best practice. Marketo &amp; Mochas, Adobe Business Advisors, Cynthia Chang e Kate Colbert presentano gli ultimi aggiornamenti ai modelli della Libreria dei programmi e alle risorse creative, oltre a una dimostrazione e a una condivisione delle best practice per la gestione dei programmi.
 
 Dopo la presentazione viene illustrato come importare un programma e condividere alcuni dei nuovi modelli di programma che hanno appena ricevuto un aggiornamento dopo molti anni. Cynthia e Kate concludono la sessione con un live Q&amp;A.
 

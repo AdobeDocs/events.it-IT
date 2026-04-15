@@ -3,6 +3,7 @@ title: Ottimizzazione della distribuzione dei contenuti - Sfruttare la potenza d
 description: La sessione su Edge Delivery Services (EDS) ha trattato l’architettura, l’integrazione con l’authoring basato su documenti e su AEM, la creazione rapida di siti, le opzioni di personalizzazione e le best practice per mantenere prestazioni elevate.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,10 +11,10 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +24,7 @@ In questa sessione verrà fornita una panoramica di Edge Delivery Services (EDS)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 ### Introduzione a EDS
 

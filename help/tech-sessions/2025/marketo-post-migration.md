@@ -2,6 +2,8 @@
 title: Migrazione di Marketo a Adobe Admin Console - (post-migrazione)
 description: Centralizzare la gestione degli utenti Marketo con Adobe Admin Console. Gestisci ruoli (sistema, prodotto, profilo, amministratori di supporto) e tipi di identità (Adobe, Enterprise, Federated ID). Imposta SSL per il Single Sign-On, gestisci la gestione degli utenti e rinnova i certificati ogni tre anni. Risolvi problemi comuni come problemi di accesso e utilizza l’attendibilità delle directory per un’esperienza unificata. Suddividi le conversioni di utenti di grandi dimensioni in batch da 500. Accedi alla registrazione della sessione sulla pagina Experience League di Adobe.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Security, Migration, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
 exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -35,7 +37,7 @@ Non perdere questa opportunità per migliorare il flusso di lavoro e ottenere il
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451635/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Admin Console Purpose** gestione centralizzata per utenti, amministratori e identità di Marketo, allineata con altri prodotti Adobe.
 

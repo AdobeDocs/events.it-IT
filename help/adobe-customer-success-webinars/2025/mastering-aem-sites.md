@@ -2,6 +2,8 @@
 title: 'Mastering di AEM Sites: modelli, navigazione e SEO'
 description: 'Scopri le nozioni di base di AEM Sites: come utilizzare i modelli di pagina, progettare una navigazione intuitiva e applicare pratiche SEO (Search Engine Optimization) chiave per migliorare la visibilità e le prestazioni del sito.'
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, User
 level: Beginner, Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
+exl-id: 2f1f7a19-bd3a-4769-a820-9720c73b4c95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Mastering AEM Sites: guida per principianti su modelli, navigazione e SEO
 
@@ -27,4 +29,4 @@ Questa sessione fornisce una conoscenza di base di tre aspetti critici della cre
 * Navigazione intuitiva per un’esperienza ottimale del sito
 * Porre le basi dell’ottimizzazione SEO in AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464323/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)

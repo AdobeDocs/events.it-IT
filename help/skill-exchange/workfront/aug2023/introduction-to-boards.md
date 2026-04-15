@@ -3,6 +3,7 @@ title: Introduzione alle schede madri
 description: Le bacheche consentono ai team di gestire il lavoro in modo più visivo creando una bacheca virtuale per visualizzare attività, progetti e altri elementi di lavoro. Che tu sia un Amministratore di sistema, un Project Manager o un singolo collaboratore, le bacheche offrono un modo flessibile e intuitivo di gestire il lavoro.
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

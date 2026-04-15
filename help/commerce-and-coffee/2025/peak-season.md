@@ -1,19 +1,21 @@
 ---
 title: Commerce & Coffee - Prepararsi per la stagione di picco
 description: Scopri le strategie per ridimensionare, personalizzare e ottimizzare la tua esperienza di e-commerce con Adobe Commerce, inclusi B2B, strumenti SaaS, ricerca e analisi post-picco.
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19501
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: prepararsi per la stagione di picco
 
@@ -44,4 +46,3 @@ Fornire esperienze personalizzate è un fattore di profitto comprovato.
 * **Miglioramento iterativo** Monitora le analisi e regola le strategie durante la stagione per ottenere risultati ottimali.
 
 Personalization rafforza la fedeltà e aumenta le vendite rendendo gli acquisti più facili e coinvolgenti.
-

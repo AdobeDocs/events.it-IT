@@ -1,7 +1,8 @@
 ---
 title: Keynote di apertura Adobe Experience Manager
-description: Scopri l’evoluzione di Adobe Experience Manager con l’intelligenza artificiale. Esplora i flussi di lavoro per gli agenti, la ricerca basata su intelligenza artificiale, la personalizzazione su larga scala e un’ottimizzazione dei contenuti più intelligente.
+description: Scopri l’evoluzione di Adobe Experience Manager con l’intelligenza artificiale. Esplora i flussi di lavoro per gli agenti, le Ricerche IA, la personalizzazione su larga scala e un’ottimizzazione dei contenuti più intelligente.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Apertura di una nota chiave
 
@@ -25,11 +26,11 @@ Haresh Kumar, Head of Strategy and Product for Adobe Experience Manager (AEM), s
 
 * Come gli agenti di intelligenza artificiale e Experience Hub semplificano la generazione di contenuti e i flussi di lavoro.
 * Il ruolo dell’attivazione basata sull’intelligenza artificiale per fornire il contenuto giusto su ogni canale e dispositivo.
-* Come la ricerca basata su intelligenza artificiale migliora l’individuazione, il riutilizzo e la velocità dei contenuti delle risorse.
+* Come Ricerca IA migliora l’individuazione, il riutilizzo e la velocità dei contenuti.
 * Nuovi strumenti di ottimizzazione come Sites Optimizer e Content Advisor per migliorare il coinvolgimento e la conversione.
 * Come scalare la personalizzazione uno-a-uno in modo sicuro ed efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471404/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## Sbloccare il futuro delle esperienze di contenuto

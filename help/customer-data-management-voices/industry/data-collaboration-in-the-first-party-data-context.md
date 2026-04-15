@@ -3,6 +3,7 @@ title: Data Collaboration nel contesto dei dati di prime parti
 description: Questo webinar aiuterà a sbloccare le opportunità di collaborazione sui dati in un futuro senza cookie di terze parti.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
@@ -10,10 +11,10 @@ thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '172'
+ht-degree: 16%
 
 ---
 
@@ -31,8 +32,8 @@ Mantenere la promessa dell’esperienza, con accesso a meno dati. Che tu sia un 
 
 ## Informazioni aggiuntive
 
-[Panoramica sulla corrispondenza dei segmenti](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=it)
+[Panoramica di Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace per acquirenti dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=it)
+[Audience Marketplace per gli acquirenti di dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [Destinazioni basate su persone](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=it)

@@ -3,6 +3,7 @@ title: 'Rivoluzionare la tua esperienza con i webinar: scopri l’impatto dei we
 description: Scopri in che modo la campionessa Marketo Maria Cruz utilizza i webinar interattivi per incrementare il coinvolgimento, ottenere informazioni approfondite e migliorare il marketing presso MRM. Guarda on-demand adesso!
 solution: Marketo Engage
 feature: Interactive Webinars
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,10 +11,10 @@ duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
 exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +24,7 @@ Maria Cruz, campionessa di Adobe Marketo Engage, ha sfruttato i webinar interatt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458099/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Webinar interattivi Offrono informazioni fruibili** I webinar interattivi non solo migliorano il coinvolgimento, ma forniscono anche dati preziosi che possono essere utilizzati per la segmentazione, il punteggio di lead e follow-up personalizzati.
 
@@ -38,6 +39,6 @@ Maria Cruz, campionessa di Adobe Marketo Engage, ha sfruttato i webinar interatt
 ## Risorse aggiuntive
 
 * Partecipa al [thread di discussione](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) su Marketing Nation Community, dove vengono pubblicate le domande e le risposte.
-* [Ulteriori informazioni sulle funzionalità GenAI nei webinar interattivi](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Esplora i fondamenti dei webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Scopri come utilizzare i webinar interattivi (sondaggi, domande e risposte, CTA)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Ulteriori informazioni sulle funzioni GenAI nei webinar interattivi](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Esplora i fondamenti dei webinar interattivi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Scopri come utilizzare i webinar interattivi (sondaggi, domande e risposte, CTA)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

@@ -2,6 +2,8 @@
 title: 'Marketo e Mochas: la crescita trainante con il reporting (scadenza: 3)'
 description: Unisciti ai consulenti aziendali di Adobe, Cynthia Chang e Carly Gaver, per la terza parte della serie di webinar Marketo Maturity, esplorando come sfruttare gli strumenti di reporting di Marketo per stimolare la crescita aziendale, monitorare le prestazioni e fornire metriche di impatto, con domande e risposte live.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ Unisciti ai consulenti aziendali di Adobe, Cynthia Chang e Carly Gaver, per la t
 
 La parte 3 &quot;Scadenza&quot; è la parte 3 della serie Marketo &quot;Scadenza&quot;, che si concentra sul stimolare la crescita con la generazione di rapporti. Come riassunto,
 
-* La parte 1 si concentra sulla fase di ricerca per indicizzazione, gettando le basi dell’istanza di Marketo.
+* La parte 1 si concentra sulla fase di scansiono, gettando le basi dell’istanza di Marketo.
 * La parte 2 copriva la fase di marcia, ottimizzando ed espandendo l&#39;utilizzo.
 * La parte 3 si concentra sulla fase di esecuzione, sulla scalabilità e sul miglioramento dell&#39;efficienza.
 
@@ -36,7 +38,7 @@ La parte 3 &quot;Scadenza&quot; è la parte 3 della serie Marketo &quot;Scadenza
 * Cynthia lavora con Adobe da due anni, in precedenza come cliente di consulenza e Marketo.
 * Carly lavora con Adobe da tre anni ed ha una lunga esperienza nel marketing digitale e nell’automazione del marketing.
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Monitoraggio** Controllo continuo delle prestazioni dell&#39;istanza, inclusi recapito messaggi e stato del database.
 * **Controllo** Analisi dell&#39;accesso utente, delle autorizzazioni e della sincronizzazione CRM.

@@ -2,6 +2,7 @@
 title: Pulsanti magici e come costruirli
 description: Migliora i flussi di lavoro e le esperienze utente con l’estensibilità dell’interfaccia utente di Adobe, consentendo integrazioni personalizzate tramite Adobe App Builder, semplificando attività complesse con un "pulsante magico" e supportando l’integrazione perfetta con i sistemi aziendali, con future espansioni a più servizi Adobe.
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Scopri come estendere l’interfaccia utente di Adobe Experience Manager per aut
 
 Continua la conversazione nella [discussione](https://adobe.ly/3Ywf6kg) della community Adobe Developers Live.
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Estensibilità interfaccia utente** Sarah, product manager di Adobe, illustra il concetto di estensibilità dell&#39;interfaccia utente, che consente agli sviluppatori di creare integrazioni ed estensioni personalizzate per migliorare i flussi di lavoro e le esperienze utente.
 * **Pulsante magico** Viene introdotta l&#39;idea di un &quot;pulsante magico&quot; che semplifica flussi di lavoro complessi in un&#39;unica azione, migliorando l&#39;efficienza e riducendo la frustrazione.

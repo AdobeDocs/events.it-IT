@@ -2,6 +2,8 @@
 title: Insights di impatto - Strategie di Crafting per una misurazione efficace
 description: Una strategia di misurazione ben implementata migliora l’efficienza operativa, promuove il processo decisionale basato sui dati e migliora l’esperienza dei clienti, fornendo alle organizzazioni un vantaggio competitivo.
 solution: General
+feature: Analytics Basics
+topic: Performance, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
 exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Punti principali di discussione
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444457/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Definizione di strategia di misurazione** Una strategia di misurazione è un framework strutturato e collaborativo che guida le modalità con cui un&#39;organizzazione raccoglie, analizza e utilizza i dati per valutare le proprie prestazioni rispetto agli obiettivi aziendali. Allinea i team, promuove una cultura del processo decisionale basato sui dati e favorisce il miglioramento continuo.
 

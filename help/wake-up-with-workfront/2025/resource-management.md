@@ -1,6 +1,8 @@
 ---
 title: Gestione risorse
 description: Sfrutta al massimo il potenziale di Gestione delle risorse di Workfront con l’aiuto di Samantha Miller e Mary Ann Erickson che forniscono consigli specializzati su configurazione, best practice e strumenti.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3638
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17166
 exl-id: f5330b70-e3a1-4d4d-9b0c-0d30a35af769
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Gestione delle risorse di Workfront si distingue come uno dei casi d’uso più 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443022/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 Il webinar ha introdotto due strumenti principali in Adobe Work Front per la gestione delle risorse: la pianificazione delle risorse e il bilanciatore dei carichi di lavoro.
 

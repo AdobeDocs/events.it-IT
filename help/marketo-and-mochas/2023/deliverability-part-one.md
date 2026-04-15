@@ -1,6 +1,8 @@
 ---
 title: Marketo e Mochas - Recapito messaggi (parte 1)
-description: Unisciti a Marketo & Mochas per scoprire le best practice per il recapito dei messaggi e-mail con Sean Wirt e Cynthia Chang, relative alla gestione della reputazione, alla qualità dei dati, agli IP condivisi e agli IP dedicati, e una demo del programma di recapito messaggi in Marketo Engage.
+description: Unisciti a Marketo & Mochas per scoprire le best practice per il recapito dei messaggi e-mail con Sean Wirt e Cynthia Chang, relative alla gestione della reputazione, alla qualità dei dati, agli IP condivisi e dedicati, e una demo del programma di recapito messaggi in Marketo Engage.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: 4a21fc22-0bd0-46a2-9edb-bb3d1031ed79
 duration: 3537
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

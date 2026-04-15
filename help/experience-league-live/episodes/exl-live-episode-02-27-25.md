@@ -4,14 +4,15 @@ description: Partecipa a una sessione live esclusiva con gli esperti dei prodott
 kt: KT-17230
 solution: Experience Platform
 feature: AI Assistant
+topic: Security, Performance
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
 exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
-source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 5%
 
 ---
 
@@ -27,11 +28,11 @@ In questa sessione abbiamo esaminato:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Continua la discussione sul [post della community Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=it){target=“_blank”}**
+**Continua la discussione sul [post della community Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
 
 ## Risorse aggiuntive
 
 [Panoramica dell&#39;Assistente AI](https://experienceleague.adobe.com/it/docs/platform-learn/tutorials/ai-assistant/overview)
 
-[Scheda informativa sulla sicurezza dell&#39;Assistente AI](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
+[Foglio informativo sulla sicurezza di Assistente IA](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

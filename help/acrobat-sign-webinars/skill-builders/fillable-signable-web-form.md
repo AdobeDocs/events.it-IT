@@ -1,7 +1,8 @@
 ---
-title: 'Post: modulo Web compilabile e firmabile'
+title: Pubblica un modulo Web compilabile e firmabile
 description: Scopri come creare un modulo web che consenta a chiunque di completare e firmare — senza dover avviare la transazione o anche conoscere l’indirizzo e-mail del firmatario.
 feature: Sign, Form
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,18 +10,18 @@ duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
 exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-# Post: modulo Web compilabile e firmabile
+# Pubblica un modulo Web compilabile e firmabile
 
 Scopri come creare un modulo web che consenta a chiunque di completare e firmare — senza dover avviare la transazione o anche conoscere l’indirizzo e-mail del firmatario. Scoprirai anche come preparare un modello di documento che può essere utilizzato per singole transazioni di firma e per la registrazione in un URL univoco per la condivisione ampia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455456/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
 
 ## Punti chiave
 
@@ -33,4 +34,4 @@ Scopri come creare un modulo web che consenta a chiunque di completare e firmare
 * Allegare il documento o il modulo dal computer o dall&#39;archivio cloud.
 * I campi modulo possono essere posizionati manualmente o rilevati automaticamente utilizzando Adobe Sensei.
 * Personalizzare i campi modulo rinominando, modificando l&#39;assegnazione dei campi, specificando il tipo di campo e rendendo i campi obbligatori.
-* Adobe offre risorse quali Centro assistenza, Experience League, Community di supporto, webinar di Skill Builder e Resource Hub per ulteriori informazioni sui processi relativi ai documenti.
+* Adobe offre risorse come Centro assistenza, Experience League, Community di supporto, webinar Skill Builder e Resource Hub per ulteriori informazioni sui processi basati su documenti.

@@ -4,6 +4,7 @@ description: Approfitta di tutto il potenziale di Marketo Sales Insights (MSI) c
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
+topic: Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
 duration: 3615
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Marketo e Mochas - Best practice e ottimizzazione MSI
 
-Hai sentito parlare di Marketo Sales Insights o MSI? Forse hai una licenza, ma non sai cosa sia o come usarla. Adobe In questo webinar, James Leedom, Marketing Automation Business Advisor, Cynthia Chang e Marketo Customer Technical Advisor, illustrano come garantire il pieno utilizzo dello strumento e delle best practice per l&#39;implementazione, il lancio e molto altro ancora.
+Hai sentito parlare di Marketo Sales Insights o MSI? Forse hai una licenza, ma non sai cosa sia o come usarla. In questo webinar, James Leedom, Marketing Automation Business Advisor, Cynthia Chang e Marketo Customer Technical Advisor, illustrano come garantire il pieno utilizzo dello strumento e delle best practice per l&#39;implementazione, il lancio e molto altro ancora.
 
 Cynthia e James si immergono nelle caratteristiche del MSI, tra cui momenti interessanti e scommesse migliori. Spiegano come si integra con Salesforce, la gestione delle licenze e le strategie per ottimizzare l&#39;efficienza operativa tra i team di vendita e marketing. Concludiamo con una sessione live di domande e risposte dei partecipanti.
 

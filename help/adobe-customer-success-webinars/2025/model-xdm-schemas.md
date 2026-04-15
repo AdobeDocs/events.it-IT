@@ -2,6 +2,7 @@
 title: Best practice e informazioni approfondite per la modellazione di schemi XDM
 description: La modellazione dei dati master in AEP con schemi XDM, gestione delle identità e best practice per la personalizzazione e la segmentazione scalabili e in tempo reale.
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ In questa sessione, scopri le best practice e le scelte rapide essenziali per la
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458042/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 **Modellazione dati in Adobe Experience Platform (AEP)**
 

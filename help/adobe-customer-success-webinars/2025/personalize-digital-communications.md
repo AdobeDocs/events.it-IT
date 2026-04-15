@@ -2,6 +2,8 @@
 title: Personalizzazione delle comunicazioni digitali in Financial Services con AEM Forms
 description: Scopri in che modo AEM Forms aiuta i servizi finanziari a fornire comunicazioni personalizzate e scalabili che migliorano il coinvolgimento, l’efficienza e la conformità.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ Scopri in che modo AEM Forms può aiutare le organizzazioni di servizi finanziar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458104/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Sfide nella modernizzazione dei servizi finanziari** Le organizzazioni finanziarie devono affrontare notevoli ostacoli nella modernizzazione dei moduli e delle comunicazioni, a causa del numero elevato di moduli su più sistemi, del rallentamento degli aggiornamenti basati su IT e degli elevati costi associati alla scalabilità dei sistemi legacy. Queste sfide comportano la perdita di opportunità, ad esempio risparmi sui costi non acquisiti e crescita dei ricavi.
 

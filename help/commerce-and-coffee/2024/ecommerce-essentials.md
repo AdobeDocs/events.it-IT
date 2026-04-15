@@ -1,6 +1,8 @@
 ---
 title: Commerce & Coffee - Nozioni di base sulla masterizzazione di e-commerce
 description: La sessione di Corey Gelato tratta le nozioni di base sull’e-commerce su Adobe Commerce, evidenziando strategie per il merchandising personalizzato, programmi di fidelizzazione, pagamenti e spedizioni ottimizzati ed efficaci campagne di marketing per stimolare il coinvolgimento, la fidelizzazione e le conversioni dei clienti.
+feature: Payments
+topic: Personalization, Security, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Ottimizzazione della vetrina Commerce
 description: Ottimizza la tua istanza di Commerce con i suggerimenti degli esperti di Adobe su manutenzione, attività bot e gestione dei dati
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Guarda Andrii Abumuslimov, Customer Technical Advisor di Adobe, che conduce un w
 * **Jeff McGuire** è uno stratega del coinvolgimento digitale in Adobe
 * **Andre** consulente tecnico del cliente presso Adobe, specializzato in Adobe Commerce (precedentemente Magento)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 Il webinar si concentra sull’ottimizzazione delle vetrine di e-commerce.
 È interattivo, con una sessione di domande e risposte alla fine.
@@ -35,7 +37,7 @@ La sessione viene registrata e sarà disponibile su richiesta.
 * **Argomenti trattati**
 
    * Monitoraggio e ottimizzazione dell&#39;utilizzo dello storage.
-   * Web crawler, rilevamento del traffico e mitigazione.
+   * Crawler web, rilevamento e mitigazione del traffico.
 
 * **Ottimizzazione archiviazione**
 
@@ -43,9 +45,9 @@ La sessione viene registrata e sarà disponibile su richiesta.
    * Implementare best practice per la gestione e l’ottimizzazione dei dati.
    * Abilita l&#39;ottimizzazione delle immagini profonde per risparmiare spazio su disco.
 
-* **Web Crawler**
+* **Crawler Web**
 
-   * Rileva e attenua gli abusi dei web crawler utilizzando strumenti come New Relic e query SQL personalizzate.
+   * Rilevare e attenuare crawler web abusivi utilizzando strumenti come New Relic e query SQL personalizzate.
    * Implementa strategie di limitazione della frequenza e blocco per i bot non legittimi.
    * Prendi in considerazione servizi avanzati come Human Bot Defender per un rilevamento sofisticato dei bot.
 

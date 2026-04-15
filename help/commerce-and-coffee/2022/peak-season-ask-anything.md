@@ -2,6 +2,7 @@
 title: Commerce & Coffee - La stagione di picco 'Ask Me Anything'
 description: Questa sessione "Ask Me Anything" illustra come adattarsi alle modifiche dell’ultimo minuto per il sito Commerce durante la stagione di picco. Discutiamo le aspettative per le vacanze 2022, le promozioni dell’ultimo minuto, le opzioni di pagamento e le strategie di marketing per favorire il successo della stagione di picco. La presentazione e la demo sono accompagnate da un live Q&A con Corey Gelato.
 solution: Commerce
+feature: Payments
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11605
 thumbnail: 3412273.jpeg
 exl-id: 77dad94c-5671-4eab-a1b2-d924af236019
 duration: 3104
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

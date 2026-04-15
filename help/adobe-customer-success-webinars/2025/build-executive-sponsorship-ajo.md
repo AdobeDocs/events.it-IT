@@ -2,19 +2,21 @@
 title: Creazione di una sponsorizzazione esecutiva per il supporto del successo di Adobe Journey Optimizer
 description: Scopri in che modo i leader esecutivi promuovono i programmi AJO, allineano i team e guidano i risultati con strategie per il coinvolgimento e la leadership degli sponsor.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # #4 della sessione VRA: creazione di una sponsorizzazione esecutiva per il supporto del successo di Adobe Journey Optimizer (AJO)
 
@@ -50,4 +52,3 @@ Un’efficace mappatura delle parti interessate è essenziale per promuovere una
 * **Sviluppo delle relazioni** Promuovi la trasparenza, stabilisci aspettative chiare e mantieni una comunicazione costante per trasformare il supporto esecutivo in una partnership strategica.
 
 L’utilizzo di una mappa strategica delle parti interessate consente alle organizzazioni di selezionare lo sponsor esecutivo e gli alleati giusti, garantendo un’implementazione efficace e un cambiamento sostenuto.
-

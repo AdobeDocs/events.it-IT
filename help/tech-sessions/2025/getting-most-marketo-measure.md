@@ -3,6 +3,7 @@ title: Ottenere il massimo da Marketo Measure
 description: Ottimizza Marketo Measure con best practice per la mappatura dei canali, la segmentazione, la mappatura personalizzata degli ambienti di staging e la soppressione dei punti di contatto. Utilizza regole specifiche, categorizza i dati e assegna logicamente priorità agli stadi. Elimina i punti di contatto indesiderati per dati più puliti. Sfrutta strumenti come le fasi di boomerang e invia casi di supporto per configurazioni complesse. Accedi alla registrazione della sessione nella pagina Experience di Adobe.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,8 @@
 title: Favorire il coinvolgimento dei clienti nello spazio dei fornitori
 description: Scopri come AEM Forms rivoluziona il coinvolgimento dei clienti nel settore dell’assicurazione sanitaria semplificando l’elaborazione delle richieste di rimborso e l’iscrizione dei clienti, migliorando la conversione, l’efficienza e la conformità.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -22,11 +24,11 @@ Esplora una sessione approfondita che mostra come AEM Forms trasforma il coinvol
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444127/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Sfide e opportunità nello spazio del payer** Il settore sanitario deve affrontare sfide per gestire la crescita esponenziale delle informazioni e dei moduli digitali, con conseguenti inefficienze e costi elevati. È necessario semplificare i processi, ridurre i costi e migliorare il coinvolgimento dei clienti.
 
-* **Le funzionalità dei moduli AEM di AEM Forms** aumentano l&#39;efficienza operativa e consentono alle organizzazioni di creare moduli su larga scala, automatizzare i flussi di lavoro e fornire esperienze omnicanale. Ciò comporta tassi di conversione e di iscrizione più elevati, una riduzione dell’abbandono dei moduli e un aumento della produttività del team.
+* **Le funzionalità di AEM Forms** AEM Forms aumentano l&#39;efficienza operativa e offrono esperienze utente eccezionali, consentendo alle organizzazioni di creare moduli su larga scala, automatizzare i flussi di lavoro e fornire esperienze omnicanale. Ciò comporta tassi di conversione e di iscrizione più elevati, una riduzione dell’abbandono dei moduli e un aumento della produttività del team.
 
 * **Soluzione end-to-end** AEM Forms fornisce una soluzione end-to-end che include moduli omnicanale, flussi di lavoro automatizzati e comunicazioni interattive con i clienti. La soluzione è integrata con Adobe Experience Cloud per migliorare l&#39;esperienza utente complessiva e l&#39;efficienza operativa.
 

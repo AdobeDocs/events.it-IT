@@ -3,6 +3,7 @@ title: Analisi dei fattori anti-conversione per migliorare la customer experienc
 description: In tutti i settori, è importante migliorare continuamente l'esperienza in loco. Lo scopo dell’anti-conversione è quello di esaminare i fattori che influiscono negativamente sull’esperienza dei clienti sul sito allo scopo di risolverli. Esistono molte metriche che puoi esaminare per migliorare la tua esperienza. In questa sessione ci concentreremo su:- Come utilizzare i tassi di errore per ottenere informazioni approfondite- Identificare aree di confusione per migliorare i percorsi dei clienti- Suggerimenti per implementare l’anti-conversione nella tua organizzazione
 feature-set: Analytics
 feature: Metrics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14657
 thumbnail: 3425991.jpeg
 exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

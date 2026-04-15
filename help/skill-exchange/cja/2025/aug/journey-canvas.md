@@ -2,19 +2,21 @@
 title: Guida al successo di CX con l’area di lavoro di Percorso di Adobe Customer Journey Analytics
 description: Scopri in che modo Percorsi Canvas consente di mappare i percorsi utente ideali rispetto a quelli effettivi, di individuare gli attriti e di ottenere miglioramenti CX misurabili con Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Guida al successo di CX con l’area di lavoro di Percorso di Adobe Customer Journey Analytics
 
@@ -24,7 +26,7 @@ I partecipanti impareranno a utilizzare l’analisi a livello di percorso per in
 
 Infine, approfondiremo le strategie per scalare queste informazioni in tutta l’organizzazione collegando i risultati di Percorsi Canvas a dashboard granulari, consentendo un’ottimizzazione continua in ogni punto di contatto. Che tu sia un nuovo utente di CJA o un professionista esperto, questa sessione ti fornirà una chiara metodologia per l’utilizzo di Percorsi Canvas per migliorare i programmi CX e ottenere risultati tangibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471222/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Area di lavoro percorso: dall’analisi all’attivazione
 

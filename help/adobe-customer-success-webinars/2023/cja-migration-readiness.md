@@ -1,9 +1,10 @@
 ---
-title: Preparazione alla migrazione del Customer Journey Analytics
+title: Preparazione alla migrazione di Customer Journey Analytics
 description: Panoramica del valore Customer Journey Analytics, punti salienti per settore, risorse consigliate
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
+topic: Migration
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
 duration: 2035
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
 
-# Preparazione alla migrazione del Customer Journey Analytics
+# Preparazione alla migrazione di Customer Journey Analytics
 
-* Panoramica del valore CJA
-* CJA casi d’uso principali per settore
+* Panoramica del valore di CJA
+* Casi di utilizzo CJA principali per settore
 * Risorse consigliate
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

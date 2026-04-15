@@ -1,14 +1,16 @@
 ---
 title: Ask the Expert - Best practice per massimizzare Workfront Proof
 description: Scopri come configurare le impostazioni, abilitare funzioni di reporting avanzate ed evitare problemi comuni in Proof. Questo webinar è stato registrato il 26 febbraio 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -35,7 +37,7 @@ Se non selezioni &quot;Nuova bozza&quot; e carichi un documento e l’utente è 
 
 **Risposta**
 
-Sì.  Per regolare tutte le impostazioni della bozza, seleziona la bozza nella scheda Documenti e fai clic su Dettagli bozza.
+Sì. Per regolare tutte le impostazioni della bozza, seleziona la bozza nella scheda Documenti e fai clic su Dettagli bozza.
 
 **Domanda**
 
@@ -157,7 +159,7 @@ In precedenza avevi consigliato di disattivare per gli avvisi e-mail al di fuori
 
 **Risposta**
 
-Sì.  Gli avvisi e-mail (che possono essere impostati su Tutte le attività, Disattivato, Decisioni ecc.) sono indipendenti dalle e-mail di notifica della bozza (Nuova bozza, Nuova versione, A rischio, Bozza in ritardo, @Mentions).
+Sì. Gli avvisi e-mail (che possono essere impostati su Tutte le attività, Disattivato, Decisioni ecc.) sono indipendenti dalle e-mail di notifica della bozza (Nuova bozza, Nuova versione, A rischio, Bozza in ritardo, @Mentions).
 
 **Domanda**
 
@@ -257,7 +259,7 @@ Esiste un modo per scaricare le bozze con le relative approvazioni associate in 
 
 **Domanda**
 
-Quando si richiede agli utenti di accedere alla segnalazione di ProofHQ, questo concederà loro anche l’accesso alla sezione a sinistra (ad es. flussi di lavoro, contatti, impostazioni account, ecc.)?
+Quando si richiede agli utenti di accedere alla segnalazione di ProofHQ, questo concederà loro anche l’accesso alla sezione a sinistra (ad esempio flussi di lavoro, contatti, impostazioni account, ecc.)?
 
 **Risposta**
 
@@ -309,11 +311,11 @@ Quando viene eliminata una bozza, una copia della bozza è ancora presente sui s
 
 **Risposta**
 
-Sì.  Se elimini una bozza, questa si trova nell’area Cestino dell’account di bozza associato. Se necessario, può essere ripristinata da lì e rimarrà lì fino a quando e a meno che il cestino non venga svuotato.
+Sì. Se elimini una bozza, questa si trova nell’area Cestino dell’account di bozza associato. Se necessario, può essere ripristinata da lì e rimarrà lì fino a quando e a meno che il cestino non venga svuotato.
 
 **Domanda**
 
-Esiste un modo per attivare la nuova decisione se un altro utente rifiuta o approva con modifiche. Sì. Il team addetto alle bozze vede qualcosa, quindi il project manager dovrà prendere una nuova decisione, anche se l&#39;ha già esaminata e approvata. (cercando di non rendere il responsabile di progetto non deve aspettare il reparto bozze per fare la loro revisione)?
+Esiste un modo per attivare la nuova decisione se un altro utente rifiuta o approva con modifiche. Cioè, il reparto bozze vede qualcosa, il project manager dovrà prendere una nuova decisione... anche se l&#39;ha già vista e approvata. (cercando di non rendere il responsabile di progetto non deve aspettare il reparto bozze per fare la loro revisione)?
 
 **Risposta**
 
@@ -517,7 +519,7 @@ Se ho 3 persone in un gruppo di recensioni, posso impostare che ho bisogno di ap
 
 **Risposta**
 
-Sì.  Vorrai aggiungere le due persone per le quali hai bisogno di una decisione come revisori e approvatori e la terza persona come revisore.
+Sì. Vorrai aggiungere le due persone per le quali hai bisogno di una decisione come revisori e approvatori e la terza persona come revisore.
 
 **Domanda**
 

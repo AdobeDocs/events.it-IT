@@ -1,19 +1,21 @@
 ---
 title: 3 motivi principali per utilizzare le aziende
 description: Scopri perché le aziende sono fondamentali in Workfront per l’espansione aziendale, l’accesso sicuro e la creazione di rapporti migliorati.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 336
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18647
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: b0a08753-a53a-4b16-9492-9899d02eb260
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
-
 
 # 3 motivi principali per utilizzare le società
 
@@ -21,6 +23,4 @@ Trovi un altro video nella Top 3 con il tuo &quot;CSM On-Demand Workfront&quot;!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-Cerchi altre risorse o idee per utilizzare le aziende? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=it) per ulteriori best practice.
-
-
+Cerchi altre risorse o idee per utilizzare le aziende? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313) per ulteriori best practice.

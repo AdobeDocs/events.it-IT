@@ -1,19 +1,21 @@
 ---
 title: Sessione 1 del 2026 - Nozioni di base di Marketo Engage
 description: Scopri le nozioni di base di Marketo Engage, tra cui navigazione, funzioni di base e strumenti di automazione, per gestire con sicurezza le campagne di marketing.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
 
 ---
-
 
 # Sessione 1 di 2026: nozioni di base di Marketo Engage
 
@@ -30,5 +32,3 @@ La nostra prima sessione inizia questo mese con un’introduzione pratica al fun
 
 * Utenti più recenti di Marketo Engage o che hanno appena iniziato a utilizzare la piattaforma.
 * Professionisti con esperienza pratica limitata che desiderano creare fiducia utilizzando le funzioni di base.
-
-

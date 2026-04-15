@@ -2,19 +2,20 @@
 title: Architettura di Analysis - Come avvicinarsi al modello dati di Customer Journey Analytics
 description: Scopri come strutturare i modelli dati di CJA con gerarchie di eventi, attribuzione e KPI per acquisire informazioni più approfondite sul percorso dei clienti.
 feature: Attribution
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18813
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 704ff998-840a-4815-a24f-f08b625b14f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # Architettura dell’analisi: come approcciare il modello dati di Customer Journey Analytics
 

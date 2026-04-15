@@ -1,6 +1,8 @@
 ---
 title: Gestione dei Percorsi di clienti - Modellazione del ciclo di vita
-description: Scopri in che modo la trasparenza costruisce la credibilità del marketing con Cynthia Chang e James Leedom, che condividono strategie per la configurazione del ciclo di vita, la segmentazione del percorso e mostrano gli strumenti di modellazione del ciclo di vita, reporting e analisi del Marketo Engage.
+description: Scopri in che modo la trasparenza rafforza la credibilità del marketing con Cynthia Chang e James Leedom, che condividono strategie per la configurazione del ciclo di vita, la segmentazione del percorso e mostrano gli strumenti Marketo Engage per la modellazione del ciclo di vita, la creazione di rapporti e l’analisi.
+feature: Reporting
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 La trasparenza è diventata di recente uno degli attributi più importanti di una strategia di marketing di successo. Durante questa sessione affrontiamo tutte le questioni cruciali per costruire credibilità e sapere quando e quali leve spingere. James Leedom, consulente aziendale per il marketing automation di Adobe, Cynthia Chang e consulente tecnico per i clienti Marketo, aiuta a rispondere a queste domande:
 
 * In quale fase del percorso di acquisto si trova attualmente il lead?
-* Qual è il nostro tasso di conversione da fase a fase nel funnel?
+* Qual è il nostro tasso di conversione da fase a fase in funnel?
 * Con quale rapidità i lead passano attraverso il percorso del cliente?
 * Di quanti MQL abbiamo bisogno per avere X dollari in palio?
 

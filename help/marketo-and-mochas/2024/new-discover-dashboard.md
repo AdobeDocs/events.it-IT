@@ -1,6 +1,8 @@
 ---
 title: Nuove dashboard di individuazione
 description: Unisciti al Senior Business Advisor di Adobe, Kate Colbert, e al Technical Advisor, James Leedom, per esplorare le 9 nuove dashboard Discover di Marketo Measure, che offrono informazioni dinamiche su metriche quali ricavi, ROI, coinvolgimento e Lead Velocity, con una dimostrazione live e una sessione di domande e risposte.
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Durante questa sessione, dimostreremo come incorporare nel modo più efficiente 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * Le dashboard di Discover in Marketo Measure sono un set nuovo e migliorato di dashboard predefiniti progettati per migliorarne l’usabilità e aggiungere valore alle funzionalità di reporting.
 * Le vecchie dashboard sono state rimosse a marzo e le nuove dashboard sono ora disponibili per tutti i clienti Marketo Measure.

@@ -2,19 +2,21 @@
 title: Progettazione di un modello operativo per il successo di AJO
 description: Scopri in che modo un modello operativo coeso aumenta l’efficienza, evita problemi di risorse e ridimensiona il programma di marketing per garantirne il successo a lungo termine.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # Progettazione di un modello operativo per il successo di AJO
 
@@ -51,4 +53,3 @@ Una governance solida e strutture di team in evoluzione sono fondamentali per l�
    * **Incorporati** da 15 a 20 membri specializzati, elevata scalabilità, formazione continua.
 
 Una governance chiara e la maturità del team favoriscono una distribuzione coerente e risultati misurabili.
-

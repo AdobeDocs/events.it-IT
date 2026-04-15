@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,17 +27,17 @@ ht-degree: 0%
 
 È il tuo CSM Workfront on-demand qui, e sono tornato con un nuovo video!  Questa volta abbiamo una presentazione di uno dei nostri fantastici clienti, Jaime Davidson di Cognizant!  Ha gentilmente offerto il suo tempo e le sue competenze durante il nostro evento di novembre Connect, condividendo la sua esperienza e le risorse per l&#39;implementazione dei sondaggi sull&#39;adozione di Workfront. *Bonus!* Anche Danielle Johnston, la nostra CSM Workfront, condivide le sue intuizioni e le sue raccomandazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469958/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Risorse
 
 Durante la presentazione, Jaime e Danielle hanno discusso alcune risorse supplementari, che sono state fornite di seguito.
 
-* [Guida di Workfront ai sondaggi sull&#39;adozione](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
-* [Chat con l&#39;amministratore di Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
-* [Sondaggio sull&#39;adozione degli utenti di Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
+* [Guida di Workfront ai sondaggi sull’adozione](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Chat con l’amministratore di Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
+* [Sondaggio sull’adozione degli utenti di Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Desideri ulteriori informazioni sull’adozione e l’onboarding generale? Guarda il nostro blog! - [Nuovi clienti Workfront! Benvenuto/a nel blog Customer Success Onboarding di Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=it)
+Desideri ulteriori informazioni sull’adozione e l’onboarding generale? Guarda il nostro blog! - [Nuovi clienti Workfront! Benvenuto/a nel blog Customer Success Onboarding di Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Informazioni sul diffusore
 

@@ -2,21 +2,23 @@
 title: 'GenStudio for Performance Marketings: modello operativo e strategia di governance'
 description: Il webinar su Adobe GenStudio for Performance Marketing tratta la creazione di un framework di governance per migliorare i processi creativi, la collaborazione e l’efficienza, fornendo al contempo informazioni sulla preparazione organizzativa, le best practice per i modelli operativi e i principi di marketing agile per massimizzare l’investimento.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio per PEM: modello operativo e strategia di governance
+# GenStudio for PeM: modello operativo e strategia di governance
 
 Questo webinar è progettato per i clienti che implementano o prendono in considerazione Adobe GenStudio for Performance Marketing. Scopri come creare un framework di governance che orchestra i processi creativi, migliori la collaborazione e aumenti l’efficienza. Scopri la prospettiva di Adobe sulla preparazione organizzativa, esplora le best practice per i modelli operativi e ottieni informazioni fruibili sull’utilizzo dei principi di marketing agile per massimizzare l’investimento GenStudio.
 
@@ -28,7 +30,7 @@ Punti principali di discussione
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444446/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 ### Definizione di preparazione organizzativa
 
@@ -37,8 +39,8 @@ Punti principali di discussione
 
 ### Criteri di successo per Gen Studio per il marketing a elevate prestazioni
 
-* Maggiore produttività del team creativo: automatizza i processi per semplificare l’esecuzione.
-* Miglioramento dei cicli di revisione creativa: maggiore efficienza e velocità.
+* Maggiore produttività del team Creative: automatizza i processi per semplificare l’esecuzione.
+* Cicli di revisione Creative migliorati: maggiore efficienza e velocità.
 * Contenuto conforme al marchio: genera contenuti con guardrail aziendali.
 
 ### Modello operativo di marketing Agile

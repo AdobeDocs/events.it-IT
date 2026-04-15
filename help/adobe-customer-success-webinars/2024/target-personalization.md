@@ -1,30 +1,32 @@
 ---
-title: 'Personalization di Target: guida introduttiva all’affinità tra Recommendations e categorie'
-description: Scopri come creare solide basi per iniziare a utilizzare Recommendations. Scopri di più sugli algoritmi che alimentano Recs e su come sfruttarli correttamente.
+title: 'Personalization di Target: guida introduttiva a Recommendations e affinità tra categorie'
+description: Scopri come creare solide basi per iniziare a utilizzare la funzione Consigli. Scopri di più sugli algoritmi che alimentano Recs e su come sfruttarli correttamente.
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
+# Personalization di Target: guida introduttiva a Recommendations e affinità tra categorie
 
-# Personalization di Target: guida introduttiva all’affinità tra Recommendations e categorie
-
-Scopri come creare solide basi per iniziare a utilizzare Recommendations. Scopri di più sugli algoritmi che alimentano Recs e su come sfruttarli correttamente.
+Scopri come creare solide basi per iniziare a utilizzare la funzione Consigli. Scopri di più sugli algoritmi che alimentano Recs e su come sfruttarli correttamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
-* Recommendations in Rex offre una personalizzazione su larga scala, che consente consigli intelligenti di centinaia o migliaia di elementi in base a algoritmi scelti come comportamento basato su, popolarità basata su, somiglianza dei contenuti e altro ancora.
+* I consigli in Rex offrono una personalizzazione su larga scala, consentendo consigli intelligenti di centinaia o migliaia di elementi in base ad algoritmi scelti come basati su comportamento, popolarità, somiglianza dei contenuti e altro ancora.
 * Rex offre opzioni di personalizzazione come la sequenza, la ponderazione, le regole di esclusione e altro ancora, rendendolo uno strumento affidabile per il controllo personalizzato del merchandising.
 * Rex è ideale per consigliare un numero elevato di prodotti o contenuti su migliaia o milioni di elementi, fornendo consigli personalizzati in base ai profili utente.
 * Rex potrebbe non essere adatto per scenari con un numero ridotto di offerte, elementi di catalogo in rapida evoluzione, bassa frequenza di interazione o quando la personalizzazione si basa principalmente su caratteristiche dell’utente come il segmento di fedeltà o la geografia.

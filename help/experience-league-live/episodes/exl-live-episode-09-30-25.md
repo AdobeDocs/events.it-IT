@@ -4,13 +4,14 @@ description: Scopri come AJO estende il coinvolgimento mobile con WhatsApp, RCS 
 kt: KT-18688
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations
 event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: 2e29cfdaa955fbbcac1b82bafdc4b4b04a227362
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ Mostrano come offrire esperienze mobili ricche e personalizzate che vanno oltre 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-Unisciti a noi per la community di [Adobe Journey Optimizer Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=it) il **mercoledì 15 ottobre dalle 8.00 alle 9.00 PT** A noi si uniranno gli esperti Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager e Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
+Unisciti a noi per la [community Adobe Journey Optimizer Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) **Mercoledì 15 ottobre dalle 8 alle 9 (PT**) seguiranno gli esperti Adobe Journey Optimizer: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager e Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
 
 Risponderemo alle tue domande durante questa chat in diretta.

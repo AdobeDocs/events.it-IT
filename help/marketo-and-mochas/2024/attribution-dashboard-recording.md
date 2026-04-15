@@ -1,8 +1,9 @@
 ---
 title: Marketo & Mochas - Nozioni di base sulla registrazione delle dashboard di attribuzione
-description: Adobe Unisciti a Sr. Business Advisor, Cynthia Chang e Technical Advisor, James Leedom, per una sessione approfondita sulla masterizzazione delle dashboard MPI (Performance Insights) e del modello di attribuzione di Marketo, che tratta argomenti quali configurazione, tracciamento dei programmi, sincronizzazione dei dati e visualizzazione dell’impatto del marketing sui ricavi e sull’acquisizione dei clienti.
+description: Unisciti a Sr. Business Advisor di Adobe, Cynthia Chang, e a Technical Advisor, James Leedom, per una sessione approfondita sulla masterizzazione delle dashboard di Marketo Attribution Model e Performance Insights (MPI), che tratta argomenti quali configurazione, tracciamento dei programmi, sincronizzazione dei dati e visualizzazione dell’impatto del marketing sui ricavi e sull’acquisizione dei clienti.
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

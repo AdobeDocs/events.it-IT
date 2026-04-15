@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live NOV 22 Introduzione all’estensibilità dell’interfaccia utente e alla nuova interfaccia utente Frammento di contenuto
-description: Introduzione all’estensibilità dell’interfaccia utente e l’Experience Manager UIAdobe per il nuovo frammento di contenuto offre nuovi servizi che riducono i costi di manutenzione, forniscono costantemente agli utenti i miglioramenti più recenti e possono essere personalizzati ed estesi con un moderno stack di tecnologia front-end.In questa sessione verrà fornita una panoramica dei nuovi servizi dell’interfaccia utente per frammenti di contenuto, con un esempio dettagliato di come creare un’estensione per la console Frammenti di contenuto.
+description: Introduzione all’estensibilità dell’interfaccia utente e al nuovo frammento di contenuto UIAdobe Experience Manager offre nuovi servizi che riducono i costi di manutenzione, forniscono costantemente gli ultimi miglioramenti agli utenti e possono essere personalizzati ed estesi con un moderno stack di tecnologia front-end.In questa sessione verrà fornita una panoramica dei nuovi servizi dell’interfaccia utente per frammenti di contenuto e verrà fornito un esempio dettagliato di come creare un’estensione per la console Frammenti di contenuto.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
 duration: 2733
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

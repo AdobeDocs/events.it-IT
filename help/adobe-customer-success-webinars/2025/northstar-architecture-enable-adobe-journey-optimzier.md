@@ -2,19 +2,21 @@
 title: Utilizzo di un'architettura NorthStar per abilitare la visione Adobe Journey Optimizer
 description: Scopri in che modo l’utilizzo di un’architettura NorthStar può aiutare a diagnosticare le lacune nell’implementazione e a mantenere l’allineamento organizzativo intorno a AJO e all’intero stack di soluzioni Adobe.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19522
-source-git-commit: 1e74aaa6e67ae372bb6811ebaeac5459353942eb
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Utilizzo di un&#39;architettura NorthStar per abilitare la visione Adobe Journey Optimizer
 
@@ -38,11 +40,10 @@ La comprensione e l&#39;applicazione dell&#39;architettura Northstar consentono 
 
 I diagrammi dell’architettura Northstar consentono di mappare i componenti tecnologici essenziali e i flussi di dati necessari per un’efficace orchestrazione del percorso nelle piattaforme Adobe.
 
-* **Catena di fornitura dei contenuti** identifica le origini per la distribuzione personalizzata dei contenuti.
+* **Supply chain dei contenuti** identifica le origini per la distribuzione personalizzata dei contenuti.
 * **Origini dati** include dati Web, mobile, CRM, offline e di fedeltà, acquisiti tramite batch o streaming.
 * **Gestione dati** tratta la creazione di tipi di pubblico, la segmentazione (batch, streaming, edge) e l&#39;arricchimento.
 * **Attivazione** Dettagli sull&#39;attivazione dei tipi di pubblico nelle campagne e nei percorsi.
 * **Destinazioni** Specifica canali come e-mail, SMS, web e messaggi in-app.
 
 Ogni componente è personalizzato in base al settore e ai casi di utilizzo dell’organizzazione, garantendo che l’architettura supporti le esigenze aziendali attuali e future.
-

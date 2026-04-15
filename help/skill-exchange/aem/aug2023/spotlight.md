@@ -1,7 +1,9 @@
 ---
-title: Riflettori puntati su AEM Web Track Experience Makers, agosto 2023
+title: Aug 2023 Riflettori puntati su AEM Web Track Experience Makers
 description: Greg Dimeris di T.Rowe Price spiega come strutturare, impilare e sovrascrivere i contenuti per ottenere il massimo ritorno sull'investimento. Scopri come potenziare le tue esperienze web con i componenti come elementi di base per la velocità e la crescita. Cindy Underwood di LPL Financial spiega perché Adobe Bridge è lo strumento perfetto per aiutarti a sbloccare l’automazione per i siti Adobe Experience Manager (AEM). Con Adobe Bridge, puoi applicare rapidamente le convenzioni di denominazione, ridimensionare, formattare e aggiornare i profili colore delle risorse in pochi secondi. Scopri come sfruttare i vantaggi di Adobe Bridge come piattaforma di staging per i siti AEM.
 solution: Experience Manager Sites
+feature: Edge Delivery Services, Authoring
+topic: Development, Headless
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-14612
 thumbnail: 3425896.jpeg
 exl-id: 17d0bc2e-2f17-4f91-8a8f-3a07038368ed
 duration: 2370
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---

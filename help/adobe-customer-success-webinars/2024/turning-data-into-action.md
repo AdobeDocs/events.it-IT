@@ -1,6 +1,8 @@
 ---
 title: 'La potenza strategica della misurazione: trasformare i dati in azioni'
 description: Strategie di misurazione efficaci creano fiducia e responsabilizzazione coinvolgendo le parti interessate, assicurando la familiarità dei dati e promuovendo la fiducia nel processo decisionale, mentre la fiducia è stabilita attraverso la trasparenza, la governance dei dati e l’allineamento delle parti interessate, e l’empowerment viene raggiunto attraverso la formazione, gli strumenti accessibili e i dati actionable, il tutto contribuendo a dimostrare il valore dell’analisi attraverso l’impatto aziendale e l’efficienza operativa.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Scopri gli elementi essenziali per la creazione di una strategia di misurazione 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 **Strategie di misurazione**
 

@@ -1,6 +1,7 @@
 ---
 title: 'Ottimizzazione delle prestazioni di AEM: strategie e tecniche di caching'
 description: La sessione ha trattato strategie e tecniche di caching, meccanismi e livelli di caching, gestione dinamica dei contenuti, problemi di debug della cache e sincronizzazione dell’invalidamento della cache tra Dispatcher e CDN.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Ottimizzazione delle prestazioni di AEM: strategie e tecniche di caching
 
@@ -28,7 +29,7 @@ In questa sessione esploriamo vari meccanismi di caching, come la memorizzazione
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444452/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Strategie e tecniche di caching** La sessione si è concentrata su varie strategie e tecniche di caching per ottimizzare le prestazioni, incluso il caching a diversi livelli come browser, CDN e dispatcher.
 

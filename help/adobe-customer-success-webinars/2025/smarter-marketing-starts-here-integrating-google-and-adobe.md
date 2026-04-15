@@ -3,19 +3,20 @@ title: 'Inizia qui un marketing più intelligente: integrazione di Google e Adob
 description: Charles Farina, Vice President di Digital Strategy, e Danielle Doolin, Principal Product Marketing di Adobe, partecipano a un webinar approfondito sulla potenza di trasformazione dell'integrazione di piattaforme leader del settore.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-18029
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Inizia qui un marketing più intelligente: integrazione di Google e Adobe
 
@@ -35,7 +36,7 @@ Scopri in che modo questo potente trio può offrirti una visione unificata e com
 
 - Prendere decisioni basate sui dati: superate le metriche a livello di superficie e acquisite informazioni fruibili per ottimizzare le strategie di marketing e raggiungere gli obiettivi aziendali
 
-Informazioni:
+Cosa imparerai:
 
 - Vantaggi chiave dell’integrazione di Google Marketing Platform, GA4 e Adobe CJA
 

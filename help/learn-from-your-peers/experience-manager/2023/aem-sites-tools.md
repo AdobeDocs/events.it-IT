@@ -1,8 +1,9 @@
 ---
 title: Approfondimento degli strumenti per AEM Sites
-description: best practice per sfruttare gli strumenti in modo efficace e trasformare la tua esperienza AEM Sites. Tipi di tag Scopri in che modo i diversi tipi di tag possono sovrascrivere l’organizzazione dei contenuti e la possibilità di individuarli.  Impostazione e applicazione dei tag Ottieni informazioni pratiche sull’implementazione efficiente dei tag per risparmiare tempo e aumentare la produttività.  Schemi di metadati delle cartelle Scopri la potenza della gestione dei contenuti strutturata tramite gli schemi di metadati delle cartelle.Schemi di metadati Aumentare la rilevanza dei contenuti e l’esperienza utente attraverso la padronanza della progettazione degli schemi di metadati. Impostazione di report Sfruttare le informazioni basate sui dati per prendere decisioni strategiche mediante la creazione di report completi.Qui è possibile accedere alle diapositive della presentazione.
+description: best practice per sfruttare gli strumenti in modo efficace e trasformare la tua esperienza AEM Sites. Tipi di tag Scopri in che modo i diversi tipi di tag possono sovrascrivere l’organizzazione dei contenuti e la possibilità di individuarli.  Impostazione e applicazione dei tag Ottieni informazioni pratiche sull’implementazione efficiente dei tag per risparmiare tempo e aumentare la produttività.  Schemi di metadati delle cartelle Scopri la potenza della gestione dei contenuti strutturata tramite gli schemi di metadati delle cartelle.Schemi di metadati Aumentare la rilevanza dei contenuti e l’esperienza utente attraverso la padronanza della progettazione degli schemi di metadati. Impostazione di rapporti Sfruttare le informazioni basate sui dati per il processo decisionale strategico mediante la creazione di rapporti completi.È possibile accedere alle diapositive della presentazione qui.
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

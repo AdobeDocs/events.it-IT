@@ -1,15 +1,17 @@
 ---
 title: 'Chiedi all’esperto: misurazione della velocità'
 description: Scopri come misurare e tenere traccia della velocità utilizzando il reporting  [!DNL Workfront] . Questo workshop è stato registrato il 14 agosto 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Risparmia tempo copiando e incollando i calcoli di seguito.
 >[!NOTE]
 >
 >La sintassi per i calcoli dei campi personalizzati è cambiata da quando la presentazione è stata data nel 2019, tuttavia i concetti e le altre istruzioni forniti nella presentazione sono ancora accurati.
->&#x200B;>**I calcoli inclusi di seguito sono stati aggiornati per riflettere le regole di sintassi più recenti.**
+>**I calcoli inclusi di seguito sono stati aggiornati per riflettere le regole di sintassi più recenti.**
 
 **Data primo commit**
 
@@ -273,7 +275,7 @@ Task >> Il Campo Tammy Non È Vuoto
 
 **Risposta**
 
-Sì.  È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
+Sì. È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
 
 **Domanda**
 
@@ -393,7 +395,7 @@ Se si imposta la previsione predefinita su &#39;Originale&#39; per un progetto, 
 
 **Risposta**
 
-Sì.  Ogni volta che si cambia lo stato in Corrente, viene creata una nuova linea di base, che sarà quella predefinita. Tuttavia, tutte le baseline precedenti esisteranno ancora e sarà possibile impostare manualmente la baseline originale come predefinita.
+Sì. Ogni volta che si cambia lo stato in Corrente, viene creata una nuova linea di base, che sarà quella predefinita. Tuttavia, tutte le baseline precedenti esisteranno ancora e sarà possibile impostare manualmente la baseline originale come predefinita.
 
 **Domanda**
 
@@ -409,7 +411,7 @@ Esiste un modo per impostare in un rapporto quali campi sono modificabili? È po
 
 **Risposta**
 
-Sì.  È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
+Sì. È necessario creare un report Documento. Potrebbe essere necessario specificare un nome specifico per il documento ogni volta che si esegue il report. In questo caso, consiglierei di passare a Opzioni rapporto e selezionare Prompt rapporto. Aggiungi un prompt per Documento >> Nome.
 
 **Domanda**
 

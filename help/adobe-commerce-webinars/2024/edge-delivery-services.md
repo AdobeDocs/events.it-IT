@@ -2,6 +2,8 @@
 title: Velocità di fulmine - Servizio Edge Delivery di Adobe
 description: Nella puntata di agosto della serie di webinar APAC Commerce, accoglieremo Kamalesh Radhakrishnan, Senior Solutions Consultant, per condividere una panoramica di Lightning Speed con il servizio Edge Delivery di Adobe.Tutti possono creare contenuti con intelligenza artificiale e sperimentazione e fornire esperienze digitali eccezionali a velocità fulminea.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -55,7 +57,7 @@ Utilizza competenze di base per lo sviluppo web (CSS e JavaScript), semplificand
 
 ### SEO avanzato e traffico organico
 
-Prestazioni del sito migliorate e tempi di caricamento più rapidi contribuiscono a una migliore ottimizzazione dei motori di ricerca (SEO, Search Engine Optimization). &#x200B;
+Migliori prestazioni del sito e tempi di caricamento più rapidi contribuiscono a migliorare l’ottimizzazione SEO (Search Engine Optimization). &#x200B;
 Punteggi più elevati per Google Lighthouse possono aumentare il traffico organico e migliorare l’indicizzazione dei motori di ricerca. &#x200B;
 
 ### Flessibilità e scalabilità

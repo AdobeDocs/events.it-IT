@@ -3,15 +3,17 @@ title: Webinar sull'istituzione di un centro di eccellenza Workfront
 description: Scopri dagli esperti di Mattel e Adobe Workfront come creare un Workfront Center of Excellence (CoE) nel nostro webinar on-demand. Scopri i componenti chiave, gli enabler e i passaggi incrementali per un’amministrazione sostenibile e scalabile, migliorando l’adozione da parte degli utenti e migliorando l’utilizzo dei prodotti e l’integrità dei dati.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
 exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---

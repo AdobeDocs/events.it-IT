@@ -3,6 +3,7 @@ title: 'Commerce & Coffee: l''ascesa del self-service nel B2B'
 description: Migliora le esperienze B2B con Adobe Commerce. Scopri funzioni come cataloghi condivisi, gestione aziendale, quotazioni e strumenti self-service. Scopri le funzionalità di intelligenza artificiale e le tendenze B2B. Implementa le best practice per il self-service e migliora le esperienze dei clienti. Unisciti a Adobe Summit per ulteriori informazioni e risorse.
 solution: Commerce
 feature: B2B
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3636
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17514
 exl-id: aa349efe-d8ec-476b-9b1d-6e202193a229
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Inizia l&#39;anno con la collaborazione dei nostri esperti Commerce, Corey Gelat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451619/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 ### Caratteristiche evidenziate di Adobe Commerce
 

@@ -1,19 +1,21 @@
 ---
 title: Migrazione e modernizzazione delle esperienze con Adobe Experience Manager per il coinvolgimento degli utenti e l’individuazione nativa per l’intelligenza artificiale
 description: Scopri come Adobe Experience Manager utilizza l’intelligenza artificiale per modernizzare e migrare i siti web in modo efficiente per migliorare il coinvolgimento e l’individuazione.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Integrations, Migration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 975
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19987
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 34d729aa-6eb8-48f7-a9ea-66d6f179eb39
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
-
 
 # Migrazione e modernizzazione delle esperienze con Adobe Experience Manager per il coinvolgimento degli utenti e l’individuazione nativa per l’intelligenza artificiale
 

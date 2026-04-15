@@ -3,6 +3,7 @@ title: 'Riflettori puntati su Experience Makers: prepararsi alla crescita e alla
 description: Partecipa alla nostra sessione Experience Makers Spotlight per ascoltare tre organizzazioni molto diverse su come hanno affrontato la crescita e l’adattamento delle loro istanze Workfront.
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

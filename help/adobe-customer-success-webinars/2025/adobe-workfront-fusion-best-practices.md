@@ -3,19 +3,20 @@ title: Nozioni di base e best practice di Adobe Workfront Fusion
 description: Scopri le nozioni di base di Workfront Fusion per automatizzare i flussi di lavoro, aumentare la produttività e integrare strumenti con soluzioni a basso codice, modelli e best practice.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Nozioni di base e best practice di Adobe Workfront Fusion
 
@@ -29,7 +30,7 @@ In questa sessione, scopri le nozioni di base di Adobe Workfront Fusion, come ot
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Importanza dell&#39;integrazione** L&#39;integrazione perfetta degli strumenti è fondamentale per migliorare la collaborazione, ridurre i processi che richiedono tempo e aumentare l&#39;efficienza. Strumenti come Workfront Fusion consentono di collegare più applicazioni e automatizzare i flussi di lavoro.
 
@@ -40,4 +41,3 @@ In questa sessione, scopri le nozioni di base di Adobe Workfront Fusion, come ot
 * **Best practice** Utilizza account di servizio per connessioni Fusion anziché account personali, mantieni le convenzioni di denominazione corrette e pulisci periodicamente scenari, connessioni e webhook inutilizzati per evitare confusione.
 
 * **Modelli e modelli di apprendimento** Fusion sono un ottimo punto di partenza per i nuovi utenti per imparare a creare scenari in modo efficace. Offrono flussi di lavoro predefiniti che possono essere personalizzati per soddisfare esigenze specifiche.
-

@@ -1,19 +1,21 @@
 ---
 title: Modelli di potenza - Come IDEXX ha riconfigurato i modelli di progetto per il successo globale
 description: Approccio basato su modelli per campagne globali con scenari di localizzazione.
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3385
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19777
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 7c68dd9e-106d-40ad-9bb4-7d3491e361d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
-
 
 # Modelli di potenza: come IDEXX ha riconfigurato i modelli di progetto per il successo globale
 
@@ -23,8 +25,6 @@ Guarda la registrazione on-demand e osserva &quot;sotto il cofano&quot; i suoi p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=it).
+Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
-
-

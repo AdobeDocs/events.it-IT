@@ -1,19 +1,21 @@
 ---
 title: Keynote di apertura Adobe Analytics
 description: Esplora le competenze essenziali degli analisti (narrazione, etica ed empatia), oltre al modo in cui l’intelligenza artificiale e l’insight umana si combinano per promuovere risultati aziendali significativi.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18828
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Keynote di apertura Adobe Analytics
 
@@ -23,7 +25,7 @@ Acumen aziendale e ragionamento etico: prendi decisioni intelligenti ed etiche c
 Research Methodology &amp; Storytelling Craft: trasforma i risultati dei dati in narrazioni avvincenti per le parti interessate.
 Competenza tecnica e intelligenza emotiva: fornisci supporto e soluzioni con empatia, non solo competenze tecniche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471200/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
 
 ## Sblocco di Analytics per l’impatto umano
 

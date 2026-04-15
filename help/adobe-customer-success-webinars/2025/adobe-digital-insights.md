@@ -2,6 +2,8 @@
 title: Adobe Digital Insights - Scopri i risultati delle vacanze 2024 e le tendenze degli inizi del 2025
 description: Partecipa al webinar di Adobe per ottenere informazioni sulle tendenze di acquisto per le vacanze 2024 e sulle previsioni di mercato per i primi mesi del 2025, esplorare categorie di prodotti a crescita elevata e scoprire le best practice per creare esperienze di acquisto personalizzate utilizzando l’intelligenza artificiale e tecnologie avanzate.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Preparati a dare inizio alla stagione festiva 2024 con informazioni all’avangu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Prestazioni della stagione delle vacanze 2024** La stagione delle vacanze 2024 ha registrato una crescita dell&#39;8,7% su base annua, con una spesa record di 241,4 miliardi di dollari, contribuendo a un totale di 1,05 trilioni di dollari per l&#39;anno. I principali fattori di spinta sono stati la sensibilità ai prezzi, i canali social e di marketing e lo shopping mobile.
 

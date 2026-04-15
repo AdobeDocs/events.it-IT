@@ -1,6 +1,8 @@
 ---
 title: Agilità digitale con AEM
 description: Migliorare l’agilità digitale della tua organizzazione con innovazioni e best practice di AEM Sites e Assets
+feature: Edge Delivery Services, Release Information, Authoring
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3593
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17170
 exl-id: 49cd7f5a-13fb-454f-9389-18484b1e1866
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ In questo webinar, Adobe Business Advisor, Casey Witter e Technical Advisor, Raj
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443026/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Agilità digitale con Adobe Experience Manager (AEM)** Il webinar si è concentrato sull&#39;aumento dell&#39;agilità digitale tramite AEM, sia per AEM Assets che per Sites. Gli aspetti chiave includono l&#39;authoring rapido dei contenuti, il consolidamento dei contenuti da sistemi diversi e la distribuzione rapida e intelligente dei contenuti giusti al pubblico giusto.
 

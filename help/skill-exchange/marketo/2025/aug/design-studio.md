@@ -3,19 +3,20 @@ title: Massima potenza di Design Studio per le operazioni di marketing globali
 description: Scopri come adattarsi con Design Studio in Marketo Engage. Scopri incapsulamento, modelli, moduli e strategie per ridurre il debito tecnico e aumentare l’efficienza.
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Massima potenza di Design Studio per le operazioni di marketing globali
 

@@ -1,6 +1,8 @@
 ---
 title: Marketo e Mochas - 5 funzionalità Marketo da conoscere nel 2025
 description: Guarda la nostra prima sessione Marketo & Mochas dell'anno con i nostri esperti Marketo Engage, Carly Gaver e Kate Colbert. Carly e Kate hanno aggiunto oltre 5 funzionalità avanzate nel tuo pacchetto Marketo che possono contribuire a migliorare la tua esperienza del cliente e stimolare la domanda nel 2025. Sintonizzatevi e liberate il pieno potenziale della piattaforma Marketo.
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
-
 
 # Marketo &amp; Mochas: 5 caratteristiche Marketo da conoscere nel 2025
 
@@ -30,25 +31,25 @@ Guarda la nostra prima sessione Marketo &amp; Mochas dell&#39;anno con i nostri 
    * [5 funzioni da conoscere nel 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Gestione account di destinazione**
-   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Domande frequenti](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
-   * [Video Suggerimenti](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
+   * [Video su suggerimenti](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
-   * [Casi d&#39;uso](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
+   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Casi d’uso](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Analisi avanzata Percorso**
-   * [Panoramica reportistica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Panoramica del ciclo di vita di Modeler](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Panoramica sul reporting](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Panoramica di Lifecycle Modeler](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Aree di lavoro e partizioni**
-   * [Panoramica](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Panoramica](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 ### Struttura sessione
 

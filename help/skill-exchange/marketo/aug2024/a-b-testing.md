@@ -2,6 +2,8 @@
 title: Migliora le prestazioni e acquisisci esperienza con i test A/B
 description: 'Unisciti a noi per trasformare il tuo approccio al marketing in Marketo Engage con test A/B: ti insegneremo come trasformare i tuoi programmi in un esperimento controllato con successo misurabile. Testando le varianti nelle e-mail e nelle pagine di destinazione, potrai scoprire quali risonanze hanno il tuo pubblico e perché. In questa sessione, imparerai le previsioni di sviluppo delle ipotesi relative a cosa accadrà e perché, ad esempio l’impatto di una call-to-action diretta sui tassi di click-through. Le variabili da testare esplorano la serie di elementi che possono essere testati in Marketo Engage, dai titoli e dai pulsanti call-to-action alle immagini e al layout dei contenuti. Segmentazione Scopri come segmentare il pubblico in modo efficace per i test A/B per perfezionare le strategie e ottenere risultati migliori.  Interpretazione dei risultati come calcolare la significatività statistica e l’importanza di eseguire test per un periodo di tempo adeguato per raccogliere dati actionable.'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Performance, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2098
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16008
 exl-id: d2f93a70-d569-43eb-b836-7358bdf99a0e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---

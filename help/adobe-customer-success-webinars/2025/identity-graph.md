@@ -2,6 +2,7 @@
 title: Casi d’uso e risoluzione dei problemi relativi al grafico delle identità
 description: Scopri in che modo il servizio Adobe Experience Platform Identity potenzia le informazioni su segmentazione, attivazione e unione di profili per risolvere le sfide di marketing nel mondo reale.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Casi d’uso e risoluzione dei problemi relativi al grafico delle identità
 
@@ -46,4 +47,3 @@ Scopri in che modo le regole del grafo delle identità di Adobe Experience Platf
 * **Compressione grafico e risoluzione** I dispositivi condivisi, i dati non convalidati o gli errori di implementazione possono frammentare i profili; gli strumenti di simulazione e i processi di ripristino consentono di ripristinare la precisione.
 
 Comprendere questi concetti consente alle organizzazioni di massimizzare il valore dei dati, garantire la conformità e fornire esperienze personalizzate.
-

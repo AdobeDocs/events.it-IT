@@ -3,6 +3,7 @@ title: Preparazione per Marketo Engage su Adobe Identity
 description: Partecipa a questa sessione di formazione per preparare la migrazione degli abbonamenti Marketo Engage ad Adobe Identity, con particolare attenzione alla migrazione degli utenti, alle azioni chiave e alle risorse essenziali per gli amministratori, con istruzioni su come navigare nella console di migrazione e comprendere le modifiche a ogni fase cardine.
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Preparazione per Marketo Engage su Adobe Identity
 
-Questo è un corso di formazione sulla migrazione di [abbonamenti Adobe Marketo Engage da integrare con Adobe Identity Management System](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Il contenuto è più appropriato per gli amministratori di Marketo Engage. Questo corso di formazione ti fornirà le conoscenze essenziali per preparare la tua organizzazione in modo interfunzionale ed educare gli utenti interni a questo cambiamento imminente.
+Questo è un corso di formazione sulla migrazione di [abbonamenti Adobe Marketo Engage da integrare con Adobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Il contenuto è più appropriato per gli amministratori di Marketo Engage. Questo corso di formazione ti fornirà le conoscenze essenziali per preparare la tua organizzazione in modo interfunzionale ed educare gli utenti interni a questo cambiamento imminente.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432364/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Panoramica
 

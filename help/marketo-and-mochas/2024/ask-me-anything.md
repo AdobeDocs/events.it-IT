@@ -2,6 +2,8 @@
 title: Chiedimi qualsiasi cosa
 description: Unisciti al webinar interattivo finale dell’anno di Adobe con Kate Kolbert e James Letham, che tratta l’ottimizzazione del webinar, gli aggiornamenti del programma, le funzionalità di Marketo sottoutilizzate, le best practice per il marketing via e-mail, la gestione del database, le autorizzazioni per gli utenti, la sincronizzazione Marketo-Salesforce, il coinvolgimento dinamico delle chat e le fasi del ciclo di vita.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ La trascrizione descrive un ultimo webinar interattivo dell’anno ospitato da A
 * **Autorizzazioni utente** Limita le autorizzazioni degli utenti per impedire invii di massa di posta elettronica non autorizzati e imposta i limiti smart campaign come misura di sicurezza.
 * **Sincronizzazione Marketo-Salesforce** Evita di concedere all&#39;amministratore dell&#39;utente Marketo Sync in Salesforce l&#39;accesso per evitare il sovraccarico di dati e garantire una sincronizzazione efficiente.
 * **Dynamic Chat Engagement** Ottimizza la distribuzione dei bot di chat valutando il posizionamento della pagina, semplificando le interazioni degli utenti e indirizzando il pubblico giusto.
-* **Gestione funnel e fasi del ciclo di vita** Definire fasi del ciclo di vita chiare, garantire l&#39;allineamento con le vendite ed evitare che i lead si spostino all&#39;indietro nel funnel.
+* **Fasi del ciclo di vita e gestione di Funnel** Definire fasi del ciclo di vita chiare, garantire l&#39;allineamento con le vendite ed evitare che i lead tornino indietro nel funnel.
 * **Limiti di invio e-mail** La frequenza massima generale di invio e-mail è di 1 milione di e-mail all&#39;ora, con limiti più elevati disponibili per l&#39;acquisto se necessario.

@@ -3,25 +3,26 @@ title: 'Data in Motion: flussi di lavoro di analisi scalabili per i team basati 
 description: Scopri come semplificare i flussi di lavoro di Adobe Analytics, rafforzare la governance e fornire ai team informazioni su attivazione, collaborazione e crescita.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Data in Motion: flussi di lavoro di analisi scalabili per i team basati su Insight
 
-Ioana Maftei, Champion Adobe Senior Analytics Manager di IBM, spiega come creare flussi di lavoro di analisi scalabili e gestiti che consentano di misurare la supply chain dei contenuti. Scopri come fornire le informazioni giuste alle persone giuste al momento giusto, abilitare la collaborazione tra i team e personalizzare i progetti Analysis Workspace in base a ruoli e esigenze diversi.
+Ioana Maftei, Champion Adobe Senior Analytics Manager di IBM, spiega come creare flussi di lavoro di analisi scalabili e gestiti che consentano di misurare i contenuti di supply chain. Scopri come fornire le informazioni giuste alle persone giuste al momento giusto, abilitare la collaborazione tra i team e personalizzare i progetti Analysis Workspace in base a ruoli e esigenze diversi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471237/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 
 ## Mappatura dei ruoli sugli stadi di Analytics
 

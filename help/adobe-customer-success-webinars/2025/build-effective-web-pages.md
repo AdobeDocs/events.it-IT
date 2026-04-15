@@ -2,19 +2,20 @@
 title: Creazione di pagine web efficaci in AEM Sites
 description: Partecipa al nostro webinar per principianti su AEM Sites per scoprire la creazione di pagine, i componenti di base, la strutturazione dei contenuti e la progettazione reattiva, con punti chiave sull’authoring AEM, i modelli modificabili, i componenti core e la pubblicazione delle pagine.
 feature: Authoring, Editable Templates, Core Components
+topic: Development, Headless
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3015
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17376
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: c9375be0-285e-4132-a6d1-82a7fcc59d45
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
-
 
 # Creazione di pagine web efficaci in AEM Sites
 
@@ -29,7 +30,7 @@ Scopri le funzionalità di base di AEM Sites in questo webinar per principianti 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444455/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Introduzione all&#39;authoring AMP** La sessione ha sottolineato l&#39;importanza di padroneggiare le nozioni di base sulla creazione e la gestione dei contenuti in Adobe Experience Manager (AEM) per i principianti. Comprendere l’ambiente di authoring è essenziale per semplificare il flusso di lavoro e sfruttare funzioni avanzate.
 

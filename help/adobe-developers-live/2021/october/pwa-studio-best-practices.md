@@ -1,25 +1,26 @@
 ---
-title: Best practice per i principianti di PWA Studio
-description: Questa sessione è un’introduzione intuitiva a ciò che PWA Studio ha da offrire. Scopri le diverse librerie PWA Studi e come utilizzarle in modo efficace nei progetti di vetrina. Unisciti a noi per esempi e dimostrazioni per vedere quanto è facile iniziare a lavorare con PWA Studio.
+title: Best practice PWA Studio per principianti
+description: Questa sessione è un'introduzione intuitiva a ciò che PWA Studio ha da offrire. Scopri le diverse librerie PWA Studio e come utilizzarle in modo efficace nei progetti di vetrina. Unisciti a noi per esempi e dimostrazioni per vedere quanto è facile iniziare a lavorare con PWA Studio.
 solution: Commerce
 feature: Developer Tools
+topic: Commerce
 role: Developer, Architect
 level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
 duration: 1989
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '151'
+ht-degree: 23%
 
 ---
 
-# Best practice per i principianti di PWA Studio
+# Best practice PWA Studio per principianti
 
-Questa sessione è un’introduzione intuitiva a ciò che PWA Studio ha da offrire.
-Scopri le diverse librerie PWA Studi e come utilizzarle in modo efficace nei progetti di vetrina.
+Questa sessione è un&#39;introduzione intuitiva a ciò che PWA Studio ha da offrire.
+Scopri le diverse librerie PWA Studio e come utilizzarle in modo efficace nei progetti di vetrina.
 Unisciti a noi per esempi e dimostrazioni per vedere quanto è facile iniziare a lavorare con PWA Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337764/?quality=12&learn=on&hidetitle=true)

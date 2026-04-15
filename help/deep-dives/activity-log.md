@@ -3,6 +3,7 @@ title: Notifica di processi complessi nel registro attività
 description: Unisciti a Beth Massura, Jimmy Spencer e al moderatore Corey Bayless in questa sessione Deep Dive per scoprire tecniche innovative di risoluzione dei problemi per processi complessi a più gambe in Marketo, utilizzando le note del registro attività per tracciare dove i processi iniziano, terminano, falliscono e hanno successo.
 solution: Marketo Engage
 feature: Audit Trail
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
 exl-id: df731e4b-3a3c-4cdf-8901-d803e9a4ae64
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

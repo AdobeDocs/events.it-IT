@@ -1,6 +1,7 @@
 ---
 title: Leader nel settore retail - Crescita basata sull’intelligenza artificiale e playbook dalle prestazioni migliori
 description: Scopri come i rivenditori utilizzano il traffico basato sull’intelligenza artificiale per promuovere la fedeltà, il coinvolgimento e la conversione in questo webinar Adobe 2025.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Retail Leaders: crescita basata sull’intelligenza artificiale e playbook dalle prestazioni migliori
 
@@ -37,7 +38,7 @@ Questo webinar Adobe Customer Success x Adobe Digital Insights tratta gli ultimi
 ## Applicazione graduale di strategie AI
 
 1. **Tracciamento traffico AI** Configura analisi per identificare le visite dalle piattaforme AI (utilizza segmenti LLM, UTM).
-1. **Ottimizza contenuto** Struttura le pagine dei prodotti con intestazioni e domande frequenti chiare per una facile ricerca per indicizzazione AI.
+1. **Ottimizza contenuto** Struttura le pagine dei prodotti con intestazioni chiare e domande frequenti per una facile scansiona AI.
 1. **Espandi portata** Condividi informazioni sul prodotto su social media, blog e siti di revisione per aumentare la visibilità.
 1. **Sfrutta gli influencer** collabora con i creatori di social media per campagne affiliate e contenuti generati dagli utenti.
 1. **Migliora i programmi fedeltà** Utilizza i dati dei clienti per personalizzare i premi e incoraggiare gli acquisti ripetuti.

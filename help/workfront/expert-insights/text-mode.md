@@ -1,19 +1,21 @@
 ---
 title: Master Text Mode con Katherine Lanning
 description: Scopri la potenza della modalità testo in Workfront con le intuizioni di Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: modalità testo con Katherine Lanning
 
@@ -35,13 +37,13 @@ La modalità testo può essere difficile, ma i vantaggi sono incredibili.  Ricor
 ## Risorse
 
 Cerchi risorse aggiuntive? Ce li abbiamo!
-* [Pannello clienti: lezioni apprese dagli amministratori esperti di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=it#M3487) - Katherine ha condiviso ulteriori approfondimenti.
-* [Riferimento a raccolte in un report](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/it/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Manuale per il reporting](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=it#M1406)
-* E se sei nuovo al mondo dei rapporti, inizia con l&#39;articolo Prospettiva di Nichole, [8 passaggi per creare rapporti semplici ed efficaci in Adobe Workfront](https://experienceleague.adobe.com/it/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Pannello clienti: lezioni apprese dagli amministratori esperti di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine ha condiviso ulteriori approfondimenti.
+* [Fare riferimento alle raccolte in un rapporto](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Manuale di reporting](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* E se sei nuovo al mondo dei rapporti, inizia con l&#39;articolo Prospettiva di Nichole, [8 passaggi per creare rapporti semplici ed efficaci in Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Per altre risorse, inclusa la modalità Copia/Incolla testo, controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=it#M4848).
+Per altre risorse, inclusa la modalità Copia/Incolla testo, controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848).
 
 
 ## Informazioni sul diffusore

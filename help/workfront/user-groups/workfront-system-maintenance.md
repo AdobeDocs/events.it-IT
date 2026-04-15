@@ -1,15 +1,17 @@
 ---
 title: Manutenzione del sistema Workfront (27 luglio 2021)
 description: Ascolta un gruppo di esperti dell’amministratore di sistema di Workfront per condividere i loro pensieri e suggerimenti su come mantenere il sistema pulito e funzionante con un sistema continuo... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate
 kt: 10011
 thumbnail: 341213.jpeg
 exl-id: 4c6bbad9-7501-4c7c-9c31-d23ae4cd1d95
 duration: 4969
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---

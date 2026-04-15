@@ -1,6 +1,9 @@
 ---
-title: Generatore di app di Adobe Developer
+title: Adobe Developer App Builder
+solution: Commerce
+feature: App Builder
 description: Integrare Adobe Commerce con qualsiasi applicazione eCommerce utilizzando la guida degli esperti App Builder e la dimostrazione live
+topic: Personalization, Integrations, Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,20 +11,20 @@ duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
 
-# Generatore di app di Adobe Developer
+# Adobe Developer App Builder
 
 In questo webinar, Dharmendra Kothe, Customer Technical Advisor di Adobe, condivide tutte le informazioni necessarie sull’utilizzo di App Builder per integrare Adobe Commerce con qualsiasi altra applicazione di eCommerce. App Builder fornisce un framework unificato di estensibilità di terze parti per l’integrazione e la creazione di applicazioni personalizzate che estende le funzionalità native di Adobe Commerce e si integra con soluzioni di terze parti. Copriamo ogni fase, dall’accesso a questo strumento alla creazione di framework che riducano al minimo le complicazioni durante il trasferimento dei dati tra Adobe Commerce e altri sistemi. Dharmendra fornisce anche una dimostrazione di alto livello sulla configurazione di applicazioni di terze parti con App Builder. Come sempre, concludiamo con una sessione di domande e risposte live.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443027/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Introduzione ad Adobe Commerce App Builder** Il webinar ha presentato Adobe Commerce App Builder, evidenziandone la capacità di migliorare e semplificare le esperienze Adobe Commerce consentendo agli sviluppatori di creare, personalizzare e sviluppare applicazioni ed estensioni personalizzate per esigenze specifiche.
 

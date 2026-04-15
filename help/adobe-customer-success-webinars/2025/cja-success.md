@@ -2,25 +2,26 @@
 title: Creazione di una sponsorizzazione esecutiva per il supporto del successo di Adobe Customer Journey Analytics
 description: Scopri le strategie per ottenere la sponsorizzazione esecutiva per il successo di Adobe Customer Journey Analytics. Allineamento, budget sicuri e processi decisionali basati sui dati.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Creazione di una sponsorizzazione esecutiva per il supporto del successo di Adobe Customer Journey Analytics (CJA)
 
 Durante la quarta sessione, esaminiamo in che modo la mancanza di una forte sponsorizzazione da parte dell&#39;esecutivo ritarderà il processo decisionale, l&#39;allocazione del budget e la gestione dei cambiamenti. In questo webinar esploriamo il ruolo fondamentale svolto dai leader esecutivi nel sostenere i programmi Adobe Customer Journey Analytics, allineando team cross-functional e guidando risultati di business misurabili. Scopri strategie pratiche per coinvolgere le parti interessate più esperte, comunicare il valore in modo efficace e creare una cultura del processo decisionale basato sui dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470862/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Casi aziendali di Crafting
 

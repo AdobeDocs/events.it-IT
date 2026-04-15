@@ -2,6 +2,7 @@
 title: Potenziare il successo B2B
 description: Esplora le funzionalità avanzate di Adobe Commerce B2B con Corey Gelato, tra cui Catalogo condiviso, Preventivi, Elenchi di richieste di acquisto e Flussi di lavoro di approvazione, apprendendo al contempo strategie per stimolare la crescita e rimanere competitivi nel panorama commerciale B2B in evoluzione.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
 duration: 3506
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

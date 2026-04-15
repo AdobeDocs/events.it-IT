@@ -1,9 +1,10 @@
 ---
 title: Breakout Commerce di Adobe Developers Live 2 - novembre 2023
-description: Naomi Robichaud offre uno sguardo dettagliato all’integrazione di Adobe Commerce con il Sales Channel Amazon in questa sessione di Adobe Developers Live, registrata il 6 novembre 2023. Scopri la flessibilità dell’interfaccia utente di Adobe Commerce e degli strumenti di estensibilità basati sugli eventi, e come utilizzarli per creare applicazioni di e-commerce digitali adattabili e affidabili in un ambiente nativo per il cloud. Un must-watch per gli sviluppatori che desiderano informazioni pratiche sulle integrazioni di digital commerce.
+description: Naomi Robichaud offre uno sguardo dettagliato all’integrazione di Adobe Commerce con Amazon Sales Channel in questa sessione di Adobe Developers Live, registrata il 6 novembre 2023. Scopri la flessibilità dell’interfaccia utente di Adobe Commerce e degli strumenti di estensibilità basati sugli eventi, e come utilizzarli per creare applicazioni di e-commerce digitali adattabili e affidabili in un ambiente nativo per il cloud. Un must-watch per gli sviluppatori che desiderano informazioni pratiche sulle integrazioni di digital commerce.
 solution: Commerce
 feature-set: Commerce
 feature: Integration, Eventing, Extensibility
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-14428
 thumbnail: 3425636.jpeg
 exl-id: 644bfa93-8ecf-469e-b0bb-226bad3fd56d
 duration: 1082
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Breakout Commerce di Adobe Developers Live 2 - novembre 2023
 
-Naomi Robichaud offre uno sguardo dettagliato all’integrazione di Adobe Commerce con il Sales Channel Amazon in questa sessione di Adobe Developers Live, registrata il 6 novembre 2023. Scopri la flessibilità dell’interfaccia utente di Adobe Commerce e degli strumenti di estensibilità basati sugli eventi, e come utilizzarli per creare applicazioni di e-commerce digitali adattabili e affidabili in un ambiente nativo per il cloud. Un must-watch per gli sviluppatori che desiderano informazioni pratiche sulle integrazioni di digital commerce.
+Naomi Robichaud offre uno sguardo dettagliato all’integrazione di Adobe Commerce con Amazon Sales Channel in questa sessione di Adobe Developers Live, registrata il 6 novembre 2023. Scopri la flessibilità dell’interfaccia utente di Adobe Commerce e degli strumenti di estensibilità basati sugli eventi, e come utilizzarli per creare applicazioni di e-commerce digitali adattabili e affidabili in un ambiente nativo per il cloud. Un must-watch per gli sviluppatori che desiderano informazioni pratiche sulle integrazioni di digital commerce.
 
 Continua la conversazione in [Experience League Communities](https://adobe.ly/46M7lZK).
 

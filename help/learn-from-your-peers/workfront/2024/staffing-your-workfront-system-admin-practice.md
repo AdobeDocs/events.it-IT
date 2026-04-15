@@ -3,6 +3,7 @@ title: Webinar di esercitazione per l'amministratore di sistema Workfront
 description: Scopri dagli esperti Dell e Adobe Workfront l’importanza strategica degli amministratori di sistema nel nostro webinar on-demand. Scopri suggerimenti su come garantire un headcount a tempo pieno, sfruttare il ruolo di amministratore di gruppo e definire profili di ruolo per una configurazione e una scalabilità efficaci in Adobe Workfront.
 topic: Administration
 solution: Workfront
+feature: System Setup and Administration, Work Management
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
 exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,7 @@
 title: Miglioramento della categorizzazione dei dati in Marketo Engage utilizzando modelli di intelligenza artificiale ottimizzati
 description: Scopri come utilizzare modelli di intelligenza artificiale ottimizzati in Marketo Engage per rilevare lo spam, abbinare i titoli dei processi agli utenti tipo e categorizzare i campi di testo aperti con i webhook.
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -41,7 +42,7 @@ Scopri di più su,
 
 ## Risorse aggiuntive
 
-* [Modelli di IA ottimizzati per Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
+* [Modelli di intelligenza artificiale ottimizzati per Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
 * [Guida rapida a Webhook](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
 * [Integrazione di ChatGPT con Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
 * [Guida ai passaggi del flusso self-service](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

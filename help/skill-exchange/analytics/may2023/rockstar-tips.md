@@ -4,6 +4,7 @@ description: Non potevi venire a Las Vegas? Beh, Vegas sta venendo da te! Il Roc
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -13,7 +14,7 @@ thumbnail: 3420946.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 010aac14-f967-4d70-90da-da01fb8eceaa
 duration: 2184
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

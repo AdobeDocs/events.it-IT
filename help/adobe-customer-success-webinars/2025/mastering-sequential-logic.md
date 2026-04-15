@@ -2,21 +2,23 @@
 title: Padroneggiare la logica sequenziale in AA e CJA - Un framework visivo
 description: Scopri come padroneggiare la logica sequenziale in Adobe Analytics e Customer Journey Analytics con un framework visivo per tradurre gli scenari in piani utilizzabili e creare segmenti sequenziali efficaci.
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-
-# Padroneggiare la logica sequenziale in AA e CJA: un framework visivo
+# Mastering della logica sequenziale in AA e CJA: un framework visivo
 
 Acquisisci un framework visivo per tradurre gli scenari di analisi sequenziale in un piano e quindi crea i giusti segmenti sequenziali (filtri).
 
@@ -26,7 +28,7 @@ Acquisisci un framework visivo per tradurre gli scenari di analisi sequenziale i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443129/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Logica sequenziale in Analytics** La sessione si è concentrata sulla masterizzazione della logica sequenziale utilizzando l&#39;operatore &quot;then&quot; per abilitare l&#39;analisi di alto valore. Questo implica comprendere come definire e analizzare le sequenze di eventi nei dati.
 

@@ -2,6 +2,7 @@
 title: Padronanza del punteggio della persona con Marketo Engage - Sfumature localizzate in un framework globale
 description: In qualità di amministratore, puoi sviluppare il modello di punteggio persona di Marketo Engage in base al valore aziendale reale degli elementi di punteggio rispetto agli altri. Ma cosa succede se il valore aziendale varia nei diversi mercati? Come si consente l’influenza locale senza perdere coerenza all’interno dell’organizzazione? Scopri come trova l’equilibrio inserendo la flessibilità locale nel modello di punteggio.
 feature: Person Scoring
+topic: Development
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14816
 thumbnail: 3426914.jpeg
 solution: Marketo Engage
 exl-id: 673a6d3a-1a8e-4a2e-b2df-528ace76d743
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -30,13 +31,13 @@ In questo webinar imparerai:
 * Impostare un modello di punteggio persona trasparente e scalabile
 * Il modo migliore per implementarlo in Marketo Engage, consentendo la flessibilità del mercato locale e mantenendo il modello logico e coerente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457447/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
 ## Risorse condivise nel webinar
 
 * Thread del webinar della community della nazione di marketing - [Discussione](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Punteggio persona/lead con esercizi di influenza locale - [Scarica foglio di lavoro](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * L&#39;elenco completo delle regole di punteggio lead - [Visualizza foglio di lavoro](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Libreria importazione programmi Marketo Engage - [Documentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=it){target="_blank"}
-* Punteggio di lead tutto da sapere sul processo prima, durante e dopo - [Webinar on-demand](https://business.adobe.com/it/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Libreria importazione programmi Marketo Engage - [Documentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Punteggio di lead tutto da sapere sul processo prima, durante e dopo - [Webinar on-demand](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Punteggio del campione in testa - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

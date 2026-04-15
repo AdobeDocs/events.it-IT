@@ -1,6 +1,7 @@
 ---
 title: Progettazione di un modello operativo per il successo di Content Supply chain
 description: Progettare un modello operativo efficace per il successo dei contenuti supply chain. Scopri la struttura del team, la governance e l’ottimizzazione dei processi.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3736
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20312
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 52dbf621-de61-428b-921b-84f249fd2823
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '118'
 ht-degree: 1%
 
 ---
-
 
 # Progettazione di un modello operativo per il successo di Content Supply chain
 

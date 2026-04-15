@@ -1,25 +1,26 @@
 ---
-title: Un Percorso reale ai Edge Delivery Services
+title: Un Percorso reale a Edge Delivery Services
 description: La collaborazione di Ensemble con il PGA Tour sfrutta i servizi di distribuzione headless e edge di Adobe Experience Manager per gestire e aggiornare in modo efficiente 16 siti attivi, sottolineando modularità, riutilizzabilità e installazione rapida, con piani futuri per migliorare la gestione dei contenuti utilizzando Helix 5 e l’editor universale.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 820
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16538
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 8f972775-9641-475d-83dc-f8d7e7e19a89
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
+# Un Percorso reale a Edge Delivery Services
 
-# Un Percorso reale ai Edge Delivery Services
-
-Mark McConnell, Lead Software Developer di Adobe Partner Ensemble, condivide con noi alcuni esempi di come portare i clienti nell&#39;ecosistema dei Edge Delivery Services. Scopri in che modo questa innovazione integra gli investimenti di Adobe Experience Manager per il successo nel mondo reale.
+Mark McConnell, Lead Software Developer presso l’Adobe Partner Ensemble, condivide con noi alcuni esempi di come coinvolgere i clienti nell’ecosistema Edge Delivery Services. Scopri in che modo questa innovazione integra gli investimenti di Adobe Experience Manager per il successo nel mondo reale.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439421/?learn=on&enablevpops)
 
@@ -27,11 +28,11 @@ Mark McConnell, Lead Software Developer di Adobe Partner Ensemble, condivide con
 
 Continua la conversazione nella [discussione](https://adobe.ly/4ffJtT8) della community Adobe Developers Live.
 
-## Punti chiave da eliminare
+## Concetti chiave
 
-* **Presentatore e sfondo** Mark McConnell, uno sviluppatore di software con Ensemble, ha discusso del loro lavoro con il PGA Tour utilizzando i prodotti Adobe.
+* **Presenter e sfondo** Mark McConnell, uno sviluppatore di software con Ensemble, ha discusso del loro lavoro con il PGA Tour utilizzando i prodotti Adobe.
 * **Panoramica del progetto** Ensemble collabora con il PGA Tour da oltre tre anni, sviluppando il sito web principale, le app mobili e vari siti web specifici per i tornei.
-* **Tecnologie utilizzate** L&#39;attenzione è stata focalizzata sull&#39;utilizzo dei servizi headless e Edge Delivery di Adobe Experience Manager (AEM) per soddisfare le esigenze del Tour PGA.
+* **Tecnologie utilizzate** L&#39;attenzione era focalizzata sull&#39;utilizzo dei servizi headless e Edge Delivery di Adobe Experience Manager (AEM) per soddisfare le esigenze della presentazione PGA.
 * **Edge Delivery Services**
    * Utilizzato per supportare 16 siti attivi con circa 500 pagine.
    * Configurazione rapida abilitata e aggiornamenti frequenti con risorse di sviluppo minime.
@@ -46,4 +47,3 @@ Continua la conversazione nella [discussione](https://adobe.ly/4ffJtT8) della co
    * Aggiornamento dei siti ai nuovi domini live AMP e pagina AMP.
    * Esplorare l’utilizzo di Helix 5 e dell’editor universale per una migliore gestione dei contenuti.
 * **Fattori di successo** Il Collaboration tra Ensemble, PGA Tour, Adobe e la sinergia tra i siti AEM e i servizi di consegna Edge ha contribuito al loro successo.
-

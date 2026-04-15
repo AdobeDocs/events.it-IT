@@ -1,19 +1,21 @@
 ---
 title: Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas
 description: Scopri come integrare dashboard di pianificazione, flusso di lavoro e Canvas in Workfront per una gestione dei progetti semplificata.
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3585
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20609
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 1038eeb7-584f-421c-88cd-9084746a5974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 2%
 
 ---
-
 
 # Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas
 
@@ -21,8 +23,6 @@ Le organizzazioni di successo non trattano la pianificazione, l’esecuzione e i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Cerchi altre risorse dall’evento, inclusa la presentazione condivisa durante la sessione? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=it).
+Cerchi altre risorse dall’evento, inclusa la presentazione condivisa durante la sessione? Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
-
-

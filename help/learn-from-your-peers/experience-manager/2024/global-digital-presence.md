@@ -2,6 +2,8 @@
 title: Sblocco riuscito su larga scala con una combinazione globale
 description: Scalabilità dei contenuti globali con AEM utilizzando componenti personalizzati, blueprint, flussi di lavoro e frammenti per un controllo efficiente, l’approvazione e la flessibilità regionale.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Unisciti a noi per questo webinar da non perdere in cui due dei nostri utenti AE
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Personalizzazioni dei componenti e amministrazione** Questi consentono di soddisfare esigenze e requisiti regionali, consentendo la personalizzazione specifica di aree geografiche o a livello globale, utile per soddisfare esigenze diverse in un&#39;unica posizione.
 

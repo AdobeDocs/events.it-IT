@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 22 NOVEMBRE - Primi 10 suggerimenti per velocizzare il tuo sito Adobe Experience Manager
 description: Primi 10 suggerimenti per velocizzare il tuo sito Adobe Experience ManagerLe prestazioni elevate sono fondamentali per il successo dell'esperienza. In questa sessione, condivideremo con te le nostre migliori 10 best practice per aiutare i tuoi sviluppatori a rendere più veloci i siti web di Adobe Experience Manager.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,7 +14,7 @@ kt: 11476
 thumbnail: 3411300.jpeg
 exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
 duration: 2665
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -24,4 +25,4 @@ ht-degree: 0%
 
 Prestazioni eccellenti sono fondamentali per il successo dell’esperienza. In questa sessione, condivideremo con te le nostre migliori 10 best practice per aiutare i tuoi sviluppatori a rendere più veloci i siti web di Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457183/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

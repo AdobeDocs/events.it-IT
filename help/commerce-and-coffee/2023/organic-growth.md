@@ -2,6 +2,7 @@
 title: Commerce & Coffee - Crescita organica
 description: Scopri 7 strategie per stimolare la crescita dell’eCommerce organico con Corey Gelato, tra cui SEO (Search Engine Optimization), social media e ottimizzazione in loco, oltre a strumenti Adobe Commerce come la riscrittura degli URL, la generazione di sitemap e la gestione dei metadati.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -12,9 +13,9 @@ thumbnail: 3416128.jpeg
 event-start-time: 2023-2-23 08:30-8
 exl-id: 01debc18-7558-4fa9-978a-0d6a336bcba7
 duration: 3641
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

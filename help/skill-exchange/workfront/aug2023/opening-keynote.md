@@ -1,6 +1,8 @@
 ---
 title: Apertura di una nota chiave
-description: In questa sessione, Richard Whitehead, Director of Product Marketing, illustrerà l'evoluzione di Workfront, presentando le caratteristiche salienti, le funzionalità nuove e disponibili e le innovazioni del prodotto.
+description: In questa sessione, Richard Whitehead, Director of Product Marketing, ti illustrerà l'evoluzione di Workfront, soffermandosi sui punti salienti, le nuove funzionalità disponibili e le ultime innovazioni dei prodotti.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-14610
 thumbnail: 3425894.jpeg
 exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
 duration: 694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -18,6 +20,6 @@ ht-degree: 0%
 
 # Ago 2023 Workfront Apertura Keynote
 
-In questa sessione, Richard Whitehead, Director of Product Marketing, illustrerà l&#39;evoluzione di Workfront, presentando le caratteristiche salienti, le funzionalità nuove e disponibili e le innovazioni del prodotto.
+In questa sessione, Richard Whitehead, Director of Product Marketing, ti illustrerà l&#39;evoluzione di Workfront, soffermandosi sui punti salienti, le nuove funzionalità disponibili e le ultime innovazioni dei prodotti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453837/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)

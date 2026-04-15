@@ -2,19 +2,21 @@
 title: Vincere la sponsorizzazione Executive per i progetti Adobe Experience Platform
 description: Scopri come trasformare i progetti a passione in iniziative di impatto allineando la visione con gli obiettivi di business, ottenendo l’adesione dei dirigenti e utilizzando AEP/RT-CDP per promuovere il valore.
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Vincere la sponsorizzazione esecutiva per i progetti Adobe Experience Platform (AEP)
 
@@ -28,7 +30,7 @@ Scopri come sbloccare il potenziale dei progetti di passione e come navigare nel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Funzionalità di base di AEP e Real Time-CDP** Queste piattaforme offrono profili utilizzabili in tempo reale, integrazione e unificazione dei dati, segmentazione dei clienti, personalizzazione, analisi predittive e governance dei dati avanzata. Queste funzionalità possono aiutare le organizzazioni a ridurre i costi, aumentare l&#39;efficienza e favorire la crescita dei profitti.
 

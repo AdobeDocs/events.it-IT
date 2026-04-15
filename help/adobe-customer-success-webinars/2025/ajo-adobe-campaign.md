@@ -3,24 +3,26 @@ title: Modernizzare le campagne con Adobe Journey Optimizer e Adobe Campaign
 description: Scopri come armonizzare Adobe Journey Optimizer e Adobe Campaign per esperienze multicanale e flussi di lavoro efficienti.
 role: Admin, Developer, Leader, User
 solution: Journey Optimizer, Campaign
+feature: Journeys, Email Design, Deliverability
+topic: Personalization, Integrations
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2354
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-20001
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: a0ccec4f-bab0-47f2-b108-7f51936bc974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---
-
 
 # Modernizzazione dell’esecuzione della campagna: Adobe Journey Optimizer + Adobe Campaign in Harmony
 
 Scopri come Adobe Journey Optimizer e Adobe Campaign collaborano per trasformare l’esecuzione della campagna. Questa sessione illustra la sinergia tra le funzionalità di coinvolgimento in tempo reale di Journey Optimizer e la solida gestione di Campaign. Strategie pratiche per semplificare i flussi di lavoro, aumentare l’agilità e approfondire le conoscenze dei clienti, garantendo interazioni significative. Scopri come armonizzare questi strumenti per esperienze dirette e cross-channel, migliorando la personalizzazione e la tempistica per ogni interazione con il cliente. Questa integrazione consente di fornire campagne di impatto in modo più rapido e preciso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477901/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
 
 ## Conclusioni principali
 

@@ -1,6 +1,8 @@
 ---
 title: Potenziare i team snelli
 description: Scopri come le integrazioni di prodotti possono semplificare la gestione dei flussi di lavoro digitali, migliorare la collaborazione tra team, garantire di avere un team efficace e scalare i processi aziendali.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
 exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '775'
 ht-degree: 0%
 
 ---
@@ -20,13 +22,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427800/?learn=on)
 
-Questo webinar illustra le sfide affrontate dai team snelli e fornisce strategie per superarle. Sottolinea l&#39;importanza di semplificare i compiti, aumentare l&#39;efficienza, migliorare la qualità della vita lavorativa, ridurre le lacune in termini di competenze e migliorare la collaborazione e la comunicazione. Il documento evidenzia inoltre varie integrazioni e funzioni di Adobe Solutions che possono aiutare a semplificare i processi e ottimizzare i flussi di lavoro. Inoltre, sottolinea l’importanza della formazione, della documentazione e della definizione di standard e governance per migliorare l’efficienza e la scalabilità del team. Nel complesso, le strategie delineate nel documento mirano a consentire ai team snelli di ottenere di più con risorse limitate.
+Questo webinar illustra le sfide affrontate dai team snelli e fornisce strategie per superarle. Sottolinea l&#39;importanza di semplificare i compiti, aumentare l&#39;efficienza, migliorare la qualità della vita lavorativa, ridurre le lacune in termini di competenze e migliorare la collaborazione e la comunicazione. Il documento evidenzia inoltre varie integrazioni e funzioni delle soluzioni Adobe che possono contribuire a semplificare i processi e ottimizzare i flussi di lavoro. Inoltre, sottolinea l’importanza della formazione, della documentazione e della definizione di standard e governance per migliorare l’efficienza e la scalabilità del team. Nel complesso, le strategie delineate nel documento mirano a consentire ai team snelli di ottenere di più con risorse limitate.
 
 ## In evidenza
 
 * Le sfide che devono affrontare i team snelli includono limitazioni delle risorse, carenze di competenze e esigenze di formazione, gestione dell&#39;esaurimento e del carico di lavoro, nonché difficoltà di collaborazione e comunicazione.
 
-* Per superare queste sfide, i team snelli possono semplificare le attività, aumentare l’efficienza, migliorare la qualità della vita, ridurre le lacune di competenze e sfruttare le funzionalità e le integrazioni principali dei prodotti offerte da Adobe Solutions.
+* Per superare queste sfide, i team snelli possono semplificare le attività, aumentare l’efficienza, migliorare la qualità della vita, ridurre le lacune di competenze e sfruttare le funzionalità e le integrazioni principali dei prodotti offerte dalle soluzioni Adobe.
 
 * Adobe Creative Cloud offre funzioni come le librerie Creative Cloud, che consentono agli utenti di archiviare e gestire le risorse in una posizione centralizzata, e integrazioni con piattaforme di terze parti come Microsoft Teams e Slack per la collaborazione e processi creativi efficienti.
 
@@ -34,7 +36,7 @@ Questo webinar illustra le sfide affrontate dai team snelli e fornisce strategie
 
 * La formazione e la documentazione, insieme alla definizione di standard e governance, sono fondamentali per abilitare i team snelli, promuovere un miglioramento continuo e garantire scalabilità ed efficienza. Si può inoltre istituire un centro di eccellenza per promuovere le migliori pratiche e la condivisione delle conoscenze.
 
-## In che modo le librerie Creative Cloud possono essere utili per la gestione delle risorse?
+## In che modo le librerie Creative Cloud consentono di gestire le risorse?
 
 * Archiviazione centralizzata: le librerie Creative Cloud consentono agli utenti di archiviare e gestire le proprie risorse, come immagini, grafica, colori e stili di testo, in una posizione centralizzata. In questo modo i membri del gruppo possono accedere e utilizzare facilmente le risorse in vari progetti e applicazioni.
 
@@ -44,9 +46,9 @@ Questo webinar illustra le sfide affrontate dai team snelli e fornisce strategie
 
 * Aggiornamenti in tempo reale e Collaboration: le librerie Creative Cloud facilitano la collaborazione tra i membri del gruppo consentendo agli utenti di condividere librerie o risorse con altri utenti. In questo modo, tutti possono lavorare con lo stesso set di materiali e aggiornamenti in tempo reale. Quando un membro del team aggiorna una risorsa in una libreria condivisa, la modifica è automaticamente disponibile per tutti coloro che vi accedono.
 
-* Controllo della versione: le librerie di Creative Cloud semplificano la gestione di diverse versioni delle risorse. Questo riduce il rischio di incoerenze con le risorse e garantisce che i membri del gruppo utilizzino sempre la versione più recente.
+* Controllo della versione: le librerie Creative Cloud semplificano la gestione di diverse versioni delle risorse. Questo riduce il rischio di incoerenze con le risorse e garantisce che i membri del gruppo utilizzino sempre la versione più recente.
 
-Nel complesso, le librerie Creative Cloud consentono di semplificare la gestione delle risorse, migliorare la collaborazione e aumentare l&#39;efficienza del processo creativo.
+Nel complesso, le librerie Creative Cloud consentono di semplificare la gestione delle risorse, migliorare la collaborazione e aumentare l’efficienza del processo creativo.
 
 ## Quali sono le sfide da affrontare quando si lavora con un team snello?
 
@@ -60,6 +62,6 @@ Le sfide che si devono affrontare quando si lavora con un team snello includono:
 
 * Collaboration e comunicazione: una collaborazione e una comunicazione efficaci sono fondamentali per garantire che i team snelli funzionino in modo efficiente. Tuttavia, coordinare diversi progetti e garantire l’allineamento di tutti i membri del gruppo può essere difficile senza personale sufficiente per gestire diversi flussi di lavoro. Questa sfida è complicata se il team è distribuito o lavora in remoto.
 
-* Queste sfide possono essere superate semplificando le attività, aumentando l’efficienza, migliorando la qualità della vita, riducendo le lacune di competenze e sfruttando le funzionalità e le integrazioni chiave dei prodotti fornite da Adobe Solutions.
+* Queste sfide possono essere superate semplificando le attività, aumentando l’efficienza, migliorando la qualità della vita, riducendo le lacune di competenze e sfruttando le funzionalità e le integrazioni chiave dei prodotti fornite dalle soluzioni Adobe.
 
 * Inoltre, la definizione di standard e governance, la fornitura di formazione e documentazione e la creazione di un centro di eccellenza possono contribuire a superare queste sfide e a migliorare l’efficienza e la produttività dei team snelli.

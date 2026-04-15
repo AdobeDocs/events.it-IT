@@ -1,19 +1,21 @@
 ---
 title: 'Authoring dei documenti su larga scala: la base per esperienze intelligenti e ottimizzate con l’intelligenza artificiale'
 description: Esplora l’authoring di documenti pronti per l’intelligenza artificiale per esperienze globali scalabili con Adobe Experience Manager.
+feature: Edge Delivery Services, Authoring
+topic: Integrations, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1012
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19990
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 8cd6e066-5887-49dc-b80a-59fc417c5e3b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Authoring dei documenti su larga scala: la base per esperienze intelligenti e ottimizzate con l’intelligenza artificiale
 
@@ -21,7 +23,7 @@ Scopri come Adobe Experience Manager consente l’authoring dei documenti scalab
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477753/?learn=on&enablevpops)
 
-Questa sessione - Document Authoring at Scale: The Foundation for Intelligent, AI-Optimized Experiences - presenta Andreas Haller, Principal Solution Architect di Cognizant Netcentric, registrato in diretta da Basilea. Scopri in che modo Adobe Experience Manager Document Authoring supporta esperienze globali pronte per l’intelligenza artificiale in tutti gli ecosistemi aziendali. Scopri come le basi scalabili e basate su documenti si integrano con AEM Assets, i processi della supply chain basati su Workfront e i flussi di lavoro di traduzione per creare varianti di contenuto in diversi mercati e lingue, creando la base per l’arricchimento semantico e l’ottimizzazione basata sull’intelligenza artificiale.
+Questa sessione - Document Authoring at Scale: The Foundation for Intelligent, AI-Optimized Experiences - presenta Andreas Haller, Principal Solution Architect di Cognizant Netcentric, registrato in diretta da Basilea. Scopri in che modo Adobe Experience Manager Document Authoring supporta esperienze globali pronte per l’intelligenza artificiale in tutti gli ecosistemi aziendali. Scopri come le basi scalabili e basate su documenti si integrano con AEM Assets, i processi supply chain basati su Workfront e i flussi di lavoro di traduzione per creare varianti di contenuto in diversi mercati e lingue, creando la base per l’arricchimento semantico e l’ottimizzazione basata sull’intelligenza artificiale.
 
 Un ringraziamento speciale ai nostri sponsor Algolia e Ensemble per il supporto di Adobe Developers Live 2025.
 

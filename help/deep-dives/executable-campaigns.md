@@ -1,6 +1,8 @@
 ---
 title: 'Campagne eseguibili: scopri come i file eseguibili possono aumentare l’efficienza e l’impatto'
-description: Unisciti a Chris Willis, Courtny Edwards-Jones e Jane Musatova in questo approfondimento su Adobe Champion per scoprire come le campagne eseguibili in Marketo possono semplificare i processi, garantire l’accuratezza dei dati e automatizzare flussi di lavoro complessi, con esempi pratici e una particolare attenzione alla riduzione di errori e arretrati.
+description: Unisciti a Chris Willis, Courtny Edwards-Jones e Jane Musatova in questo Adobe Champion Deep Dive per scoprire come le campagne eseguibili in Marketo possono semplificare i processi, garantire l’accuratezza dei dati e automatizzare flussi di lavoro complessi, con esempi pratici e un’attenzione alla riduzione di errori e arretrati.
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---

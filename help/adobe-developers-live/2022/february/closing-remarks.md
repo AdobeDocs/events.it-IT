@@ -1,13 +1,15 @@
 ---
 title: Note di chiusura
-description: Chiudi Adobe Developers Live Commerce con Sr. Director, Product Management Chris Hedge.
+description: Chiudi Adobe Developers Live Commerce con il Direttore Sr. Chris Hedge, responsabile del prodotto.
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: User
 level: Beginner
 kt: 9787
 thumbnail: 340625.jpeg
 exl-id: 38745328-d210-4e06-8bb3-a83a1a922b3c
 duration: 724
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -16,6 +18,6 @@ ht-degree: 0%
 
 # Note di chiusura
 
-Chiudi Adobe Developers Live Commerce con Sr. Director, Product Management Chris Hedge.
+Chiudi Adobe Developers Live Commerce con il Direttore Sr. Chris Hedge, responsabile del prodotto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

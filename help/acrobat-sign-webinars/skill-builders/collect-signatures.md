@@ -2,6 +2,7 @@
 title: Raccogli più firme con un clic
 description: Scopri in che modo la funzione Send in Bulk di Acrobat Sign può farti risparmiare tempo.
 feature: Sign
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1108
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15297
 exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Scopri in che modo la funzione Send in Bulk di Acrobat Sign può farti risparmiare tempo. Se hai bisogno di più persone per firmare copie univoche di un aggiornamento della policy a livello aziendale, un NDA o qualsiasi altro documento, Send in Bulk ti consente di preparare il file una volta, inviare a più firmatari con un clic e tenere traccia facilmente delle risposte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454900/?learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## Punti chiave
 

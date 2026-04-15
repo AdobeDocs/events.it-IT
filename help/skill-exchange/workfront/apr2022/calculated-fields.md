@@ -2,13 +2,15 @@
 title: Suggerimenti - Campi Calcolati Che Tutti Dovrebbero Conoscere
 description: Vi siete mai trovati a scorrere più pagine di un flusso di aggiornamento del progetto solo per trovare la data in cui il progetto è stato spostato nella versione corrente? Si tratta di un ottimo ... (le descrizioni devono essere comprese tra 60 e 160 caratteri)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

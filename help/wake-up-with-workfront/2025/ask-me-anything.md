@@ -1,6 +1,8 @@
 ---
 title: Svegliati Con Workfront - Chiedi Qualsiasi Cosa Registri
 description: Massimizzare la produttività con Workfront Utilizza best practice, milestone, progetti e integrazioni. Consente di gestire le risorse, la verifica e le impostazioni di sistema. incoraggiare l'adozione da parte degli utenti e semplificare la comunicazione.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3404
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17213
 exl-id: 11842d50-a898-4326-be35-634ecaa94487
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Nel nostro primo webinar Wake Up with Workfront dell’anno, Adobe Workfront Bus
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443085/?learn=on&enablevpops)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Best practice per la gestione dei progetti**
 

@@ -1,16 +1,18 @@
 ---
 title: Canali Di Marketing, Utilizzati Responsabilmente
-description: Scopri l’impatto di ogni punto di contatto del tuo marchio sul percorso dei clienti con i canali di marketing e i modelli di attribuzione. In questa sessione... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
+description: Scopri l’impatto di ogni punto di contatto del tuo marchio sul percorso dei clienti con i canali di marketing e i modelli di attribuzione.In questa sessione... (Le descrizioni devono essere comprese tra 60 e 160 caratteri)
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
 duration: 1952
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
