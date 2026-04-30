@@ -23,7 +23,7 @@ Guarda la registrazione on-demand per scoprire strategie pratiche, configurazion
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484927/?learn=on&enablevpops)
 
-Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238).
+Cerchi altre risorse condivise durante l&#39;evento?  Controlla il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?profile.language=it&tid=250238).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 

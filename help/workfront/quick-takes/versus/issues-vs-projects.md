@@ -23,9 +23,9 @@ Il tuo &quot;CSM Workfront on-demand&quot; è tornato! In questo versus! Nell&#3
 
 Desideri ulteriori informazioni sulla gestione del lavoro con problemi, Forms personalizzato e modelli di progetto? Consulta altre risorse:
 
-* Scopri come un cliente gestisce il proprio lavoro in azione con [Power Templates: How IDEXX Reconfigured Project Templates for Global Success](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)!
+* Scopri come un cliente gestisce il proprio lavoro in azione con [Power Templates: How IDEXX Reconfigured Project Templates for Global Success](https://experienceleague.adobe.com/it/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)!
 * Indipendentemente dalle tue preferenze, scopri come [creare rapporti personalizzati per la gestione dei problemi](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) come un professionista.
 
-Interessati a nuove idee e nuovi approcci? Registrati ai prossimi workshop: [Pagina eventi Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront). Speriamo di vederti presto!
+Interessati a nuove idee e nuovi approcci? Registrati ai prossimi workshop: [Pagina eventi Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront). Speriamo di vederti presto!
 
 
