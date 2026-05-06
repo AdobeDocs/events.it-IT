@@ -3,10 +3,10 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3363513b545097376ce0b915c3cf9fe74ca3df45
+source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
 workflow-type: tm+mt
-source-wordcount: '886'
-ht-degree: 0%
+source-wordcount: '949'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/26-q2-release-webinar.md" title="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483385/?format=jpeg&nocache=1776187709343" alt="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483385/?format=jpeg&nocache=1778106658843" alt="Webinar sulla versione del secondo trimestre 2026 di Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,23 +52,27 @@ Questa serie di video offre una panoramica chiara e concisa di ogni versione tri
 
 ## Riavvolgimento workshop
 
-Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi selezionati. Ogni mese vengono organizzate sessioni live gratuite su una vasta gamma di argomenti per aiutarti a ottenere il massimo da Workfront. Ti sei perso un evento live? Nessun problema! Registrazioni on-demand per presentare le storie dei clienti, le best practice consolidate e le preziose lezioni apprese. Vuoi connetterti in tempo reale? Partecipa ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri utenti. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
+Il mese di maggio segna l&#39;inizio della stagione delle lauree, un momento per nuove prospettive e per imparare da coloro che ci sono stati prima. Per festeggiare, mettiamo in evidenza una selezione di sessioni con clienti Adobe Workfront esperti che condividono consigli pratici, esperienze reali e informazioni utili da applicare immediatamente. I video di questo mese includono un mix di contenuti nuovi e sessioni di spicco del passato che rimangono altrettanto attuali.
+
+Vuoi saperne di più? Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi on-demand curata da Dell. Utilizza il menu di navigazione a sinistra per sfogliare gli argomenti in Riavvolgimento officina, in cui le sessioni sono raggruppate per Fusion, Planning e Workflow per aiutarti a trovare rapidamente contenuti personalizzati per le tue esigenze.
+
+E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- CARDS 
 
-* workshop-rewind/planning/planning-workflow-canvas.md
-* workshop-rewind/workflow/rethink-resource-management.md
-* workshop-rewind/fusion/fusion-decoded.md
+* workshop-rewind/workflow/power-templates.md 
+* workshop-rewind/workflow/lessons-learned-admins.md
+* workshop-rewind/fusion/schneider-electric-efficiency.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront's Power Trio - Connecting Planning, Workflow and Canvas Dashboards">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Power Templates - How IDEXX Reconfigured Project Templates for Global Success">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1776187709981" alt="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas"
+                    <a href="workshop-rewind/workflow/power-templates.md" title="Modelli di potenza - Come IDEXX ha riconfigurato i modelli di progetto per il successo globale" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477115/?format=jpeg&nocache=1778106659276" alt="Modelli di potenza - Come IDEXX ha riconfigurato i modelli di progetto per il successo globale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,22 +80,22 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/planning/planning-workflow-canvas.md" target="_blank" rel="referrer" title="Workfront Power Trio - Collegamento dei dashboard di Planning, Workflow e Canvas">Power Trio di Workfront - Connessione dei dashboard di Planning, Workflow e Canvas</a>
+                        <a href="workshop-rewind/workflow/power-templates.md" target="_blank" rel="referrer" title="Modelli di potenza - Come IDEXX ha riconfigurato i modelli di progetto per il successo globale">Modelli di potenza - Come IDEXX ha riconfigurato i modelli di progetto per il successo globale</a>
                     </p>
-                    <p class="is-size-6">Scopri come integrare dashboard di pianificazione, flusso di lavoro e Canvas in Workfront per una gestione dei progetti semplificata.</p>
+                    <p class="is-size-6">Approccio basato su modelli per campagne globali con scenari di localizzazione.</p>
                 </div>
-                <a href="workshop-rewind/planning/planning-workflow-canvas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/power-templates.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Rethinking Resource Management the Agile Way at Advisors Excel">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Lessons from Workfront Admins">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Ripensare la gestione delle risorse nel modo agile in Advisor Excel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1776187709989" alt="Ripensare la gestione delle risorse nel modo agile in Advisor Excel"
+                    <a href="workshop-rewind/workflow/lessons-learned-admins.md" title="Lezioni dagli amministratori di Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477095/?format=jpeg&nocache=1778106659279" alt="Lezioni dagli amministratori di Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,22 +103,22 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/rethink-resource-management.md" target="_blank" rel="referrer" title="Ripensare la gestione delle risorse nel modo agile in Advisor Excel">Ripensare la gestione delle risorse nel modo agile in Advisor Excel</a>
+                        <a href="workshop-rewind/workflow/lessons-learned-admins.md" target="_blank" rel="referrer" title="Lezioni dagli amministratori di Workfront">Lezioni dagli amministratori di Workfront</a>
                     </p>
-                    <p class="is-size-6">Scopri come Advisors Excel ha trasformato la gestione delle risorse utilizzando le procedure agili in Adobe Workfront.</p>
+                    <p class="is-size-6">Scopri le informazioni fornite dagli amministratori esperti di Workfront sulla gestione dei flussi di lavoro e sull’adozione efficace dei sistemi.</p>
                 </div>
-                <a href="workshop-rewind/workflow/rethink-resource-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
+                <a href="workshop-rewind/workflow/lessons-learned-admins.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Fusion Decoded - What It Is and Why Every Org Can Use It">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Measuring What Matters - How Schneider Electric Drives Workfront Efficiency with Fusion">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1776187709976" alt="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo"
+                    <a href="workshop-rewind/fusion/schneider-electric-efficiency.md" title="Misurazione di ciò che conta - Come Schneider Electric promuove l&apos;efficienza di Workfront con Fusion" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481820/?format=jpeg&nocache=1778106659287" alt="Misurazione di ciò che conta - Come Schneider Electric promuove l&apos;efficienza di Workfront con Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,11 +126,11 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/fusion/fusion-decoded.md" target="_blank" rel="referrer" title="Fusion Decoded: cos’è e perché ogni organizzazione può utilizzarlo">Fusion Decodificato - Che cos'è e perché ogni organizzazione può utilizzarlo</a>
+                        <a href="workshop-rewind/fusion/schneider-electric-efficiency.md" target="_blank" rel="referrer" title="Misurazione di ciò che conta - Come Schneider Electric promuove l&apos;efficienza di Workfront con Fusion">Misurazione degli aspetti - In che modo Schneider Electric promuove l'efficienza di Workfront con Fusion</a>
                     </p>
-                    <p class="is-size-6">Workfront Fusion e illustra alcuni esempi in tempo reale per aiutarci a demistificare Fusion.</p>
+                    <p class="is-size-6">Scoprite come Schneider Electric utilizza Workfront Fusion per semplificare i processi, risparmiare tempo e migliorare l'efficienza nei loro studi creativi.</p>
                 </div>
-                <a href="workshop-rewind/fusion/fusion-decoded.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/fusion/schneider-electric-efficiency.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -134,6 +138,8 @@ Esplora le ultime novità della community di Adobe Workfront tramite la selezion
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
 
 ## Riprese rapide
 
@@ -145,18 +151,18 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
 
 <!-- CARDS
 
-* quick-takes/top3/blueprints.md
-* quick-takes/versus/groups-vs-teams.md
+* quick-takes/top3/office-hours.md
+* quick-takes/versus/issues-vs-projects.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 – Creative Approaches with Blueprints">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 Approaches to Office Hours">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="quick-takes/top3/blueprints.md" title="Primi 3 - Approcci Creative con blueprint" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465320/?captions=ita&format=jpeg&nocache=1776187710590" alt="Primi 3 - Approcci Creative con blueprint"
+                    <a href="quick-takes/top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,22 +170,22 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/top3/blueprints.md" target="_blank" rel="referrer" title="Primi 3 - Approcci Creative con blueprint">Primi 3 - Approcci Creative con blueprint</a>
+                        <a href="quick-takes/top3/office-hours.md" target="_blank" rel="referrer" title="Primi 3 approcci alle ore ufficio">Primi 3 approcci alle ore ufficio</a>
                     </p>
-                    <p class="is-size-6">Scopri come configurare rapidamente Workfront Blueprint con nuovi modelli, dashboard e suggerimenti per i test delle sandbox.</p>
+                    <p class="is-size-6">Scopri suggerimenti, risorse e best practice per la community su come utilizzare Adobe Workfront Office Hours in modo efficace per promuovere l’adozione e il coinvolgimento.</p>
                 </div>
-                <a href="quick-takes/top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="quick-takes/top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Versus! – Groups vs. Teams">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="VS. - Issues vs. Projects">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="quick-takes/versus/groups-vs-teams.md" title="Contro! - Gruppi e team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467361/?captions=ita&format=jpeg&nocache=1776187710595" alt="Contro! - Gruppi e team"
+                    <a href="quick-takes/versus/issues-vs-projects.md" title="RISPETTO A - Problemi e progetti" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3484991/?format=jpeg&nocache=1778106659572" alt="RISPETTO A - Problemi e progetti"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,11 +193,11 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/groups-vs-teams.md" target="_blank" rel="referrer" title="Contro! - Gruppi e team"> rispetto a - Gruppi e team</a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="RISPETTO A - Problemi e progetti"> RISPETTO A - Problemi e progetti</a>
                     </p>
-                    <p class="is-size-6">Scopri la differenza tra gruppi e team in Adobe Workfront per migliorare la struttura, la collaborazione e la gestione delle attività.</p>
+                    <p class="is-size-6">Scopri le differenze tra problemi e progetti in Workfront e quale approccio soddisfa le esigenze di reporting e di flusso di lavoro del tuo team.</p>
                 </div>
-                <a href="quick-takes/versus/groups-vs-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -199,6 +205,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
 ### Approfondimenti esperti
 
@@ -208,19 +215,19 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
 
 <!-- CARDS 
 
-* expert-insights/text-mode.md
-* expert-insights/sla-reporting.md
-* expert-insights/evolution-of-an-instance.md
+* expert-insights/content-supply-chain.md
+* expert-insights/fusion.md
+* expert-insights/centers-of-excellence.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master Text Mode with Katherine Lanning">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/text-mode.md" title="Master Text Mode con Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1776187710857" alt="Master Text Mode con Katherine Lanning"
+                    <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,22 +235,22 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" title="Master Text Mode con Katherine Lanning">Modalità testo principale con Katherine Lanning</a>
+                        <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" title="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol">Approfondimenti esperti - Contenuto Supply chain con Corre Kombol</a>
                     </p>
-                    <p class="is-size-6">Scopri la potenza della modalità testo in Workfront con le intuizioni di Katherine Lanning.</p>
+                    <p class="is-size-6">Scopri le strategie degli esperti di Corre Kombol per ottimizzare i contenuti supply chain con le soluzioni Adobe. Aumentare l'efficienza, la collaborazione e i risultati.</p>
                 </div>
-                <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Fusion with Ewan Hruska">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/sla-reporting.md" title="SLA in Workfront con Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="SLA in Workfront con Madalyn Destafney"
+                    <a href="expert-insights/fusion.md" title="Expert Insights - Fusione con Ewan Hruska" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Expert Insights - Fusione con Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,22 +258,22 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="SLA in Workfront con Madalyn Destafney">Generazione rapporti SLA in Workfront con Madalyn Destafney</a>
+                        <a href="expert-insights/fusion.md" target="_blank" rel="referrer" title="Expert Insights - Fusione con Ewan Hruska">Approfondimenti esperti - Fusione con Ewan Hruska</a>
                     </p>
-                    <p class="is-size-6">Scopri come implementare e misurare gli accordi sui livelli di servizio (SLA) in Adobe Workfront con i suggerimenti degli esperti di Madalyn Destafney, incluse indicazioni dettagliate, esempi di campi calcolati e best practice per i moduli personalizzati.</p>
+                    <p class="is-size-6">Scopri le best practice per Fusion di Ewan Hruska. Scopri come documentare, ottimizzare e scalare i flussi di lavoro con Adobe Workfront Fusion per ottimizzarne l’efficienza.</p>
                 </div>
-                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/fusion.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights with Jen Desmond">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Governance & Centers of Excellence with Danielle Johnston">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/evolution-of-an-instance.md" title="Approfondimenti esperti con Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483119/?captions=ita&format=jpeg&nocache=1776187710852" alt="Approfondimenti esperti con Jen Desmond"
+                    <a href="expert-insights/centers-of-excellence.md" title="Approfondimenti esperti - Governance e centri di eccellenza con Danielle Johnston" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Approfondimenti esperti - Governance e centri di eccellenza con Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,11 +281,11 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" title="Approfondimenti esperti con Jen Desmond">Approfondimenti esperti con Jen Desmond</a>
+                        <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" title="Approfondimenti esperti - Governance e centri di eccellenza con Danielle Johnston">Approfondimenti esperti - Governance e centri di eccellenza con Danielle Johnston</a>
                     </p>
-                    <p class="is-size-6">Jen Desmond parla dell’evoluzione di un’istanza e condivide informazioni sulla gestione dei cambiamenti e sul coinvolgimento degli utenti.</p>
+                    <p class="is-size-6">Scopri le strategie di Danielle Johnston sull’utilizzo di Workfront per creare governance e centri di eccellenza che guidino l’adozione e il cambiamento positivo.</p>
                 </div>
-                <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
                 </a>
             </div>
@@ -286,4 +293,5 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
