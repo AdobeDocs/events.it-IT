@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
+source-git-commit: c8c1cfef7a03b025037b5b061452f4cb2b25f2f0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 1%
       + [Suggerimenti su governance, esecuzione e adozione](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Nozioni di base sull’amministrazione dei gruppi](workshop-rewind/workflow/group-admins.md)
       + [Lezioni dagli amministratori di Workfront](workshop-rewind/workflow/lessons-learned-admins.md)
+      + [Padroneggiare le Regole aziendali](workshop-rewind/workflow/business-rules.md)
       + [Masterizzazione delle notifiche e-mail](workshop-rewind/workflow/email-notifications.md)
       + [Master delle istruzioni EXISTS](workshop-rewind/workflow/master-exists-statements.md)
       + [Massimizzare il valore di Workfront](workshop-rewind/workflow/value-realization.md)
