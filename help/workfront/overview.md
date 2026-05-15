@@ -57,7 +57,7 @@ Il mese di maggio segna l&#39;inizio della stagione delle lauree, un momento per
 
 Vuoi saperne di più? Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi on-demand curata da Dell. Utilizza il menu di navigazione a sinistra per sfogliare gli argomenti in Riavvolgimento officina, in cui le sessioni sono raggruppate per Fusion, Planning e Workflow per aiutarti a trovare rapidamente contenuti personalizzati per le tue esigenze.
 
-E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
+E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- 
 CARDS 

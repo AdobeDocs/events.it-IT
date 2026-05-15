@@ -302,7 +302,7 @@ Vuoi sapere quando saranno i prossimi AEM GEM?  Registrati con [Adobe AEM User G
 
 ## Continua la discussione
 
-Nella [community Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) puoi connetterti con altri sviluppatori e mantenere attive le discussioni su AEM.  Puoi creare una rete con colleghi e dipendenti Adobe per ricevere assistenza e best practice, dall’implementazione all’espansione dell’utilizzo dei prodotti.  Trova risposte rapide alle tue domande e fornisci ad Adobe le tue idee di prodotto e il tuo feedback prezioso.
+Nella [community Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it) puoi connetterti con altri sviluppatori e mantenere attive le discussioni su AEM.  Puoi creare una rete con colleghi e dipendenti Adobe per ricevere assistenza e best practice, dall’implementazione all’espansione dell’utilizzo dei prodotti.  Trova risposte rapide alle tue domande e fornisci ad Adobe le tue idee di prodotto e il tuo feedback prezioso.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -332,7 +332,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/it/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -351,7 +351,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=it) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
