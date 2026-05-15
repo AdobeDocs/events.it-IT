@@ -55,7 +55,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Keynote di apertura Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Keynote di apertura Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471200/?captions=ita&format=jpeg&nocache=1757465008519" alt="Keynote di apertura Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -193,7 +193,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion: flussi di lavoro di analisi scalabili per i team basati su Insight" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="Data in Motion: flussi di lavoro di analisi scalabili per i team basati su Insight"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471237/?captions=ita&format=jpeg&nocache=1757465008536" alt="Data in Motion: flussi di lavoro di analisi scalabili per i team basati su Insight"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Funzionalità di Workspace che dovresti utilizzare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Funzionalità di Workspace che dovresti utilizzare"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471259/?captions=ita&format=jpeg&nocache=1757465008539" alt="Funzionalità di Workspace che dovresti utilizzare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +281,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Keynote di apertura Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Keynote di apertura Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471132/?captions=ita&format=jpeg&nocache=1757465009661" alt="Keynote di apertura Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,7 +304,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Cucina con CJA - Modern Takes on Classic AA Ricette" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="Cucina con CJA - Modern Takes on Classic AA Ricette"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471248/?captions=ita&format=jpeg&nocache=1757465009634" alt="Cucina con CJA - Modern Takes on Classic AA Ricette"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -350,7 +350,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Guida al successo di CX con l’area di lavoro di Percorso di Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Guida al successo di CX con l’area di lavoro di Percorso di Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471222/?captions=ita&format=jpeg&nocache=1757465009648" alt="Guida al successo di CX con l’area di lavoro di Percorso di Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Keynote di apertura Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Keynote di apertura Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471404/?captions=ita&format=jpeg&nocache=1757465010566" alt="Keynote di apertura Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +438,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM Masterclass: flussi di lavoro per risorse, autorizzazioni e integrazione" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="AEM Masterclass: flussi di lavoro per risorse, autorizzazioni e integrazione"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471460/?captions=ita&format=jpeg&nocache=1757465010597" alt="AEM Masterclass: flussi di lavoro per risorse, autorizzazioni e integrazione"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -549,7 +549,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471363/?captions=ita&format=jpeg&nocache=1757465011389" alt="Keynote su Skill Exchange: il futuro della creazione di esperienze con l’intelligenza artificiale, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -683,7 +683,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Apertura di una nota chiave" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="Apertura di una nota chiave"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471483/?captions=ita&format=jpeg&nocache=1757465012333" alt="Apertura di una nota chiave"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -867,7 +867,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparare la vostra organizzazione Workfront per un centro di eccellenza" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Preparare la vostra organizzazione Workfront per un centro di eccellenza"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471592/?captions=ita&format=jpeg&nocache=1757465013254" alt="Preparare la vostra organizzazione Workfront per un centro di eccellenza"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -913,7 +913,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Creazione automatizzata degli account utente di Workfront con Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="Creazione automatizzata degli account utente di Workfront con Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471579/?captions=ita&format=jpeg&nocache=1757465013265" alt="Creazione automatizzata degli account utente di Workfront con Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -936,7 +936,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Guida introduttiva alla revisione e alle approvazioni" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757465013304" alt="Guida introduttiva alla revisione e alle approvazioni"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471568/?captions=ita&format=jpeg&nocache=1757465013304" alt="Guida introduttiva alla revisione e alle approvazioni"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -982,7 +982,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473966/?captions=ita&format=jpeg&nocache=1757465013296" alt="Massimizzare la licenza Workfront - Suggerimenti pro per la gestione degli utenti e le licenze"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
