@@ -6,19 +6,19 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Raccolta di registrazioni dagli eventi live in streaming di Adobe.
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.it-IT
+git-repo: https://github.com/AdobeDocs/events.en
 index: true
 auto-video-transcripts: true
-source-git-commit: 433f059df7163639c8c365b6c569b21e151529ea
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 85%
+source-wordcount: '79'
+ht-degree: 83%
 
 ---
 
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, esegui questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di archivio che vengono trasmessi ai file TOC.md della guida utente presente nell’archivio stesso. Se desideri modificare il contenuto del file metadata.md per qualsiasi Guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Consulta la sezione [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it) per visualizzare un elenco di valori validi per **soluzione**, **prodotto** e **tipo**.
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it).
