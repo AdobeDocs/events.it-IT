@@ -3,20 +3,21 @@ title: Marketo e Mochas
 description: Marketo On-Demand Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare al meglio Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
 # Marketo e Mochas
 
-Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in combinazione con la [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=it) e le [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=it) di Adobe Marketo, potrai comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
+Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in combinazione con la [documentazione](https://experienceleague.adobe.com/docs/marketo-engage.html) e le [esercitazioni](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) di Adobe Marketo, potrai comprendere meglio come utilizzare Adobe Marketo per supportare la tua attività.
 
 ## Registrazioni 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in
 
 ## Registrazioni 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -200,7 +202,7 @@ Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" title="Marketo &amp; Mochas - Nozioni di base sulla registrazione delle dashboard di attribuzione">Marketo e Mochas - Nozioni di base sulla registrazione delle dashboard di attribuzione</a>
                     </p>
-                    <p class="is-size-6">Adobe Unisciti a Sr. Business Advisor, Cynthia Chang e a Technical Advisor, James Leedom, per una sessione approfondita sulla masterizzazione delle dashboard di Marketo Attribution Model e Performance Insights (MPI), che tratta argomenti quali configurazione, tracciamento dei programmi, sincronizzazione dei dati e visualizzazione dell’impatto del marketing sui ricavi e sull’acquisizione dei clienti.</p>
+                    <p class="is-size-6">Unisciti a Sr. Business Advisor, Cynthia Chang e a Technical Advisor, James Leedom, per una sessione approfondita sulla masterizzazione delle dashboard di Marketo Attribution Model e Performance Insights (MPI), che tratta argomenti quali configurazione, tracciamento dei programmi, sincronizzazione dei dati e visualizzazione dell’impatto del marketing sui ricavi e sull’acquisizione dei clienti.</p>
                 </div>
                 <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ulteriori informazioni</span>
@@ -351,7 +353,8 @@ Benvenuti nelle registrazioni di Marketo e Mochas. Utilizzando queste risorse in
 
 ## Registrazioni 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

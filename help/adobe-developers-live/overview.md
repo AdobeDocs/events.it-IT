@@ -4,9 +4,9 @@ description: Raccolta di registrazioni di sessioni da Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '744'
 ht-degree: 5%
 
 ---
@@ -21,7 +21,8 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
 
 ## Adobe Developers Live 2025: creazione del Web agente
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -94,7 +95,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="IA nei progetti Adobe - Storie pratiche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477633/?captions=ita&format=jpeg&nocache=1765499677692" alt="IA nei progetti Adobe - Storie pratiche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="IA nei progetti Adobe - Storie pratiche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +118,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="Showdown di codifica AI - Il buono, cattivo e brutto" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477656/?captions=ita&format=jpeg&nocache=1765499677608" alt="Showdown di codifica AI - Il buono, cattivo e brutto"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="Showdown di codifica AI - Il buono, cattivo e brutto"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +141,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="Migliora l&apos;esperienza in loco" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477772/?captions=ita&format=jpeg&nocache=1765499677605" alt="Migliora l&apos;esperienza in loco"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="Migliora l&apos;esperienza in loco"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +164,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="Innovazioni nello sviluppo di Commerce basate sull’intelligenza artificiale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477689/?captions=ita&format=jpeg&nocache=1765499677619" alt="Innovazioni nello sviluppo di Commerce basate sull’intelligenza artificiale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="Innovazioni nello sviluppo di Commerce basate sull’intelligenza artificiale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="Individuazione di contenuti AI con Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477748/?captions=ita&format=jpeg&nocache=1765499677611" alt="Individuazione di contenuti AI con Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="Individuazione di contenuti AI con Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="IA per la gestione dei contenuti in Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477827/?captions=ita&format=jpeg&nocache=1765499677634" alt="IA per la gestione dei contenuti in Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="IA per la gestione dei contenuti in Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +279,7 @@ I team dei prodotti Adobe di Adobe Experience Cloud, Document Cloud e Creative C
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Esplora agenti Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477668/?captions=ita&format=jpeg&nocache=1765499677627" alt="Esplora agenti Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Esplora agenti Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -3,9 +3,9 @@ title: Attivazione con Workfront
 description: La serie Wake Up with Workfront presenta le best practice per la gestione dei progetti e dei flussi di lavoro per tutti i livelli di competenza, con strategie fruibili, dimostrazioni in tempo reale delle caratteristiche chiave di Workfront e una sessione conclusiva di domande e risposte.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 La serie Wake Up with Workfront evidenzia le best practice per la gestione dei progetti e dei flussi di lavoro per i clienti di tutti i settori di competenza, concentrandosi su strategie utilizzabili per migliorare la collaborazione e aumentare l’efficienza. Le sessioni includono dimostrazioni in tempo reale delle funzioni chiave di Workfront, per far sì che i partecipanti comprendano come applicare i concetti discussi nei propri ambienti. Ogni evento si conclude anche con una sessione live di domande e risposte.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

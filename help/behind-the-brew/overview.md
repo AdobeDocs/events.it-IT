@@ -3,9 +3,9 @@ title: Dietro la birra
 description: Behind the Brew, la serie correlata a Commerce & Coffee, è personalizzata per i clienti tecnicamente inclinati che desiderano conoscere le best practice, le integrazioni e le funzionalità avanzate del back-end per migliorare le loro esperienze di e-commerce.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 Dietro la birra c&#39;è la serie correlata a Commerce &amp; Coffee. È progettato per i clienti con un background tecnico che desiderano scoprire le best practice, le integrazioni e le funzionalità avanzate di back-end che possono personalizzare per migliorare le esperienze di e-commerce della propria azienda.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -54,8 +55,8 @@ Dietro la birra c&#39;è la serie correlata a Commerce &amp; Coffee. È progetta
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/app-builder.md" title="Generatore di app di Adobe Developer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1750103135976" alt="Generatore di app di Adobe Developer"
+                    <a href="2025/app-builder.md" title="Adobe Developer App Builder" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1750103135976" alt="Adobe Developer App Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +64,7 @@ Dietro la birra c&#39;è la serie correlata a Commerce &amp; Coffee. È progetta
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="Generatore di app di Adobe Developer">App builder di Adobe Developer</a>
+                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="Adobe Developer App Builder">App builder di Adobe Developer</a>
                     </p>
                     <p class="is-size-6">Integrare Adobe Commerce con qualsiasi applicazione eCommerce utilizzando la guida degli esperti App Builder e la dimostrazione live</p>
                 </div>

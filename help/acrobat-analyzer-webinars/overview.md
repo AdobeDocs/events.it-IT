@@ -1,10 +1,11 @@
 ---
 title: Webinar su Acrobat Analyzer
 description: Esplora i webinar di Adobe Acrobat Analyzer per scoprire come Generative AI estrae informazioni strutturate e verificabili dai documenti per automatizzare i flussi di lavoro, ridurre i rischi e accelerare il processo decisionale aziendale su larga scala.
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 Scopri come Adobe Acrobat Analyzer utilizza l’intelligenza artificiale generativa per estrarre informazioni strutturate e verificabili da grandi volumi di documenti. Scopri come automatizzare i flussi di lavoro, ridurre i rischi e consentire processi decisionali più rapidi e intelligenti su larga scala. Sfoglia i prossimi webinar per scoprire come trasformare le funzionalità di Document Intelligence all’interno della tua organizzazione.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ Scopri come Adobe Acrobat Analyzer utilizza l’intelligenza artificiale generat
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-

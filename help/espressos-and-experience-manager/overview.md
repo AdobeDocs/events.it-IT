@@ -3,9 +3,9 @@ title: Espressos e Experience Manager
 description: La serie Espressos & Experience Manager, con la partecipazione di esperti Adobe, offre ai clienti AEM (Sites & Assets), a tutti i livelli di competenza, informazioni approfondite su casi d’uso comuni, best practice, dimostrazioni in tempo reale e si conclude con una sessione di domande e risposte.
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 La serie Espressos &amp; Experience Manager include esperti Adobe e accoglie con favore i clienti AEM (Sites &amp; Assets) esistenti di tutti i livelli di competenza. La serie si concentra su un caso di utilizzo comune del cliente e condivide le best practice che riflettono l’argomento dell’evento. La presentazione è seguita da una dimostrazione live o da una presentazione che mostra esempi di come intervenire secondo le best practice. Ogni evento si conclude con gli esperti Adobe in una sessione live di domande e risposte.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

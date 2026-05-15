@@ -3,7 +3,7 @@ title: Goccia dati
 description: Unisciti agli esperti Adobe della serie Data Drip per esplorare le ultime funzionalità e best practice di Adobe Analytics e Target, con dimostrazioni live che garantiscono ai clienti di massimizzare il potenziale del prodotto e rimanere competitivi.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 La serie Data Drip include esperti Adobe e accoglie i clienti Adobe Analytics e Target esistenti di tutti i livelli di competenza. La serie si concentra su alcune delle funzioni e best practice più recenti che riflettono l’argomento dell’evento. La presentazione è seguita da una dimostrazione in diretta o da una presentazione che mostra esempi di come intervenire sulle best practice per l&#39;utilizzo delle funzioni all&#39;interno del prodotto. I clienti hanno la garanzia di partire con una migliore comprensione di come rimanere competitivi e raggiungere il successo, il tutto massimizzando ciò che il prodotto ha da offrire.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

@@ -3,7 +3,7 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 1%
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 Questa serie di video offre una panoramica chiara e concisa di ogni versione trimestrale di Adobe Workfront. Che tu sia un amministratore di sistema, un utente esperto o semplicemente curioso delle novità, queste sessioni sono progettate per aiutarti a rimanere informato e sicuro sugli ultimi aggiornamenti. In collaborazione con il team di gestione del prodotto, questi eventi mettono in evidenza le funzionalità chiave, i miglioramenti funzionali e i suggerimenti per comprendere rapidamente cosa sta cambiando e come tali modifiche possono apportare benefici alla tua organizzazione.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -56,9 +57,10 @@ Il mese di maggio segna l&#39;inizio della stagione delle lauree, un momento per
 
 Vuoi saperne di più? Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi on-demand curata da Dell. Utilizza il menu di navigazione a sinistra per sfogliare gli argomenti in Riavvolgimento officina, in cui le sessioni sono raggruppate per Fusion, Planning e Workflow per aiutarti a trovare rapidamente contenuti personalizzati per le tue esigenze.
 
-E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
+E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -149,7 +151,8 @@ Il Contro! I video adottano un approccio affiancato, suddividendo le funzioni di
 
 Che tu sia un amministratore di Workfront, un project manager o un utente di tutti i giorni, questa sezione offre indicazioni chiare e concise che ti aiuteranno a prendere decisioni più intelligenti, ottimizzare la configurazione e ottenere il massimo da Workfront, in tempi rapidi.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -162,7 +165,7 @@ Che tu sia un amministratore di Workfront, un project manager o un utente di tut
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470150/?captions=ita&format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +216,8 @@ La serie Workfront Expert Insights è la risorsa ideale per sbloccare strategie 
 
 Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratiche progettate per aiutare gli utenti di Workfront a tutti i livelli a ottimizzare la configurazione, scalare le operazioni e ottenere più valore dalla piattaforma. Sia che si tratti di risolvere una sfida specifica o di accendere idee per l&#39;innovazione, Workfront Expert Insights offre uno sguardo dietro le quinte su come gli esperti la portano a termine.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md
@@ -227,7 +231,7 @@ Queste sessioni presentano soluzioni reali, esempi di clienti e soluzioni pratic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470002/?captions=ita&format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

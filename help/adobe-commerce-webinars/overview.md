@@ -3,9 +3,9 @@ title: Webinar su Adobe Commerce
 description: I webinar su Adobe Commerce sono una cadenza mensile di workshop per i clienti Adobe Commerce che tratta un’ampia gamma di argomenti, dalle best practice alla roadmap dei prodotti e alle tendenze di settore.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '764'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ I webinar su Adobe Commerce sono una cadenza mensile di workshop per i clienti A
 
 ## Eventi 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -162,7 +163,7 @@ I webinar su Adobe Commerce sono una cadenza mensile di workshop per i clienti A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/visionary-thinking.md" target="_blank" rel="referrer" title="Creative Edge: il pensiero visionario sta trasformando Commerce">Creative Edge - Il pensiero visionario sta trasformando Commerce</a>
                     </p>
-                    <p class="is-size-6">Questo webinar esplora l’integrazione di creatività e commerce, mostrando come gli strumenti e le tecnologie Adobe possano aiutare a gestire le risorse, scalare la creazione di contenuti e semplificare la catena di fornitura dei contenuti. Descrive l’importanza di unire creatività e commercio e tratta argomenti come le esperienze personalizzate, la gestione delle risorse e l’utilizzo di strumenti come Adobe Workfront, Adobe Experience Manager e Adobe Stock per semplificare il processo di creazione dei contenuti.</p>
+                    <p class="is-size-6">Questo webinar esplora l’integrazione di creatività e commerce, mostrando come gli strumenti e le tecnologie di Adobe possano aiutare a gestire le risorse, scalare la creazione di contenuti e semplificare il supply chain dei contenuti. Descrive l’importanza di unire creatività e commercio e tratta argomenti come le esperienze personalizzate, la gestione delle risorse e l’utilizzo di strumenti come Adobe Workfront, Adobe Experience Manager e Adobe Stock per semplificare il processo di creazione dei contenuti.</p>
                 </div>
                 <a href="2024/visionary-thinking.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>

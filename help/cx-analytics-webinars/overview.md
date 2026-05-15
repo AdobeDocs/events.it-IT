@@ -1,18 +1,20 @@
 ---
-title: Webinar CX Analytics on-demand
-description: Esplora i video on-demand su CX Analytics con versioni di prodotto, aggiornamenti delle funzioni, integrazioni delle soluzioni Adobe, webinar di onboarding e storie di successo reali di clienti e partner per acquisire esperienza e restare al corrente delle ultime innovazioni CX Analytics.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+title: Webinar on-demand su CX Analytics
+description: Esplora i video on-demand su CX Analytics con versioni dei prodotti, aggiornamenti delle funzioni, integrazioni delle soluzioni Adobe, webinar di onboarding e storie di successo reali per clienti e partner, per acquisire competenze e restare al corrente delle ultime innovazioni di CX Analytics.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Webinar CX Analytics on-demand {#cx-analytics-ondemand-webinars}
+# Webinar on-demand su CX Analytics {#cx-analytics-ondemand-webinars}
 
-Esplora una libreria curata di video CX Analytics, con versioni di prodotti e funzionalità, storie migliori da raccogliere tra le soluzioni Adobe, webinar introduttivi e storie di successo di partner e clienti. Guarda on-demand per affinare la tua esperienza di analisi e restare al corrente delle ultime innovazioni del portfolio CX Analytics, con nuovi contenuti aggiunti regolarmente.
+Esplora una libreria di video curati di CX Analytics, tra cui versioni di prodotti e funzionalità, storie su come unire meglio le diverse soluzioni Adobe, webinar introduttivi e storie di successo di partner e clienti. Guarda on demand per affinare la tua esperienza di analisi e rimanere al corrente delle ultime innovazioni del portafoglio CX Analytics, con nuovi contenuti aggiunti regolarmente.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Esplora una libreria curata di video CX Analytics, con versioni di prodotti e fu
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
