@@ -24,7 +24,7 @@ Guarda la registrazione on-demand per imparare dalla sua esperienza nel mondo re
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-Cerchi altre risorse condivise durante l&#39;evento? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661) e assicurati di inserire nei segnalibri i [corsi di crescita in Workfront: lezioni di amministrazione reali](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons).
+Cerchi altre risorse condivise durante l&#39;evento? Consulta il [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?profile.language=it&fid=23&tid=250661) e assicurati di inserire nei segnalibri i [corsi di crescita in Workfront: lezioni di amministrazione reali](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons).
 
-I nuovi eventi vengono aggiunti ogni mese, quindi controlla la [pagina Eventi Experience League](https://experienceleague.adobe.com/en/events?lang=en) per le ultime sessioni.
+I nuovi eventi vengono aggiunti ogni mese, quindi controlla la [pagina Eventi Experience League](https://experienceleague.adobe.com/it/events?lang=en) per le ultime sessioni.
 
