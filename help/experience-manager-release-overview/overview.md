@@ -4,10 +4,10 @@ description: Veloce panoramica delle funzioni più recenti di Adobe Experience M
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 8%
+source-wordcount: '529'
+ht-degree: 7%
 
 ---
 
@@ -19,9 +19,57 @@ Veloce panoramica delle funzioni più recenti di Adobe Experience Manager as a C
 
 <!-- 
 CARDS
+
+{cta = Watch}
+
+* 2026/2026-4-0.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2026.04.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/2026-4-0.md" title="Video introduttivo sulla versione 2026.04.0 di AEM" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491490/?format=jpeg&nocache=1779813527282" alt="Video introduttivo sulla versione 2026.04.0 di AEM"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        Video introduttivo sulla versione di <a href="2026/2026-4-0.md" target="_blank" rel="referrer" title="Video introduttivo sulla versione 2026.04.0 di AEM">2026.04.0 AEM</a>
+                    </p>
+                    <p class="is-size-6">Scopri gli aggiornamenti di AEM 2026.04.0: traduzione AI, inoltro di registro, strumenti di intelligenza artificiale IDE e agenti di onboarding. Semplificazione dei flussi di lavoro e miglioramento dell'efficienza</p>
+                </div>
+                <a href="2026/2026-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Aggiornamenti precedenti
+
+<!-- 
+CARDS
+
 {cta = Watch}
 
 * 2026/2026-3-0.md
+* 2026/2026-2-0.md
+* 2026/2026-1-0.md
+* 2025/2025-8-0.md
+* 2025/2025-6-0.md
+* 2025/2025-5-0.md
+* 2025/2025-4-0.md
+* 2025/2025-3-0.md
+* 2025/2025-2-0.md
+* 2025/2025-1-0.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -31,7 +79,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="Video introduttivo sulla versione 2026.03.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483068/?captions=ita&format=jpeg&nocache=1775063376142" alt="Video introduttivo sulla versione 2026.03.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1779813527680" alt="Video introduttivo sulla versione 2026.03.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,34 +97,12 @@ CARDS
             </div>
         </div>
     </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Aggiornamenti precedenti
-
-<!-- 
-CARDS
-{cta = Watch}
-
-* 2026/2026-2-0.md
-* 2026/2026-1-0.md
-* 2025/2025-8-0.md
-* 2025/2025-6-0.md
-* 2025/2025-5-0.md
-* 2025/2025-4-0.md
-* 2025/2025-3-0.md
-* 2025/2025-2-0.md
-* 2025/2025-1-0.md
-
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2026.02.0 AEM Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-2-0.md" title="Video introduttivo sulla versione 2026.02.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480407/?captions=ita&format=jpeg&nocache=1775063376564" alt="Video introduttivo sulla versione 2026.02.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480399/?format=jpeg&nocache=1779813527692" alt="Video introduttivo sulla versione 2026.02.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +125,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-1-0.md" title="Video introduttivo sulla versione 2026.01.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479797/?captions=ita&format=jpeg&nocache=1775063376586" alt="Video introduttivo sulla versione 2026.01.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479789/?format=jpeg&nocache=1779813527711" alt="Video introduttivo sulla versione 2026.01.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +148,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-8-0.md" title="Video introduttivo sulla versione 2025.08.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479154/?captions=ita&format=jpeg&nocache=1775063376595" alt="Video introduttivo sulla versione 2025.08.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479145/?format=jpeg&nocache=1779813527738" alt="Video introduttivo sulla versione 2025.08.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +171,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="Video introduttivo sulla versione 2025.06.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470886/?captions=ita&format=jpeg&nocache=1775063376577" alt="Video introduttivo sulla versione 2025.06.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1779813527729" alt="Video introduttivo sulla versione 2025.06.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +194,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Video introduttivo sulla versione 2025.5.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464358/?captions=ita&format=jpeg&nocache=1775063376568" alt="Video introduttivo sulla versione 2025.5.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1779813527720" alt="Video introduttivo sulla versione 2025.5.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +217,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Video introduttivo sulla versione 2025.04.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464010/?captions=ita&format=jpeg&nocache=1775063376612" alt="Video introduttivo sulla versione 2025.04.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1779813527672" alt="Video introduttivo sulla versione 2025.04.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +240,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Video introduttivo sulla versione 2025.3.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463873/?captions=ita&format=jpeg&nocache=1775063376603" alt="Video introduttivo sulla versione 2025.3.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1779813527702" alt="Video introduttivo sulla versione 2025.3.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +263,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="Video introduttivo sulla versione 2025.2.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1775063376626" alt="Video introduttivo sulla versione 2025.2.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1779813527752" alt="Video introduttivo sulla versione 2025.2.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +286,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Video introduttivo sulla versione 2025.01.0 di AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456082/?captions=ita&format=jpeg&nocache=1775063376620" alt="Video introduttivo sulla versione 2025.01.0 di AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1779813527745" alt="Video introduttivo sulla versione 2025.01.0 di AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
