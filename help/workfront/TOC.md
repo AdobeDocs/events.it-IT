@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 1%
       + [Demo di Adobe Workfront Planning](workshop-rewind/planning/planning-demo.md)
       + [Creazione dell’implementazione di base](workshop-rewind/planning/base-implementation.md)
       + [Collegamento dei dashboard di Planning, Workflow e Canvas](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Tipi di record globali di Workfront Planning](workshop-rewind/planning/global-record-types.md)
       + [Utilizzo di Planning da parte di Syracuse](workshop-rewind/planning/syracuse-planning.md)
       + [Casi d&#39;uso di SNHU per Creative](workshop-rewind/planning/planning-reimagined.md)
       + [Successo a livello di team con Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)

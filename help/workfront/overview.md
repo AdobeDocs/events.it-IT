@@ -3,10 +3,10 @@ title: Workshop on-demand su Adobe Workfront
 description: Workfront Events è una libreria video in cui esperti e colleghi hanno condiviso i loro pensieri e idee su come utilizzare Workfront per migliorare il lavoro svolto per le loro organizzazioni.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## Riavvolgimento workshop
 
-Il mese di maggio segna l&#39;inizio della stagione delle lauree, un momento per nuove prospettive e per imparare da coloro che ci sono stati prima. Per festeggiare, mettiamo in evidenza una selezione di sessioni con clienti Adobe Workfront esperti che condividono consigli pratici, esperienze reali e informazioni utili da applicare immediatamente. I video di questo mese includono un mix di contenuti nuovi e sessioni di spicco del passato che rimangono altrettanto attuali.
+Giugno è arrivato, così come l&#39;ultima edizione di [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Questa newsletter è il punto di riferimento per la diffusione di notizie, aggiornamenti, eventi e altro ancora nel mondo Workfront.
 
 Vuoi saperne di più? Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi on-demand curata da Dell. Utilizza il menu di navigazione a sinistra per sfogliare gli argomenti in Riavvolgimento officina, in cui le sessioni sono raggruppate per Fusion, Planning e Workflow per aiutarti a trovare rapidamente contenuti personalizzati per le tue esigenze.
 
-E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
+E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470150/?captions=ita&format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="RISPETTO A - Problemi e progetti"> RISPETTO A - Problemi e progetti</a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="RISPETTO A - Problemi e progetti">VS. - Problemi rispetto a progetti</a>
                     </p>
                     <p class="is-size-6">Scopri le differenze tra problemi e progetti in Workfront e quale approccio soddisfa le esigenze di reporting e di flusso di lavoro del tuo team.</p>
                 </div>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470002/?captions=ita&format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
