@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Primi 3 approcci alle ore ufficio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470150/?captions=ita&format=jpeg&nocache=1778106659577" alt="Primi 3 approcci alle ore ufficio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470002/?captions=ita&format=jpeg&nocache=1778106659855" alt="Approfondimenti esperti - Supply chain di contenuti con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
