@@ -53,11 +53,11 @@ CARDS
 
 ## Riavvolgimento workshop
 
-Giugno è arrivato, così come l&#39;ultima edizione di [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Questa newsletter è il punto di riferimento per la diffusione di notizie, aggiornamenti, eventi e altro ancora nel mondo Workfront.
+Giugno è arrivato, così come l&#39;ultima edizione di [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?profile.language=it&tid=250880)! Questa newsletter è il punto di riferimento per la diffusione di notizie, aggiornamenti, eventi e altro ancora nel mondo Workfront.
 
 Vuoi saperne di più? Esplora le ultime novità della community di Adobe Workfront tramite la selezione di eventi on-demand curata da Dell. Utilizza il menu di navigazione a sinistra per sfogliare gli argomenti in Riavvolgimento officina, in cui le sessioni sono raggruppate per Fusion, Planning e Workflow per aiutarti a trovare rapidamente contenuti personalizzati per le tue esigenze.
 
-E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) per scoprire le prossime novità.
+E assicurati di partecipare ai prossimi eventi live per porre domande, condividere informazioni e collaborare con altri colleghi. Visita regolarmente la [pagina degli eventi Workfront di Experience League](https://experienceleague.adobe.com/it/events?filters=Workfront) per scoprire le prossime novità.
 
 <!-- 
 CARDS 
