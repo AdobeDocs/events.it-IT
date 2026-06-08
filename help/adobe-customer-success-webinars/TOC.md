@@ -1,10 +1,10 @@
 ---
 user-guide-title: Webinar Customer Success di Adobe
 breadcrumb-title: Webinar Customer Success di Adobe
-user-guide-description: Webinar guidati dal successo del cliente di Adobe, progettati per aiutarti a ottimizzare il tuo investimento in Adobe Experience Cloud. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+user-guide-description: Webinar di successo su Adobe progettati per consentirti di ottimizzare il tuo investimento in Experience Cloud di Adobe. Ottieni informazioni preziose per massimizzare il valore e aumentare l’adozione delle soluzioni Adobe.
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [Creazione di file BRD-SDR per Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
       + [Sblocco dell’identità](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [Trasformare AEM con agenti e assistenti AI](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
       + [Massimizzare le catene di fornitura dei contenuti](2026/value-with-content-supply-chain.md)
       + [Modelli di consegna moderni per AEM Sites](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [Spostamento all&#39;intelligenza incorporato](2026/embedded-intelligence.md)
    + Generale {#general2026}
+      + [Libera la potenza dell’intelligenza artificiale agente](2026/unlock-the-power-of-agentic-ai.md)
       + [Strategie basate sull’intelligenza artificiale per il successo delle vacanze](2026/2025-holiday-results.md)
       + [Strategie di gestione delle modifiche al Supply chain dei contenuti](2026/csc-change-management.md)
       + [Sponsorizzazione dei dirigenti di Content Supply chain](2026/csc-executive-sponsorship.md)
