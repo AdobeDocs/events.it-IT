@@ -23,6 +23,6 @@ Inoltre, sono stati introdotti nuovi miglioramenti alla localizzazione che conse
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492142/?learn=on&enablevpops)
 
-Vuoi saperne di più? Iscriviti al [post Experience League Advanced Enterprise Operations Event Series](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546) per ricevere automaticamente le notifiche man mano che vengono aggiunte nuove sessioni, collegamenti di registrazione, registrazioni e risorse.
+Vuoi saperne di più? Iscriviti al [post Experience League Advanced Enterprise Operations Event Series](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=it) per ricevere automaticamente le notifiche man mano che vengono aggiunte nuove sessioni, collegamenti di registrazione, registrazioni e risorse.
 
-I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/en/events?lang=en) per le ultime sessioni.
+I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events?lang=en) per le ultime sessioni.
