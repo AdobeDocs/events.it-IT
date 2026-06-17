@@ -23,6 +23,6 @@ Partendo da un processo altamente manuale, in cui i project manager eseguivano o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492389/?learn=on&enablevpops)
 
-Vuoi saperne di più? Continua la conversazione sul [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162).
+Vuoi saperne di più? Continua la conversazione sul [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162?profile.language=it).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
