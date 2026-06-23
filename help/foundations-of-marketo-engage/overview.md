@@ -2,10 +2,10 @@
 title: Nozioni di base di Marketo Engage
 description: Unisciti al gruppo di utenti Marketo fondamentale per rafforzare la fiducia e le competenze di base in Adobe Marketo Engage attraverso sessioni di supporto per principianti.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
+source-git-commit: 55e33b4dfce0403c0675b9a3ba3dde7e1c3e6b6b
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Session 2 - Deploy a Monthly Newsletter">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2026/monthly-newsletter.md" title="non definito" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1779897876356" alt="non definito"
+                    <a href="2026/monthly-newsletter.md" title="Gruppo utenti Marketo - Sessione 2 - Distribuire una newsletter mensile" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1782239870154" alt="Gruppo utenti Marketo - Sessione 2 - Distribuire una newsletter mensile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,9 +38,9 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="non definito">non definito</a>
+                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="Gruppo utenti Marketo - Sessione 2 - Distribuire una newsletter mensile">Gruppo utenti Marketo fondamentale - Sessione 2 - Distribuzione di una newsletter mensile</a>
                     </p>
-                    <p class="is-size-6">non definito</p>
+                    <p class="is-size-6">Scopri come creare, pianificare e misurare una newsletter mensile in Adobe Marketo Engage. Acquisisci affidabilità nella configurazione del programma e-mail, nella selezione del pubblico e nelle metriche.</p>
                 </div>
                 <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Guarda</span>
@@ -53,7 +53,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/fundamentals.md" title="Sessione 1 del 2026 - Nozioni di base di Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1779897876368" alt="Sessione 1 del 2026 - Nozioni di base di Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1782239870133" alt="Sessione 1 del 2026 - Nozioni di base di Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Potenziare le campagne con Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1779897876954" alt="Potenziare le campagne con Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1782239870748" alt="Potenziare le campagne con Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Creare la ricetta per lo sviluppo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1779897876943" alt="Creare la ricetta per lo sviluppo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1782239870761" alt="Creare la ricetta per lo sviluppo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/professional-exam-preparation.md" title="Gruppo utenti Marketo - Preparazione esame professionale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1779897876937" alt="Gruppo utenti Marketo - Preparazione esame professionale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1782239870733" alt="Gruppo utenti Marketo - Preparazione esame professionale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programmi, campagne e altro" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1779897876974" alt="Programmi, campagne e altro"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1782239870722" alt="Programmi, campagne e altro"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Il gruppo di utenti Fondamentale di Marketo è progettato appositamente per gli 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Punteggio più intelligente, non più difficile" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1779897876965" alt="Punteggio più intelligente, non più difficile"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1782239870773" alt="Punteggio più intelligente, non più difficile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
