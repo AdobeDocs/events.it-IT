@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 49%
+source-wordcount: '102'
+ht-degree: 51%
 
 ---
 
@@ -23,19 +23,6 @@ Experience League LIVE è un evento in live streaming prodotto dal team di Exper
 ## Prossimi eventi Experience League LIVE
 
 <table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
-      <img alt="Experience League LIVE 24 giugno" src="episodes/assets/webbanner-june-24-2026.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-24-26.md">
-        <strong>Come sfruttare Target MCP e altre nuove versioni principali in Adobe Target</strong>
-      </a>
-      <br/><em>con Daniel Wright, James Torio e Drew Burns</em>
-      <br/><em>24 giugno 2026</em>
-    </div>
-  </td>
-</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
       <img alt="Experience League LIVE 16 luglio" src="assets/WebBannerExlLive-July16-2026.png">
@@ -95,5 +82,5 @@ Experience League LIVE è un evento in live streaming prodotto dal team di Exper
 
 >[!TIP]
 >
->Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/it#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
+>Per ulteriori metodi di apprendimento, consulta i nostri [corsi](https://experienceleague.adobe.com/#dashboard/learning) gratuiti e le singole [esercitazioni](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=it).
 
