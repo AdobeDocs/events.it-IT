@@ -23,7 +23,7 @@ Unisciti a Nuria Munguia, Enterprise Workfront Platform Lead &amp; Product Owner
 
 In questa sessione, Nuria esaminerà esempi reali di come le piccole configurazioni intenzionali possano sbloccare la visibilità su risparmi di costi, incrementi di efficienza e rafforzare il ruolo dell’amministratore di sistema di Workfront. Che tu sia un nuovo utente di Workfront o un amministratore esperto, lascerai con idee pratiche per sostenere meglio il tuo lavoro, scoprire opportunità di crescita e diventare un partner più strategico all&#39;interno della tua organizzazione.
 
-Vuoi saperne di più? Continua la conversazione sul [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357).
+Vuoi saperne di più? Continua la conversazione sul [post della community Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?profile.language=it&tid=251357).
 
 I nuovi eventi vengono aggiunti ogni mese, quindi assicurati di controllare la [pagina Eventi di Experience League](https://experienceleague.adobe.com/it/events) per le ultime sessioni.
 
