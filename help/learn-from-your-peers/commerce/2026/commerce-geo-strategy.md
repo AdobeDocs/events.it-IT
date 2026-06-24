@@ -7,15 +7,13 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
-hidefromtoc: true
-hide: true
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
+source-git-commit: 059d7a6869a7b223ffa67dd878c6db5b35249a37
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Strategia Adobe Commerce GEO: ottimizzazione LLM nelle esperienze D2C
 
@@ -25,6 +23,8 @@ Attingendo a implementazioni reali con uno dei marchi di consumo più riconosciu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
+[*Diapositive sessione*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+
 ## Cosa imparerai
 
 * Comprendere le nozioni di base di GEO: scopri in che modo i contenuti strutturati e basati sulle finalità influiscono sulla reperibilità basata sull’intelligenza artificiale
@@ -33,5 +33,3 @@ Attingendo a implementazioni reali con uno dei marchi di consumo più riconosciu
 * Creare un framework GEO pratico: fornire alle parti interessate un percorso chiaro per attivare la strategia GEO e misurare l’impatto sui contenuti
 
 Che tu stia iniziando a considerare GEO o speri di ottimizzare le tue esperienze di e-commerce con funzionalità native per l’intelligenza artificiale, questa sessione ti fornirà un framework pratico per attivare i principi GEO, traducendosi in un impatto reale sul business.
-
-
