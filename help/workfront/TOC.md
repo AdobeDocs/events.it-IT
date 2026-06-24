@@ -3,9 +3,9 @@ user-guide-title: Eventi Workfront
 breadcrumb-title: Eventi Workfront
 user-guide-description: Eventi Workfront
 solution: Workfront
-source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
+source-git-commit: 218fd488296922bf242f13ede602ae50896fedab
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 1%
       + [10 suggerimenti di comunicazione](workshop-rewind/workflow/10-communication-tips.md)
       + [10 suggerimenti modalità testo](workshop-rewind/workflow/text-mode-tips.md)
       + [Altri 10 suggerimenti modalità testo](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [Tracciare il valore SysAdmin](workshop-rewind/workflow/system-admin-value.md)
       + [Trasforma la fiducia degli utenti in affidabilità](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Risoluzione dei problemi dei campi calcolati di Workfront](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
       + [Trasformazione dei blueprint in programmi di formazione](workshop-rewind/workflow/blueprints-to-planning.md)
