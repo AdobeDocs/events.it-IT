@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Raccolta di registrazioni da [!DNL Experience Makers Learn from your peers]
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 7%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 7%
       + [Comunicazione, requisiti e test in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 2026 {#2026}
+      + [Guida introduttiva ad AEM ed EDS](experience-manager/2026/ai-aem-eds.md)
       + [Scalabilità delle esperienze omnicanale con Dynamic Media](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [Metadati da maestria a maestria](experience-manager/2025/metadata-mayhem.md)
@@ -66,12 +67,12 @@ ht-degree: 7%
       + [Aumentare il recapito messaggi e-mail con Marketo Engage](marketo/2023/email-deliverability.md)
       + [Tracciare, analizzare e ottimizzare le campagne di marketing](marketo/2023/marketing-campaigns.md)
       + [Cracking del codice Personalization at Scale tramite  [!DNL Marketo Engage]](marketo/2023/personalization-at-scale.md)
-      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] &#x200B;](marketo/2023/templates-tokens-teamwork.md)
+      + [Come rendere scalabile il contenuto  [!DNL Adobe Marketo Engage] ](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2026 {#2026}
       + [Adozione sostenibile di Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Mayhem metadati](https://experienceleague.adobe.com/it/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Mayhem metadati](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Impatto sull’articolazione - Come misurare e condividere il valore di Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Semplificare la pianificazione delle risorse con l&#39;automazione](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
